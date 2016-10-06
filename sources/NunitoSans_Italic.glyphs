@@ -1,5 +1,5 @@
 {
-.appVersion = "923";
+.appVersion = "926";
 classes = (
 {
 automatic = 1;
@@ -19,7 +19,8 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = fsType;
-value = 0;
+value = (
+);
 },
 {
 name = "Use Typo Metrics";
@@ -29,7 +30,8 @@ value = 1;
 date = "2016-09-26 20:11:24 +0000";
 designer = "Vernon Adams";
 designerURL = "http://newtypography.co.uk";
-familyName = NunitoSans;
+disablesNiceNames = 1;
+familyName = "Nunito Sans";
 featurePrefixes = (
 {
 automatic = 1;
@@ -121,36 +123,36 @@ ascender = 705;
 capHeight = 705;
 customParameters = (
 {
-name = typoAscender;
-value = 976;
+name = winDescent;
+value = 281;
 },
 {
-name = typoDescender;
-value = 279;
+name = winAscent;
+value = 1092;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 976;
-},
-{
-name = winDescent;
+name = typoDescender;
 value = -279;
 },
 {
-name = underlineThickness;
-value = 0;
-},
-{
-name = underlinePosition;
-value = 0;
+name = typoAscender;
+value = 976;
 },
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = hheaDescender;
+value = -279;
+},
+{
+name = hheaAscender;
+value = 976;
 }
 );
 descender = -180;
@@ -181,44 +183,36 @@ ascender = 705;
 capHeight = 705;
 customParameters = (
 {
-name = typoAscender;
-value = 976;
+name = winDescent;
+value = 281;
 },
 {
-name = typoDescender;
-value = -279;
+name = winAscent;
+value = 1092;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
+name = typoDescender;
+value = -279;
+},
+{
+name = typoAscender;
 value = 976;
 },
 {
-name = winDescent;
-value = 279;
-},
-{
-name = underlineThickness;
+name = hheaLineGap;
 value = 0;
-},
-{
-name = underlinePosition;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 976;
 },
 {
 name = hheaDescender;
 value = -279;
 },
 {
-name = hheaLineGap;
-value = 0;
+name = hheaAscender;
+value = 976;
 }
 );
 descender = -180;
@@ -99012,15 +99006,48 @@ width = 300;
 );
 leftKerningGroup = circumflexcomb;
 rightKerningGroup = tildecomb;
+},
+{
+glyphname = CR;
+lastChange = "2016-10-06 16:53:21 +0000";
+layers = (
+{
+layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+width = 250;
+},
+{
+layerId = "E1B555A7-F4E1-459C-9C1A-AE952106EEF9";
+width = 280;
 }
 );
-disablesNiceNames = 1;
+unicode = 000D;
+},
+{
+glyphname = NULL;
+lastChange = "2016-10-06 16:53:21 +0000";
+layers = (
+{
+layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+width = 0;
+},
+{
+layerId = "E1B555A7-F4E1-459C-9C1A-AE952106EEF9";
+width = 0;
+}
+);
+unicode = 0000;
+}
+);
 instances = (
 {
 customParameters = (
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = weightClass;
+value = 275;
 }
 );
 interpolationWeight = 42;
@@ -99071,10 +99098,6 @@ customParameters = (
 {
 name = Filter;
 value = AddExtremes;
-},
-{
-name = weightClass;
-value = "500";
 }
 );
 interpolationWeight = 101;
@@ -99092,10 +99115,6 @@ customParameters = (
 {
 name = Filter;
 value = AddExtremes;
-},
-{
-name = weightClass;
-value = "600";
 }
 );
 interpolationWeight = 125;
@@ -99103,6 +99122,7 @@ instanceInterpolations = {
 "E1B555A7-F4E1-459C-9C1A-AE952106EEF9" = 0.696078;
 "9E718F8A-2CEA-4931-B05D-987794BD97DA" = 0.303922;
 };
+isBold = 1;
 isItalic = 1;
 linkStyle = Bold;
 name = "Bold Italic";
@@ -99113,10 +99133,6 @@ customParameters = (
 {
 name = Filter;
 value = AddExtremes;
-},
-{
-name = weightClass;
-value = "700";
 }
 );
 interpolationWeight = 151;
@@ -99134,10 +99150,6 @@ customParameters = (
 {
 name = Filter;
 value = AddExtremes;
-},
-{
-name = weightClass;
-value = "800";
 }
 );
 interpolationWeight = 178;
@@ -99291,6 +99303,10 @@ value = (
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = familyName;
+value = "NunitoSans Heavy";
 }
 );
 interpolationWeight = 208;
@@ -99300,8 +99316,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = Heavy;
-name = "Heavy Italic";
-weightClass = Heavy;
+name = Italic;
 }
 );
 kerning = {
