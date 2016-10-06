@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Nunito Font, Copyright (c) 2014, Vernon Adams (vern@newtypography.co.uk)";
+copyright = "Copyright 2014 The Nunito Project Authors (contact@sansoxygen.com)";
 customParameters = (
 {
 name = license;
@@ -27,9 +27,9 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2016-09-26 20:11:24 +0000";
+date = "2016-09-26 20:09:25 +0000";
 designer = "Vernon Adams";
-designerURL = "http://newtypography.co.uk";
+designerURL = "http://www.sansoxygen.com";
 disablesNiceNames = 1;
 familyName = "Nunito Sans";
 featurePrefixes = (
@@ -101486,8 +101486,8 @@ jdotless = 40;
 };
 };
 };
-manufacturer = newtypography;
-manufacturerURL = "http://newtypography.co.uk";
+manufacturer = "Vernon Adams";
+manufacturerURL = "http://www.sansoxygen.com";
 unitsPerEm = 1000;
 versionMajor = 2;
 versionMinor = 0;
