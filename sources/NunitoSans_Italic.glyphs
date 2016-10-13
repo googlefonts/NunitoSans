@@ -123,36 +123,44 @@ ascender = 705;
 capHeight = 705;
 customParameters = (
 {
-name = winDescent;
-value = 281;
+name = typoAscender;
+value = 1011;
 },
 {
-name = winAscent;
-value = 1092;
+name = typoDescender;
+value = -353;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = typoDescender;
-value = -279;
+name = winAscent;
+value = 1087;
 },
 {
-name = typoAscender;
-value = 976;
+name = winDescent;
+value = 275;
+},
+{
+name = hheaAscender;
+value = 1011;
+},
+{
+name = hheaDescender;
+value = -353;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = underlineThickness;
+value = 50;
 },
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = hheaDescender;
-value = -279;
-},
-{
-name = hheaAscender;
-value = 976;
 }
 );
 descender = -180;
@@ -183,36 +191,44 @@ ascender = 705;
 capHeight = 705;
 customParameters = (
 {
-name = winDescent;
-value = 281;
+name = typoAscender;
+value = 1011;
 },
 {
-name = winAscent;
-value = 1092;
+name = typoDescender;
+value = -353;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = typoDescender;
-value = -279;
+name = winAscent;
+value = 1087;
 },
 {
-name = typoAscender;
-value = 976;
+name = winDescent;
+value = 275;
+},
+{
+name = hheaAscender;
+value = 1011;
+},
+{
+name = hheaDescender;
+value = -353;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = underlineThickness;
+value = 50;
 },
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = hheaDescender;
-value = -279;
-},
-{
-name = hheaAscender;
-value = 976;
 }
 );
 descender = -180;
@@ -99306,7 +99322,7 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "NunitoSans Heavy";
+value = "Nunito Sans Heavy";
 }
 );
 interpolationWeight = 208;
