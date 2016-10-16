@@ -104,11 +104,6 @@ name = liga;
 automatic = 1;
 code = "sub a by a.ss01;\012sub aacute by aacute.ss01;\012sub abreve by abreve.ss01;\012sub abreveacute by abreveacute.ss01;\012sub abrevedotbelow by abrevedotbelow.ss01;\012sub abrevegrave by abrevegrave.ss01;\012sub abrevehookabove by abrevehookabove.ss01;\012sub abrevetilde by abrevetilde.ss01;\012sub acaron by acaron.ss01;\012sub acircumflex by acircumflex.ss01;\012sub acircumflexacute by acircumflexacute.ss01;\012sub acircumflexdotbelow by acircumflexdotbelow.ss01;\012sub acircumflexgrave by acircumflexgrave.ss01;\012sub acircumflexhookabove by acircumflexhookabove.ss01;\012sub acircumflextilde by acircumflextilde.ss01;\012sub adblgrave by adblgrave.ss01;\012sub adieresis by adieresis.ss01;\012sub adotaccent by adotaccent.ss01;\012sub adotbelow by adotbelow.ss01;\012sub agrave by agrave.ss01;\012sub ahookabove by ahookabove.ss01;\012sub ainvertedbreve by ainvertedbreve.ss01;\012sub amacron by amacron.ss01;\012sub aogonek by aogonek.ss01;\012sub aring by aring.ss01;\012sub aringacute by aringacute.ss01;\012sub atilde by atilde.ss01;\012sub one by one.ss01;\012sub one.tosf by one.tosf.ss01;\012";
 name = salt;
-},
-{
-automatic = 1;
-code = "sub a by a.ss01;\012sub aacute by aacute.ss01;\012sub abreve by abreve.ss01;\012sub abreveacute by abreveacute.ss01;\012sub abrevedotbelow by abrevedotbelow.ss01;\012sub abrevegrave by abrevegrave.ss01;\012sub abrevehookabove by abrevehookabove.ss01;\012sub abrevetilde by abrevetilde.ss01;\012sub acaron by acaron.ss01;\012sub acircumflex by acircumflex.ss01;\012sub acircumflexacute by acircumflexacute.ss01;\012sub acircumflexdotbelow by acircumflexdotbelow.ss01;\012sub acircumflexgrave by acircumflexgrave.ss01;\012sub acircumflexhookabove by acircumflexhookabove.ss01;\012sub acircumflextilde by acircumflextilde.ss01;\012sub adblgrave by adblgrave.ss01;\012sub adieresis by adieresis.ss01;\012sub adotaccent by adotaccent.ss01;\012sub adotbelow by adotbelow.ss01;\012sub agrave by agrave.ss01;\012sub ahookabove by ahookabove.ss01;\012sub ainvertedbreve by ainvertedbreve.ss01;\012sub amacron by amacron.ss01;\012sub aogonek by aogonek.ss01;\012sub aring by aring.ss01;\012sub aringacute by aringacute.ss01;\012sub atilde by atilde.ss01;\012sub one by one.ss01;\012sub one.tosf by one.tosf.ss01;\012";
-name = ss01;
 }
 );
 fontMaster = (
@@ -99106,7 +99101,6 @@ instanceInterpolations = {
 "9E718F8A-2CEA-4931-B05D-987794BD97DA" = 0.735294;
 };
 isItalic = 1;
-linkStyle = Regular;
 name = Italic;
 },
 {
@@ -99140,7 +99134,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 },
