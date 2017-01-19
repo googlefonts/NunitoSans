@@ -1,5 +1,5 @@
 {
-.appVersion = "926";
+.appVersion = "964";
 classes = (
 {
 automatic = 1;
@@ -994,7 +994,7 @@ unicode = 1EB0;
 },
 {
 glyphname = Abrevehookabove;
-lastChange = "2016-09-22 07:47:37 +0000";
+lastChange = "2017-01-19 13:15:24 +0000";
 layers = (
 {
 background = {
@@ -65238,7 +65238,7 @@ width = 1603;
 },
 {
 glyphname = asterisk;
-lastChange = "2016-09-22 07:47:37 +0000";
+lastChange = "2017-01-19 13:16:26 +0000";
 layers = (
 {
 background = {
@@ -65295,17 +65295,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"240 529 LINE",
-"338 690 LINE",
-"299 713 LINE",
-"209 547 LINE",
-"110 386 LINE",
-"149 363 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "209 529 LINE",
 "299 363 LINE",
 "338 386 LINE",
@@ -65323,6 +65312,17 @@ nodes = (
 "224 556 LINE",
 "35 561 LINE",
 "35 515 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"240 529 LINE",
+"338 690 LINE",
+"299 713 LINE",
+"209 547 LINE",
+"110 386 LINE",
+"149 363 LINE"
 );
 }
 );
@@ -65394,23 +65394,23 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"262 503 LINE",
-"372 667 LINE",
-"280 721 LINE",
-"192 543 LINE",
-"82 378 LINE",
-"173 325 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "227 482 LINE",
 "425 469 LINE",
 "425 576 LINE",
 "227 563 LINE",
 "29 576 LINE",
 "29 470 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"262 503 LINE",
+"372 667 LINE",
+"280 721 LINE",
+"192 543 LINE",
+"82 378 LINE",
+"173 325 LINE"
 );
 }
 );
@@ -108802,5 +108802,5 @@ manufacturer = "Vernon Adams";
 manufacturerURL = "http://www.sansoxygen.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
