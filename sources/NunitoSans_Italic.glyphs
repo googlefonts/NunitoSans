@@ -1,5 +1,5 @@
 {
-.appVersion = "964";
+.appVersion = "976";
 classes = (
 {
 automatic = 1;
@@ -25,6 +25,10 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "TTFAutohint options";
+value = "--detailed-info";
 }
 );
 date = "2016-09-26 20:09:25 +0000";
@@ -2012,7 +2016,7 @@ unicode = 0104;
 },
 {
 glyphname = Aring;
-lastChange = "2016-09-26 13:48:45 +0000";
+lastChange = "2017-02-16 10:34:26 +0000";
 layers = (
 {
 background = {
@@ -2202,14 +2206,14 @@ paths = (
 {
 closed = 1;
 nodes = (
+"133 0 LINE",
 "425 577 LINE",
 "387 577 LINE",
 "591 0 LINE",
 "747 0 LINE",
 "477 705 LINE",
 "348 705 LINE",
-"-32 0 LINE",
-"133 0 LINE"
+"-32 0 LINE"
 );
 },
 {
@@ -8081,7 +8085,7 @@ unicode = 1E20;
 },
 {
 glyphname = H;
-lastChange = "2016-09-26 13:48:45 +0000";
+lastChange = "2017-02-16 10:33:47 +0000";
 layers = (
 {
 anchors = (
@@ -8174,8 +8178,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"622 334 LINE",
-"626 382 LINE",
+"642 334 LINE",
+"646 382 LINE",
 "138 382 LINE",
 "134 334 LINE"
 );
@@ -20552,7 +20556,7 @@ unicode = 1E7A;
 },
 {
 glyphname = Uogonek;
-lastChange = "2016-09-26 13:48:45 +0000";
+lastChange = "2017-02-16 10:37:31 +0000";
 layers = (
 {
 background = {
@@ -51272,7 +51276,7 @@ unicode = 03A9;
 },
 {
 glyphname = mu;
-lastChange = "2016-09-26 13:48:45 +0000";
+lastChange = "2017-02-16 10:36:23 +0000";
 layers = (
 {
 background = {
@@ -74901,7 +74905,7 @@ unicode = 221A;
 },
 {
 glyphname = micro;
-lastChange = "2016-09-26 13:48:45 +0000";
+lastChange = "2017-02-16 10:36:50 +0000";
 layers = (
 {
 background = {
@@ -85182,7 +85186,7 @@ rightKerningGroup = hookabovecomb.case;
 },
 {
 glyphname = dblgravecomb.case;
-lastChange = "2016-09-26 20:23:41 +0000";
+lastChange = "2017-02-16 10:38:05 +0000";
 layers = (
 {
 anchors = (
@@ -85232,19 +85236,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"263 765 LINE",
-"204 915 LINE",
-"147 915 LINE",
-"231 765 LINE"
+"151 765 LINE",
+"92 915 LINE",
+"35 915 LINE",
+"119 765 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"151 765 LINE",
-"92 915 LINE",
-"35 915 LINE",
-"119 765 LINE"
+"263 765 LINE",
+"204 915 LINE",
+"147 915 LINE",
+"231 765 LINE"
 );
 }
 );
@@ -85298,19 +85302,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"299 765 LINE",
-"236 921 LINE",
-"137 921 LINE",
-"223 765 LINE"
+"159 765 LINE",
+"96 921 LINE",
+"-3 921 LINE",
+"83 765 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"159 765 LINE",
-"96 921 LINE",
-"-3 921 LINE",
-"83 765 LINE"
+"299 765 LINE",
+"236 921 LINE",
+"137 921 LINE",
+"223 765 LINE"
 );
 }
 );
@@ -89625,7 +89629,7 @@ rightKerningGroup = hookabovecomb.case;
 color = 9;
 export = 0;
 glyphname = dblgravecomb.case.bold;
-lastChange = "2016-09-26 20:25:12 +0000";
+lastChange = "2017-02-16 10:34:57 +0000";
 layers = (
 {
 anchors = (
@@ -89675,19 +89679,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"248 765 LINE",
-"189 915 LINE",
-"132 915 LINE",
-"216 765 LINE"
+"136 765 LINE",
+"77 915 LINE",
+"20 915 LINE",
+"104 765 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"136 765 LINE",
-"77 915 LINE",
-"20 915 LINE",
-"104 765 LINE"
+"248 765 LINE",
+"189 915 LINE",
+"132 915 LINE",
+"216 765 LINE"
 );
 }
 );
@@ -89709,19 +89713,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"276 765 LINE",
-"213 920 LINE",
-"121 920 LINE",
-"207 765 LINE"
+"175 765 LINE",
+"113 920 LINE",
+"21 920 LINE",
+"106 765 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"175 765 LINE",
-"113 920 LINE",
-"21 920 LINE",
-"106 765 LINE"
+"276 765 LINE",
+"213 920 LINE",
+"121 920 LINE",
+"207 765 LINE"
 );
 }
 );
@@ -101499,5 +101503,5 @@ manufacturer = "Vernon Adams";
 manufacturerURL = "http://www.sansoxygen.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }

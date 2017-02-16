@@ -1,5 +1,5 @@
 {
-.appVersion = "964";
+.appVersion = "976";
 classes = (
 {
 automatic = 1;
@@ -25,6 +25,10 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "TTFAutohint options";
+value = "--detailed-info";
 }
 );
 date = "2016-09-26 20:09:25 +0000";
@@ -8351,7 +8355,7 @@ unicode = 1E20;
 },
 {
 glyphname = H;
-lastChange = "2016-09-22 07:47:37 +0000";
+lastChange = "2017-02-16 10:28:13 +0000";
 layers = (
 {
 anchors = (
@@ -8446,8 +8450,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"615 334 LINE",
-"615 382 LINE",
+"635 334 LINE",
+"635 382 LINE",
 "127 382 LINE",
 "127 334 LINE"
 );
@@ -64139,7 +64143,7 @@ rightKerningGroup = nine.dnom;
 color = 9;
 export = 0;
 glyphname = zero.numr.bold;
-lastChange = "2016-09-26 13:45:31 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -64159,7 +64163,7 @@ transform = "{1, 0, 0, 1, 0, 282}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 342;
+width = 380;
 },
 {
 components = (
@@ -64180,7 +64184,7 @@ rightKerningGroup = zero.dnom;
 color = 9;
 export = 0;
 glyphname = one.numr.bold;
-lastChange = "2016-09-26 13:45:31 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -64200,7 +64204,7 @@ transform = "{1, 0, 0, 1, 0, 282}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 284;
+width = 380;
 },
 {
 components = (
@@ -64221,7 +64225,7 @@ rightKerningGroup = one.dnom;
 color = 9;
 export = 0;
 glyphname = two.numr.bold;
-lastChange = "2016-09-26 13:45:31 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -64241,7 +64245,7 @@ transform = "{1, 0, 0, 1, 0, 282}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 354;
+width = 380;
 },
 {
 components = (
@@ -64262,7 +64266,7 @@ rightKerningGroup = two.dnom;
 color = 9;
 export = 0;
 glyphname = three.numr.bold;
-lastChange = "2016-09-26 13:45:31 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -64282,7 +64286,7 @@ transform = "{1, 0, 0, 1, 0, 282}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 342;
+width = 380;
 },
 {
 components = (
@@ -64303,7 +64307,7 @@ rightKerningGroup = three.dnom;
 color = 9;
 export = 0;
 glyphname = four.numr.bold;
-lastChange = "2016-09-26 13:45:31 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -64323,7 +64327,7 @@ transform = "{1, 0, 0, 1, 0, 282}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 336;
+width = 380;
 },
 {
 components = (
@@ -64344,7 +64348,7 @@ rightKerningGroup = four.dnom;
 color = 9;
 export = 0;
 glyphname = five.numr.bold;
-lastChange = "2016-09-26 13:45:31 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -64364,7 +64368,7 @@ transform = "{1, 0, 0, 1, 0, 282}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 342;
+width = 380;
 },
 {
 components = (
@@ -64385,7 +64389,7 @@ rightKerningGroup = five.dnom;
 color = 9;
 export = 0;
 glyphname = six.numr.bold;
-lastChange = "2016-09-26 13:45:31 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -64405,7 +64409,7 @@ transform = "{1, 0, 0, 1, 0, 282}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 354;
+width = 380;
 },
 {
 components = (
@@ -64426,7 +64430,7 @@ rightKerningGroup = six.dnom;
 color = 9;
 export = 0;
 glyphname = seven.numr.bold;
-lastChange = "2016-09-26 13:45:31 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -64446,7 +64450,7 @@ transform = "{1, 0, 0, 1, 0, 282}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 343;
+width = 380;
 },
 {
 components = (
@@ -64467,7 +64471,7 @@ rightKerningGroup = seven.dnom;
 color = 9;
 export = 0;
 glyphname = eight.numr.bold;
-lastChange = "2016-09-26 13:45:31 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -64487,7 +64491,7 @@ transform = "{1, 0, 0, 1, 0, 282}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 342;
+width = 380;
 },
 {
 components = (
@@ -64508,7 +64512,7 @@ rightKerningGroup = eight.dnom;
 color = 9;
 export = 0;
 glyphname = nine.numr.bold;
-lastChange = "2016-09-26 13:45:31 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -64528,7 +64532,7 @@ transform = "{1, 0, 0, 1, 0, 282}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 354;
+width = 380;
 },
 {
 components = (
@@ -65024,7 +65028,7 @@ rightKerningGroup = fraction;
 color = 9;
 export = 0;
 glyphname = onehalf.bold;
-lastChange = "2016-09-26 13:46:50 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -65057,7 +65061,7 @@ transform = "{1, 0, 0, 1, 543, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 852;
+width = 923;
 },
 {
 components = (
@@ -65084,7 +65088,7 @@ rightKerningGroup = one.dnom;
 color = 9;
 export = 0;
 glyphname = onequarter.bold;
-lastChange = "2016-09-26 13:46:50 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -65117,7 +65121,7 @@ transform = "{1, 0, 0, 1, 543, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 850;
+width = 923;
 },
 {
 components = (
@@ -65162,7 +65166,7 @@ width = 1543;
 color = 9;
 export = 0;
 glyphname = threequarters.bold;
-lastChange = "2016-09-26 13:46:50 +0000";
+lastChange = "2017-02-16 10:25:08 +0000";
 layers = (
 {
 background = {
@@ -65195,7 +65199,7 @@ transform = "{1, 0, 0, 1, 543, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 894;
+width = 923;
 },
 {
 components = (
@@ -90352,7 +90356,7 @@ rightKerningGroup = acutecomb.case;
 },
 {
 glyphname = hungarumlautcomb.case;
-lastChange = "2016-09-22 07:47:37 +0000";
+lastChange = "2017-02-16 10:28:29 +0000";
 layers = (
 {
 anchors = (
@@ -90410,19 +90414,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"319 915 LINE",
-"260 915 LINE",
-"190 765 LINE",
-"222 765 LINE"
+"207 915 LINE",
+"148 915 LINE",
+"78 765 LINE",
+"110 765 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"207 915 LINE",
-"148 915 LINE",
-"78 765 LINE",
-"110 765 LINE"
+"319 915 LINE",
+"260 915 LINE",
+"190 765 LINE",
+"222 765 LINE"
 );
 }
 );
@@ -108802,5 +108806,5 @@ manufacturer = "Vernon Adams";
 manufacturerURL = "http://www.sansoxygen.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }
