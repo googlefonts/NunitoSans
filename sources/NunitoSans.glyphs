@@ -1,5 +1,8 @@
 {
 .appVersion = "976";
+DisplayStrings = (
+"\U00C5"
+);
 classes = (
 {
 automatic = 1;
@@ -140,11 +143,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1087;
+value = 1084;
 },
 {
 name = winDescent;
-value = 275;
+value = 313;
 },
 {
 name = hheaAscender;
@@ -233,11 +236,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1087;
+value = 1084;
 },
 {
 name = winDescent;
-value = 275;
+value = 313;
 },
 {
 name = hheaAscender;
