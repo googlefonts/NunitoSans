@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-""
-);
 classes = (
 {
 automatic = 1;
@@ -35836,11 +35833,57 @@ unicode = 04F8;
 },
 {
 glyphname = "Gestrokehook-cy";
-lastChange = "2017-11-14 18:21:29 +0000";
+lastChange = "2017-11-14 19:01:43 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"28 -183 LINE",
+"83 -179 LINE SMOOTH",
+"188 -171 OFFCURVE",
+"246 -107 OFFCURVE",
+"246 3 CURVE SMOOTH",
+"246 48 LINE",
+"192 48 LINE",
+"192 5 LINE SMOOTH",
+"192 -75 OFFCURVE",
+"150 -126 OFFCURVE",
+"77 -132 CURVE SMOOTH",
+"24 -136 LINE"
+);
+}
+);
+};
+components = (
+{
+name = "Ghestroke-cy";
+}
+);
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"117 -177 LINE SMOOTH",
+"199 -168 OFFCURVE",
+"246 -106 OFFCURVE",
+"246 3 CURVE SMOOTH",
+"246 48 LINE",
+"93 48 LINE",
+"93 0 LINE",
+"192 0 LINE",
+"191 -86 OFFCURVE",
+"170 -123 OFFCURVE",
+"111 -130 CURVE SMOOTH",
+"75 -134 LINE",
+"79 -181 LINE"
+);
+}
+);
+width = 537;
 }
 );
 unicode = 04FA;
@@ -39973,11 +40016,57 @@ unicode = 04F9;
 },
 {
 glyphname = "gestrokehook-cy";
-lastChange = "2017-11-14 18:21:29 +0000";
+lastChange = "2017-11-14 19:01:31 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"-2 -138 LINE",
+"3 -183 LINE",
+"47 -180 LINE SMOOTH",
+"154 -173 OFFCURVE",
+"210 -114 OFFCURVE",
+"210 -6 CURVE SMOOTH",
+"210 45 LINE",
+"156 45 LINE",
+"156 -10 LINE SMOOTH",
+"156 -87 OFFCURVE",
+"117 -130 OFFCURVE",
+"41 -135 CURVE"
+);
+}
+);
+};
+components = (
+{
+name = "ghestroke-cy";
+}
+);
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"82 45 LINE",
+"82 0 LINE",
+"156 0 LINE",
+"156 -81 OFFCURVE",
+"139 -126 OFFCURVE",
+"91 -133 CURVE SMOOTH",
+"69 -136 LINE",
+"74 -181 LINE",
+"97 -178 LINE SMOOTH",
+"171 -168 OFFCURVE",
+"210 -114 OFFCURVE",
+"210 -6 CURVE SMOOTH",
+"210 45 LINE"
+);
+}
+);
+width = 392;
 }
 );
 unicode = 04FB;
@@ -68029,6 +68118,16 @@ nodes = (
 }
 );
 width = 178;
+}
+);
+},
+{
+glyphname = "hook-cy";
+lastChange = "2017-11-14 18:58:42 +0000";
+layers = (
+{
+layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+width = 600;
 }
 );
 },
