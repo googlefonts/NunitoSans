@@ -1,5 +1,10 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/Obarred-cy/Obarreddieresis-cy/obarred-cy/obarreddieresis-cy",
+"/Schwa-cy/schwa-cy",
+"/Schwa-cy/Schwadieresis-cy/schwadieresis-cy"
+);
 classes = (
 {
 automatic = 1;
@@ -33837,9 +33842,15 @@ unicode = 0404;
 },
 {
 glyphname = "Ereversed-cy";
-lastChange = "2017-11-14 17:26:07 +0000";
+lastChange = "2017-11-14 18:31:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{319, 705}";
+}
+);
 hints = (
 {
 place = "{54, 57}";
@@ -35424,9 +35435,15 @@ unicode = 04D6;
 {
 color = 4;
 glyphname = "Schwa-cy";
-lastChange = "2017-11-14 18:10:49 +0000";
+lastChange = "2017-11-14 18:32:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{373, 705}";
+}
+);
 components = (
 {
 name = Schwa;
@@ -35440,7 +35457,7 @@ unicode = 04D8;
 },
 {
 glyphname = "Schwadieresis-cy";
-lastChange = "2017-11-14 18:21:29 +0000";
+lastChange = "2017-11-14 18:32:28 +0000";
 layers = (
 {
 components = (
@@ -35449,7 +35466,7 @@ name = "Schwa-cy";
 },
 {
 name = dieresiscomb.case;
-transform = "{1, 0, 0, 1, 216, 0}";
+transform = "{1, 0, 0, 1, 223, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -35610,9 +35627,15 @@ unicode = 04E6;
 },
 {
 glyphname = "Obarred-cy";
-lastChange = "2017-11-14 17:40:52 +0000";
+lastChange = "2017-11-14 18:31:32 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{378, 705}";
+}
+);
 components = (
 {
 name = O;
@@ -35637,7 +35660,7 @@ unicode = 04E8;
 },
 {
 glyphname = "Obarreddieresis-cy";
-lastChange = "2017-11-14 18:21:29 +0000";
+lastChange = "2017-11-14 18:31:32 +0000";
 layers = (
 {
 components = (
@@ -35646,7 +35669,7 @@ name = "Obarred-cy";
 },
 {
 name = dieresiscomb.case;
-transform = "{1, 0, 0, 1, 227, 0}";
+transform = "{1, 0, 0, 1, 228, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -35657,7 +35680,7 @@ unicode = 04EA;
 },
 {
 glyphname = "Edieresis-cy";
-lastChange = "2017-11-14 18:21:29 +0000";
+lastChange = "2017-11-14 18:31:19 +0000";
 layers = (
 {
 components = (
@@ -35666,10 +35689,11 @@ name = "Ereversed-cy";
 },
 {
 name = dieresiscomb.case;
+transform = "{1, 0, 0, 1, 169, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 600;
+width = 677;
 }
 );
 unicode = 04EC;
@@ -37754,9 +37778,15 @@ unicode = 0454;
 },
 {
 glyphname = "ereversed-cy";
-lastChange = "2017-11-14 17:26:07 +0000";
+lastChange = "2017-11-14 18:31:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{217, 485}";
+}
+);
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 paths = (
 {
@@ -39361,9 +39391,15 @@ unicode = 04D7;
 {
 color = 4;
 glyphname = "schwa-cy";
-lastChange = "2017-11-14 18:10:49 +0000";
+lastChange = "2017-11-14 18:32:14 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{263, 485}";
+}
+);
 components = (
 {
 name = schwa;
@@ -39377,7 +39413,7 @@ unicode = 04D9;
 },
 {
 glyphname = "schwadieresis-cy";
-lastChange = "2017-11-14 18:21:29 +0000";
+lastChange = "2017-11-14 18:32:22 +0000";
 layers = (
 {
 components = (
@@ -39386,10 +39422,11 @@ name = "schwa-cy";
 },
 {
 name = dieresiscomb;
+transform = "{1, 0, 0, 1, 113, -5}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 600;
+width = 525;
 }
 );
 unicode = 04DB;
@@ -39546,9 +39583,15 @@ unicode = 04E7;
 },
 {
 glyphname = "obarred-cy";
-lastChange = "2017-11-14 17:40:49 +0000";
+lastChange = "2017-11-14 18:31:35 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{271, 485}";
+}
+);
 background = {
 hints = (
 {
@@ -39610,7 +39653,7 @@ unicode = 04E9;
 },
 {
 glyphname = "obarreddieresis-cy";
-lastChange = "2017-11-14 18:21:29 +0000";
+lastChange = "2017-11-14 18:31:35 +0000";
 layers = (
 {
 components = (
@@ -39619,7 +39662,7 @@ name = "obarred-cy";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 121, 0}";
+transform = "{1, 0, 0, 1, 121, -5}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -39630,7 +39673,7 @@ unicode = 04EB;
 },
 {
 glyphname = "edieresis-cy";
-lastChange = "2017-11-14 18:21:29 +0000";
+lastChange = "2017-11-14 18:31:26 +0000";
 layers = (
 {
 components = (
@@ -39639,10 +39682,11 @@ name = "ereversed-cy";
 },
 {
 name = dieresiscomb;
+transform = "{1, 0, 0, 1, 67, -5}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 600;
+width = 473;
 }
 );
 unicode = 04ED;
