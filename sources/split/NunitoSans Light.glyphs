@@ -10,7 +10,8 @@ DisplayStrings = (
 "/Zedescender-cy/zedescender-cy/Esdescender-cy/esdescender-cy",
 "/Shha-cy",
 "=34/tugrik 5$/tenge 6/liraTurkish/euro",
-/tugrik/hryvnia/tenge
+/tugrik/hryvnia/tenge,
+" /tail-cy/tail-cy.case/Entail-cy/entail-cy"
 );
 classes = (
 {
@@ -67175,6 +67176,35 @@ width = 178;
 );
 },
 {
+glyphname = "tail-cy";
+lastChange = "2017-11-14 18:21:05 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottomright;
+position = "{0, 0}";
+}
+);
+layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"55 -179 LINE",
+"130 48 LINE",
+"0 48 LINE",
+"0 0 LINE",
+"59 0 LINE",
+"0 -179 LINE"
+);
+}
+);
+width = 180;
+}
+);
+},
+{
 glyphname = "descender-cy.case";
 lastChange = "2017-11-14 18:06:53 +0000";
 layers = (
@@ -67200,6 +67230,35 @@ nodes = (
 }
 );
 width = 203;
+}
+);
+},
+{
+glyphname = "tail-cy.case";
+lastChange = "2017-11-14 18:21:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottomright;
+position = "{0, 0}";
+}
+);
+layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"61 -144 LINE",
+"125 48 LINE",
+"0 48 LINE",
+"0 0 LINE",
+"54 0 LINE",
+"6 -144 LINE"
+);
+}
+);
+width = 175;
 }
 );
 },
