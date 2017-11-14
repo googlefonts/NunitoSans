@@ -33293,9 +33293,19 @@ unicode = 0424;
 {
 color = 6;
 glyphname = "Ha-cy";
-lastChange = "2017-11-14 17:30:35 +0000";
+lastChange = "2017-11-14 18:30:04 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottomright;
+position = "{615, 0}";
+},
+{
+name = center;
+position = "{318, 353}";
+}
+);
 components = (
 {
 name = X;
@@ -35859,11 +35869,27 @@ unicode = 04FC;
 },
 {
 glyphname = "Hastroke-cy";
-lastChange = "2017-11-14 18:21:29 +0000";
+lastChange = "2017-11-14 18:30:24 +0000";
 layers = (
 {
+components = (
+{
+name = "Ha-cy";
+}
+);
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"505 331 LINE",
+"505 375 LINE",
+"131 375 LINE",
+"131 331 LINE"
+);
+}
+);
+width = 635;
 }
 );
 unicode = 04FE;
@@ -37171,9 +37197,19 @@ unicode = 0444;
 {
 color = 6;
 glyphname = "ha-cy";
-lastChange = "2017-11-14 17:30:35 +0000";
+lastChange = "2017-11-14 18:30:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottomright;
+position = "{490, 0}";
+},
+{
+name = center;
+position = "{255, 243}";
+}
+);
 components = (
 {
 name = x;
@@ -39806,11 +39842,20 @@ unicode = 04FD;
 },
 {
 glyphname = "hastroke-cy";
-lastChange = "2017-11-14 18:21:29 +0000";
+lastChange = "2017-11-14 18:30:13 +0000";
 layers = (
 {
+components = (
+{
+name = "ha-cy";
+},
+{
+name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 105, -2}";
+}
+);
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 600;
+width = 510;
 }
 );
 unicode = 04FF;
