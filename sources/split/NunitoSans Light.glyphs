@@ -43631,6 +43631,17 @@ width = 546;
 unicode = 0513;
 },
 {
+glyphname = "qa-cy";
+lastChange = "2017-11-14 17:43:55 +0000";
+layers = (
+{
+layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+width = 600;
+}
+);
+unicode = 051B;
+},
+{
 glyphname = "iishort-cy.001";
 lastChange = "2017-11-14 17:39:25 +0000";
 layers = (
@@ -71052,6 +71063,26 @@ nodes = (
 }
 );
 width = 450;
+}
+);
+},
+{
+glyphname = "descender-cy";
+lastChange = "2017-11-14 17:43:53 +0000";
+layers = (
+{
+layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+width = 600;
+}
+);
+},
+{
+glyphname = "descender-cy.case";
+lastChange = "2017-11-14 17:43:49 +0000";
+layers = (
+{
+layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+width = 600;
 }
 );
 },
