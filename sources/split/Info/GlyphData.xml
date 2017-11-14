@@ -418,4 +418,15 @@
 	<glyph unicode="A69F" name="iotifiedecomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniA69F" description="COMBINING CYRILLIC LETTER IOTIFIED E" />
 	<glyph unicode="FE2E" name="titlolefthalfcomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniFE2E" description="COMBINING CYRILLIC TITLO LEFT HALF" />
 	<glyph unicode="FE2F" name="titlorighthalfcomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniFE2F" description="COMBINING CYRILLIC TITLO RIGHT HALF" />
+	<glyph name="Ghestroke-cy.loclBSH" decompose="F" category="Letter" subCategory="Uppercase" script="cyrillic" />
+	<glyph name="(null)" />
+	<glyph name="Zedescender-cy.loclBSH" decompose="Zedescender-cy" category="Letter" subCategory="Uppercase" script="cyrillic" />
+	<glyph name="zedescender-cy.loclBSH" decompose="zedescender-cy" category="Letter" subCategory="Lowercase" script="cyrillic" />
+	<glyph name="Esdescender-cy.loclCHU" decompose="Es-cy, cedillacomb" category="Letter" subCategory="Uppercase" script="cyrillic" />
+	<glyph name="esdescender-cy.loclCHU" decompose="es-cy, cedillacomb" category="Letter" subCategory="Lowercase" script="cyrillic" />
+	<glyph name="i-cy.loclBSH" decompose="dotlessi" category="Letter" subCategory="Lowercase" script="cyrillic" />
+	<glyph name="I-cy.loclBSH" decompose="I-cy, dotaccentcomb" category="Letter" subCategory="Uppercase" script="cyrillic" />
+	<glyph name="unknown" />
+	<glyph name="Esdescender-cy.loclBSH" decompose="Esdescender-cy" category="Letter" subCategory="Uppercase" script="cyrillic" />
+	<glyph name="esdescender-cy.loclBSH" decompose="esdescender-cy" category="Letter" subCategory="Lowercase" script="cyrillic" />
 </glyphData>
