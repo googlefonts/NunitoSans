@@ -68093,8 +68093,47 @@ width = 450;
 );
 },
 {
+color = 4;
+export = 0;
+glyphname = "hook-cy";
+lastChange = "2017-11-14 19:03:56 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottomright;
+position = "{0, 0}";
+}
+);
+layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"0 45 LINE",
+"0 0 LINE",
+"74 0 LINE",
+"74 -81 OFFCURVE",
+"57 -126 OFFCURVE",
+"9 -133 CURVE SMOOTH",
+"-13 -136 LINE",
+"-8 -181 LINE",
+"15 -178 LINE SMOOTH",
+"89 -168 OFFCURVE",
+"128 -114 OFFCURVE",
+"128 -6 CURVE SMOOTH",
+"128 45 LINE"
+);
+}
+);
+width = 178;
+}
+);
+},
+{
+export = 0;
 glyphname = "descender-cy";
-lastChange = "2017-11-14 18:06:50 +0000";
+lastChange = "2017-11-14 19:02:16 +0000";
 layers = (
 {
 anchors = (
@@ -68122,18 +68161,9 @@ width = 178;
 );
 },
 {
-glyphname = "hook-cy";
-lastChange = "2017-11-14 18:58:42 +0000";
-layers = (
-{
-layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 600;
-}
-);
-},
-{
+export = 0;
 glyphname = "tail-cy";
-lastChange = "2017-11-14 18:21:05 +0000";
+lastChange = "2017-11-14 19:04:15 +0000";
 layers = (
 {
 anchors = (
@@ -68161,8 +68191,47 @@ width = 180;
 );
 },
 {
+color = 4;
+export = 0;
+glyphname = "hook-cy.case";
+lastChange = "2017-11-14 19:03:56 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottomright;
+position = "{0, 0}";
+}
+);
+layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"24 -177 LINE SMOOTH",
+"106 -168 OFFCURVE",
+"153 -106 OFFCURVE",
+"153 3 CURVE SMOOTH",
+"153 48 LINE",
+"0 48 LINE",
+"0 0 LINE",
+"99 0 LINE",
+"98 -86 OFFCURVE",
+"77 -123 OFFCURVE",
+"18 -130 CURVE SMOOTH",
+"-18 -134 LINE",
+"-14 -181 LINE"
+);
+}
+);
+width = 203;
+}
+);
+},
+{
+export = 0;
 glyphname = "descender-cy.case";
-lastChange = "2017-11-14 18:06:53 +0000";
+lastChange = "2017-11-14 19:02:16 +0000";
 layers = (
 {
 anchors = (
@@ -68190,8 +68259,9 @@ width = 203;
 );
 },
 {
+export = 0;
 glyphname = "tail-cy.case";
-lastChange = "2017-11-14 18:21:00 +0000";
+lastChange = "2017-11-14 19:04:15 +0000";
 layers = (
 {
 anchors = (
