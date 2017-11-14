@@ -7,7 +7,8 @@ DisplayStrings = (
 "/Enghe-cy/enghe-cy",
 "/Ustrait-cy v/ustrait-cy",
 "/Ustrait-cy/ustrait-cy/Ustraitstroke-cy/ustraitstroke-cy",
-"/Zedescender-cy/zedescender-cy/Esdescender-cy/esdescender-cy"
+"/Zedescender-cy/zedescender-cy/Esdescender-cy/esdescender-cy",
+"/Shha-cy"
 );
 classes = (
 {
@@ -34855,12 +34856,13 @@ unicode = 04B8;
 },
 {
 glyphname = "Shha-cy";
-lastChange = "2017-11-14 18:10:23 +0000";
+lastChange = "2017-11-14 18:16:15 +0000";
 layers = (
 {
 components = (
 {
 name = "Che-cy";
+transform = "{-1, 0, 0, -1, 632, 705}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
