@@ -1,10 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"/Obarred-cy/Obarreddieresis-cy/obarred-cy/obarreddieresis-cy",
-"/Schwa-cy/schwa-cy",
-"/Schwa-cy/Schwadieresis-cy/schwadieresis-cy"
-);
 classes = (
 {
 automatic = 1;
@@ -36050,14 +36045,57 @@ width = 1095;
 unicode = 051C;
 },
 {
+color = 4;
 glyphname = "Semisoftsign-cy";
-lastChange = "2017-11-14 18:21:29 +0000";
+lastChange = "2017-11-14 18:35:12 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"309 360 LINE",
+"428 360 OFFCURVE",
+"487 310 OFFCURVE",
+"487 213 CURVE SMOOTH",
+"487 116 OFFCURVE",
+"428 48 OFFCURVE",
+"309 48 CURVE SMOOTH",
+"171 48 LINE",
+"171 360 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"117 0 LINE",
+"312 0 LINE SMOOTH",
+"457 0 OFFCURVE",
+"542 93 OFFCURVE",
+"542 213 CURVE SMOOTH",
+"542 343 OFFCURVE",
+"461 408 OFFCURVE",
+"312 408 CURVE SMOOTH",
+"171 408 LINE",
+"171 763 LINE",
+"117 763 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"0 705 LINE",
+"0 657 LINE",
+"328 657 LINE",
+"328 705 LINE"
+);
 }
 );
+width = 598;
+}
+);
+rightMetricsKey = "Softsign-cy";
 unicode = 048C;
 },
 {
@@ -40036,12 +40074,18 @@ width = 834;
 unicode = 051D;
 },
 {
+color = 4;
 glyphname = "semisoftsign-cy";
-lastChange = "2017-11-14 18:21:29 +0000";
+lastChange = "2017-11-14 18:35:12 +0000";
 layers = (
 {
+components = (
+{
+name = "yat-cy";
+}
+);
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 600;
+width = 531;
 }
 );
 unicode = 048D;
