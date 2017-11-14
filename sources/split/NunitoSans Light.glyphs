@@ -8,7 +8,9 @@ DisplayStrings = (
 "/Ustrait-cy v/ustrait-cy",
 "/Ustrait-cy/ustrait-cy/Ustraitstroke-cy/ustraitstroke-cy",
 "/Zedescender-cy/zedescender-cy/Esdescender-cy/esdescender-cy",
-"/Shha-cy"
+"/Shha-cy",
+"=34/tugrik 5$/tenge 6/liraTurkish/euro",
+/tugrik/hryvnia/tenge
 );
 classes = (
 {
@@ -52906,40 +52908,127 @@ width = 1361;
 };
 },
 {
+color = 4;
 glyphname = tenge;
-lastChange = "2017-11-14 18:10:23 +0000";
+lastChange = "2017-11-14 18:19:28 +0000";
 layers = (
 {
-components = (
+background = {
+paths = (
 {
-name = T;
+closed = 1;
+nodes = (
+"452 244 OFFCURVE",
+"534 281 OFFCURVE",
+"585 337 CURVE",
+"561 381 LINE",
+"512 326 OFFCURVE",
+"444 293 OFFCURVE",
+"377 293 CURVE SMOOTH",
+"244 293 OFFCURVE",
+"175 399 OFFCURVE",
+"175 605 CURVE SMOOTH",
+"175 809 OFFCURVE",
+"245 916 OFFCURVE",
+"377 916 CURVE SMOOTH",
+"444 916 OFFCURVE",
+"512 883 OFFCURVE",
+"561 828 CURVE",
+"585 872 LINE",
+"529 933 OFFCURVE",
+"458 965 OFFCURVE",
+"378 965 CURVE SMOOTH",
+"214 965 OFFCURVE",
+"120 834 OFFCURVE",
+"120 605 CURVE SMOOTH",
+"120 375 OFFCURVE",
+"214 244 OFFCURVE",
+"378 244 CURVE SMOOTH"
+);
 },
 {
-name = strokeshortcomb;
-transform = "{1, 0, 0, 1, 144, 108}";
+closed = 1;
+nodes = (
+"365 507 LINE",
+"365 553 LINE",
+"15 553 LINE",
+"15 507 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"365 657 LINE",
+"365 703 LINE",
+"15 703 LINE",
+"15 657 LINE"
+);
 }
 );
+};
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"321 0 LINE",
+"321 528 LINE",
+"576 528 LINE",
+"576 576 LINE",
+"12 576 LINE",
+"12 528 LINE",
+"267 528 LINE",
+"267 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"576 657 LINE",
+"576 705 LINE",
+"12 705 LINE",
+"12 657 LINE"
+);
+}
+);
 width = 588;
 }
 );
 unicode = 20B8;
 },
 {
+color = 4;
 glyphname = tugrik;
-lastChange = "2017-11-14 18:10:23 +0000";
+lastChange = "2017-11-14 18:19:09 +0000";
 layers = (
 {
 components = (
 {
 name = T;
-},
-{
-name = equal;
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"471 326 LINE",
+"471 380 LINE",
+"117 184 LINE",
+"117 130 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"471 490 LINE",
+"471 544 LINE",
+"117 349 LINE",
+"117 295 LINE"
+);
+}
+);
+width = 588;
 }
 );
 unicode = 20AE;
