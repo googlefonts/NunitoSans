@@ -71933,6 +71933,7 @@ unicode = 0000;
 );
 instances = (
 {
+exports = 0;
 customParameters = (
 {
 name = Filter;
@@ -71951,6 +71952,7 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = Filter;
@@ -71965,6 +71967,7 @@ name = Light;
 weightClass = Light;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = Filter;
@@ -71978,6 +71981,7 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = Filter;
@@ -71992,6 +71996,7 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = Filter;
@@ -72007,6 +72012,7 @@ name = Bold;
 weightClass = Bold;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = Filter;
@@ -72021,6 +72027,7 @@ name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = Filter;
@@ -72035,6 +72042,7 @@ name = Black;
 weightClass = Black;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = "Rename Glyphs";
