@@ -3,7 +3,7 @@
 DisplayStrings = (
 "/E-cy T",
 "/Ereversed-cy X",
-"/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Be-cy/hardsign-cy/yeru-cy/softsign-cy/el-cy/lje-cy/nje-cy"
+"/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Be-cy/hardsign-cy/yeru-cy/softsign-cy/el-cy/dje-cy/lje-cy/nje-cy"
 );
 classes = (
 {
@@ -37844,7 +37844,7 @@ unicode = 044B;
 },
 {
 glyphname = "lje-cy";
-lastChange = "2017-11-16 18:28:50 +0000";
+lastChange = "2017-11-16 18:36:37 +0000";
 layers = (
 {
 background = {
@@ -37852,20 +37852,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"41 -10 LINE",
-"147 38 OFFCURVE",
-"196 136 OFFCURVE",
-"196 377 CURVE SMOOTH",
-"196 440 LINE",
-"414 440 LINE",
-"414 0 LINE",
-"468 0 LINE",
-"468 485 LINE",
-"144 485 LINE",
-"144 377 LINE SMOOTH",
-"144 110 OFFCURVE",
-"90 66 OFFCURVE",
-"22 33 CURVE"
+"37 -10 LINE",
+"143 38 OFFCURVE",
+"192 136 OFFCURVE",
+"192 377 CURVE SMOOTH",
+"192 440 LINE",
+"410 440 LINE",
+"410 0 LINE",
+"464 0 LINE",
+"464 485 LINE",
+"140 485 LINE",
+"140 377 LINE SMOOTH",
+"140 110 OFFCURVE",
+"86 66 OFFCURVE",
+"18 33 CURVE"
 );
 }
 );
@@ -37875,45 +37875,45 @@ paths = (
 {
 closed = 1;
 nodes = (
-"147 38 OFFCURVE",
-"197 136 OFFCURVE",
-"197 377 CURVE SMOOTH",
-"197 440 LINE",
-"400 440 LINE",
-"401 0 LINE",
-"535 0 LINE SMOOTH",
-"623 0 OFFCURVE",
-"721 42 OFFCURVE",
-"721 156 CURVE SMOOTH",
-"721 271 OFFCURVE",
-"639 304 OFFCURVE",
-"538 304 CURVE SMOOTH",
-"455 304 LINE",
-"455 485 LINE",
-"145 485 LINE",
-"145 377 LINE SMOOTH",
-"145 150 OFFCURVE",
-"114 78 OFFCURVE",
-"22 33 CURVE",
-"41 -10 LINE"
+"143 38 OFFCURVE",
+"193 136 OFFCURVE",
+"193 377 CURVE SMOOTH",
+"193 440 LINE",
+"396 440 LINE",
+"397 0 LINE",
+"531 0 LINE SMOOTH",
+"619 0 OFFCURVE",
+"717 42 OFFCURVE",
+"717 156 CURVE SMOOTH",
+"717 271 OFFCURVE",
+"635 304 OFFCURVE",
+"534 304 CURVE SMOOTH",
+"451 304 LINE",
+"451 485 LINE",
+"141 485 LINE",
+"141 377 LINE SMOOTH",
+"141 150 OFFCURVE",
+"110 78 OFFCURVE",
+"18 33 CURVE",
+"37 -10 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"455 259 LINE",
-"530 259 LINE SMOOTH",
-"599 259 OFFCURVE",
-"666 245 OFFCURVE",
-"666 156 CURVE SMOOTH",
-"666 68 OFFCURVE",
-"599 45 OFFCURVE",
-"530 45 CURVE SMOOTH",
-"455 45 LINE"
+"451 259 LINE",
+"526 259 LINE SMOOTH",
+"595 259 OFFCURVE",
+"662 245 OFFCURVE",
+"662 156 CURVE SMOOTH",
+"662 68 OFFCURVE",
+"595 45 OFFCURVE",
+"526 45 CURVE SMOOTH",
+"451 45 LINE"
 );
 }
 );
-width = 753;
+width = 749;
 }
 );
 leftMetricsKey = "el-cy";
