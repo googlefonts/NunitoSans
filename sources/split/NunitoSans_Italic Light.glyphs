@@ -1,5 +1,10 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/Che-cy/Shha-cy",
+"/Schwa-cy",
+"/Obarred-cy/obarred-cy/Schwa-cy/schwa-cy"
+);
 classes = (
 {
 automatic = 1;
@@ -32103,13 +32108,13 @@ unicode = 0528;
 {
 color = 4;
 glyphname = "A-cy";
-lastChange = "2017-11-16 16:28:52 +0000";
+lastChange = "2017-11-18 19:48:07 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{356, 705}";
+position = "{393, 705}";
 }
 );
 components = (
@@ -32406,13 +32411,13 @@ unicode = 0414;
 {
 color = 4;
 glyphname = "Ie-cy";
-lastChange = "2017-11-16 16:28:52 +0000";
+lastChange = "2017-11-18 19:48:13 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{329, 705}";
+position = "{357, 705}";
 }
 );
 components = (
@@ -32765,9 +32770,23 @@ unicode = 048A;
 {
 color = 4;
 glyphname = "Ka-cy";
-lastChange = "2017-11-18 19:40:35 +0000";
+lastChange = "2017-11-18 19:47:37 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottomright;
+position = "{585, 0}";
+},
+{
+name = center;
+position = "{321, 353}";
+},
+{
+name = top;
+position = "{349, 705}";
+}
+);
 background = {
 paths = (
 {
@@ -32967,13 +32986,13 @@ unicode = 041B;
 {
 color = 4;
 glyphname = "Em-cy";
-lastChange = "2017-11-16 16:28:52 +0000";
+lastChange = "2017-11-18 19:48:47 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-position = "{695, 0}";
+position = "{676, 0}";
 }
 );
 components = (
@@ -33010,13 +33029,13 @@ unicode = 041C;
 {
 color = 4;
 glyphname = "En-cy";
-lastChange = "2017-11-16 16:28:52 +0000";
+lastChange = "2017-11-18 19:47:46 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-position = "{606, 0}";
+position = "{587, 0}";
 }
 );
 background = {
@@ -33088,13 +33107,17 @@ unicode = 041D;
 {
 color = 4;
 glyphname = "O-cy";
-lastChange = "2017-11-16 16:28:52 +0000";
+lastChange = "2017-11-18 19:48:24 +0000";
 layers = (
 {
 anchors = (
 {
+name = center;
+position = "{387, 353}";
+},
+{
 name = top;
-position = "{378, 705}";
+position = "{415, 705}";
 }
 );
 components = (
@@ -33233,13 +33256,13 @@ unicode = 0420;
 {
 color = 4;
 glyphname = "Es-cy";
-lastChange = "2017-11-16 16:28:54 +0000";
+lastChange = "2017-11-18 19:47:55 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-position = "{379, 0}";
+position = "{229, 0}";
 }
 );
 components = (
@@ -33269,13 +33292,13 @@ unicode = 0421;
 {
 color = 4;
 glyphname = "Te-cy";
-lastChange = "2017-11-16 16:28:54 +0000";
+lastChange = "2017-11-18 19:48:53 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-position = "{267, 0}";
+position = "{248, 0}";
 }
 );
 components = (
@@ -33307,13 +33330,13 @@ unicode = 0422;
 {
 color = 4;
 glyphname = "U-cy";
-lastChange = "2017-11-16 17:33:39 +0000";
+lastChange = "2017-11-18 19:48:31 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{319, 705}";
+position = "{356, 705}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -33435,13 +33458,13 @@ unicode = 0424;
 {
 color = 4;
 glyphname = "Ha-cy";
-lastChange = "2017-11-16 16:28:44 +0000";
+lastChange = "2017-11-18 19:49:01 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-position = "{615, 0}";
+position = "{533, 0}";
 },
 {
 name = center;
@@ -33843,13 +33866,13 @@ unicode = 042A;
 {
 color = 4;
 glyphname = "Yeru-cy";
-lastChange = "2017-11-16 18:21:31 +0000";
+lastChange = "2017-11-18 19:48:35 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{447, 705}";
+position = "{438, 705}";
 }
 );
 background = {
@@ -34188,9 +34211,15 @@ unicode = 0404;
 {
 color = 4;
 glyphname = "Ereversed-cy";
-lastChange = "2017-11-16 17:32:04 +0000";
+lastChange = "2017-11-18 19:49:09 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{406, 705}";
+}
+);
 background = {
 components = (
 {
@@ -34718,8 +34747,9 @@ width = 740;
 unicode = 0462;
 },
 {
+color = 3;
 glyphname = "Yusbig-cy";
-lastChange = "2017-11-16 15:30:55 +0000";
+lastChange = "2017-11-18 19:46:38 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -35053,33 +35083,34 @@ width = 722;
 unicode = 049E;
 },
 {
+color = 4;
 glyphname = "Kabashkir-cy";
-lastChange = "2017-11-16 15:33:24 +0000";
+lastChange = "2017-11-18 19:46:23 +0000";
 layers = (
 {
 background = {
 anchors = (
 {
 name = bottom;
-position = "{183, 0}";
+position = "{181, 0}";
 },
 {
 name = center;
-position = "{183, 353}";
+position = "{181, 353}";
 },
 {
 name = top;
-position = "{183, 705}";
+position = "{181, 705}";
 }
 );
 paths = (
 {
 closed = 1;
 nodes = (
-"288 657 LINE",
-"288 705 LINE",
-"-21 705 LINE",
-"-21 657 LINE"
+"286 657 LINE",
+"286 705 LINE",
+"-23 705 LINE",
+"-23 657 LINE"
 );
 }
 );
@@ -35087,7 +35118,7 @@ nodes = (
 components = (
 {
 name = "Ka-cy";
-transform = "{1, 0, 0, 1, 141, 0}";
+transform = "{1, 0, 0, 1, 139, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -35095,14 +35126,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"288 657 LINE",
+"284 657 LINE",
 "288 705 LINE",
 "49 705 LINE",
-"49 657 LINE"
+"45 657 LINE"
 );
 }
 );
-width = 789;
+width = 787;
 }
 );
 leftMetricsKey = T;
@@ -35502,14 +35533,15 @@ width = 613;
 unicode = 04B8;
 },
 {
+color = 4;
 glyphname = "Shha-cy";
-lastChange = "2017-11-16 15:30:58 +0000";
+lastChange = "2017-11-18 19:49:21 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-position = "{518, 0}";
+position = "{507, 0}";
 }
 );
 components = (
@@ -36035,15 +36067,15 @@ width = 578;
 unicode = 04D6;
 },
 {
-color = 6;
+color = 4;
 glyphname = "Schwa-cy";
-lastChange = "2017-11-16 16:17:55 +0000";
+lastChange = "2017-11-18 19:47:18 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{373, 705}";
+position = "{403, 705}";
 }
 );
 components = (
@@ -36234,15 +36266,15 @@ width = 755;
 unicode = 04E6;
 },
 {
-color = 6;
+color = 4;
 glyphname = "Obarred-cy";
-lastChange = "2017-11-16 16:18:01 +0000";
+lastChange = "2017-11-18 19:47:14 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{378, 705}";
+position = "{415, 705}";
 }
 );
 components = (
@@ -37019,13 +37051,13 @@ width = 645;
 {
 color = 4;
 glyphname = "a-cy";
-lastChange = "2017-11-16 16:37:50 +0000";
+lastChange = "2017-11-18 19:48:10 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{262, 485}";
+position = "{291, 485}";
 }
 );
 components = (
@@ -37362,13 +37394,13 @@ unicode = 0434;
 {
 color = 4;
 glyphname = "ie-cy";
-lastChange = "2017-11-16 16:37:50 +0000";
+lastChange = "2017-11-18 19:48:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{263, 485}";
+position = "{282, 485}";
 }
 );
 components = (
@@ -37674,9 +37706,23 @@ unicode = 048B;
 {
 color = 4;
 glyphname = "ka-cy";
-lastChange = "2017-11-18 19:40:35 +0000";
+lastChange = "2017-11-18 19:47:39 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottomright;
+position = "{471, 0}";
+},
+{
+name = center;
+position = "{255, 243}";
+},
+{
+name = top;
+position = "{274, 485}";
+}
+);
 guideLines = (
 {
 angle = 90;
@@ -37942,13 +37988,17 @@ unicode = 043D;
 {
 color = 4;
 glyphname = "o-cy";
-lastChange = "2017-11-16 16:37:47 +0000";
+lastChange = "2017-11-18 19:48:26 +0000";
 layers = (
 {
 anchors = (
 {
+name = center;
+position = "{271, 243}";
+},
+{
 name = top;
-position = "{271, 485}";
+position = "{290, 485}";
 }
 );
 components = (
@@ -38059,13 +38109,13 @@ unicode = 0440;
 {
 color = 4;
 glyphname = "es-cy";
-lastChange = "2017-11-16 16:37:38 +0000";
+lastChange = "2017-11-18 19:47:58 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-position = "{275, 0}";
+position = "{245, 0}";
 }
 );
 components = (
@@ -38128,13 +38178,13 @@ unicode = 0442;
 {
 color = 4;
 glyphname = "u-cy";
-lastChange = "2017-11-16 18:37:13 +0000";
+lastChange = "2017-11-18 19:48:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{280, 485}";
+position = "{273, 485}";
 }
 );
 components = (
@@ -38318,13 +38368,13 @@ unicode = 0444;
 {
 color = 4;
 glyphname = "ha-cy";
-lastChange = "2017-11-16 16:37:42 +0000";
+lastChange = "2017-11-18 19:49:04 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-position = "{490, 0}";
+position = "{401, 0}";
 },
 {
 name = center;
@@ -39637,8 +39687,9 @@ width = 531;
 unicode = 0463;
 },
 {
+color = 3;
 glyphname = "yusbig-cy";
-lastChange = "2017-11-16 15:30:55 +0000";
+lastChange = "2017-11-18 19:46:38 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -39974,8 +40025,9 @@ width = 511;
 unicode = 049F;
 },
 {
+color = 4;
 glyphname = "kabashkir-cy";
-lastChange = "2017-11-16 15:33:24 +0000";
+lastChange = "2017-11-18 19:46:23 +0000";
 layers = (
 {
 background = {
@@ -39983,10 +40035,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"251 440 LINE",
-"251 485 LINE",
-"27 485 LINE",
-"27 440 LINE"
+"250 440 LINE",
+"250 485 LINE",
+"26 485 LINE",
+"26 440 LINE"
 );
 }
 );
@@ -39994,7 +40046,7 @@ nodes = (
 components = (
 {
 name = "ka-cy";
-transform = "{1, 0, 0, 1, 115, 0}";
+transform = "{1, 0, 0, 1, 114, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -40002,14 +40054,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"251 440 LINE",
-"251 485 LINE",
-"27 485 LINE",
-"27 440 LINE"
+"248 440 LINE",
+"252 485 LINE",
+"28 485 LINE",
+"24 440 LINE"
 );
 }
 );
-width = 590;
+width = 589;
 }
 );
 leftMetricsKey = t;
@@ -40370,15 +40422,15 @@ width = 497;
 unicode = 04B9;
 },
 {
-color = 6;
+color = 4;
 glyphname = "shha-cy";
-lastChange = "2017-11-16 16:20:29 +0000";
+lastChange = "2017-11-18 19:49:26 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
-position = "{424, 0}";
+position = "{405, 0}";
 }
 );
 components = (
@@ -40911,15 +40963,15 @@ width = 525;
 unicode = 04D7;
 },
 {
-color = 6;
+color = 4;
 glyphname = "schwa-cy";
-lastChange = "2017-11-16 16:21:00 +0000";
+lastChange = "2017-11-18 19:47:21 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{263, 485}";
+position = "{282, 485}";
 }
 );
 components = (
@@ -41110,15 +41162,15 @@ width = 542;
 unicode = 04E7;
 },
 {
-color = 6;
+color = 4;
 glyphname = "obarred-cy";
-lastChange = "2017-11-16 16:21:11 +0000";
+lastChange = "2017-11-18 19:47:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{271, 485}";
+position = "{290, 485}";
 }
 );
 background = {
