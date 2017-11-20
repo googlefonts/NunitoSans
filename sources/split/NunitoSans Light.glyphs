@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"/Dzhe-cy/Tse-cy/De-cy/Shcha-cy/Eltail-cy   /__descender-cy.case    /__tail-cy.case  /Kadescender-cy/Zhedescender-cy/Hadescender-cy \012/dzhe-cy/tse-cy/de-cy/shcha-cy/eltail-cy  /__descender-cy   /__tail-cy   /kadescender-cy/zhedescender-cy/hadescender-cy \012\012/Tse-cy/tse-cy/o-cy/tse-cy/o-cy"
-);
 classes = (
 {
 automatic = 1;
@@ -34000,7 +33997,7 @@ unicode = 0429;
 },
 {
 glyphname = "Dzhe-cy";
-lastChange = "2017-11-20 11:54:12 +0000";
+lastChange = "2017-11-20 12:11:22 +0000";
 layers = (
 {
 background = {
@@ -34008,18 +34005,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"301 48 LINE",
-"301 705 LINE",
-"247 705 LINE",
-"247 48 LINE",
-"-176 48 LINE",
-"-176 705 LINE",
-"-230 705 LINE",
-"-230 0 LINE",
-"346 0 LINE",
-"346 -169 LINE",
-"400 -169 LINE",
-"400 48 LINE"
+"300 48 LINE",
+"300 705 LINE",
+"246 705 LINE",
+"246 48 LINE",
+"-177 48 LINE",
+"-177 705 LINE",
+"-231 705 LINE",
+"-231 0 LINE",
+"345 0 LINE",
+"345 -169 LINE",
+"399 -169 LINE",
+"399 48 LINE"
 );
 }
 );
@@ -34029,22 +34026,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"401 -169 LINE",
-"401 0 LINE",
-"654 0 LINE",
-"654 705 LINE",
-"600 705 LINE",
-"600 48 LINE",
-"148 48 LINE",
-"148 705 LINE",
-"94 705 LINE",
-"94 0 LINE",
-"347 0 LINE",
-"347 -169 LINE"
+"400 -169 LINE",
+"400 0 LINE",
+"653 0 LINE",
+"653 705 LINE",
+"599 705 LINE",
+"599 48 LINE",
+"147 48 LINE",
+"147 705 LINE",
+"93 705 LINE",
+"93 0 LINE",
+"346 0 LINE",
+"346 -169 LINE"
 );
 }
 );
-width = 746;
+width = 745;
 }
 );
 leftKerningGroup = H;
@@ -39261,7 +39258,7 @@ unicode = 0449;
 },
 {
 glyphname = "dzhe-cy";
-lastChange = "2017-11-20 12:04:17 +0000";
+lastChange = "2017-11-20 12:10:34 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
