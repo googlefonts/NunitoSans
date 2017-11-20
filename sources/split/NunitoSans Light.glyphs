@@ -1,5 +1,15 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/Eldescender-cy/EnLeftHook-cy/A-cy/Be-cy/Ve-cy/Ge-cy/Gje-cy/Gheupturn-cy/De-cy/Ie-cy/Iegrave-cy/Io-cy/Zhe-cy/Ze-cy/Ii-cy/Iishort-cy/Iigrave-cy/Iishorttail-cy/Ka-cy/Kje-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ushort-cy/Ef-cy/Ha-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Dzhe-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Dze-cy/E-cy/Ereversed-cy/I-cy/Yi-cy/Je-cy/Tshe-cy/Iu-cy/Ia-cy/Dje-cy/Yat-cy/Yusbig-cy/Fita-cy/Izhitsa-cy/Ghestroke-cy/Ghemiddlehook-cy/Zhedescender-cy/Zedescender-cy/Kadescender-cy/Kaverticalstroke-cy/Kastroke-cy/Kabashkir-cy/Endescender-cy/Pedescender-cy/Haabkhasian-cy/Esdescender-cy/Tedescender-cy/Ustrait-cy/Ustraitstroke-cy/Hadescender-cy/Chedescender-cy/Cheverticalstroke-cy/Shha-cy/Shhadescender-cy/Cheabkhasian-cy/Chedescenderabkhasian-cy/Palochka-cy/Zhebreve-cy/Kahook-cy/Eltail-cy/Enhook-cy/Entail-cy/Chekhakassian-cy/Emtail-cy/Abreve-cy/Adieresis-cy/Iebreve-cy/Schwa-cy/Schwadieresis-cy/Zhedieresis-cy/Zedieresis-cy/Dzeabkhasian-cy/Imacron-cy/Idieresis-cy/Odieresis-cy/Obarred-cy/Obarreddieresis-cy/Edieresis-cy/Umacron-cy/Udieresis-cy/Uhungarumlaut-cy/Chedieresis-cy/Gedescender-cy/Yerudieresis-cy/Gestrokehook-cy/Hahook-cy/Hastroke-cy/Reversedze-cy/Elhook-cy/Qa-cy/We-cy/Semisoftsign-cy/Ertick-cy/Esdescender-cy.loclBSH/Esdescender-cy.loclCHU/Ghestroke-cy.loclBSH/I-cy.loclBSH/Zedescender-cy.loclBSH/Zedescender-cy.loclCHU",
+"/Chedescender-cy/Tse-cy/En-cy/Entail-cy/En-cy O\012/__tail-cy \012/eltail-cy/tse-cy \012",
+"/Qa-cy/We-cy  QW",
+"/Hahook-cy/Hastroke-cy X",
+"/Zhe-cy/Zhebreve-cy/Zhedieresis-cy",
+"I/I-cy",
+"/Ertick-cy P",
+"/Esdescender-cy.loclBSH C"
+);
 classes = (
 {
 automatic = 1;
@@ -32164,7 +32174,7 @@ rightKerningGroup = ord;
 {
 color = 6;
 glyphname = "Eldescender-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:19:24 +0000";
 layers = (
 {
 components = (
@@ -32181,12 +32191,12 @@ width = 778;
 }
 );
 leftKerningGroup = "El-cy";
-rightKerningGroup = "El-cy";
+rightKerningGroup = "Tse-cy";
 unicode = 052E;
 },
 {
 glyphname = "EnLeftHook-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:19:08 +0000";
 layers = (
 {
 background = {
@@ -32273,8 +32283,8 @@ nodes = (
 width = 753;
 }
 );
-leftKerningGroup = "EnLeftHook-cy";
-rightKerningGroup = "EnLeftHook-cy";
+leftKerningGroup = H;
+rightKerningGroup = H;
 rightMetricsKey = "En-cy";
 unicode = 0528;
 },
@@ -32330,7 +32340,7 @@ unicode = 0410;
 },
 {
 glyphname = "Be-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -32371,7 +32381,7 @@ nodes = (
 width = 634;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
 rightKerningGroup = "Be-cy";
 unicode = 0411;
@@ -32421,7 +32431,7 @@ unicode = 0412;
 },
 {
 glyphname = "Ge-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 anchors = (
@@ -32455,7 +32465,7 @@ nodes = (
 width = 537;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
 rightKerningGroup = "Ge-cy";
 unicode = 0413;
@@ -32463,7 +32473,7 @@ unicode = 0413;
 {
 color = 6;
 glyphname = "Gje-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 components = (
@@ -32479,13 +32489,13 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 537;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 rightKerningGroup = "Ge-cy";
 unicode = 0403;
 },
 {
 glyphname = "Gheupturn-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -32507,7 +32517,7 @@ nodes = (
 width = 534;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
 rightKerningGroup = "Ge-cy";
 rightMetricsKey = "Ge-cy";
@@ -32686,7 +32696,7 @@ unicode = 0401;
 },
 {
 glyphname = "Zhe-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:27:14 +0000";
 layers = (
 {
 anchors = (
@@ -32899,8 +32909,8 @@ nodes = (
 width = 902;
 }
 );
-leftKerningGroup = X;
-rightKerningGroup = K;
+leftKerningGroup = "Zhe-cy";
+rightKerningGroup = "Ka-cy";
 unicode = 0416;
 },
 {
@@ -32976,7 +32986,7 @@ unicode = 0417;
 },
 {
 glyphname = "Ii-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 anchors = (
@@ -33010,16 +33020,16 @@ nodes = (
 width = 750;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = I;
+rightKerningGroup = H;
 rightMetricsKey = "En-cy";
 unicode = 0418;
 },
 {
 color = 6;
 glyphname = "Iishort-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 components = (
@@ -33035,14 +33045,14 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 750;
 }
 );
-leftKerningGroup = I;
-rightKerningGroup = I;
+leftKerningGroup = H;
+rightKerningGroup = H;
 unicode = 0419;
 },
 {
 color = 6;
 glyphname = "Iigrave-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 components = (
@@ -33058,14 +33068,14 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 750;
 }
 );
-leftKerningGroup = I;
-rightKerningGroup = I;
+leftKerningGroup = H;
+rightKerningGroup = H;
 unicode = 040D;
 },
 {
 color = 6;
 glyphname = "Iishorttail-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:24:32 +0000";
 layers = (
 {
 components = (
@@ -33082,16 +33092,16 @@ transform = "{1, 0, 0, 1, 603, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 775;
+width = 786;
 }
 );
-leftKerningGroup = I;
-rightKerningGroup = I;
+leftKerningGroup = H;
+rightKerningGroup = "Tse-cy";
 unicode = 048A;
 },
 {
 glyphname = "Ka-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:26:41 +0000";
 layers = (
 {
 anchors = (
@@ -33242,14 +33252,14 @@ nodes = (
 width = 624;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = K;
+rightKerningGroup = "Ka-cy";
 unicode = 041A;
 },
 {
 glyphname = "Kje-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 components = (
@@ -33265,13 +33275,13 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 628;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 rightKerningGroup = K;
 unicode = 040C;
 },
 {
 glyphname = "El-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 anchors = (
@@ -33306,7 +33316,7 @@ width = 742;
 }
 );
 leftKerningGroup = "El-cy";
-rightKerningGroup = I;
+rightKerningGroup = H;
 rightMetricsKey = "En-cy";
 unicode = 041B;
 },
@@ -33448,7 +33458,7 @@ unicode = 041E;
 },
 {
 glyphname = "Pe-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 anchors = (
@@ -33476,9 +33486,9 @@ nodes = (
 width = 741;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = I;
+rightKerningGroup = H;
 rightMetricsKey = "En-cy";
 unicode = 041F;
 },
@@ -33662,7 +33672,7 @@ unicode = 040E;
 },
 {
 glyphname = "Ef-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:27:58 +0000";
 layers = (
 {
 background = {
@@ -33785,8 +33795,8 @@ nodes = (
 width = 864;
 }
 );
-leftKerningGroup = O;
-rightKerningGroup = O;
+leftKerningGroup = "Ef-cy";
+rightKerningGroup = "Ef-cy";
 unicode = 0424;
 },
 {
@@ -33837,7 +33847,7 @@ unicode = 0425;
 },
 {
 glyphname = "Che-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 anchors = (
@@ -33883,12 +33893,12 @@ width = 632;
 );
 leftKerningGroup = "Che-cy";
 leftMetricsKey = "Che-cy";
-rightKerningGroup = I;
+rightKerningGroup = H;
 unicode = 0427;
 },
 {
 glyphname = "Tse-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 background = {
@@ -33935,7 +33945,7 @@ nodes = (
 width = 753;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
 rightKerningGroup = "Tse-cy";
 rightMetricsKey = "De-cy";
@@ -33943,7 +33953,7 @@ unicode = 0426;
 },
 {
 glyphname = "Sha-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -33969,15 +33979,15 @@ nodes = (
 width = 1018;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = I;
+rightKerningGroup = H;
 rightMetricsKey = "En-cy";
 unicode = 0428;
 },
 {
 glyphname = "Shcha-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -34007,7 +34017,7 @@ nodes = (
 width = 1054;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
 rightKerningGroup = "Tse-cy";
 rightMetricsKey = "De-cy";
@@ -34015,7 +34025,7 @@ unicode = 0429;
 },
 {
 glyphname = "Dzhe-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -34041,14 +34051,14 @@ nodes = (
 width = 746;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = I;
+rightKerningGroup = H;
 unicode = 040F;
 },
 {
 glyphname = "Softsign-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -34087,7 +34097,7 @@ nodes = (
 width = 624;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
 rightKerningGroup = "Softsign-cy";
 unicode = 042C;
@@ -34142,7 +34152,7 @@ unicode = 042A;
 },
 {
 glyphname = "Yeru-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 anchors = (
@@ -34196,9 +34206,9 @@ nodes = (
 width = 802;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = I;
+rightKerningGroup = H;
 rightMetricsKey = "En-cy";
 unicode = 042B;
 },
@@ -34305,7 +34315,7 @@ unicode = 0409;
 },
 {
 glyphname = "Nje-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 background = {
@@ -34396,7 +34406,7 @@ nodes = (
 width = 1059;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
 rightKerningGroup = "Softsign-cy";
 rightMetricsKey = "Softsign-cy";
@@ -34706,7 +34716,7 @@ unicode = 040B;
 },
 {
 glyphname = "Iu-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -34756,7 +34766,7 @@ nodes = (
 width = 997;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
 rightKerningGroup = O;
 rightMetricsKey = O;
@@ -34764,7 +34774,7 @@ unicode = 042E;
 },
 {
 glyphname = "Ia-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:28:47 +0000";
 layers = (
 {
 background = {
@@ -34856,7 +34866,7 @@ width = 682;
 }
 );
 leftKerningGroup = "Ia-cy";
-rightKerningGroup = I;
+rightKerningGroup = H;
 rightMetricsKey = "En-cy";
 unicode = 042F;
 },
@@ -34911,7 +34921,7 @@ unicode = 0402;
 },
 {
 glyphname = "Yat-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 background = {
@@ -34966,7 +34976,7 @@ nodes = (
 width = 690;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = T;
 rightKerningGroup = "Softsign-cy";
 rightMetricsKey = "Softsign-cy";
@@ -34974,7 +34984,7 @@ unicode = 0462;
 },
 {
 glyphname = "Yusbig-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:29:02 +0000";
 layers = (
 {
 background = {
@@ -35152,16 +35162,16 @@ nodes = (
 width = 902;
 }
 );
-leftKerningGroup = X;
+leftKerningGroup = "Zhe-cy";
 leftMetricsKey = "Zhe-cy";
-rightKerningGroup = X;
+rightKerningGroup = "Ka-cy";
 rightMetricsKey = "Zhe-cy";
 unicode = 046A;
 },
 {
 color = 6;
 glyphname = "Fita-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:29:08 +0000";
 layers = (
 {
 components = (
@@ -35173,8 +35183,8 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 755;
 }
 );
-leftKerningGroup = "Obarred-cy";
-rightKerningGroup = "Obarred-cy";
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 0472;
 },
 {
@@ -35214,7 +35224,7 @@ unicode = 0474;
 {
 color = 6;
 glyphname = "Ghestroke-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 components = (
@@ -35230,13 +35240,13 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 537;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 rightKerningGroup = "Ge-cy";
 unicode = 0492;
 },
 {
 glyphname = "Ghemiddlehook-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -35278,14 +35288,14 @@ nodes = (
 width = 630;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
 rightKerningGroup = "Tshe-cy";
 unicode = 0494;
 },
 {
 glyphname = "Zhedescender-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:27:20 +0000";
 layers = (
 {
 background = {
@@ -35357,7 +35367,7 @@ nodes = (
 width = 982;
 }
 );
-leftKerningGroup = X;
+leftKerningGroup = "Zhe-cy";
 leftMetricsKey = "Zhe-cy";
 rightKerningGroup = "Kadescender-cy";
 rightMetricsKey = "Kadescender-cy";
@@ -35396,7 +35406,7 @@ unicode = 0498;
 },
 {
 glyphname = "Kadescender-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 background = {
@@ -35471,14 +35481,14 @@ nodes = (
 width = 687;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
 rightKerningGroup = "Kadescender-cy";
 unicode = 049A;
 },
 {
 glyphname = "Kaverticalstroke-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:26:41 +0000";
 layers = (
 {
 background = {
@@ -35541,15 +35551,15 @@ nodes = (
 width = 628;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = K;
+rightKerningGroup = "Ka-cy";
 rightMetricsKey = "Ka-cy";
 unicode = 049C;
 },
 {
 glyphname = "Kastroke-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:26:41 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -35590,14 +35600,14 @@ nodes = (
 width = 717;
 }
 );
-leftKerningGroup = I;
-rightKerningGroup = K;
+leftKerningGroup = H;
+rightKerningGroup = "Ka-cy";
 rightMetricsKey = "Ka-cy";
 unicode = 049E;
 },
 {
 glyphname = "Kabashkir-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:26:41 +0000";
 layers = (
 {
 background = {
@@ -35650,13 +35660,13 @@ width = 752;
 );
 leftKerningGroup = T;
 leftMetricsKey = T;
-rightKerningGroup = K;
+rightKerningGroup = "Ka-cy";
 unicode = 04A0;
 },
 {
 color = 6;
 glyphname = "Endescender-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:19:33 +0000";
 layers = (
 {
 components = (
@@ -35674,13 +35684,13 @@ width = 789;
 );
 leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = H;
+rightKerningGroup = "Tse-cy";
 unicode = 04A2;
 },
 {
 color = 6;
 glyphname = "Pedescender-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:19:33 +0000";
 layers = (
 {
 components = (
@@ -35696,14 +35706,14 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 777;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = I;
+rightKerningGroup = "Tse-cy";
 unicode = 0524;
 },
 {
 glyphname = "Haabkhasian-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:30:12 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -35786,7 +35796,7 @@ width = 793;
 );
 leftKerningGroup = O;
 leftMetricsKey = O;
-rightKerningGroup = O;
+rightKerningGroup = "Haabkhasian-cy";
 unicode = 04A8;
 },
 {
@@ -35933,7 +35943,7 @@ unicode = 04B2;
 {
 color = 6;
 glyphname = "Chedescender-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:19:38 +0000";
 layers = (
 {
 components = (
@@ -35951,12 +35961,12 @@ width = 668;
 );
 leftKerningGroup = "Che-cy";
 leftMetricsKey = "Che-cy";
-rightKerningGroup = I;
+rightKerningGroup = "Tse-cy";
 unicode = 04B6;
 },
 {
 glyphname = "Cheverticalstroke-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 background = {
@@ -35988,14 +35998,14 @@ width = 632;
 );
 leftKerningGroup = "Che-cy";
 leftMetricsKey = "Che-cy";
-rightKerningGroup = I;
+rightKerningGroup = H;
 rightMetricsKey = "En-cy";
 unicode = 04B8;
 },
 {
 color = 6;
 glyphname = "Shha-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 anchors = (
@@ -36014,7 +36024,7 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 632;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
 rightKerningGroup = "Tshe-cy";
 unicode = 04BA;
@@ -36022,7 +36032,7 @@ unicode = 04BA;
 {
 color = 6;
 glyphname = "Shhadescender-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:30:28 +0000";
 layers = (
 {
 components = (
@@ -36038,8 +36048,8 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 668;
 }
 );
-leftKerningGroup = I;
-rightKerningGroup = "Tshe-cy";
+leftKerningGroup = H;
+rightKerningGroup = "Tse-cy";
 unicode = 0526;
 },
 {
@@ -36157,7 +36167,7 @@ unicode = 04C0;
 },
 {
 glyphname = "Zhebreve-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:27:20 +0000";
 layers = (
 {
 components = (
@@ -36173,13 +36183,13 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 940;
 }
 );
-leftKerningGroup = X;
-rightKerningGroup = K;
+leftKerningGroup = "Zhe-cy";
+rightKerningGroup = "Ka-cy";
 unicode = 04C1;
 },
 {
 glyphname = "Kahook-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:30:42 +0000";
 layers = (
 {
 background = {
@@ -36258,15 +36268,15 @@ nodes = (
 width = 626;
 }
 );
-leftKerningGroup = "Kahook-cy";
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = "Kahook-cy";
+rightKerningGroup = "Ka-cy";
 rightMetricsKey = "Ka-cy";
 unicode = 04C3;
 },
 {
 glyphname = "Eltail-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:24:32 +0000";
 layers = (
 {
 background = {
@@ -36306,16 +36316,16 @@ transform = "{1, 0, 0, 1, 595, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 767;
+width = 778;
 }
 );
 leftKerningGroup = "El-cy";
-rightKerningGroup = I;
+rightKerningGroup = "Tse-cy";
 unicode = 04C5;
 },
 {
 glyphname = "Enhook-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:30:53 +0000";
 layers = (
 {
 hints = (
@@ -36373,15 +36383,15 @@ nodes = (
 width = 753;
 }
 );
-leftKerningGroup = "Enhook-cy";
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = "Enhook-cy";
+rightKerningGroup = H;
 rightMetricsKey = "En-cy";
 unicode = 04C7;
 },
 {
 glyphname = "Entail-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:24:32 +0000";
 layers = (
 {
 background = {
@@ -36443,17 +36453,17 @@ type = TopGhost;
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 778;
+width = 789;
 }
 );
 leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = H;
+rightKerningGroup = "Tse-cy";
 unicode = 04C9;
 },
 {
 glyphname = "Chekhakassian-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -36500,14 +36510,14 @@ width = 632;
 );
 leftKerningGroup = "Che-cy";
 leftMetricsKey = "Che-cy";
-rightKerningGroup = I;
+rightKerningGroup = H;
 rightMetricsKey = "En-cy";
 unicode = 04CB;
 },
 {
 color = 6;
 glyphname = "Emtail-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:24:32 +0000";
 layers = (
 {
 components = (
@@ -36520,11 +36530,11 @@ transform = "{1, 0, 0, 1, 695, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 865;
+width = 876;
 }
 );
 leftKerningGroup = H;
-rightKerningGroup = H;
+rightKerningGroup = "Tse-cy";
 unicode = 04CD;
 },
 {
@@ -36646,7 +36656,7 @@ unicode = 04DA;
 },
 {
 glyphname = "Zhedieresis-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:27:20 +0000";
 layers = (
 {
 components = (
@@ -36662,8 +36672,8 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 940;
 }
 );
-leftKerningGroup = X;
-rightKerningGroup = K;
+leftKerningGroup = "Zhe-cy";
+rightKerningGroup = "Ka-cy";
 unicode = 04DC;
 },
 {
@@ -36746,7 +36756,7 @@ unicode = 04E0;
 {
 color = 6;
 glyphname = "Imacron-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 components = (
@@ -36762,14 +36772,14 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 750;
 }
 );
-leftKerningGroup = I;
-rightKerningGroup = I;
+leftKerningGroup = H;
+rightKerningGroup = H;
 unicode = 04E2;
 },
 {
 color = 6;
 glyphname = "Idieresis-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 components = (
@@ -36785,8 +36795,8 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 750;
 }
 );
-leftKerningGroup = I;
-rightKerningGroup = I;
+leftKerningGroup = H;
+rightKerningGroup = H;
 unicode = 04E4;
 },
 {
@@ -36967,7 +36977,7 @@ unicode = 04F2;
 {
 color = 6;
 glyphname = "Chedieresis-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 components = (
@@ -36984,13 +36994,13 @@ width = 632;
 }
 );
 leftKerningGroup = "Che-cy";
-rightKerningGroup = I;
+rightKerningGroup = H;
 unicode = 04F4;
 },
 {
 color = 6;
 glyphname = "Gedescender-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 components = (
@@ -37006,7 +37016,7 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 573;
 }
 );
-leftKerningGroup = I;
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
 rightKerningGroup = "Ge-cy";
 unicode = 04F6;
@@ -37014,7 +37024,7 @@ unicode = 04F6;
 {
 color = 6;
 glyphname = "Yerudieresis-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:18:08 +0000";
 layers = (
 {
 components = (
@@ -37030,13 +37040,13 @@ layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 802;
 }
 );
-leftKerningGroup = I;
-rightKerningGroup = I;
+leftKerningGroup = H;
+rightKerningGroup = H;
 unicode = 04F8;
 },
 {
 glyphname = "Gestrokehook-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:31:40 +0000";
 layers = (
 {
 background = {
@@ -37089,14 +37099,14 @@ nodes = (
 width = 537;
 }
 );
-leftKerningGroup = "Gestrokehook-cy";
-rightKerningGroup = "Gestrokehook-cy";
+leftKerningGroup = H;
+rightKerningGroup = "Ge-cy";
 rightMetricsKey = "Ge-cy";
 unicode = 04FA;
 },
 {
 glyphname = "Hahook-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:25:34 +0000";
 layers = (
 {
 hints = (
@@ -37153,14 +37163,14 @@ nodes = (
 width = 617;
 }
 );
-leftKerningGroup = "Hahook-cy";
+leftKerningGroup = X;
 leftMetricsKey = X;
-rightKerningGroup = "Hahook-cy";
+rightKerningGroup = X;
 unicode = 04FC;
 },
 {
 glyphname = "Hastroke-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:25:26 +0000";
 layers = (
 {
 components = (
@@ -37183,15 +37193,15 @@ nodes = (
 width = 635;
 }
 );
-leftKerningGroup = "Hastroke-cy";
+leftKerningGroup = X;
 leftMetricsKey = X;
-rightKerningGroup = "Hastroke-cy";
+rightKerningGroup = X;
 rightMetricsKey = X;
 unicode = 04FE;
 },
 {
 glyphname = "Reversedze-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:25:20 +0000";
 layers = (
 {
 background = {
@@ -37254,15 +37264,15 @@ nodes = (
 width = 649;
 }
 );
-leftKerningGroup = "Reversedze-cy";
+leftKerningGroup = C;
 leftMetricsKey = C;
-rightKerningGroup = "Reversedze-cy";
+rightKerningGroup = C;
 rightMetricsKey = C;
 unicode = 0510;
 },
 {
 glyphname = "Elhook-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:25:17 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -37298,9 +37308,9 @@ nodes = (
 width = 742;
 }
 );
-leftKerningGroup = "Elhook-cy";
+leftKerningGroup = "El-cy";
 leftMetricsKey = "El-cy";
-rightKerningGroup = "Elhook-cy";
+rightKerningGroup = H;
 rightMetricsKey = "En-cy";
 unicode = 0512;
 },
@@ -37344,7 +37354,7 @@ unicode = 051C;
 },
 {
 glyphname = "Semisoftsign-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:32:02 +0000";
 layers = (
 {
 background = {
@@ -37425,14 +37435,14 @@ nodes = (
 width = 660;
 }
 );
-leftKerningGroup = "Semisoftsign-cy";
-rightKerningGroup = "Semisoftsign-cy";
+leftKerningGroup = H;
+rightKerningGroup = "Softsign-cy";
 rightMetricsKey = "Softsign-cy";
 unicode = 048C;
 },
 {
 glyphname = "Ertick-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:32:05 +0000";
 layers = (
 {
 components = (
@@ -37455,9 +37465,9 @@ nodes = (
 width = 636;
 }
 );
-leftKerningGroup = "Ertick-cy";
+leftKerningGroup = H;
 leftMetricsKey = "En-cy";
-rightKerningGroup = "Ertick-cy";
+rightKerningGroup = P;
 rightMetricsKey = P;
 unicode = 048E;
 },
@@ -41607,7 +41617,7 @@ unicode = 04C4;
 },
 {
 glyphname = "eltail-cy";
-lastChange = "2017-11-20 11:14:56 +0000";
+lastChange = "2017-11-20 11:24:06 +0000";
 layers = (
 {
 components = (
@@ -41620,7 +41630,7 @@ transform = "{1, 0, 0, 1, 410, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 566;
+width = 563;
 }
 );
 leftKerningGroup = "el-cy";
@@ -74465,7 +74475,7 @@ width = 178;
 color = 11;
 export = 0;
 glyphname = "__tail-cy";
-lastChange = "2017-11-20 11:16:40 +0000";
+lastChange = "2017-11-20 11:24:06 +0000";
 layers = (
 {
 anchors = (
@@ -74479,12 +74489,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"66 -144 LINE",
-"130 48 LINE",
-"5 48 LINE",
-"5 0 LINE",
-"59 0 LINE",
-"11 -144 LINE"
+"-328 0 LINE",
+"77 0 LINE",
+"77 -128 LINE",
+"128 -128 LINE",
+"128 45 LINE",
+"54 45 LINE",
+"54 485 LINE",
+"0 485 LINE",
+"0 45 LINE",
+"-274 45 LINE",
+"-274 485 LINE",
+"-328 485 LINE"
 );
 }
 );
@@ -74495,15 +74511,15 @@ paths = (
 closed = 1;
 nodes = (
 "66 -144 LINE",
-"130 48 LINE",
-"0 48 LINE",
+"130 45 LINE",
+"0 45 LINE",
 "0 0 LINE",
 "59 0 LINE",
 "11 -144 LINE"
 );
 }
 );
-width = 20;
+width = 17;
 }
 );
 },
@@ -74511,7 +74527,7 @@ width = 20;
 color = 11;
 export = 0;
 glyphname = "__tail-cy.case";
-lastChange = "2017-11-20 11:16:42 +0000";
+lastChange = "2017-11-20 11:23:41 +0000";
 layers = (
 {
 anchors = (
@@ -74520,21 +74536,42 @@ name = _bottomright;
 position = "{0, 0}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"54 48 LINE",
+"54 705 LINE",
+"0 705 LINE",
+"0 48 LINE",
+"-423 48 LINE",
+"-423 705 LINE",
+"-477 705 LINE",
+"-477 0 LINE",
+"99 0 LINE",
+"99 -169 LINE",
+"153 -169 LINE",
+"153 48 LINE"
+);
+}
+);
+};
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 paths = (
 {
 closed = 1;
 nodes = (
-"61 -144 LINE",
-"125 48 LINE",
+"89 -144 LINE",
+"153 48 LINE",
 "0 48 LINE",
 "0 0 LINE",
-"54 0 LINE",
-"6 -144 LINE"
+"82 0 LINE",
+"34 -144 LINE"
 );
 }
 );
-width = 25;
+width = 36;
 }
 );
 },

@@ -1,7 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"/zedescender-cy/esdescender-cy \012/en-cy/ze-cy/en-cy \012/en-cy/kahook-cy/en-cy"
+"/__tail-cy"
 );
 classes = (
 {
@@ -71929,7 +71929,7 @@ rightKerningGroup = tildecomb;
 color = 11;
 export = 0;
 glyphname = "__tail-cy.case";
-lastChange = "2017-11-20 10:37:34 +0000";
+lastChange = "2017-11-20 11:23:51 +0000";
 layers = (
 {
 anchors = (
@@ -71938,21 +71938,36 @@ name = _bottomright;
 position = "{-19, 0}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"58 -144 LINE",
+"138 48 LINE",
+"-15 48 LINE",
+"-19 0 LINE",
+"63 0 LINE",
+"3 -144 LINE"
+);
+}
+);
+};
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 paths = (
 {
 closed = 1;
 nodes = (
-"30 -144 LINE",
-"110 48 LINE",
+"58 -144 LINE",
+"138 48 LINE",
 "-15 48 LINE",
 "-19 0 LINE",
-"35 0 LINE",
-"-25 -144 LINE"
+"63 0 LINE",
+"3 -144 LINE"
 );
 }
 );
-width = 25;
+width = 36;
 }
 );
 },
@@ -71960,7 +71975,7 @@ width = 25;
 color = 11;
 export = 0;
 glyphname = "__tail-cy";
-lastChange = "2017-11-20 10:37:19 +0000";
+lastChange = "2017-11-20 11:24:15 +0000";
 layers = (
 {
 anchors = (
@@ -71969,21 +71984,36 @@ name = _bottomright;
 position = "{-19, 0}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"46 -144 LINE",
+"110 45 LINE",
+"-20 45 LINE",
+"-20 0 LINE",
+"39 0 LINE",
+"-9 -144 LINE"
+);
+}
+);
+};
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 paths = (
 {
 closed = 1;
 nodes = (
 "40 -144 LINE",
-"115 48 LINE",
-"-15 48 LINE",
+"114 45 LINE",
+"-16 45 LINE",
 "-19 0 LINE",
 "40 0 LINE",
 "-15 -144 LINE"
 );
 }
 );
-width = 20;
+width = 17;
 }
 );
 },
