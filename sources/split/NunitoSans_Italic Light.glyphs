@@ -1,12 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"/Dzeabkhasian-cy/dzeabkhasian-cy",
-"/Kastroke-cy/kastroke-cy",
-"/Zhedescender-cy/zhedescender-cy/Kadescender-cy/kadescender-cy/tse-cy/Kaverticalstroke-cy/kaverticalstroke-cy",
-"/De-cy",
-"/Yusbig-cy",
-"/yusbig-cy"
+"/Kaverticalstroke-cy/Cheverticalstroke-cy/kaverticalstroke-cy/cheverticalstroke-cy"
 );
 classes = (
 {
@@ -35598,7 +35593,7 @@ unicode = 049A;
 {
 color = 4;
 glyphname = "Kaverticalstroke-cy";
-lastChange = "2017-11-20 09:31:03 +0000";
+lastChange = "2017-11-20 09:45:08 +0000";
 layers = (
 {
 background = {
@@ -35611,12 +35606,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"302 522 LINE",
-"249 522 LINE",
-"237 370 LINE",
-"236 346 LINE",
-"223 194 LINE",
-"276 194 LINE"
+"293 516 LINE",
+"240 516 LINE",
+"214 198 LINE",
+"267 198 LINE"
 );
 }
 );
@@ -35631,12 +35624,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"302 522 LINE",
-"249 522 LINE",
-"237 370 LINE",
-"236 346 LINE",
-"223 194 LINE",
-"276 194 LINE"
+"293 516 LINE",
+"240 516 LINE",
+"214 198 LINE",
+"267 198 LINE"
 );
 }
 );
@@ -36097,13 +36088,24 @@ unicode = 04B6;
 {
 color = 4;
 glyphname = "Cheverticalstroke-cy";
-lastChange = "2017-11-18 19:53:28 +0000";
+lastChange = "2017-11-20 09:45:20 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = "Che-cy";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"341 457 LINE",
+"288 457 LINE",
+"262 139 LINE",
+"315 139 LINE"
+);
 }
 );
 };
@@ -36117,10 +36119,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"311 139 LINE",
-"336 457 LINE",
-"283 457 LINE",
-"258 139 LINE"
+"341 457 LINE",
+"288 457 LINE",
+"262 139 LINE",
+"315 139 LINE"
 );
 }
 );
@@ -40869,13 +40871,24 @@ unicode = 049B;
 {
 color = 4;
 glyphname = "kaverticalstroke-cy";
-lastChange = "2017-11-20 09:31:03 +0000";
+lastChange = "2017-11-20 09:45:31 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = "ka-cy";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"255 381 LINE",
+"205 381 LINE",
+"185 121 LINE",
+"235 121 LINE"
+);
 }
 );
 };
@@ -40889,10 +40902,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"268 386 LINE",
-"215 386 LINE",
-"194 111 LINE",
-"247 111 LINE"
+"255 381 LINE",
+"205 381 LINE",
+"185 121 LINE",
+"235 121 LINE"
 );
 }
 );
@@ -41374,13 +41387,24 @@ unicode = 04B7;
 {
 color = 4;
 glyphname = "cheverticalstroke-cy";
-lastChange = "2017-11-18 19:53:20 +0000";
+lastChange = "2017-11-20 09:45:44 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = "che-cy";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"265 335 LINE",
+"215 335 LINE",
+"195 75 LINE",
+"245 75 LINE"
+);
 }
 );
 };
@@ -41394,10 +41418,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"263 336 LINE",
-"211 336 LINE",
-"191 76 LINE",
-"243 76 LINE"
+"265 335 LINE",
+"215 335 LINE",
+"195 75 LINE",
+"245 75 LINE"
 );
 }
 );
