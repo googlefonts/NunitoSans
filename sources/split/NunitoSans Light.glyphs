@@ -54872,7 +54872,7 @@ unicode = 20B2;
 },
 {
 glyphname = hryvnia;
-lastChange = "2017-11-18 20:18:15 +0000";
+lastChange = "2017-11-20 11:45:52 +0000";
 layers = (
 {
 background = {
@@ -56487,7 +56487,7 @@ width = 1361;
 {
 color = 4;
 glyphname = tenge;
-lastChange = "2017-11-14 18:19:28 +0000";
+lastChange = "2017-11-20 11:45:39 +0000";
 layers = (
 {
 background = {
@@ -56571,12 +56571,14 @@ nodes = (
 width = 588;
 }
 );
+leftKerningGroup = T;
+rightKerningGroup = T;
 unicode = 20B8;
 },
 {
 color = 4;
 glyphname = tugrik;
-lastChange = "2017-11-14 18:19:09 +0000";
+lastChange = "2017-11-20 11:45:39 +0000";
 layers = (
 {
 components = (
@@ -56608,6 +56610,8 @@ nodes = (
 width = 588;
 }
 );
+leftKerningGroup = T;
+rightKerningGroup = T;
 unicode = 20AE;
 },
 {
