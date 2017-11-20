@@ -1,7 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"/ucaron/gstroke k/kcaron/ezhcaron/hcaron/ezh/leftanglebracket-math 5/rightanglebracket-math/commercialMinusSign",
+"/ucaron/gstroke/kcaron/ezhcaron/hcaron/Ccaron/ezh/leftanglebracket-math 5/rightanglebracket-math/commercialMinusSign",
 "/bulletoperator \U00F7"
 );
 classes = (
@@ -20659,7 +20659,7 @@ unicode = 1E2B;
 },
 {
 glyphname = hcaron;
-lastChange = "2017-11-20 12:47:43 +0000";
+lastChange = "2017-11-20 12:56:21 +0000";
 layers = (
 {
 components = (
@@ -20668,8 +20668,8 @@ name = h;
 },
 {
 alignment = -1;
-name = caroncomb;
-transform = "{1, 0, 0, 1, 139, 215}";
+name = caroncomb.case;
+transform = "{1, 0, 0, 1, 129, -30}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -21805,7 +21805,7 @@ width = 984;
 },
 {
 glyphname = kcaron;
-lastChange = "2017-11-20 12:47:30 +0000";
+lastChange = "2017-11-20 12:56:19 +0000";
 layers = (
 {
 components = (
@@ -21814,8 +21814,8 @@ name = k;
 },
 {
 alignment = -1;
-name = caroncomb;
-transform = "{1, 0, 0, 1, 129, 215}";
+name = caroncomb.case;
+transform = "{1, 0, 0, 1, 129, -30}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
