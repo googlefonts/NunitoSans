@@ -1,7 +1,8 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"/kahook-cy"
+"/kahook-cy",
+"/Kahook-cy/kahook-cy K"
 );
 classes = (
 {
@@ -35292,7 +35293,7 @@ unicode = 0498;
 {
 color = 7;
 glyphname = "Kadescender-cy";
-lastChange = "2017-11-21 16:14:45 +0000";
+lastChange = "2017-11-21 17:42:41 +0000";
 layers = (
 {
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
@@ -35332,7 +35333,6 @@ width = 599;
 leftKerningGroup = H;
 leftMetricsKey = "Zhe-cy";
 rightKerningGroup = "Kadescender-cy";
-rightMetricsKey = "Kadescender-cy";
 unicode = 049A;
 },
 {
@@ -36007,7 +36007,7 @@ unicode = 04C1;
 {
 color = 7;
 glyphname = "Kahook-cy";
-lastChange = "2017-11-21 16:15:11 +0000";
+lastChange = "2017-11-21 19:48:20 +0000";
 layers = (
 {
 background = {
@@ -36049,18 +36049,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"601 705 LINE",
-"535 705 LINE",
-"279 382 LINE",
-"147 382 LINE",
-"147 705 LINE",
-"93 705 LINE",
-"93 0 LINE",
-"147 0 LINE",
-"147 334 LINE",
-"272 334 LINE SMOOTH",
-"410 334 OFFCURVE",
-"509 272 OFFCURVE",
+"265 334 LINE",
+"407 334 OFFCURVE",
+"509 275 OFFCURVE",
 "509 103 CURVE SMOOTH",
 "509 -50 OFFCURVE",
 "431 -123 OFFCURVE",
@@ -36071,9 +36062,18 @@ nodes = (
 "446 -171 OFFCURVE",
 "565 -86 OFFCURVE",
 "565 114 CURVE SMOOTH",
-"565 275 OFFCURVE",
-"471 360 OFFCURVE",
-"340 376 CURVE"
+"565 286 OFFCURVE",
+"458 372 OFFCURVE",
+"313 379 CURVE",
+"628 705 LINE",
+"560 705 LINE",
+"249 382 LINE",
+"147 382 LINE",
+"147 705 LINE",
+"93 705 LINE",
+"93 0 LINE",
+"147 0 LINE",
+"147 334 LINE"
 );
 }
 );
@@ -38121,7 +38121,7 @@ unicode = 043A;
 },
 {
 glyphname = "kje-cy";
-lastChange = "2017-11-20 11:49:01 +0000";
+lastChange = "2017-11-21 19:47:46 +0000";
 layers = (
 {
 components = (
@@ -38130,11 +38130,11 @@ name = "ka-cy";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 98, -5}";
+transform = "{1, 0, 0, 1, 91, -5}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 495;
+width = 485;
 }
 );
 leftKerningGroup = n;

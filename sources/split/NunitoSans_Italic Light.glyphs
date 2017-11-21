@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/Kahook-cy"
+);
 classes = (
 {
 automatic = 1;
@@ -36618,7 +36621,7 @@ unicode = 04C1;
 {
 color = 4;
 glyphname = "Kahook-cy";
-lastChange = "2017-11-21 16:19:50 +0000";
+lastChange = "2017-11-21 19:49:45 +0000";
 layers = (
 {
 background = {
@@ -36626,31 +36629,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"636 705 LINE",
-"570 705 LINE",
-"289 382 LINE",
-"157 382 LINE",
-"182 705 LINE",
-"128 705 LINE",
-"72 0 LINE",
-"126 0 LINE",
-"153 334 LINE",
-"278 334 LINE SMOOTH",
-"416 334 OFFCURVE",
-"510 272 OFFCURVE",
-"496 103 CURVE SMOOTH",
-"484 -50 OFFCURVE",
-"401 -123 OFFCURVE",
-"289 -133 CURVE SMOOTH",
-"253 -136 LINE",
-"254 -183 LINE",
-"292 -180 LINE SMOOTH",
-"412 -171 OFFCURVE",
-"537 -86 OFFCURVE",
-"553 114 CURVE SMOOTH",
-"566 275 OFFCURVE",
-"479 360 OFFCURVE",
-"349 376 CURVE"
+"311 368 LINE",
+"663 705 LINE",
+"595 705 LINE",
+"247 371 LINE"
 );
 }
 );
@@ -36687,10 +36669,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"638 705 LINE",
-"572 705 LINE",
-"280 370 LINE",
-"340 364 LINE"
+"311 368 LINE",
+"663 705 LINE",
+"593 705 LINE",
+"245 371 LINE"
 );
 }
 );
