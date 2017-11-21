@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/kahook-cy"
+);
 classes = (
 {
 automatic = 1;
@@ -33064,7 +33067,7 @@ unicode = 048A;
 {
 color = 7;
 glyphname = "Ka-cy";
-lastChange = "2017-11-21 16:09:02 +0000";
+lastChange = "2017-11-21 16:20:08 +0000";
 layers = (
 {
 anchors = (
@@ -33112,7 +33115,7 @@ width = 628;
 }
 );
 leftKerningGroup = H;
-leftMetricsKey = H;
+leftMetricsKey = "En-cy";
 rightKerningGroup = "Ka-cy";
 unicode = 041A;
 },
