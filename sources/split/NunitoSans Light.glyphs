@@ -38185,13 +38185,19 @@ unicode = 043B;
 },
 {
 glyphname = "em-cy";
-lastChange = "2017-11-20 12:59:18 +0000";
+lastChange = "2017-11-22 17:28:21 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottomright;
 position = "{502, 0}";
+}
+);
+guideLines = (
+{
+angle = 90.1496;
+position = "{134, 192}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
