@@ -61904,7 +61904,7 @@ rightKerningGroup = B;
 },
 {
 glyphname = "Zedescender-cy.loclCHU";
-lastChange = "2017-11-20 11:49:01 +0000";
+lastChange = "2017-11-27 14:19:23 +0000";
 layers = (
 {
 components = (
@@ -61918,6 +61918,10 @@ transform = "{1, 0, 0, 1, 169, 0}";
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 width = 645;
+},
+{
+layerId = "E1B555A7-F4E1-459C-9C1A-AE952106EEF9";
+width = 600;
 }
 );
 leftKerningGroup = "Ze-cy";
@@ -125525,6 +125529,13 @@ instanceInterpolations = {
 "9E718F8A-2CEA-4931-B05D-987794BD97DA" = 1;
 };
 name = Light;
+},
+{
+interpolationWeight = 156;
+instanceInterpolations = {
+"E1B555A7-F4E1-459C-9C1A-AE952106EEF9" = 1;
+};
+name = Bold;
 }
 );
 kerning = {
