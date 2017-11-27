@@ -1,8 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"/ve-cy/ve-cy.bold/softsign-cy/softsign-cy.bold/hardsign-cy/hardsign-cy.bold/yeru-cy/yeru-cy.bold",
-"/lje-cy/lje-cy.bold/nje-cy/nje-cy.bold/yat-cy/yat-cy.bold"
+"/de-cy/de-cy.bold"
 );
 classes = (
 {
@@ -71425,6 +71424,126 @@ leftMetricsKey = "en-cy";
 rightKerningGroup = "ve-cy";
 },
 {
+glyphname = "de-cy.bold";
+lastChange = "2017-11-27 17:16:41 +0000";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"10 -115 LINE",
+"62 -115 LINE",
+"62 0 LINE",
+"465 0 LINE",
+"465 -115 LINE",
+"517 -115 LINE",
+"517 45 LINE",
+"443 45 LINE",
+"443 485 LINE",
+"131 485 LINE",
+"131 383 LINE SMOOTH",
+"131 203 OFFCURVE",
+"107 113 OFFCURVE",
+"55 45 CURVE",
+"10 45 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"113 45 LINE",
+"149 100 OFFCURVE",
+"182 192 OFFCURVE",
+"182 383 CURVE SMOOTH",
+"182 440 LINE",
+"389 440 LINE",
+"389 45 LINE"
+);
+}
+);
+};
+layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"62 -128 LINE",
+"62 0 LINE",
+"465 0 LINE",
+"465 -128 LINE",
+"517 -128 LINE",
+"517 45 LINE",
+"443 45 LINE",
+"443 485 LINE",
+"131 485 LINE",
+"131 383 LINE SMOOTH",
+"131 203 OFFCURVE",
+"107 113 OFFCURVE",
+"55 45 CURVE",
+"10 45 LINE",
+"10 -128 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"149 100 OFFCURVE",
+"182 192 OFFCURVE",
+"182 383 CURVE SMOOTH",
+"182 440 LINE",
+"389 440 LINE",
+"389 45 LINE",
+"113 45 LINE"
+);
+}
+);
+width = 540;
+},
+{
+layerId = "E1B555A7-F4E1-459C-9C1A-AE952106EEF9";
+paths = (
+{
+closed = 1;
+nodes = (
+"142 -128 LINE",
+"136 0 LINE",
+"453 0 LINE",
+"453 -128 LINE",
+"595 -128 LINE",
+"595 116 LINE",
+"514 116 LINE",
+"514 491 LINE",
+"109 491 LINE",
+"109 357 LINE SMOOTH",
+"109 277 OFFCURVE",
+"104 191 OFFCURVE",
+"63 116 CURVE",
+"0 116 LINE",
+"0 -128 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"222 162 OFFCURVE",
+"227 262 OFFCURVE",
+"227 367 CURVE SMOOTH",
+"227 385 LINE",
+"369 385 LINE",
+"369 115 LINE",
+"187 115 LINE"
+);
+}
+);
+width = 605;
+}
+);
+leftKerningGroup = "de-cy";
+rightKerningGroup = "tse-cy";
+},
+{
 color = 3;
 glyphname = "ze-cy.bold";
 lastChange = "2017-11-27 16:27:56 +0000";
@@ -128977,7 +129096,8 @@ value = (
 "yeru-cy.bold=yeru-cy",
 "lje-cy.bold=lje-cy",
 "nje-cy.bold=nje-cy",
-"yat-cy.bold=yat-cy"
+"yat-cy.bold=yat-cy",
+"de-cy.bold=de-cy"
 );
 },
 {
