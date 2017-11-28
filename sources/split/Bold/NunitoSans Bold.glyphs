@@ -1,5 +1,10 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/Ereversed-cy",
+"/Yeru-cy.bold",
+"/yeru-cy.bold"
+);
 classes = (
 {
 automatic = 1;
@@ -43148,7 +43153,7 @@ rightMetricsKey = "softsign-cy";
 color = 10;
 export = 0;
 glyphname = "yeru-cy.bold";
-lastChange = "2017-11-28 09:16:31 +0000";
+lastChange = "2017-11-28 15:58:08 +0000";
 layers = (
 {
 anchors = (
@@ -43227,8 +43232,8 @@ nodes = (
 closed = 1;
 nodes = (
 "705 0 LINE",
-"705 485 LINE",
-"549 485 LINE",
+"705 491 LINE",
+"549 491 LINE",
 "549 0 LINE"
 );
 }
