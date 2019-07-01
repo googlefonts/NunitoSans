@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="2">
+	<advance width="840"/>
+	<unicode hex="006D"/>
+	<anchor x="421" y="490" name="top"/>
+	<anchor x="421" y="0" name="bottom"/>
+	<outline>
+		<component base="_part.n_stem"/>
+		<component base="_part.shoulder"/>
+		<component base="_part.shoulder" xOffset="312"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>anchors</key>
+			<array/>
+			<key>b</key>
+			<dict/>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_part.shoulder</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>_part.shoulder</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>b</key>
+				<dict>
+					<key>anchors</key>
+					<array/>
+					<key>components</key>
+					<array/>
+					<key>contours</key>
+					<array/>
+					<key>lib</key>
+					<dict/>
+					<key>name</key>
+					<string>m</string>
+					<key>unicodes</key>
+					<array/>
+					<key>width</key>
+					<integer>1838</integer>
+				</dict>
+			</dict>
+			<key>components</key>
+			<array/>
+			<key>contours</key>
+			<array/>
+			<key>lib</key>
+			<dict/>
+			<key>name</key>
+			<string>m</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+			<key>unicodes</key>
+			<array/>
+			<key>width</key>
+			<integer>1877</integer>
+		</dict>
+	</lib>
+</glyph>

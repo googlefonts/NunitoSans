@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="2">
+	<advance width="578"/>
+	<unicode hex="0045"/>
+	<guideline x="529" y="247" angle="90"/>
+	<anchor x="505" y="10" name="ogonek"/>
+	<anchor x="321" y="705" name="top"/>
+	<anchor x="26" y="705" name="topleft"/>
+	<anchor x="321" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="93" y="0" type="line"/>
+			<point x="524" y="0" type="line"/>
+			<point x="524" y="48" type="line"/>
+			<point x="147" y="48" type="line"/>
+			<point x="147" y="334" type="line"/>
+			<point x="504" y="334" type="line"/>
+			<point x="504" y="382" type="line"/>
+			<point x="147" y="382" type="line"/>
+			<point x="147" y="657" type="line"/>
+			<point x="524" y="657" type="line"/>
+			<point x="524" y="705" type="line"/>
+			<point x="93" y="705" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>anchors</key>
+			<array/>
+			<key>b</key>
+			<dict/>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>b</key>
+				<dict>
+					<key>anchors</key>
+					<array/>
+					<key>components</key>
+					<array/>
+					<key>contours</key>
+					<array/>
+					<key>lib</key>
+					<dict/>
+					<key>name</key>
+					<string>E</string>
+					<key>unicodes</key>
+					<array/>
+					<key>width</key>
+					<integer>1234</integer>
+				</dict>
+			</dict>
+			<key>components</key>
+			<array/>
+			<key>contours</key>
+			<array/>
+			<key>lib</key>
+			<dict/>
+			<key>name</key>
+			<string>E</string>
+			<key>unicodes</key>
+			<array/>
+			<key>width</key>
+			<integer>1258</integer>
+		</dict>
+	</lib>
+</glyph>

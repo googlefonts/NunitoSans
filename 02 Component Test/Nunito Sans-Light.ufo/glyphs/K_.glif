@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="2">
+	<advance width="608"/>
+	<unicode hex="004B"/>
+	<anchor x="305" y="705" name="top"/>
+	<anchor x="306" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="532" y="0" type="line"/>
+			<point x="607" y="0" type="line"/>
+			<point x="179" y="379" type="line"/>
+			<point x="177" y="339" type="line"/>
+			<point x="585" y="705" type="line"/>
+			<point x="512" y="705" type="line"/>
+			<point x="125" y="357" type="line"/>
+		</contour>
+		<contour>
+			<point x="93" y="0" type="line"/>
+			<point x="147" y="0" type="line"/>
+			<point x="147" y="705" type="line"/>
+			<point x="93" y="705" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>anchors</key>
+			<array/>
+			<key>b</key>
+			<dict/>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>b</key>
+				<dict>
+					<key>anchors</key>
+					<array/>
+					<key>components</key>
+					<array/>
+					<key>contours</key>
+					<array/>
+					<key>lib</key>
+					<dict/>
+					<key>name</key>
+					<string>K</string>
+					<key>unicodes</key>
+					<array/>
+					<key>width</key>
+					<integer>1210</integer>
+				</dict>
+			</dict>
+			<key>components</key>
+			<array/>
+			<key>contours</key>
+			<array/>
+			<key>lib</key>
+			<dict/>
+			<key>name</key>
+			<string>K</string>
+			<key>unicodes</key>
+			<array/>
+			<key>width</key>
+			<integer>1329</integer>
+		</dict>
+	</lib>
+</glyph>

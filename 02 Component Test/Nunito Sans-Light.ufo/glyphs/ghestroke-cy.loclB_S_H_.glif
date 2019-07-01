@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghestroke-cy.loclBSH" format="2">
+	<advance width="392"/>
+	<outline>
+		<contour>
+			<point x="82" y="221" type="line"/>
+			<point x="356" y="221" type="line"/>
+			<point x="356" y="265" type="line"/>
+			<point x="82" y="265" type="line"/>
+		</contour>
+		<component base="ge-cy"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>en-cy</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>ge-cy</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+	<advance width="570"/>
+	<unicode hex="0111"/>
+	<outline>
+		<component base="d"/>
+		<component base="strokeshortcomb.h" xOffset="260" yOffset="41"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>b</key>
+				<dict>
+					<key>anchors</key>
+					<array/>
+					<key>components</key>
+					<array/>
+					<key>contours</key>
+					<array/>
+					<key>lib</key>
+					<dict/>
+					<key>name</key>
+					<string>dcroat</string>
+					<key>unicodes</key>
+					<array/>
+					<key>width</key>
+					<integer>1181</integer>
+				</dict>
+			</dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

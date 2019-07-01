@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_acutecomb" format="2">
+	<advance width="300"/>
+	<anchor x="150" y="685" name="top"/>
+	<anchor x="150" y="490" name="_top"/>
+	<outline>
+		<contour>
+			<point x="60" y="555" type="curve" smooth="yes"/>
+			<point x="150" y="659" type="line"/>
+			<point x="240" y="555" type="line" smooth="yes"/>
+			<point x="262" y="529"/>
+			<point x="299" y="563"/>
+			<point x="274" y="590" type="curve" smooth="yes"/>
+			<point x="181" y="691" type="line" smooth="yes"/>
+			<point x="171" y="701"/>
+			<point x="161" y="706"/>
+			<point x="150" y="706" type="curve" smooth="yes"/>
+			<point x="139" y="706"/>
+			<point x="129" y="702"/>
+			<point x="119" y="691" type="curve" smooth="yes"/>
+			<point x="26" y="590" type="line" smooth="yes"/>
+			<point x="1" y="563"/>
+			<point x="38" y="529"/>
+		</contour>
+		<contour>
+			<point x="268" y="652" type="curve" smooth="yes"/>
+			<point x="368" y="743" type="line" smooth="yes"/>
+			<point x="410" y="781"/>
+			<point x="357" y="824"/>
+			<point x="326" y="783" type="curve" smooth="yes"/>
+			<point x="243" y="675" type="line" smooth="yes"/>
+			<point x="229" y="657"/>
+			<point x="253" y="639"/>
+		</contour>
+	</outline>
+</glyph>

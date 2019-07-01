@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commercialMinusSign" format="2">
+	<advance width="640"/>
+	<unicode hex="2052"/>
+	<outline>
+		<contour>
+			<point x="103" y="-23" type="line"/>
+			<point x="578" y="701" type="line"/>
+			<point x="537" y="728" type="line"/>
+			<point x="62" y="4" type="line"/>
+		</contour>
+		<component base="bulletoperator" xOffset="148" yOffset="-175"/>
+		<component base="bulletoperator" xOffset="-113" yOffset="350"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>percent</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>percent</string>
+		</dict>
+	</lib>
+</glyph>

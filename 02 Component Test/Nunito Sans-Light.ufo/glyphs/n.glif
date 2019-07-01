@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="2">
+	<advance width="558"/>
+	<unicode hex="006E"/>
+	<anchor x="279" y="490" name="top"/>
+	<anchor x="279" y="0" name="bottom"/>
+	<outline>
+		<component base="_part.n_stem"/>
+		<component base="_part.shoulder"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>anchors</key>
+			<array/>
+			<key>b</key>
+			<dict/>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>b</key>
+				<dict>
+					<key>anchors</key>
+					<array/>
+					<key>components</key>
+					<array/>
+					<key>contours</key>
+					<array/>
+					<key>lib</key>
+					<dict/>
+					<key>name</key>
+					<string>n</string>
+					<key>unicodes</key>
+					<array/>
+					<key>width</key>
+					<integer>1152</integer>
+				</dict>
+			</dict>
+			<key>components</key>
+			<array/>
+			<key>contours</key>
+			<dict/>
+			<key>lib</key>
+			<dict/>
+			<key>name</key>
+			<string>n</string>
+			<key>points</key>
+			<dict/>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+			<key>segmentType</key>
+			<string>curve</string>
+			<key>unicodes</key>
+			<array/>
+			<key>width</key>
+			<integer>1195</integer>
+			<key>x</key>
+			<integer>137</integer>
+			<key>y</key>
+			<integer>113</integer>
+		</dict>
+	</lib>
+</glyph>

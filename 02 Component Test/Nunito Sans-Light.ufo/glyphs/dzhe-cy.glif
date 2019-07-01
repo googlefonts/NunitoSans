@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzhe-cy" format="2">
+	<advance width="558"/>
+	<unicode hex="045F"/>
+	<outline>
+		<contour>
+			<point x="253" y="-128" type="line"/>
+			<point x="305" y="-128" type="line"/>
+			<point x="305" y="0" type="line"/>
+			<point x="476" y="0" type="line"/>
+			<point x="476" y="485" type="line"/>
+			<point x="422" y="485" type="line"/>
+			<point x="422" y="45" type="line"/>
+			<point x="136" y="45" type="line"/>
+			<point x="136" y="485" type="line"/>
+			<point x="82" y="485" type="line"/>
+			<point x="82" y="0" type="line"/>
+			<point x="253" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>en-cy</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>en-cy</string>
+		</dict>
+	</lib>
+</glyph>

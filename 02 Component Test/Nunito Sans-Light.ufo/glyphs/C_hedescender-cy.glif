@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chedescender-cy" format="2">
+	<advance width="673"/>
+	<unicode hex="04B6"/>
+	<outline>
+		<component base="Che-cy"/>
+		<component base="__descender-cy.case" xOffset="490"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Che-cy</string>
+		</dict>
+	</lib>
+</glyph>

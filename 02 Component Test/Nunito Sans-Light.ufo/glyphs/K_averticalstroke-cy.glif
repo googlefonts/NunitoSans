@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kaverticalstroke-cy" format="2">
+	<advance width="643"/>
+	<unicode hex="049C"/>
+	<outline>
+		<contour>
+			<point x="93" y="0" type="line"/>
+			<point x="147" y="0" type="line"/>
+			<point x="147" y="334" type="line"/>
+			<point x="272" y="334" type="line" smooth="yes"/>
+			<point x="355" y="334"/>
+			<point x="395" y="298"/>
+			<point x="443" y="213" type="curve" smooth="yes"/>
+			<point x="563" y="0" type="line"/>
+			<point x="623" y="0" type="line"/>
+			<point x="495" y="227" type="line" smooth="yes"/>
+			<point x="447" y="313"/>
+			<point x="411" y="359"/>
+			<point x="339" y="375" type="curve"/>
+			<point x="601" y="705" type="line"/>
+			<point x="535" y="705" type="line"/>
+			<point x="279" y="382" type="line"/>
+			<point x="147" y="382" type="line"/>
+			<point x="147" y="705" type="line"/>
+			<point x="93" y="705" type="line"/>
+		</contour>
+		<contour>
+			<point x="227" y="164" type="line"/>
+			<point x="272" y="164" type="line"/>
+			<point x="272" y="552" type="line"/>
+			<point x="227" y="552" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>En-cy</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Ka-cy</string>
+		</dict>
+	</lib>
+</glyph>

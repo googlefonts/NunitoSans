@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.case.bold" format="2">
+	<advance width="284"/>
+	<anchor x="142" y="865" name="top"/>
+	<anchor x="142" y="705" name="_top"/>
+	<outline>
+		<contour>
+			<point x="-5" y="817" type="line"/>
+			<point x="289" y="817" type="line"/>
+			<point x="289" y="865" type="line"/>
+			<point x="-5" y="865" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

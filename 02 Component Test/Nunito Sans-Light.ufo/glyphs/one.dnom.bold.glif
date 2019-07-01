@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.dnom.bold" format="2">
+	<advance width="284"/>
+	<outline>
+		<contour>
+			<point x="136" y="23" type="line"/>
+			<point x="186" y="23" type="line"/>
+			<point x="186" y="423" type="line"/>
+			<point x="145" y="423" type="line"/>
+			<point x="43" y="357" type="line"/>
+			<point x="68" y="318" type="line"/>
+			<point x="160" y="378" type="line"/>
+			<point x="136" y="392" type="line"/>
+		</contour>
+		<contour>
+			<point x="62" y="0" type="line"/>
+			<point x="260" y="0" type="line"/>
+			<point x="260" y="44" type="line"/>
+			<point x="62" y="44" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

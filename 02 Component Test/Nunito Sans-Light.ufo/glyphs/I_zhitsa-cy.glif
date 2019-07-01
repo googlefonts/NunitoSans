@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Izhitsa-cy" format="2">
+	<advance width="746"/>
+	<unicode hex="0474"/>
+	<outline>
+		<contour>
+			<point x="303" y="0" type="line"/>
+			<point x="353" y="0" type="line"/>
+			<point x="568" y="522" type="line" smooth="yes"/>
+			<point x="617" y="638"/>
+			<point x="659" y="668"/>
+			<point x="746" y="668" type="curve"/>
+			<point x="740" y="713" type="line"/>
+			<point x="613" y="713"/>
+			<point x="566" y="649"/>
+			<point x="514" y="522" type="curve" smooth="yes"/>
+			<point x="329" y="68" type="line"/>
+			<point x="65" y="705" type="line"/>
+			<point x="9" y="705" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>V</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.tosf" format="2">
+	<advance width="600"/>
+	<guideline x="554" y="396" angle="90"/>
+	<outline>
+		<contour>
+			<point x="322" y="-8" type="curve" smooth="yes"/>
+			<point x="451" y="-8"/>
+			<point x="544" y="86"/>
+			<point x="544" y="215" type="curve" smooth="yes"/>
+			<point x="544" y="348"/>
+			<point x="454" y="437"/>
+			<point x="322" y="437" type="curve" smooth="yes"/>
+			<point x="210" y="437"/>
+			<point x="122" y="366"/>
+			<point x="107" y="255" type="curve"/>
+			<point x="118" y="228" type="line"/>
+			<point x="118" y="332" type="line" smooth="yes"/>
+			<point x="118" y="545"/>
+			<point x="195" y="664"/>
+			<point x="329" y="664" type="curve" smooth="yes"/>
+			<point x="388" y="664"/>
+			<point x="443" y="646"/>
+			<point x="508" y="605" type="curve"/>
+			<point x="530" y="648" type="line"/>
+			<point x="470" y="690"/>
+			<point x="397" y="713"/>
+			<point x="329" y="713" type="curve" smooth="yes"/>
+			<point x="160" y="713"/>
+			<point x="63" y="573"/>
+			<point x="63" y="332" type="curve" smooth="yes"/>
+			<point x="63" y="114"/>
+			<point x="156" y="-8"/>
+		</contour>
+		<contour>
+			<point x="320" y="41" type="curve" smooth="yes"/>
+			<point x="215" y="41"/>
+			<point x="143" y="111"/>
+			<point x="143" y="215" type="curve" smooth="yes"/>
+			<point x="143" y="317"/>
+			<point x="216" y="388"/>
+			<point x="319" y="388" type="curve" smooth="yes"/>
+			<point x="420" y="388"/>
+			<point x="488" y="319"/>
+			<point x="488" y="215" type="curve" smooth="yes"/>
+			<point x="488" y="110"/>
+			<point x="421" y="41"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>b</key>
+				<dict>
+					<key>anchors</key>
+					<array/>
+					<key>components</key>
+					<array/>
+					<key>contours</key>
+					<array/>
+					<key>lib</key>
+					<dict/>
+					<key>name</key>
+					<string>nine</string>
+					<key>unicodes</key>
+					<array/>
+					<key>width</key>
+					<integer>1160</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

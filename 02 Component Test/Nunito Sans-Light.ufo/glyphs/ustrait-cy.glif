@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ustrait-cy" format="2">
+	<advance width="507"/>
+	<unicode hex="04AF"/>
+	<anchor x="254" y="-21" name="center"/>
+	<outline>
+		<contour>
+			<point x="227" y="-180" type="line"/>
+			<point x="281" y="-180" type="line"/>
+			<point x="281" y="0" type="line"/>
+			<point x="489" y="485" type="line"/>
+			<point x="434" y="485" type="line"/>
+			<point x="254" y="53" type="line"/>
+			<point x="76" y="485" type="line"/>
+			<point x="18" y="485" type="line"/>
+			<point x="227" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>v</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>v</string>
+		</dict>
+	</lib>
+</glyph>

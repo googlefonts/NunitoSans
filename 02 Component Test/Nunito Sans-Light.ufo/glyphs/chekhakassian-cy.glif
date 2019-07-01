@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chekhakassian-cy" format="2">
+	<advance width="496"/>
+	<unicode hex="04CC"/>
+	<outline>
+		<contour>
+			<point x="360" y="485" type="line"/>
+			<point x="360" y="253" type="line"/>
+			<point x="329" y="233"/>
+			<point x="289" y="218"/>
+			<point x="227" y="218" type="curve" smooth="yes"/>
+			<point x="160" y="218"/>
+			<point x="105" y="243"/>
+			<point x="105" y="335" type="curve" smooth="yes"/>
+			<point x="105" y="485" type="line"/>
+			<point x="52" y="485" type="line"/>
+			<point x="52" y="332" type="line" smooth="yes"/>
+			<point x="52" y="215"/>
+			<point x="117" y="170"/>
+			<point x="224" y="170" type="curve" smooth="yes"/>
+			<point x="280" y="170"/>
+			<point x="329" y="187"/>
+			<point x="360" y="205" type="curve"/>
+			<point x="360" y="45" type="line"/>
+			<point x="286" y="45" type="line"/>
+			<point x="286" y="-115" type="line"/>
+			<point x="337" y="-115" type="line"/>
+			<point x="337" y="0" type="line"/>
+			<point x="414" y="0" type="line"/>
+			<point x="414" y="485" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>che-cy</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>en-cy</string>
+		</dict>
+	</lib>
+</glyph>

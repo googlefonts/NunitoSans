@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="manat.bold" format="2">
+	<advance width="527"/>
+	<outline>
+		<contour>
+			<point x="32" y="0" type="curve"/>
+			<point x="86" y="0" type="line"/>
+			<point x="86" y="550"/>
+			<point x="158" y="663"/>
+			<point x="264" y="663" type="curve" smooth="yes"/>
+			<point x="370" y="663"/>
+			<point x="442" y="552"/>
+			<point x="442" y="0" type="curve"/>
+			<point x="496" y="0" type="line"/>
+			<point x="496" y="579"/>
+			<point x="407" y="712"/>
+			<point x="264" y="712" type="curve" smooth="yes"/>
+			<point x="121" y="712"/>
+			<point x="32" y="583"/>
+		</contour>
+		<contour>
+			<point x="237" y="352" type="line"/>
+			<point x="287" y="352" type="line"/>
+			<point x="287" y="677" type="line"/>
+			<point x="287" y="699" type="line"/>
+			<point x="287" y="820" type="line"/>
+			<point x="237" y="820" type="line"/>
+			<point x="237" y="699" type="line"/>
+			<point x="237" y="677" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

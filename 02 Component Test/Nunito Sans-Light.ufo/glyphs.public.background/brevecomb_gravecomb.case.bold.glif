@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_gravecomb.case.bold" format="2">
+	<advance width="256"/>
+	<anchor x="125" y="865" name="top"/>
+	<anchor x="125" y="705" name="_top"/>
+	<outline>
+		<contour>
+			<point x="125" y="760" type="curve" smooth="yes"/>
+			<point x="189" y="760"/>
+			<point x="245" y="788"/>
+			<point x="274" y="849" type="curve" smooth="yes"/>
+			<point x="290" y="883"/>
+			<point x="247" y="900"/>
+			<point x="228" y="868" type="curve" smooth="yes"/>
+			<point x="202" y="824"/>
+			<point x="170" y="807"/>
+			<point x="125" y="807" type="curve" smooth="yes"/>
+			<point x="80" y="807"/>
+			<point x="48" y="824"/>
+			<point x="22" y="868" type="curve" smooth="yes"/>
+			<point x="3" y="900"/>
+			<point x="-41" y="883"/>
+			<point x="-24" y="849" type="curve" smooth="yes"/>
+			<point x="7" y="788"/>
+			<point x="61" y="760"/>
+		</contour>
+		<contour>
+			<point x="113" y="865" type="line" smooth="yes"/>
+			<point x="131" y="851"/>
+			<point x="151" y="872"/>
+			<point x="136" y="889" type="curve" smooth="yes"/>
+			<point x="38" y="998" type="line" smooth="yes"/>
+			<point x="2" y="1038"/>
+			<point x="-44" y="991"/>
+			<point x="1" y="955" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

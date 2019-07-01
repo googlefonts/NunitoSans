@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tse-cy" format="2">
+	<advance width="753"/>
+	<unicode hex="0426"/>
+	<outline>
+		<contour>
+			<point x="669" y="-149" type="line"/>
+			<point x="723" y="-149" type="line"/>
+			<point x="723" y="48" type="line"/>
+			<point x="624" y="48" type="line"/>
+			<point x="624" y="705" type="line"/>
+			<point x="570" y="705" type="line"/>
+			<point x="570" y="48" type="line"/>
+			<point x="147" y="48" type="line"/>
+			<point x="147" y="705" type="line"/>
+			<point x="93" y="705" type="line"/>
+			<point x="93" y="0" type="line"/>
+			<point x="669" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>En-cy</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>De-cy</string>
+		</dict>
+	</lib>
+</glyph>

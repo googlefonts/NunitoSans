@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="544" y="323" type="curve" smooth="yes"/>
+			<point x="544" y="337"/>
+			<point x="536" y="350"/>
+			<point x="523" y="355" type="curve" smooth="yes"/>
+			<point x="99" y="514" type="line" smooth="yes"/>
+			<point x="78" y="522"/>
+			<point x="56" y="515"/>
+			<point x="56" y="497" type="curve" smooth="yes"/>
+			<point x="56" y="488"/>
+			<point x="61" y="480"/>
+			<point x="69" y="477" type="curve" smooth="yes"/>
+			<point x="515" y="309" type="line"/>
+			<point x="515" y="335" type="line"/>
+			<point x="69" y="169" type="line" smooth="yes"/>
+			<point x="60" y="166"/>
+			<point x="56" y="158"/>
+			<point x="56" y="149" type="curve" smooth="yes"/>
+			<point x="56" y="131"/>
+			<point x="76" y="124"/>
+			<point x="99" y="132" type="curve" smooth="yes"/>
+			<point x="523" y="289" type="line" smooth="yes"/>
+			<point x="537" y="294"/>
+			<point x="544" y="307"/>
+		</contour>
+		<component base="minus" xOffset="6" yOffset="-260"/>
+	</outline>
+</glyph>

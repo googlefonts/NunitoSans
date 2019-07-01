@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod.bold" format="2">
+	<advance width="237"/>
+	<outline>
+		<contour>
+			<point x="155" y="751" type="line"/>
+			<point x="77" y="751" type="line"/>
+			<point x="77" y="681" type="line"/>
+			<point x="133" y="681" type="line"/>
+			<point x="114" y="690" type="line"/>
+			<point x="114" y="657"/>
+			<point x="109" y="630"/>
+			<point x="78" y="596" type="curve"/>
+			<point x="108" y="573" type="line"/>
+			<point x="145" y="610"/>
+			<point x="155" y="650"/>
+			<point x="155" y="696" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

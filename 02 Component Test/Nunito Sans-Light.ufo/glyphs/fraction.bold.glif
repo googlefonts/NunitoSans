@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction.bold" format="2">
+	<advance width="157"/>
+	<guideline x="101" y="705" angle="0"/>
+	<guideline x="51" y="0" angle="0"/>
+	<outline>
+		<contour>
+			<point x="-109" y="-23" type="line"/>
+			<point x="310" y="703" type="line"/>
+			<point x="266" y="728" type="line"/>
+			<point x="-153" y="2" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

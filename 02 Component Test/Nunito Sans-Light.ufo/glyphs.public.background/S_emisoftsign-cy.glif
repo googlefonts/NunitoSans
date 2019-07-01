@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Semisoftsign-cy" format="2">
+	<advance width="660"/>
+	<outline>
+		<contour>
+			<point x="130" y="0" type="line"/>
+			<point x="375" y="0" type="line"/>
+			<point x="520" y="0"/>
+			<point x="605" y="97"/>
+			<point x="605" y="222" type="curve" smooth="yes"/>
+			<point x="605" y="357"/>
+			<point x="524" y="426"/>
+			<point x="375" y="426" type="curve"/>
+			<point x="184" y="426" type="line"/>
+			<point x="184" y="705" type="line"/>
+			<point x="130" y="705" type="line"/>
+		</contour>
+		<contour>
+			<point x="184" y="378" type="line"/>
+			<point x="372" y="378" type="line"/>
+			<point x="491" y="378"/>
+			<point x="550" y="324"/>
+			<point x="550" y="222" type="curve" smooth="yes"/>
+			<point x="550" y="120"/>
+			<point x="491" y="48"/>
+			<point x="372" y="48" type="curve"/>
+			<point x="184" y="48" type="line"/>
+		</contour>
+	</outline>
+</glyph>

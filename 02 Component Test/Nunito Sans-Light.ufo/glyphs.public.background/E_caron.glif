@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecaron" format="2">
+	<advance width="578"/>
+	<outline>
+		<component base="E"/>
+		<component base="caroncomb.case" xOffset="171"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>b</key>
+				<dict>
+					<key>anchors</key>
+					<array/>
+					<key>components</key>
+					<array/>
+					<key>contours</key>
+					<array/>
+					<key>lib</key>
+					<dict/>
+					<key>name</key>
+					<string>Ecaron</string>
+					<key>unicodes</key>
+					<array/>
+					<key>width</key>
+					<integer>1234</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
