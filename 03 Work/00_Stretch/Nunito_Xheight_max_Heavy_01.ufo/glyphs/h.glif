@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h" format="1">
+  <advance width="618"/>
+  <unicode hex="0068"/>
+  <outline>
+    <contour>
+      <point x="403" y="604.63246" type="curve" smooth="yes"/>
+      <point x="330" y="604.63246"/>
+      <point x="269" y="561.57135"/>
+      <point x="236" y="485.68197" type="curve"/>
+      <point x="252" y="485.68197" type="line"/>
+      <point x="252" y="847.73216" type="line"/>
+      <point x="44" y="847.73216" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="328.70148" type="line" smooth="yes"/>
+      <point x="252" y="400.34634"/>
+      <point x="280" y="447.03575"/>
+      <point x="322" y="447.03575" type="curve" smooth="yes"/>
+      <point x="351" y="447.03575"/>
+      <point x="368" y="417.4978"/>
+      <point x="368" y="342.29043" type="curve" smooth="yes"/>
+      <point x="368" y="0" type="line"/>
+      <point x="576" y="0" type="line"/>
+      <point x="576" y="350.82129" type="line" smooth="yes"/>
+      <point x="576" y="522.63805"/>
+      <point x="520" y="604.63246"/>
+    </contour>
+    <contour>
+      <point x="311" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="311" y="299.25326" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="402" y="421.67653" type="move" name="dot"/>
+    </contour>
+    <contour>
+      <point x="198" y="711.37894" type="move" name="stroke"/>
+    </contour>
+    <contour>
+      <point x="310" y="847.73216" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="270" y="847.73216" type="move" name="topright"/>
+    </contour>
+  </outline>
+</glyph>

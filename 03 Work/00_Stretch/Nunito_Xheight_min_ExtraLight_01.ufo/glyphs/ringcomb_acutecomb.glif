@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb_acutecomb" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="355" y="647.36041" type="line"/>
+      <point x="294" y="647.36041" type="line"/>
+      <point x="218" y="592.55553" type="line"/>
+      <point x="199" y="603.24895"/>
+      <point x="176" y="609.38866"/>
+      <point x="150" y="609.38866" type="curve" smooth="yes"/>
+      <point x="87" y="609.38866"/>
+      <point x="38" y="570.19118"/>
+      <point x="38" y="521.13721" type="curve" smooth="yes"/>
+      <point x="38" y="472.08325"/>
+      <point x="87" y="432.88576"/>
+      <point x="150" y="432.88576" type="curve" smooth="yes"/>
+      <point x="213" y="432.88576"/>
+      <point x="262" y="472.08325"/>
+      <point x="262" y="521.13721" type="curve" smooth="yes"/>
+      <point x="262" y="539.69254"/>
+      <point x="255" y="556.66186"/>
+      <point x="242" y="570.73158" type="curve"/>
+    </contour>
+    <contour>
+      <point x="150" y="460.98562" type="curve" smooth="yes"/>
+      <point x="104" y="460.98562"/>
+      <point x="72" y="487.13047"/>
+      <point x="72" y="521.13721" type="curve" smooth="yes"/>
+      <point x="72" y="555.14396"/>
+      <point x="104" y="581.22071"/>
+      <point x="150" y="581.22071" type="curve" smooth="yes"/>
+      <point x="196" y="581.22071"/>
+      <point x="228" y="555.14396"/>
+      <point x="228" y="521.13721" type="curve" smooth="yes"/>
+      <point x="228" y="487.13047"/>
+      <point x="196" y="460.98562"/>
+    </contour>
+    <contour>
+      <point x="150" y="383.81201" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

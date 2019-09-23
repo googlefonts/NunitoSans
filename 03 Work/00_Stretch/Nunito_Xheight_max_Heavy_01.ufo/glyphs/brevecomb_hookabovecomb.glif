@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_hookabovecomb" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="200" y="664.25578" type="curve" smooth="yes"/>
+      <point x="312" y="664.25578"/>
+      <point x="388" y="738.10519"/>
+      <point x="398" y="853.11033" type="curve"/>
+      <point x="309" y="862.57146" type="line"/>
+      <point x="292" y="805.49066"/>
+      <point x="261" y="770.80188"/>
+      <point x="200" y="770.80188" type="curve" smooth="yes"/>
+      <point x="139" y="770.80188"/>
+      <point x="108" y="805.49066"/>
+      <point x="91" y="862.57146" type="curve"/>
+      <point x="2" y="853.11033" type="line"/>
+      <point x="12" y="737.83299"/>
+      <point x="88" y="664.25578"/>
+    </contour>
+    <contour>
+      <point x="252" y="832.76131" type="line"/>
+      <point x="252" y="881.06298"/>
+      <point x="309" y="884.35329"/>
+      <point x="309" y="940.52777" type="curve" smooth="yes"/>
+      <point x="309" y="978.07613"/>
+      <point x="272" y="1001.19501"/>
+      <point x="208" y="1001.19501" type="curve" smooth="yes"/>
+      <point x="150" y="1001.19501"/>
+      <point x="119" y="992.39195"/>
+      <point x="88" y="977.3044" type="curve"/>
+      <point x="110" y="908.9438" type="line"/>
+      <point x="126" y="918.83566"/>
+      <point x="144" y="922.44303"/>
+      <point x="163" y="922.44303" type="curve" smooth="yes"/>
+      <point x="170" y="922.44303"/>
+      <point x="181" y="918.29126"/>
+      <point x="181" y="906.22183" type="curve" smooth="yes"/>
+      <point x="181" y="878.08973"/>
+      <point x="149" y="877.43167"/>
+      <point x="149" y="832.76131" type="curve"/>
+    </contour>
+    <contour>
+      <point x="200" y="591.29177" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

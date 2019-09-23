@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ezh" format="1">
+  <advance width="557"/>
+  <unicode hex="0292"/>
+  <outline>
+    <component base="dzeabkhasian-cy"/>
+    <contour>
+      <point x="223" y="-186" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="277" y="485" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

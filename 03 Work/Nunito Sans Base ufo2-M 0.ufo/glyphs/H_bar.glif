@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="781"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="766" y="565" type="line"/>
+      <point x="670" y="565" type="line"/>
+      <point x="670" y="705" type="line"/>
+      <point x="628" y="705" type="line"/>
+      <point x="628" y="565" type="line"/>
+      <point x="153" y="565" type="line"/>
+      <point x="153" y="705" type="line"/>
+      <point x="111" y="705" type="line"/>
+      <point x="111" y="565" type="line"/>
+      <point x="15" y="565" type="line"/>
+      <point x="15" y="527" type="line"/>
+      <point x="111" y="527" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="153" y="338" type="line"/>
+      <point x="628" y="338" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="670" y="0" type="line"/>
+      <point x="670" y="527" type="line"/>
+      <point x="766" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="628" y="377" type="line"/>
+      <point x="153" y="377" type="line"/>
+      <point x="153" y="527" type="line"/>
+      <point x="628" y="527" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Hbar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1464</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

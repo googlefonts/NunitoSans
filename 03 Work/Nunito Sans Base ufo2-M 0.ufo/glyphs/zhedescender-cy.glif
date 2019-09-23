@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhedescender-cy" format="1">
+  <advance width="787"/>
+  <unicode hex="0497"/>
+  <outline>
+    <component base="zhe-cy"/>
+    <component base="__descender-cy.cy" xOffset="695"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==+33</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>kadescender-cy</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

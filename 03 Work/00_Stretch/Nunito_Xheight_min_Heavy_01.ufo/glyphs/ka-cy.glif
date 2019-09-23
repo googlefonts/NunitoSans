@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka-cy" format="1">
+  <advance width="622"/>
+  <outline>
+    <contour>
+      <point x="531" y="177.9984" type="line"/>
+      <point x="510" y="199.24496"/>
+      <point x="466" y="239.91259"/>
+      <point x="415" y="245.72903" type="curve"/>
+      <point x="451" y="179.52454" type="line"/>
+      <point x="623" y="396.43062" type="line"/>
+      <point x="404" y="396.43062" type="line"/>
+      <point x="296" y="276.38677" type="line"/>
+      <point x="262" y="276.38677" type="line"/>
+      <point x="262" y="396.43062" type="line"/>
+      <point x="54" y="396.43062" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="262" y="122.04837" type="line"/>
+      <point x="298" y="122.04837" type="line" smooth="yes"/>
+      <point x="319" y="122.04837"/>
+      <point x="334" y="116.72303"/>
+      <point x="347" y="106.28416" type="curve" smooth="yes"/>
+      <point x="418" y="0" type="line"/>
+      <point x="639" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="306" y="199.01311" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="339" y="386.13409" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

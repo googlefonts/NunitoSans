@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="1">
+  <advance width="300"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="118" y="-83.57695" type="line"/>
+      <point x="118" y="-140.75418" type="line"/>
+      <point x="182" y="-140.75418" type="line"/>
+      <point x="182" y="-83.57695" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="150" y="-134.81001" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

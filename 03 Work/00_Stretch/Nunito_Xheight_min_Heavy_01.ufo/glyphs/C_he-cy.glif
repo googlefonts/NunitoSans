@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Che-cy" format="1">
+  <advance width="735"/>
+  <outline>
+    <contour>
+      <point x="463" y="0" type="line"/>
+      <point x="678" y="0" type="line"/>
+      <point x="678" y="562.44738" type="line"/>
+      <point x="463" y="562.44738" type="line"/>
+      <point x="463" y="336.73275" type="line"/>
+      <point x="437" y="335.58082"/>
+      <point x="402" y="333.21482"/>
+      <point x="375" y="333.21482" type="curve" smooth="yes"/>
+      <point x="297" y="333.21482"/>
+      <point x="258" y="353.22726"/>
+      <point x="258" y="415.74749" type="curve" smooth="yes"/>
+      <point x="258" y="562.44738" type="line"/>
+      <point x="43" y="562.44738" type="line"/>
+      <point x="43" y="410.96071" type="line" smooth="yes"/>
+      <point x="43" y="238.09051"/>
+      <point x="154" y="158.41298"/>
+      <point x="347" y="158.41298" type="curve" smooth="yes"/>
+      <point x="390" y="158.41298"/>
+      <point x="437" y="163.40422"/>
+      <point x="463" y="165.1495" type="curve"/>
+    </contour>
+    <contour>
+      <point x="463" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="309" y="235.35032" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="356" y="562.44738" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

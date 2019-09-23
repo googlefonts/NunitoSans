@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.Qtail" format="1">
+  <advance width="751"/>
+  <outline>
+    <contour>
+      <point x="573" y="-226.26969" type="line"/>
+      <point x="606" y="-203.81239" type="line"/>
+      <point x="544" y="-85.39392" type="line" smooth="yes"/>
+      <point x="507" y="-8.21451"/>
+      <point x="479" y="12.02637"/>
+      <point x="415" y="12.02637" type="curve"/>
+      <point x="375" y="-9.5171" type="line"/>
+      <point x="432" y="-9.5171"/>
+      <point x="475" y="-38.29309"/>
+      <point x="501" y="-91.88422" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="375" y="-9.5171" type="move" name="_Qtail"/>
+    </contour>
+  </outline>
+</glyph>

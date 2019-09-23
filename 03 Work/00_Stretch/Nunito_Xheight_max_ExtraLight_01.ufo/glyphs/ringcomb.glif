@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="150" y="659.5755" type="curve" smooth="yes"/>
+      <point x="213" y="659.5755"/>
+      <point x="262" y="718.3619"/>
+      <point x="262" y="791.28763" type="curve" smooth="yes"/>
+      <point x="262" y="864.21336"/>
+      <point x="213" y="922.99976"/>
+      <point x="150" y="922.99976" type="curve" smooth="yes"/>
+      <point x="87" y="922.99976"/>
+      <point x="38" y="864.21336"/>
+      <point x="38" y="791.28763" type="curve" smooth="yes"/>
+      <point x="38" y="718.3619"/>
+      <point x="87" y="659.5755"/>
+    </contour>
+    <contour>
+      <point x="150" y="695.46277" type="curve" smooth="yes"/>
+      <point x="104" y="695.46277"/>
+      <point x="72" y="737.30773"/>
+      <point x="72" y="791.28763" type="curve" smooth="yes"/>
+      <point x="72" y="845.26752"/>
+      <point x="104" y="887.18064"/>
+      <point x="150" y="887.18064" type="curve" smooth="yes"/>
+      <point x="196" y="887.18064"/>
+      <point x="228" y="845.26752"/>
+      <point x="228" y="791.28763" type="curve" smooth="yes"/>
+      <point x="228" y="737.30773"/>
+      <point x="196" y="695.46277"/>
+    </contour>
+    <contour>
+      <point x="150" y="584.03193" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="826.57412" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

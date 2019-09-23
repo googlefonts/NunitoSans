@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringhalfleft" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="150" y="592.89601" type="line"/>
+      <point x="94" y="592.89601"/>
+      <point x="53" y="559.04524"/>
+      <point x="53" y="516.26718" type="curve" smooth="yes"/>
+      <point x="53" y="473.42102"/>
+      <point x="94" y="440.29515"/>
+      <point x="150" y="440.29515" type="curve"/>
+      <point x="150" y="470.63782" type="line"/>
+      <point x="116" y="470.63782"/>
+      <point x="93" y="491.50404"/>
+      <point x="93" y="516.26718" type="curve" smooth="yes"/>
+      <point x="93" y="541.75521"/>
+      <point x="116" y="561.82844"/>
+      <point x="150" y="561.82844" type="curve"/>
+    </contour>
+    <contour>
+      <point x="150" y="383.81201" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="543.20502" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

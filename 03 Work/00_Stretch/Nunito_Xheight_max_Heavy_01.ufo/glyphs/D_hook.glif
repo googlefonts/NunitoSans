@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dhook" format="1">
+  <advance width="999"/>
+  <outline>
+    <contour>
+      <point x="256" y="0" type="line"/>
+      <point x="564" y="0" type="line" smooth="yes"/>
+      <point x="814" y="0"/>
+      <point x="958" y="154.41402"/>
+      <point x="958" y="424.46731" type="curve" smooth="yes"/>
+      <point x="958" y="693.59034"/>
+      <point x="814" y="847.73216"/>
+      <point x="564" y="847.73216" type="curve" smooth="yes"/>
+      <point x="245" y="847.73216" type="line" smooth="yes"/>
+      <point x="83" y="847.73216"/>
+      <point x="0" y="763.15037"/>
+      <point x="0" y="605.80795" type="curve" smooth="yes"/>
+      <point x="0" y="539.60402" type="line"/>
+      <point x="171" y="539.60402" type="line"/>
+      <point x="171" y="599.4098" type="line" smooth="yes"/>
+      <point x="171" y="672.62207"/>
+      <point x="192" y="703.15908"/>
+      <point x="242" y="703.15908" type="curve" smooth="yes"/>
+      <point x="256" y="703.15908" type="line"/>
+    </contour>
+    <contour>
+      <point x="471" y="172.48087" type="line"/>
+      <point x="471" y="675.25129" type="line"/>
+      <point x="551" y="675.25129" type="line" smooth="yes"/>
+      <point x="675" y="675.25129"/>
+      <point x="735" y="594.57603"/>
+      <point x="735" y="424.46731" type="curve" smooth="yes"/>
+      <point x="735" y="254.35859"/>
+      <point x="676" y="172.48087"/>
+      <point x="551" y="172.48087" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

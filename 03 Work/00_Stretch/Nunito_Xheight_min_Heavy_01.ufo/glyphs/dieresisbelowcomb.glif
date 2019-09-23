@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisbelowcomb" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="224" y="-19.56878" type="line"/>
+      <point x="224" y="-179.66884" type="line"/>
+      <point x="392" y="-179.66884" type="line"/>
+      <point x="392" y="-19.56878" type="line"/>
+    </contour>
+    <contour>
+      <point x="8" y="-19.56878" type="line"/>
+      <point x="8" y="-179.66884" type="line"/>
+      <point x="176" y="-179.66884" type="line"/>
+      <point x="176" y="-19.56878" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="200" y="-135.62561" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

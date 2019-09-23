@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="174" y="-161.87809" type="curve" smooth="yes"/>
+      <point x="212" y="-161.87809"/>
+      <point x="237" y="-159.38247"/>
+      <point x="276" y="-147.28588" type="curve"/>
+      <point x="259" y="-62.03647" type="line"/>
+      <point x="239" y="-66.12769"/>
+      <point x="225" y="-68.28923"/>
+      <point x="203" y="-68.28923" type="curve" smooth="yes"/>
+      <point x="173" y="-68.28923"/>
+      <point x="151" y="-57.01783"/>
+      <point x="151" y="-43.07374" type="curve" smooth="yes"/>
+      <point x="151" y="-30.52078"/>
+      <point x="170" y="-12.43068"/>
+      <point x="200" y="0" type="curve"/>
+      <point x="146" y="46.35444" type="line"/>
+      <point x="79" y="20.36121"/>
+      <point x="32" y="-21.81984"/>
+      <point x="32" y="-74.06556" type="curve" smooth="yes"/>
+      <point x="32" y="-126.97946"/>
+      <point x="82" y="-161.87809"/>
+    </contour>
+    <contour>
+      <point x="200" y="0" type="move" name="_ogonek"/>
+    </contour>
+  </outline>
+</glyph>

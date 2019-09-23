@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Enghe-cy" format="1">
+  <advance width="927"/>
+  <unicode hex="04A4"/>
+  <outline>
+    <contour>
+      <point x="96" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="138" y="338" type="line"/>
+      <point x="613" y="338" type="line"/>
+      <point x="613" y="0" type="line"/>
+      <point x="655" y="0" type="line"/>
+      <point x="655" y="666" type="line"/>
+      <point x="924" y="666" type="line"/>
+      <point x="924" y="705" type="line"/>
+      <point x="613" y="705" type="line"/>
+      <point x="613" y="377" type="line"/>
+      <point x="138" y="377" type="line"/>
+      <point x="138" y="705" type="line"/>
+      <point x="96" y="705" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

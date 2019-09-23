@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enghe-cy" format="1">
+  <advance width="799"/>
+  <unicode hex="04A5"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="262" y="171" type="line"/>
+      <point x="390" y="171" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="598" y="0" type="line"/>
+      <point x="598" y="332" type="line"/>
+      <point x="778" y="332" type="line"/>
+      <point x="778" y="494" type="line"/>
+      <point x="390" y="494" type="line"/>
+      <point x="390" y="329" type="line"/>
+      <point x="262" y="329" type="line"/>
+      <point x="262" y="494" type="line"/>
+      <point x="54" y="494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ge-cy</string>
+    </dict>
+  </lib>
+</glyph>

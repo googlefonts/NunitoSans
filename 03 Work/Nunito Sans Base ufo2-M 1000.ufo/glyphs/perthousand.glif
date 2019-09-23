@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="1376"/>
+  <unicode hex="2030"/>
+  <outline>
+    <contour>
+      <point x="1161" y="-12" type="curve" smooth="yes"/>
+      <point x="1284" y="-12"/>
+      <point x="1355" y="76"/>
+      <point x="1355" y="205" type="curve" smooth="yes"/>
+      <point x="1355" y="332"/>
+      <point x="1283" y="419"/>
+      <point x="1161" y="419" type="curve" smooth="yes"/>
+      <point x="1040" y="419"/>
+      <point x="967" y="336"/>
+      <point x="967" y="205" type="curve" smooth="yes"/>
+      <point x="967" y="76"/>
+      <point x="1038" y="-12"/>
+    </contour>
+    <contour>
+      <point x="1161" y="112" type="curve" smooth="yes"/>
+      <point x="1140" y="112"/>
+      <point x="1130" y="130"/>
+      <point x="1130" y="205" type="curve" smooth="yes"/>
+      <point x="1130" y="280"/>
+      <point x="1140" y="295"/>
+      <point x="1161" y="295" type="curve" smooth="yes"/>
+      <point x="1181" y="295"/>
+      <point x="1192" y="277"/>
+      <point x="1192" y="205" type="curve" smooth="yes"/>
+      <point x="1192" y="133"/>
+      <point x="1182" y="112"/>
+    </contour>
+    <component base="percent"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>percent</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb_macroncomb.case" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="85" y="611.11304" type="line"/>
+      <point x="91" y="619.44515"/>
+      <point x="107" y="625.56829"/>
+      <point x="138" y="625.56829" type="curve" smooth="yes"/>
+      <point x="171" y="625.56829"/>
+      <point x="216" y="609.61967"/>
+      <point x="269" y="609.61967" type="curve" smooth="yes"/>
+      <point x="340" y="609.61967"/>
+      <point x="394" y="644.41608"/>
+      <point x="398" y="710.91993" type="curve"/>
+      <point x="315" y="715.60448" type="line"/>
+      <point x="309" y="706.24271"/>
+      <point x="293" y="701.14923"/>
+      <point x="262" y="701.14923" type="curve" smooth="yes"/>
+      <point x="229" y="701.14923"/>
+      <point x="184" y="716.06819"/>
+      <point x="131" y="716.06819" type="curve" smooth="yes"/>
+      <point x="60" y="716.06819"/>
+      <point x="6" y="681.27179"/>
+      <point x="2" y="614.76794" type="curve"/>
+    </contour>
+    <contour>
+      <point x="25" y="733.38055" type="line"/>
+      <point x="375" y="733.38055" type="line"/>
+      <point x="375" y="837.83189" type="line"/>
+      <point x="25" y="837.83189" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="562.44738" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

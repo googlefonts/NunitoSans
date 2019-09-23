@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="en-cy" format="1">
+  <advance width="568"/>
+  <unicode hex="043D"/>
+  <outline>
+    <contour>
+      <point x="438" y="484" type="line"/>
+      <point x="438" y="269" type="line"/>
+      <point x="130" y="269" type="line"/>
+      <point x="130" y="484" type="line"/>
+      <point x="88" y="484" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="232" type="line"/>
+      <point x="438" y="232" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="480" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

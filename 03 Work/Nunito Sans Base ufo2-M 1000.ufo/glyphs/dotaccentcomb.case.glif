@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb.case" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="110" y="938" type="line"/>
+      <point x="110" y="769" type="line"/>
+      <point x="290" y="769" type="line"/>
+      <point x="290" y="938" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="705" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="200" y="865" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

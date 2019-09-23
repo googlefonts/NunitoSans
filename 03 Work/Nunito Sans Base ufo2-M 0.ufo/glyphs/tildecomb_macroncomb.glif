@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb_macroncomb" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="37" y="545" type="line"/>
+      <point x="44" y="589"/>
+      <point x="57" y="607"/>
+      <point x="87" y="607" type="curve" smooth="yes"/>
+      <point x="129" y="607"/>
+      <point x="158" y="547"/>
+      <point x="214" y="547" type="curve" smooth="yes"/>
+      <point x="259" y="547"/>
+      <point x="290" y="579"/>
+      <point x="296" y="643" type="curve"/>
+      <point x="263" y="645" type="line"/>
+      <point x="256" y="601"/>
+      <point x="243" y="583"/>
+      <point x="213" y="583" type="curve" smooth="yes"/>
+      <point x="171" y="583"/>
+      <point x="142" y="643"/>
+      <point x="87" y="643" type="curve" smooth="yes"/>
+      <point x="41" y="643"/>
+      <point x="10" y="611"/>
+      <point x="4" y="547" type="curve"/>
+    </contour>
+    <contour>
+      <point x="10" y="706" type="line"/>
+      <point x="290" y="706" type="line"/>
+      <point x="290" y="744" type="line"/>
+      <point x="10" y="744" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="484" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

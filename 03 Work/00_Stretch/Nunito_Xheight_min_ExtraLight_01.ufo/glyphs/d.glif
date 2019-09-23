@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d" format="1">
+  <advance width="568"/>
+  <unicode hex="0064"/>
+  <outline>
+    <contour>
+      <point x="268" y="-6.61639" type="curve" smooth="yes"/>
+      <point x="361" y="-6.61639"/>
+      <point x="430" y="33.66627"/>
+      <point x="452" y="96.85366" type="curve"/>
+      <point x="441" y="96.85366" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="483" y="559.06502" type="line"/>
+      <point x="441" y="559.06502" type="line"/>
+      <point x="441" y="288.18409" type="line"/>
+      <point x="452" y="288.18409" type="line"/>
+      <point x="430" y="350.96291"/>
+      <point x="361" y="391.10937"/>
+      <point x="268" y="391.10937" type="curve" smooth="yes"/>
+      <point x="136" y="391.10937"/>
+      <point x="53" y="314.12027"/>
+      <point x="53" y="192.24649" type="curve" smooth="yes"/>
+      <point x="53" y="70.37271"/>
+      <point x="137" y="-6.61639"/>
+    </contour>
+    <contour>
+      <point x="269" y="32.00551" type="curve" smooth="yes"/>
+      <point x="163" y="32.00551"/>
+      <point x="96" y="90.45469"/>
+      <point x="96" y="192.24649" type="curve" smooth="yes"/>
+      <point x="96" y="294.03829"/>
+      <point x="163" y="352.48746"/>
+      <point x="269" y="352.48746" type="curve" smooth="yes"/>
+      <point x="375" y="352.48746"/>
+      <point x="442" y="294.03829"/>
+      <point x="442" y="192.24649" type="curve" smooth="yes"/>
+      <point x="442" y="90.45469"/>
+      <point x="375" y="32.00551"/>
+    </contour>
+    <contour>
+      <point x="286" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="286" y="194.4212" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="411" y="460.96146" type="move" name="stroke"/>
+    </contour>
+    <contour>
+      <point x="284" y="383.81201" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="534" y="559.06502" type="move" name="topright"/>
+    </contour>
+  </outline>
+</glyph>

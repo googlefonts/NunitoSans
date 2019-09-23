@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.ss02" format="1">
+  <advance width="296"/>
+  <outline>
+    <contour>
+      <point x="44" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="705" type="line"/>
+      <point x="44" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="148" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="148" y="357" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="402" y="350" type="move" name="dot"/>
+    </contour>
+    <contour>
+      <point x="148" y="705" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="282" y="705" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>l</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>511</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

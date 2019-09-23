@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeru-cy" format="1">
+  <advance width="689"/>
+  <outline>
+    <contour>
+      <point x="559" y="0" type="line"/>
+      <point x="601" y="0" type="line"/>
+      <point x="601" y="384.49298" type="line"/>
+      <point x="559" y="384.49298" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="0" type="line"/>
+      <point x="293" y="0" type="line" smooth="yes"/>
+      <point x="412" y="0"/>
+      <point x="475" y="45.04503"/>
+      <point x="475" y="121.12909" type="curve" smooth="yes"/>
+      <point x="475" y="197.82602"/>
+      <point x="412" y="241.57722"/>
+      <point x="293" y="241.57722" type="curve" smooth="yes"/>
+      <point x="130" y="241.57722" type="line"/>
+      <point x="130" y="384.49298" type="line"/>
+      <point x="88" y="384.49298" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="34.88097" type="line"/>
+      <point x="130" y="206.69625" type="line"/>
+      <point x="295" y="206.69625" type="line" smooth="yes"/>
+      <point x="381" y="206.69625"/>
+      <point x="431" y="179.71446"/>
+      <point x="431" y="120.9248" type="curve" smooth="yes"/>
+      <point x="431" y="62.13514"/>
+      <point x="381" y="34.88097"/>
+      <point x="295" y="34.88097" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="345" y="383.81201" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

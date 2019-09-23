@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pe-cy" format="1">
+  <advance width="746"/>
+  <unicode hex="041F"/>
+  <outline>
+    <contour>
+      <point x="96" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="138" y="666" type="line"/>
+      <point x="608" y="666" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="650" y="0" type="line"/>
+      <point x="650" y="705" type="line"/>
+      <point x="96" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="608" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>En-cy</string>
+    </dict>
+  </lib>
+</glyph>

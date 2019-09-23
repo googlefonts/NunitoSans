@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tetse-cy" format="1">
+  <advance width="900"/>
+  <unicode hex="04B4"/>
+  <outline>
+    <contour>
+      <point x="837" y="-150" type="line"/>
+      <point x="877" y="-150" type="line"/>
+      <point x="877" y="39" type="line"/>
+      <point x="777" y="39" type="line"/>
+      <point x="777" y="705" type="line"/>
+      <point x="735" y="705" type="line"/>
+      <point x="735" y="39" type="line"/>
+      <point x="265" y="39" type="line"/>
+      <point x="265" y="666" type="line"/>
+      <point x="485" y="666" type="line"/>
+      <point x="485" y="705" type="line"/>
+      <point x="3" y="705" type="line"/>
+      <point x="3" y="666" type="line"/>
+      <point x="223" y="666" type="line"/>
+      <point x="223" y="0" type="line"/>
+      <point x="837" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>De-cy</string>
+    </dict>
+  </lib>
+</glyph>

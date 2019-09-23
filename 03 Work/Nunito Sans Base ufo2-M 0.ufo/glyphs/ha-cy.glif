@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ha-cy" format="1">
+  <advance width="512"/>
+  <unicode hex="0445"/>
+  <outline>
+    <component base="x" xOffset="3"/>
+    <contour>
+      <point x="432" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="253" y="243" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==+3</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==+3</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

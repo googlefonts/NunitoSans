@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Che-cy" format="1">
+  <advance width="657"/>
+  <unicode hex="0427"/>
+  <outline>
+    <contour>
+      <point x="519" y="0" type="line"/>
+      <point x="561" y="0" type="line"/>
+      <point x="561" y="705" type="line"/>
+      <point x="519" y="705" type="line"/>
+      <point x="519" y="364" type="line"/>
+      <point x="463" y="329"/>
+      <point x="398" y="317"/>
+      <point x="329" y="317" type="curve" smooth="yes"/>
+      <point x="181" y="317"/>
+      <point x="104" y="395"/>
+      <point x="104" y="565" type="curve" smooth="yes"/>
+      <point x="104" y="705" type="line"/>
+      <point x="62" y="705" type="line"/>
+      <point x="62" y="559" type="line" smooth="yes"/>
+      <point x="62" y="372"/>
+      <point x="155" y="276"/>
+      <point x="329" y="276" type="curve" smooth="yes"/>
+      <point x="398" y="276"/>
+      <point x="473" y="290"/>
+      <point x="519" y="318" type="curve"/>
+    </contour>
+    <contour>
+      <point x="519" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="303" y="295" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="306" y="705" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>En-cy</string>
+    </dict>
+  </lib>
+</glyph>

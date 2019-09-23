@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="secondtonechinese" format="1">
+  <advance width="300"/>
+  <unicode hex="02CA"/>
+  <outline>
+    <contour>
+      <point x="168" y="549" type="line"/>
+      <point x="290" y="749" type="line"/>
+      <point x="236" y="749" type="line"/>
+      <point x="132" y="549" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="484" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="685" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

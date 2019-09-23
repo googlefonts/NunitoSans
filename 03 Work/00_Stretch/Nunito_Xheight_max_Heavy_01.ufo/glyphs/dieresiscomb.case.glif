@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.case" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="224" y="1103.74486" type="line"/>
+      <point x="224" y="930.19914" type="line"/>
+      <point x="392" y="930.19914" type="line"/>
+      <point x="392" y="1103.74486" type="line"/>
+    </contour>
+    <contour>
+      <point x="8" y="1103.74486" type="line"/>
+      <point x="8" y="930.19914" type="line"/>
+      <point x="176" y="930.19914" type="line"/>
+      <point x="176" y="1103.74486" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="847.73216" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="200" y="1040.12528" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

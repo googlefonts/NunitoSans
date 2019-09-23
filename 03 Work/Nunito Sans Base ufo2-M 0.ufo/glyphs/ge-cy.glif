@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ge-cy" format="1">
+  <advance width="415"/>
+  <unicode hex="0433"/>
+  <outline>
+    <contour>
+      <point x="88" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="447" type="line"/>
+      <point x="403" y="447" type="line"/>
+      <point x="403" y="484" type="line"/>
+      <point x="88" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="135" y="243" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="232" y="484" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>en-cy</string>
+    </dict>
+  </lib>
+</glyph>

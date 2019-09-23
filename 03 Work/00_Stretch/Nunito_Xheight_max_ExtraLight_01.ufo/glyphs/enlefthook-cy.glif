@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enlefthook-cy" format="1">
+  <advance width="568"/>
+  <outline>
+    <contour>
+      <point x="438" y="583.35033" type="line"/>
+      <point x="438" y="320.50665" type="line"/>
+      <point x="130" y="320.50665" type="line"/>
+      <point x="130" y="583.35033" type="line"/>
+      <point x="88" y="583.35033" type="line"/>
+      <point x="88" y="-28.59171" type="line" smooth="yes"/>
+      <point x="88" y="-128.3976"/>
+      <point x="51" y="-184.81106"/>
+      <point x="-17" y="-190.9126" type="curve" smooth="yes"/>
+      <point x="-58" y="-194.32816" type="line"/>
+      <point x="-55" y="-232.88877" type="line"/>
+      <point x="-12" y="-229.26873" type="line" smooth="yes"/>
+      <point x="78" y="-222.50579"/>
+      <point x="130" y="-149.90066"/>
+      <point x="130" y="-29.42984" type="curve" smooth="yes"/>
+      <point x="130" y="284.10696" type="line"/>
+      <point x="438" y="284.10696" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="480" y="583.35033" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+</glyph>

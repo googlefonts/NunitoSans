@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ruble" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="349" y="234.85922" type="line"/>
+      <point x="514" y="234.85922"/>
+      <point x="597" y="289.31392"/>
+      <point x="597" y="393.05502" type="curve" smooth="yes"/>
+      <point x="597" y="481.32392"/>
+      <point x="513" y="562.44738"/>
+      <point x="349" y="562.44738" type="curve" smooth="yes"/>
+      <point x="93" y="562.44738" type="line"/>
+      <point x="93" y="341.83357" type="line"/>
+      <point x="24" y="341.83357" type="line"/>
+      <point x="24" y="234.85922" type="line"/>
+      <point x="93" y="234.85922" type="line"/>
+      <point x="93" y="209.80808" type="line"/>
+      <point x="24" y="209.80808" type="line"/>
+      <point x="24" y="102.83372" type="line"/>
+      <point x="93" y="102.83372" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="308" y="0" type="line"/>
+      <point x="308" y="102.83372" type="line"/>
+      <point x="441" y="102.83372" type="line"/>
+      <point x="441" y="209.80808" type="line"/>
+      <point x="308" y="209.80808" type="line"/>
+      <point x="308" y="234.85922" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="414.98246" type="line"/>
+      <point x="320" y="414.98246" type="line" smooth="yes"/>
+      <point x="372" y="414.98246"/>
+      <point x="403" y="409.43261"/>
+      <point x="403" y="378.17616" type="curve" smooth="yes"/>
+      <point x="403" y="346.91971"/>
+      <point x="372" y="341.83357"/>
+      <point x="320" y="341.83357" type="curve" smooth="yes"/>
+      <point x="304" y="341.83357" type="line"/>
+    </contour>
+  </outline>
+</glyph>

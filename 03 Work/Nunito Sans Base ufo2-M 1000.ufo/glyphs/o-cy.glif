@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o-cy" format="1">
+  <advance width="636"/>
+  <unicode hex="043E"/>
+  <outline>
+    <component base="o" xOffset="10"/>
+    <contour>
+      <point x="318" y="250" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="318" y="484" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==+10</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==+10</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.ss02" format="1">
+  <advance width="212"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="127" y="850.70767" type="line"/>
+      <point x="85" y="850.70767" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="106" y="430.78389" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="214" y="426.16166" type="move" name="dot"/>
+    </contour>
+    <contour>
+      <point x="106" y="850.70767" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="177" y="850.70767" type="move" name="topright"/>
+    </contour>
+  </outline>
+</glyph>
