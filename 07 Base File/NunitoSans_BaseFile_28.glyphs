@@ -1,5 +1,8 @@
 {
 .appVersion = "1265";
+DisplayStrings = (
+"u/mu"
+);
 classes = (
 {
 automatic = 1;
@@ -15582,9 +15585,8 @@ width = 1047;
 };
 },
 {
-color = 1;
 glyphname = l;
-lastChange = "2019-09-30 12:20:39 +0000";
+lastChange = "2019-10-06 20:11:44 +0000";
 layers = (
 {
 anchors = (
@@ -19595,9 +19597,8 @@ width = 706;
 };
 },
 {
-color = 1;
 glyphname = tcaron;
-lastChange = "2019-10-04 13:29:19 +0000";
+lastChange = "2019-10-06 20:11:44 +0000";
 layers = (
 {
 background = {
@@ -48104,9 +48105,8 @@ rightKerningGroup = l;
 rightMetricsKey = "=+20";
 },
 {
-color = 1;
 glyphname = fi;
-lastChange = "2019-10-04 18:48:29 +0000";
+lastChange = "2019-10-06 20:11:44 +0000";
 layers = (
 {
 background = {
@@ -78221,8 +78221,9 @@ rightKerningGroup = Omega;
 unicode = 03A9;
 },
 {
+color = 1;
 glyphname = mu;
-lastChange = "2019-08-30 13:08:14 +0000";
+lastChange = "2019-10-06 20:12:09 +0000";
 layers = (
 {
 background = {
@@ -78232,9 +78233,9 @@ closed = 1;
 nodes = (
 "418 207 LINE SMOOTH",
 "418 101 OFFCURVE",
-"352 33 OFFCURVE",
-"252 33 CURVE SMOOTH",
-"165 33 OFFCURVE",
+"351 31 OFFCURVE",
+"254 31 CURVE SMOOTH",
+"165 31 OFFCURVE",
 "125 79 OFFCURVE",
 "125 181 CURVE SMOOTH",
 "125 484 LINE",
@@ -78263,9 +78264,9 @@ nodes = (
 "418 484 LINE",
 "418 207 LINE SMOOTH",
 "418 101 OFFCURVE",
-"352 33 OFFCURVE",
-"252 33 CURVE SMOOTH",
-"165 33 OFFCURVE",
+"351 31 OFFCURVE",
+"254 31 CURVE SMOOTH",
+"165 31 OFFCURVE",
 "125 79 OFFCURVE",
 "125 181 CURVE SMOOTH",
 "125 484 LINE",
@@ -78311,7 +78312,7 @@ nodes = (
 "302 -12 OFFCURVE",
 "352 22 OFFCURVE",
 "383 83 CURVE",
-"366 86 LINE",
+"366 83 LINE",
 "366 0 LINE",
 "569 0 LINE",
 "569 494 LINE",
@@ -78362,9 +78363,8 @@ rightMetricsKey = u;
 unicode = 03BC;
 },
 {
-color = 1;
 glyphname = pi;
-lastChange = "2019-10-04 19:17:48 +0000";
+lastChange = "2019-10-06 20:11:44 +0000";
 layers = (
 {
 background = {
@@ -79469,9 +79469,8 @@ width = 1160;
 };
 },
 {
-color = 1;
 glyphname = five;
-lastChange = "2019-10-01 19:28:37 +0000";
+lastChange = "2019-10-06 20:11:44 +0000";
 layers = (
 {
 background = {
@@ -93970,9 +93969,8 @@ width = 600;
 unicode = 20A4;
 },
 {
-color = 1;
 glyphname = liraTurkish;
-lastChange = "2019-10-04 19:16:15 +0000";
+lastChange = "2019-10-06 20:11:44 +0000";
 layers = (
 {
 background = {
@@ -95592,9 +95590,8 @@ width = 600;
 unicode = 20B8;
 },
 {
-color = 1;
 glyphname = tugrik;
-lastChange = "2019-10-04 19:11:19 +0000";
+lastChange = "2019-10-06 20:11:44 +0000";
 layers = (
 {
 background = {
@@ -110670,9 +110667,8 @@ rightKerningGroup = strokeshortcomb;
 unicode = 0335;
 },
 {
-color = 1;
 glyphname = slashshortcomb;
-lastChange = "2019-09-30 13:30:59 +0000";
+lastChange = "2019-10-06 20:11:44 +0000";
 layers = (
 {
 anchors = (
@@ -110758,9 +110754,8 @@ width = 407;
 unicode = 0337;
 },
 {
-color = 1;
 glyphname = slashlongcomb;
-lastChange = "2019-10-04 18:51:17 +0000";
+lastChange = "2019-10-06 20:11:44 +0000";
 layers = (
 {
 anchors = (
@@ -116643,9 +116638,8 @@ leftKerningGroup = tildecomb;
 rightKerningGroup = tildecomb;
 },
 {
-color = 1;
 glyphname = caroncomb.alt.t;
-lastChange = "2019-10-04 13:29:22 +0000";
+lastChange = "2019-10-06 20:11:44 +0000";
 layers = (
 {
 anchors = (
