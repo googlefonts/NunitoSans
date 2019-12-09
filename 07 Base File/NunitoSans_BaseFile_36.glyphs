@@ -1,5 +1,9 @@
 {
 .appVersion = "1272";
+DisplayStrings = (
+"/two.tosf",
+"/tildecomb_dieresiscomb"
+);
 classes = (
 {
 automatic = 1;
@@ -109737,7 +109741,7 @@ width = 1160;
 },
 {
 glyphname = three.tosf;
-lastChange = "2019-11-15 16:13:24 +0000";
+lastChange = "2019-11-19 12:48:09 +0000";
 layers = (
 {
 background = {
@@ -110021,12 +110025,12 @@ nodes = (
 "208 499 OFFCURVE",
 "128 475 OFFCURVE",
 "69 436 CURVE",
-"104 347 LINE",
-"157 383 OFFCURVE",
-"222 403 OFFCURVE",
-"278 403 CURVE SMOOTH",
-"354 403 OFFCURVE",
-"397 370 OFFCURVE",
+"104 346 LINE",
+"157 382 OFFCURVE",
+"222 402 OFFCURVE",
+"278 402 CURVE SMOOTH",
+"354 402 OFFCURVE",
+"397 369 OFFCURVE",
 "397 310 CURVE SMOOTH",
 "397 245 OFFCURVE",
 "350 205 OFFCURVE",
@@ -148040,7 +148044,7 @@ unicode = 0303;
 {
 color = 5;
 glyphname = tildecomb_dieresiscomb;
-lastChange = "2019-11-18 21:29:11 +0000";
+lastChange = "2019-11-20 09:18:09 +0000";
 layers = (
 {
 anchors = (
@@ -148332,7 +148336,7 @@ nodes = (
 }
 );
 };
-color = 3;
+color = 1;
 layerId = "14DEE64B-87DD-405D-B642-B63FD93B442F";
 paths = (
 {
@@ -148369,10 +148373,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"213 697 LINE",
-"213 785 LINE",
-"99 785 LINE",
-"99 697 LINE"
+"214 697 LINE",
+"214 785 LINE",
+"98 785 LINE",
+"98 697 LINE"
 );
 },
 {
@@ -148380,8 +148384,8 @@ closed = 1;
 nodes = (
 "402 697 LINE",
 "402 785 LINE",
-"287 785 LINE",
-"287 697 LINE"
+"286 785 LINE",
+"286 697 LINE"
 );
 }
 );
