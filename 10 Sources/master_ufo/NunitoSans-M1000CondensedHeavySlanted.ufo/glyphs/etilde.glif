@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etilde" format="2">
+  <advance width="469"/>
+  <unicode hex="1EBD"/>
+  <anchor x="204" y="0" name="bottom"/>
+  <anchor x="318" y="0" name="ogonek"/>
+  <anchor x="312" y="685" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="tildecomb" xOffset="243"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

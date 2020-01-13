@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yhook" format="2">
+  <advance width="505.6084337349397"/>
+  <unicode hex="01B4"/>
+  <outline>
+    <contour>
+      <point x="275.06626506024094" y="328.0963855421687" type="curve" smooth="yes"/>
+      <point x="212.50602409638554" y="127.34337349397588" type="line"/>
+      <point x="239.72891566265062" y="127.34337349397588" type="line"/>
+      <point x="134.9156626506024" y="490.566265060241" type="line"/>
+      <point x="-10.518072289156622" y="490.566265060241" type="line"/>
+      <point x="165.76506024096386" y="-5.4638554216867465" type="line"/>
+      <point x="169.39156626506025" y="50.30722891566265" type="line"/>
+      <point x="76.75301204819279" y="-180.0" type="line"/>
+      <point x="217.59036144578315" y="-180.0" type="line"/>
+      <point x="396.0843373493976" y="322.37951807228916" type="line" smooth="yes"/>
+      <point x="413.1144578313253" y="371.15662650602405"/>
+      <point x="429.4277108433736" y="393.33734939759034"/>
+      <point x="460.26506024096386" y="393.33734939759034" type="curve" smooth="yes"/>
+      <point x="472.5783132530121" y="393.33734939759034"/>
+      <point x="482.29518072289153" y="391.33734939759034"/>
+      <point x="491.6084337349398" y="388.65060240963857" type="curve"/>
+      <point x="506.1144578313253" y="491.59638554216866" type="line"/>
+      <point x="489.2349397590361" y="498.22289156626505"/>
+      <point x="465.3855421686747" y="501.1927710843374"/>
+      <point x="442.1927710843374" y="501.1927710843374" type="curve" smooth="yes"/>
+      <point x="350.86746987951807" y="501.1927710843374"/>
+      <point x="308.9156626506024" y="449.37349397590356"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:11:09</string>
+      <key>com.schriftgestaltung.Glyphs.layer.widthMetricsKey</key>
+      <string>=y+30</string>
+    </dict>
+  </lib>
+</glyph>

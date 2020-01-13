@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odblgrave" format="2">
+  <advance width="565.0120481927711"/>
+  <unicode hex="020D"/>
+  <anchor x="252.24096385542168" y="0.0" name="bottom"/>
+  <anchor x="283.2168674698795" y="244.13253012048193" name="center"/>
+  <anchor x="314.7951807228916" y="0.0" name="ogonek"/>
+  <anchor x="354.7951807228916" y="685.0" name="top"/>
+  <anchor x="370.9277108433735" y="484.0" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="dblgravecomb" xOffset="322.7951807228916"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

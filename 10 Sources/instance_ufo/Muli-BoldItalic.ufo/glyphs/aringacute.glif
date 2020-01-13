@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringacute" format="2">
+  <advance width="620"/>
+  <unicode hex="01FB"/>
+  <anchor x="262" y="0" name="bottom"/>
+  <anchor x="296" y="254" name="center"/>
+  <anchor x="491" y="0" name="ogonek"/>
+  <anchor x="342" y="484" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="ringcomb_acutecomb" xOffset="302"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

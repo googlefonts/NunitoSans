@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy" format="2">
+  <advance width="791.4698795180723"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="185.5843373493976" y="0.0" type="line"/>
+      <point x="515.1867469879518" y="0.0" type="line" smooth="yes"/>
+      <point x="669.3795180722891" y="0.0"/>
+      <point x="754.8554216867469" y="61.84939759036145"/>
+      <point x="754.8554216867469" y="171.3855421686747" type="curve" smooth="yes"/>
+      <point x="754.8554216867469" y="280.921686746988"/>
+      <point x="672.0361445783133" y="341.3975903614458"/>
+      <point x="513.2168674698795" y="341.3975903614458" type="curve" smooth="yes"/>
+      <point x="352.40361445783134" y="341.3975903614458" type="line"/>
+      <point x="352.40361445783134" y="490.566265060241" type="line"/>
+      <point x="5.909638554216866" y="490.566265060241" type="line"/>
+      <point x="5.909638554216866" y="362.2951807228916" type="line"/>
+      <point x="185.5843373493976" y="362.2951807228916" type="line"/>
+    </contour>
+    <contour>
+      <point x="352.40361445783134" y="105.28915662650603" type="line"/>
+      <point x="352.40361445783134" y="236.10843373493978" type="line"/>
+      <point x="497.4578313253012" y="236.10843373493978" type="line" smooth="yes"/>
+      <point x="570.1506024096386" y="236.10843373493978"/>
+      <point x="600.4819277108434" y="218.18072289156626"/>
+      <point x="600.4819277108434" y="172.6987951807229" type="curve" smooth="yes"/>
+      <point x="600.4819277108434" y="126.1867469879518"/>
+      <point x="570.1204819277108" y="105.28915662650603"/>
+      <point x="497.4578313253012" y="105.28915662650603" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:28:33</string>
+    </dict>
+  </lib>
+</glyph>

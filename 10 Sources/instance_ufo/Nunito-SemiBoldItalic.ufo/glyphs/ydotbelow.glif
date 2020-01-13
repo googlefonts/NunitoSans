@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydotbelow" format="2">
+  <advance width="519.6385542168674"/>
+  <unicode hex="1EF5"/>
+  <anchor x="332.72289156626505" y="-170.0" name="bottom"/>
+  <anchor x="285.68674698795184" y="484.0" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="dotbelowcomb" xOffset="359.72289156626505"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

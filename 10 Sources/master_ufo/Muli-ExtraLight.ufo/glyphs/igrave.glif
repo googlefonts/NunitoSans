@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="igrave" format="2">
+  <advance width="218"/>
+  <unicode hex="00EC"/>
+  <anchor x="109" y="0" name="bottom"/>
+  <anchor x="131" y="0" name="ogonek"/>
+  <anchor x="109" y="685" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="gravecomb" xOffset="109"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

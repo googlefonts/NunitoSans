@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dje-cy" format="2">
+  <advance width="463"/>
+  <unicode hex="0452"/>
+  <outline>
+    <contour>
+      <point x="185" y="-185" type="line"/>
+      <point x="296" y="-159"/>
+      <point x="336" y="-108"/>
+      <point x="358" y="34" type="curve" smooth="yes"/>
+      <point x="405" y="327" type="line" smooth="yes"/>
+      <point x="424" y="444"/>
+      <point x="375" y="492"/>
+      <point x="294" y="492" type="curve" smooth="yes"/>
+      <point x="218" y="492"/>
+      <point x="156" y="448"/>
+      <point x="126" y="385" type="curve"/>
+      <point x="137" y="385" type="line"/>
+      <point x="165" y="562" type="line"/>
+      <point x="323" y="562" type="line"/>
+      <point x="328" y="595" type="line"/>
+      <point x="170" y="595" type="line"/>
+      <point x="188" y="705" type="line"/>
+      <point x="150" y="705" type="line"/>
+      <point x="132" y="595" type="line"/>
+      <point x="55" y="595" type="line"/>
+      <point x="50" y="562" type="line"/>
+      <point x="127" y="562" type="line"/>
+      <point x="38" y="0" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="124" y="305" type="line" smooth="yes"/>
+      <point x="140" y="401"/>
+      <point x="210" y="456"/>
+      <point x="287" y="456" type="curve" smooth="yes"/>
+      <point x="347" y="456"/>
+      <point x="383" y="428"/>
+      <point x="366" y="324" type="curve" smooth="yes"/>
+      <point x="320" y="31" type="line" smooth="yes"/>
+      <point x="301" y="-89"/>
+      <point x="272" y="-127"/>
+      <point x="182" y="-151" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>tshe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:45:15</string>
+    </dict>
+  </lib>
+</glyph>

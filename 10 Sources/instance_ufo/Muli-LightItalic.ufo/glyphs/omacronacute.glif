@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omacronacute" format="2">
+  <advance width="561.9277108433735"/>
+  <unicode hex="1E53"/>
+  <anchor x="241.57831325301203" y="0.0" name="bottom"/>
+  <anchor x="280.578313253012" y="250.6867469879518" name="center"/>
+  <anchor x="296.8072289156627" y="0.0" name="ogonek"/>
+  <anchor x="318.578313253012" y="484.0" name="top"/>
+  <anchor x="369.4096385542169" y="500.0" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="macroncomb_acutecomb" xOffset="282.578313253012"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

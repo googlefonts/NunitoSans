@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzcaron" format="2">
+  <advance width="1126"/>
+  <unicode hex="01C6"/>
+  <anchor x="275" y="0" name="bottom_1"/>
+  <anchor x="840" y="0" name="bottom_2"/>
+  <anchor x="305" y="272" name="center"/>
+  <anchor x="494" y="653" name="stroke"/>
+  <anchor x="387" y="705" name="top_1"/>
+  <anchor x="948" y="685" name="top_2"/>
+  <anchor x="687" y="705" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="zcaron" xOffset="632"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

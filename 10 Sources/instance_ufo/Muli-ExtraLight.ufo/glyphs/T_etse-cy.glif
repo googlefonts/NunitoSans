@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tetse-cy" format="2">
+  <advance width="931"/>
+  <unicode hex="04B4"/>
+  <outline>
+    <contour>
+      <point x="867" y="-150" type="line"/>
+      <point x="908" y="-150" type="line"/>
+      <point x="908" y="39" type="line"/>
+      <point x="805" y="39" type="line"/>
+      <point x="805" y="705" type="line"/>
+      <point x="763" y="705" type="line"/>
+      <point x="763" y="39" type="line"/>
+      <point x="281" y="39" type="line"/>
+      <point x="281" y="666" type="line"/>
+      <point x="511" y="666" type="line"/>
+      <point x="511" y="705" type="line"/>
+      <point x="10" y="705" type="line"/>
+      <point x="10" y="666" type="line"/>
+      <point x="240" y="666" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="867" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>De-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:09:01</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

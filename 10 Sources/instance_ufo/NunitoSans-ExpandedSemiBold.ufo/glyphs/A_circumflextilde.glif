@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflextilde" format="2">
+  <advance width="907.2349397590361"/>
+  <unicode hex="1EAA"/>
+  <anchor x="453.79518072289153" y="0.0" name="bottom"/>
+  <anchor x="862.4156626506024" y="0.0" name="ogonek"/>
+  <anchor x="454.1506024096385" y="705.0" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflexcomb_tildecomb.case" xOffset="454.1506024096385"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

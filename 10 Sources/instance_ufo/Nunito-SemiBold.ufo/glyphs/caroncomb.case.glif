@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.case" format="2">
+  <anchor x="0.0" y="705.0" name="_top"/>
+  <anchor x="0.0" y="865.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="755.156626506024" type="curve" smooth="yes"/>
+      <point x="24.795180722891565" y="755.156626506024"/>
+      <point x="45.74698795180723" y="764.843373493976"/>
+      <point x="61.855421686746986" y="787.7951807228916" type="curve" smooth="yes"/>
+      <point x="142.24096385542168" y="901.3614457831326" type="line" smooth="yes"/>
+      <point x="165.48192771084337" y="934.5783132530121"/>
+      <point x="118.44578313253012" y="964.5060240963855"/>
+      <point x="91.36144578313252" y="933.0" type="curve" smooth="yes"/>
+      <point x="0.0" y="825.4578313253012" type="line"/>
+      <point x="-90.65060240963855" y="933.0" type="line" smooth="yes"/>
+      <point x="-117.73493975903614" y="964.5060240963855"/>
+      <point x="-165.48192771084337" y="933.8674698795181"/>
+      <point x="-142.24096385542168" y="901.3614457831326" type="curve" smooth="yes"/>
+      <point x="-61.14457831325301" y="787.7951807228916" type="line" smooth="yes"/>
+      <point x="-45.036144578313255" y="764.843373493976"/>
+      <point x="-24.795180722891565" y="755.156626506024"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

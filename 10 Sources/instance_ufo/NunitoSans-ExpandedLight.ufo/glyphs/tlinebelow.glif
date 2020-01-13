@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tlinebelow" format="2">
+  <advance width="403.9397590361446"/>
+  <unicode hex="1E6F"/>
+  <anchor x="255.09638554216866" y="-170.0" name="bottom"/>
+  <anchor x="190.6686746987952" y="268.2530120481928" name="center"/>
+  <anchor x="157.0421686746988" y="635.0" name="top"/>
+  <anchor x="286.0481927710843" y="705.0" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="macronbelowcomb" xOffset="255.09638554216866"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

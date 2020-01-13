@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="238.20481927710844"/>
+  <unicode hex="012F"/>
+  <anchor x="79.33734939759036" y="0.0" name="bottom"/>
+  <anchor x="108.3855421686747" y="0.0" name="ogonek"/>
+  <anchor x="188.33734939759034" y="685.0" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dotaccentcomb.i" xOffset="118.86746987951807"/>
+    <component base="ogonekcomb" xOffset="155.85542168674698"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="766.9759036144578"/>
+  <unicode hex="0051"/>
+  <anchor x="377.0" y="0.0" name="bottom"/>
+  <anchor x="377.0" y="705.0" name="top"/>
+  <anchor x="382.9879518072289" y="-8.939759036144578" name="Qtail"/>
+  <anchor x="383.9879518072289" y="353.0" name="center"/>
+  <anchor x="440.33734939759034" y="0.0" name="ogonek"/>
+  <anchor x="26.0" y="705.0" name="topleft"/>
+  <anchor x="454.10843373493975" y="705.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="_part.Qtail" xOffset="0.9397590361445783" yOffset="-0.46987951807228917"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

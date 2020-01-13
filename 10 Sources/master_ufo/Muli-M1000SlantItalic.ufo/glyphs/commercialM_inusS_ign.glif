@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign" format="2">
+  <advance width="600"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="168" y="-43" type="line"/>
+      <point x="752" y="748" type="line"/>
+      <point x="562" y="748" type="line"/>
+      <point x="-22" y="-43" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="605" y="207" type="line"/>
+      <point x="395" y="207" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="498" type="line"/>
+      <point x="330" y="498" type="line"/>
+      <point x="362" y="705" type="line"/>
+      <point x="152" y="705" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

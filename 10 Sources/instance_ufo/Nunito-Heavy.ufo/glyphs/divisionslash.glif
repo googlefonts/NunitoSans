@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divisionslash" format="2">
+  <advance width="600"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="267" y="-18" type="curve" smooth="yes"/>
+      <point x="483" y="660" type="line" smooth="yes"/>
+      <point x="516" y="765"/>
+      <point x="365" y="806"/>
+      <point x="333" y="706" type="curve" smooth="yes"/>
+      <point x="117" y="28" type="line" smooth="yes"/>
+      <point x="84" y="-77"/>
+      <point x="235" y="-118"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+    </dict>
+  </lib>
+</glyph>

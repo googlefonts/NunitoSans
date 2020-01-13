@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="600.0"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="53.5421686746988" y="261.50602409638554" type="line"/>
+      <point x="548.6265060240964" y="261.50602409638554" type="line"/>
+      <point x="556.4578313253012" y="311.72289156626505" type="line"/>
+      <point x="61.373493975903614" y="311.72289156626505" type="line"/>
+    </contour>
+    <contour>
+      <point x="222.65060240963854" y="48.024096385542165" type="line"/>
+      <point x="300.43373493975906" y="48.024096385542165" type="line"/>
+      <point x="313.5783132530121" y="125.80722891566265" type="line"/>
+      <point x="235.79518072289156" y="125.80722891566265" type="line"/>
+    </contour>
+    <contour>
+      <point x="286.4216867469879" y="447.421686746988" type="line"/>
+      <point x="364.2048192771084" y="447.421686746988" type="line"/>
+      <point x="376.34939759036143" y="525.2048192771084" type="line"/>
+      <point x="298.56626506024094" y="525.2048192771084" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

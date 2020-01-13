@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb" format="2">
+  <unicode hex="0311"/>
+  <anchor x="0.0" y="484.0" name="_top"/>
+  <anchor x="0.0" y="685.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-89.98795180722892" y="501.93975903614455" type="line"/>
+      <point x="-85.67469879518073" y="591.9879518072289"/>
+      <point x="-53.554216867469876" y="635.2289156626506"/>
+      <point x="0.0" y="635.2289156626506" type="curve" smooth="yes"/>
+      <point x="53.554216867469876" y="635.2289156626506"/>
+      <point x="85.67469879518073" y="591.9879518072289"/>
+      <point x="89.98795180722892" y="501.93975903614455" type="curve"/>
+      <point x="172.89156626506022" y="509.8795180722892" type="line"/>
+      <point x="171.5180722891566" y="645.8493975903615"/>
+      <point x="103.0722891566265" y="723.7590361445783"/>
+      <point x="0.0" y="723.7590361445783" type="curve" smooth="yes"/>
+      <point x="-102.38554216867469" y="723.7590361445783"/>
+      <point x="-170.8313253012048" y="645.8493975903615"/>
+      <point x="-172.89156626506022" y="509.8795180722892" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 23:03:09</string>
+    </dict>
+  </lib>
+</glyph>

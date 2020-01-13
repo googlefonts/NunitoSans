@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.dnom" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="250" y="-6" type="curve" smooth="yes"/>
+      <point x="378" y="-6"/>
+      <point x="463" y="85"/>
+      <point x="463" y="239" type="curve" smooth="yes"/>
+      <point x="463" y="402"/>
+      <point x="379" y="482"/>
+      <point x="250" y="482" type="curve" smooth="yes"/>
+      <point x="119" y="482"/>
+      <point x="37" y="403"/>
+      <point x="37" y="239" type="curve" smooth="yes"/>
+      <point x="37" y="89"/>
+      <point x="119" y="-6"/>
+    </contour>
+    <contour>
+      <point x="250" y="114" type="curve" smooth="yes"/>
+      <point x="206" y="114"/>
+      <point x="179" y="160"/>
+      <point x="179" y="239" type="curve" smooth="yes"/>
+      <point x="179" y="331"/>
+      <point x="207" y="362"/>
+      <point x="250" y="362" type="curve" smooth="yes"/>
+      <point x="293" y="362"/>
+      <point x="321" y="331"/>
+      <point x="321" y="239" type="curve" smooth="yes"/>
+      <point x="321" y="159"/>
+      <point x="292" y="114"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 18:11:43</string>
+    </dict>
+  </lib>
+</glyph>

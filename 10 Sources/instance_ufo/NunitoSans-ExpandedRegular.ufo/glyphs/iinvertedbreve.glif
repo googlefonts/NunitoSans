@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iinvertedbreve" format="2">
+  <advance width="282.0843373493976"/>
+  <unicode hex="020B"/>
+  <anchor x="140.80722891566265" y="0.0" name="bottom"/>
+  <anchor x="175.20481927710844" y="0.0" name="ogonek"/>
+  <anchor x="140.80722891566265" y="685.0" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="breveinvertedcomb" xOffset="140.80722891566265"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 23:03:14</string>
+    </dict>
+  </lib>
+</glyph>

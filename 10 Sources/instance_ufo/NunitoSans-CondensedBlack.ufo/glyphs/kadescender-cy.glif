@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kadescender-cy" format="2">
+  <advance width="574.277108433735"/>
+  <unicode hex="049B"/>
+  <anchor x="359.2650602409639" y="0.0" name="bottomright"/>
+  <anchor x="249.5180722891566" y="246.4578313253012" name="center"/>
+  <anchor x="276.6987951807229" y="484.0" name="top"/>
+  <outline>
+    <component base="ka-cy"/>
+    <component base="__descender-cy.cy" xOffset="354.90361445783134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>kadescender-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+28</string>
+    </dict>
+  </lib>
+</glyph>

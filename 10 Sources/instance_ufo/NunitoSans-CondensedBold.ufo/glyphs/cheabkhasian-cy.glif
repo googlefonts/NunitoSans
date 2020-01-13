@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheabkhasian-cy" format="2">
+  <advance width="557.5"/>
+  <unicode hex="04BD"/>
+  <anchor x="404.5" y="0.0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="366.0" y="-10.0" type="curve" smooth="yes"/>
+      <point x="425.5" y="-10.0"/>
+      <point x="481.5" y="9.0"/>
+      <point x="527.0" y="47.0" type="curve"/>
+      <point x="493.5" y="123.5" type="line"/>
+      <point x="458.0" y="92.5"/>
+      <point x="413.5" y="78.0"/>
+      <point x="370.0" y="78.0" type="curve" smooth="yes"/>
+      <point x="293.0" y="78.0"/>
+      <point x="254.5" y="119.5"/>
+      <point x="252.0" y="221.0" type="curve"/>
+      <point x="241.0" y="216.0" type="line"/>
+      <point x="533.0" y="216.0" type="line"/>
+      <point x="533.0" y="261.0" type="line" smooth="yes"/>
+      <point x="533.0" y="415.0"/>
+      <point x="469.0" y="499.0"/>
+      <point x="349.0" y="499.0" type="curve" smooth="yes"/>
+      <point x="230.0" y="499.0"/>
+      <point x="153.0" y="411.0"/>
+      <point x="145.0" y="269.5" type="curve"/>
+      <point x="154.0" y="288.0" type="line"/>
+      <point x="149.0" y="288.0" type="line" smooth="yes"/>
+      <point x="114.5" y="288.0"/>
+      <point x="98.5" y="300.0"/>
+      <point x="98.5" y="343.0" type="curve" smooth="yes"/>
+      <point x="98.5" y="386.5" type="line"/>
+      <point x="15.0" y="386.5" type="line"/>
+      <point x="15.0" y="343.0" type="line" smooth="yes"/>
+      <point x="15.0" y="255.0"/>
+      <point x="50.0" y="216.0"/>
+      <point x="134.5" y="216.0" type="curve" smooth="yes"/>
+      <point x="163.5" y="216.0" type="line"/>
+      <point x="145.0" y="222.0" type="line"/>
+      <point x="151.5" y="67.5"/>
+      <point x="234.505" y="-10.0"/>
+    </contour>
+    <contour>
+      <point x="352.5" y="419.0" type="curve" smooth="yes"/>
+      <point x="409.0" y="419.0"/>
+      <point x="440.0" y="381.0"/>
+      <point x="438.5" y="271.5" type="curve"/>
+      <point x="451.0" y="288.0" type="line"/>
+      <point x="239.5" y="288.0" type="line"/>
+      <point x="252.5" y="268.0" type="line"/>
+      <point x="257.5" y="375.0"/>
+      <point x="294.5" y="419.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:50:48</string>
+    </dict>
+  </lib>
+</glyph>

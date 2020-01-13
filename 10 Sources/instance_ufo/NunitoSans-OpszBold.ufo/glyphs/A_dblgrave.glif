@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adblgrave" format="2">
+  <advance width="802"/>
+  <unicode hex="0200"/>
+  <anchor x="401" y="0" name="bottom"/>
+  <anchor x="732" y="0" name="ogonek"/>
+  <anchor x="401" y="865" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dblgravecomb.case" xOffset="401"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeru-cy" format="2">
+  <advance width="862"/>
+  <unicode hex="044B"/>
+  <anchor x="431" y="484" name="top"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="344" y="0" type="line" smooth="yes"/>
+      <point x="480" y="0"/>
+      <point x="566" y="77"/>
+      <point x="566" y="197" type="curve" smooth="yes"/>
+      <point x="566" y="321"/>
+      <point x="490" y="384"/>
+      <point x="344" y="384" type="curve" smooth="yes"/>
+      <point x="262" y="384" type="line"/>
+      <point x="262" y="544" type="line"/>
+      <point x="54" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="131" type="line"/>
+      <point x="262" y="254" type="line"/>
+      <point x="308" y="254" type="line" smooth="yes"/>
+      <point x="355" y="254"/>
+      <point x="378" y="235"/>
+      <point x="378" y="193" type="curve" smooth="yes"/>
+      <point x="378" y="152"/>
+      <point x="353" y="131"/>
+      <point x="308" y="131" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="600" y="0" type="line"/>
+      <point x="808" y="0" type="line"/>
+      <point x="808" y="544" type="line"/>
+      <point x="600" y="544" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:28:38</string>
+    </dict>
+  </lib>
+</glyph>

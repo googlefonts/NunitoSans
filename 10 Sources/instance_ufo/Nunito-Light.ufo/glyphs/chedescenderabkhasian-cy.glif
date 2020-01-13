@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescenderabkhasian-cy" format="2">
+  <advance width="613.1927710843373"/>
+  <unicode hex="04BF"/>
+  <anchor x="442.13253012048193" y="-1.8313253012048192" name="ogonek"/>
+  <outline>
+    <component base="cheabkhasian-cy"/>
+    <component base="ogonekcomb" xOffset="442.13253012048193" yOffset="-1.8313253012048192"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 23:13:29</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbrevebelow" format="2">
+  <advance width="553"/>
+  <unicode hex="1E2B"/>
+  <anchor x="219" y="-170" name="bottom"/>
+  <anchor x="277" y="245" name="center"/>
+  <anchor x="221" y="353" name="dot"/>
+  <anchor x="210" y="580" name="stroke"/>
+  <anchor x="351" y="705" name="top"/>
+  <anchor x="242" y="705" name="topright"/>
+  <outline>
+    <component base="h"/>
+    <component base="brevebelowcomb" xOffset="246"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

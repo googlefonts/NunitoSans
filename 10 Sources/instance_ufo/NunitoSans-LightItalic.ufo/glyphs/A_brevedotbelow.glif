@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevedotbelow" format="2">
+  <advance width="722.4096385542168"/>
+  <unicode hex="1EB6"/>
+  <anchor x="313.6626506024096" y="-170.0" name="bottom"/>
+  <anchor x="647.8072289156627" y="0.0" name="ogonek"/>
+  <anchor x="453.289156626506" y="865.0" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dotbelowcomb" xOffset="340.6626506024096"/>
+    <component base="brevecomb.case" xOffset="436.5180722891566"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

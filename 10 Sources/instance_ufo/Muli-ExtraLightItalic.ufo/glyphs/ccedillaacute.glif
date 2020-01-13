@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccedillaacute" format="2">
+  <advance width="487"/>
+  <unicode hex="1E09"/>
+  <anchor x="241" y="0" name="bottom"/>
+  <anchor x="350" y="685" name="top"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedillacomb" xOffset="286"/>
+    <component base="acutecomb" xOffset="281"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

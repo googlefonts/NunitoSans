@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexhookabove.ss01" format="2">
+  <advance width="699.2409638554216"/>
+  <anchor x="299.0843373493976" y="0.0" name="bottom"/>
+  <anchor x="571.6626506024096" y="0.0" name="ogonek"/>
+  <anchor x="332.2168674698795" y="484.0" name="top"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="332.2168674698795"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

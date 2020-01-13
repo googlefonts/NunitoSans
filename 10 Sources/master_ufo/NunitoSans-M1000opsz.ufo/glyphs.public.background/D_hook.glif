@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dhook" format="2">
+  <outline>
+    <contour>
+      <point x="256" y="0" type="line"/>
+      <point x="559" y="0" type="line" smooth="yes"/>
+      <point x="798" y="0"/>
+      <point x="942" y="132"/>
+      <point x="942" y="353" type="curve" smooth="yes"/>
+      <point x="942" y="571"/>
+      <point x="797" y="705"/>
+      <point x="559" y="705" type="curve" smooth="yes"/>
+      <point x="256" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="471" y="172" type="line"/>
+      <point x="471" y="533" type="line"/>
+      <point x="543" y="533" type="line" smooth="yes"/>
+      <point x="667" y="533"/>
+      <point x="727" y="475"/>
+      <point x="727" y="353" type="curve" smooth="yes"/>
+      <point x="727" y="231"/>
+      <point x="668" y="172"/>
+      <point x="543" y="172" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

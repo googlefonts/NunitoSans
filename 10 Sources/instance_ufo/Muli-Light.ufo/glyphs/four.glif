@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="399.95180722891564" y="0.0" type="line"/>
+      <point x="460.72289156626505" y="0.0" type="line"/>
+      <point x="460.72289156626505" y="159.59036144578315" type="line"/>
+      <point x="572.5180722891566" y="159.59036144578315" type="line"/>
+      <point x="572.5180722891566" y="212.09638554216866" type="line"/>
+      <point x="460.72289156626505" y="212.09638554216866" type="line"/>
+      <point x="460.72289156626505" y="705.0" type="line"/>
+      <point x="409.9277108433735" y="705.0" type="line"/>
+      <point x="54.10843373493976" y="205.63855421686748" type="line"/>
+      <point x="54.10843373493976" y="159.59036144578315" type="line"/>
+      <point x="399.95180722891564" y="159.59036144578315" type="line"/>
+    </contour>
+    <contour>
+      <point x="399.95180722891564" y="212.09638554216866" type="line"/>
+      <point x="110.01204819277109" y="212.09638554216866" type="line"/>
+      <point x="110.01204819277109" y="195.97590361445782" type="line"/>
+      <point x="420.86746987951807" y="631.6506024096385" type="line"/>
+      <point x="399.95180722891564" y="631.6506024096385" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

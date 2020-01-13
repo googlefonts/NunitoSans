@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eltail-cy" format="2">
+  <advance width="879"/>
+  <unicode hex="04C5"/>
+  <outline>
+    <contour>
+      <point x="547" y="-179" type="line"/>
+      <point x="728" y="-179" type="line"/>
+      <point x="845" y="167" type="line"/>
+      <point x="758" y="167" type="line"/>
+      <point x="758" y="705" type="line"/>
+      <point x="168" y="705" type="line"/>
+      <point x="168" y="486" type="line" smooth="yes"/>
+      <point x="168" y="297"/>
+      <point x="128" y="197"/>
+      <point x="18" y="131" type="curve"/>
+      <point x="140" y="-20" type="line"/>
+      <point x="287" y="52"/>
+      <point x="378" y="204"/>
+      <point x="378" y="430" type="curve" smooth="yes"/>
+      <point x="378" y="519" type="line"/>
+      <point x="533" y="519" type="line"/>
+      <point x="533" y="0" type="line"/>
+      <point x="607" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

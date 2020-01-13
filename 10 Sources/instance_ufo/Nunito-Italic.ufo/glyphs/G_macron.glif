@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gmacron" format="2">
+  <advance width="726.4578313253012"/>
+  <unicode hex="1E20"/>
+  <anchor x="380.4578313253012" y="0.0" name="bottom"/>
+  <anchor x="465.578313253012" y="865.0" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="macroncomb.case" xOffset="440.10843373493975"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

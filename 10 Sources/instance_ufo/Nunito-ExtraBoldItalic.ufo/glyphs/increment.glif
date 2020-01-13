@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="increment" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="55.831325301204814" y="0.0" type="curve" smooth="yes"/>
+      <point x="477.0481927710843" y="0.0" type="line" smooth="yes"/>
+      <point x="554.8915662650603" y="0.0"/>
+      <point x="570.144578313253" y="37.57831325301205"/>
+      <point x="553.3253012048193" y="117.42168674698794" type="curve" smooth="yes"/>
+      <point x="441.9638554216867" y="652.9156626506025" type="line" smooth="yes"/>
+      <point x="433.3975903614458" y="694.4939759036145"/>
+      <point x="409.9518072289157" y="713.6265060240964"/>
+      <point x="371.6867469879518" y="713.6265060240964" type="curve" smooth="yes"/>
+      <point x="335.4216867469879" y="713.6265060240964"/>
+      <point x="310.66265060240966" y="700.1204819277109"/>
+      <point x="292.8433734939759" y="665.7951807228916" type="curve" smooth="yes"/>
+      <point x="8.313253012048197" y="122.10843373493975" type="line" smooth="yes"/>
+      <point x="-34.57831325301205" y="39.951807228915655"/>
+      <point x="-16.698795180722893" y="0.0"/>
+    </contour>
+    <contour>
+      <point x="124.92771084337348" y="81.22891566265059" type="line"/>
+      <point x="380.3734939759036" y="581.8795180722892" type="line"/>
+      <point x="338.67469879518075" y="581.8795180722892" type="line"/>
+      <point x="435.2771084337349" y="81.22891566265059" type="line"/>
+      <point x="441.59036144578306" y="121.42168674698794" type="line"/>
+      <point x="131.24096385542168" y="121.42168674698794" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Atilde" format="2">
+  <advance width="729.156626506024"/>
+  <unicode hex="00C3"/>
+  <anchor x="344.5180722891566" y="0.0" name="bottom"/>
+  <anchor x="653.9277108433736" y="0.0" name="ogonek"/>
+  <anchor x="454.6385542168675" y="865.0" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="tildecomb.case" xOffset="439.16867469879514"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

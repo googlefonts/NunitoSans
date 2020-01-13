@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Umacron-cy" format="2">
+  <advance width="671.0240963855422"/>
+  <unicode hex="04EE"/>
+  <anchor x="339.6385542168675" y="865.0" name="top"/>
+  <outline>
+    <component base="U-cy"/>
+    <component base="macroncomb.case" xOffset="339.6385542168675"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

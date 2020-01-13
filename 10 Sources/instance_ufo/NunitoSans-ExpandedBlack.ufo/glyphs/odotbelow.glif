@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odotbelow" format="2">
+  <advance width="738.0963855421687"/>
+  <unicode hex="1ECD"/>
+  <anchor x="369.04819277108436" y="-170.0" name="bottom"/>
+  <anchor x="368.3253012048193" y="246.27710843373495" name="center"/>
+  <anchor x="420.8072289156627" y="0.0" name="ogonek"/>
+  <anchor x="369.04819277108436" y="484.0" name="top"/>
+  <anchor x="438.1566265060241" y="484.0" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="dotbelowcomb" xOffset="369.04819277108436"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

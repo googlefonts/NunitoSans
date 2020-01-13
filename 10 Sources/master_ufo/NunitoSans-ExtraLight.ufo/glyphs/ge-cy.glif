@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-cy" format="2">
+  <advance width="415"/>
+  <unicode hex="0433"/>
+  <anchor x="88" y="0" name="bottomright"/>
+  <anchor x="135" y="243" name="center"/>
+  <anchor x="232" y="484" name="top"/>
+  <outline>
+    <contour>
+      <point x="88" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="447" type="line"/>
+      <point x="403" y="447" type="line"/>
+      <point x="403" y="484" type="line"/>
+      <point x="88" y="484" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

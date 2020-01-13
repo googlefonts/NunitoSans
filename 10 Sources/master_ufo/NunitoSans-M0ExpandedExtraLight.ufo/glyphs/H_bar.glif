@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="972"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="186" y="337" type="line"/>
+      <point x="786" y="337" type="line"/>
+      <point x="786" y="0" type="line"/>
+      <point x="832" y="0" type="line"/>
+      <point x="832" y="527" type="line"/>
+      <point x="953" y="527" type="line"/>
+      <point x="953" y="567" type="line"/>
+      <point x="832" y="567" type="line"/>
+      <point x="832" y="705" type="line"/>
+      <point x="786" y="705" type="line"/>
+      <point x="786" y="567" type="line"/>
+      <point x="186" y="567" type="line"/>
+      <point x="186" y="705" type="line"/>
+      <point x="140" y="705" type="line"/>
+      <point x="140" y="567" type="line"/>
+      <point x="19" y="567" type="line"/>
+      <point x="19" y="527" type="line"/>
+      <point x="140" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="379" type="line"/>
+      <point x="186" y="527" type="line"/>
+      <point x="786" y="527" type="line"/>
+      <point x="786" y="379" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

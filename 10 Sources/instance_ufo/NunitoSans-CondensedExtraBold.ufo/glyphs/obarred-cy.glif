@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarred-cy" format="2">
+  <advance width="507.843373493976"/>
+  <unicode hex="04E9"/>
+  <anchor x="253.921686746988" y="484.0" name="top"/>
+  <anchor x="253.57831325301206" y="244.9698795180723" name="center"/>
+  <outline>
+    <component base="_part.oslash" xOffset="6.939759036144578"/>
+    <component base="strokecomb.obarred" xOffset="253.57831325301206" yOffset="-2.030120481927711"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=+3</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+3</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

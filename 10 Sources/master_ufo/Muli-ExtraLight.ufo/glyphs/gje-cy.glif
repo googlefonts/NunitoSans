@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gje-cy" format="2">
+  <advance width="425"/>
+  <unicode hex="0453"/>
+  <anchor x="89" y="0" name="bottomright"/>
+  <anchor x="136" y="251" name="center"/>
+  <anchor x="237" y="685" name="top"/>
+  <outline>
+    <component base="ge-cy"/>
+    <component base="acutecomb" xOffset="237"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

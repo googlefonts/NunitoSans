@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enhook-cy" format="2">
+  <advance width="618"/>
+  <unicode hex="04C8"/>
+  <outline>
+    <contour>
+      <point x="304" y="-193" type="line"/>
+      <point x="349" y="-190" type="line" smooth="yes"/>
+      <point x="492" y="-181"/>
+      <point x="547" y="-120"/>
+      <point x="547" y="9" type="curve" smooth="yes"/>
+      <point x="547" y="505" type="line"/>
+      <point x="424" y="505" type="line"/>
+      <point x="424" y="307" type="line"/>
+      <point x="195" y="307" type="line"/>
+      <point x="195" y="505" type="line"/>
+      <point x="71" y="505" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="211" type="line"/>
+      <point x="424" y="211" type="line"/>
+      <point x="424" y="-7" type="line" smooth="yes"/>
+      <point x="424" y="-64"/>
+      <point x="397" y="-93"/>
+      <point x="343" y="-98" type="curve" smooth="yes"/>
+      <point x="296" y="-102" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:09:08</string>
+    </dict>
+  </lib>
+</glyph>

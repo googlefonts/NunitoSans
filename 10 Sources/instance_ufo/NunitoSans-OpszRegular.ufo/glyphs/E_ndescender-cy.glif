@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Endescender-cy" format="2">
+  <advance width="858.855421686747"/>
+  <unicode hex="04A2"/>
+  <anchor x="612.3253012048192" y="0.0" name="bottomright"/>
+  <anchor x="409.1686746987952" y="553.0481927710844" name="center"/>
+  <anchor x="408.1686746987952" y="705.0" name="top"/>
+  <anchor x="50.77108433734939" y="705.0" name="topleft"/>
+  <outline>
+    <component base="En-cy"/>
+    <component base="__descender-cy.case" xOffset="612.3253012048192"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

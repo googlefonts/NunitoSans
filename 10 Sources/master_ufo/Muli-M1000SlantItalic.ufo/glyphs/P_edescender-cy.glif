@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pedescender-cy" format="2">
+  <advance width="842"/>
+  <unicode hex="0524"/>
+  <anchor x="485" y="0" name="bottomright"/>
+  <outline>
+    <component base="Pe-cy"/>
+    <component base="__descender-cy.case" xOffset="525"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

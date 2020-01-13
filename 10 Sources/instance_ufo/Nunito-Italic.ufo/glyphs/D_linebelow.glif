@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dlinebelow" format="2">
+  <advance width="742.3855421686746"/>
+  <unicode hex="1E0E"/>
+  <anchor x="307.3975903614458" y="-170.0" name="bottom"/>
+  <anchor x="200.9277108433735" y="358.0" name="center"/>
+  <anchor x="433.9879518072289" y="705.0" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="macronbelowcomb" xOffset="334.3975903614458"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

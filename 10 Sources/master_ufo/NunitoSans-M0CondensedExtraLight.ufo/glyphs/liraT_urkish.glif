@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="liraTurkish" format="2">
+  <advance width="498"/>
+  <unicode hex="20BA"/>
+  <outline>
+    <contour>
+      <point x="146" y="0" type="line"/>
+      <point x="296" y="0" type="line" smooth="yes"/>
+      <point x="398" y="0"/>
+      <point x="444" y="51"/>
+      <point x="444" y="163" type="curve" smooth="yes"/>
+      <point x="444" y="218" type="line"/>
+      <point x="406" y="218" type="line"/>
+      <point x="406" y="165" type="line" smooth="yes"/>
+      <point x="406" y="72"/>
+      <point x="374" y="35"/>
+      <point x="296" y="35" type="curve" smooth="yes"/>
+      <point x="184" y="35" type="line"/>
+      <point x="184" y="299" type="line"/>
+      <point x="340" y="404" type="line"/>
+      <point x="340" y="443" type="line"/>
+      <point x="184" y="338" type="line"/>
+      <point x="184" y="456" type="line"/>
+      <point x="340" y="561" type="line"/>
+      <point x="340" y="600" type="line"/>
+      <point x="184" y="495" type="line"/>
+      <point x="184" y="705" type="line"/>
+      <point x="146" y="705" type="line"/>
+      <point x="146" y="470" type="line"/>
+      <point x="55" y="409" type="line"/>
+      <point x="55" y="370" type="line"/>
+      <point x="146" y="431" type="line"/>
+      <point x="146" y="313" type="line"/>
+      <point x="55" y="252" type="line"/>
+      <point x="55" y="213" type="line"/>
+      <point x="146" y="274" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

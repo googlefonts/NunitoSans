@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iebreve-cy" format="2">
+  <advance width="541.6867469879518"/>
+  <unicode hex="04D7"/>
+  <anchor x="254.57831325301206" y="0.0" name="bottom"/>
+  <anchor x="325.26506024096386" y="0.0" name="ogonek"/>
+  <anchor x="316.9277108433735" y="484.0" name="top"/>
+  <outline>
+    <component base="ie-cy"/>
+    <component base="brevecomb-cy" xOffset="316.9277108433735"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

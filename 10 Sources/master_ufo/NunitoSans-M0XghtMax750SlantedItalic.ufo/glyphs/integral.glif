@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="integral" format="2">
+  <advance width="600"/>
+  <unicode hex="222B"/>
+  <outline>
+    <contour>
+      <point x="66" y="-188" type="line"/>
+      <point x="104" y="-188" type="line" smooth="yes"/>
+      <point x="204" y="-188"/>
+      <point x="256" y="-140"/>
+      <point x="272" y="-43" type="curve" smooth="yes"/>
+      <point x="368" y="561" type="line" smooth="yes"/>
+      <point x="381" y="646"/>
+      <point x="419" y="673"/>
+      <point x="485" y="673" type="curve" smooth="yes"/>
+      <point x="526" y="673" type="line"/>
+      <point x="532" y="713" type="line"/>
+      <point x="494" y="713" type="line" smooth="yes"/>
+      <point x="394" y="713"/>
+      <point x="341" y="663"/>
+      <point x="326" y="567" type="curve" smooth="yes"/>
+      <point x="230" y="-37" type="line" smooth="yes"/>
+      <point x="217" y="-121"/>
+      <point x="178" y="-149"/>
+      <point x="113" y="-149" type="curve" smooth="yes"/>
+      <point x="72" y="-149" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

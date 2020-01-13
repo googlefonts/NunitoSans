@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ndotaccent" format="2">
+  <advance width="752.0120481927711"/>
+  <unicode hex="1E44"/>
+  <anchor x="348.1927710843374" y="0.0" name="bottom"/>
+  <anchor x="472.2530120481928" y="865.0" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="dotaccentcomb.case" xOffset="446.2530120481927"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeru-cy" format="2">
+  <advance width="630.1566265060242"/>
+  <unicode hex="044B"/>
+  <anchor x="314.36746987951807" y="484.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="64.27108433734941" y="0.0" type="line"/>
+      <point x="263.32530120481925" y="0.0" type="line" smooth="yes"/>
+      <point x="363.5240963855422" y="0.0"/>
+      <point x="423.21084337349396" y="60.68674698795181"/>
+      <point x="423.21084337349396" y="160.95180722891567" type="curve" smooth="yes"/>
+      <point x="423.21084337349396" y="259.8614457831325"/>
+      <point x="363.81325301204816" y="315.77108433734935"/>
+      <point x="262.83734939759034" y="315.77108433734935" type="curve" smooth="yes"/>
+      <point x="156.29518072289156" y="315.77108433734935" type="line"/>
+      <point x="156.29518072289156" y="487.5542168674699" type="line"/>
+      <point x="64.27108433734941" y="487.5542168674699" type="line"/>
+    </contour>
+    <contour>
+      <point x="156.29518072289156" y="63.21084337349398" type="line"/>
+      <point x="156.29518072289156" y="252.56024096385542" type="line"/>
+      <point x="251.8192771084337" y="252.56024096385542" type="line" smooth="yes"/>
+      <point x="307.0481927710843" y="252.56024096385542"/>
+      <point x="336.2289156626506" y="220.6024096385542"/>
+      <point x="336.2289156626506" y="158.88554216867468" type="curve" smooth="yes"/>
+      <point x="336.2289156626506" y="95.8132530120482"/>
+      <point x="307.40361445783134" y="63.21084337349398"/>
+      <point x="250.5301204819277" y="63.21084337349398" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="473.8614457831325" y="0.0" type="line"/>
+      <point x="565.8855421686746" y="0.0" type="line"/>
+      <point x="565.8855421686746" y="487.5542168674699" type="line"/>
+      <point x="473.8614457831325" y="487.5542168674699" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:28:38</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb" format="2">
+  <anchor x="0.0" y="486.34939759036143" name="_top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="548.8795180722891" type="curve" smooth="yes"/>
+      <point x="90.04819277108433" y="548.8795180722891"/>
+      <point x="149.21686746987953" y="605.7590361445783"/>
+      <point x="156.6867469879518" y="698.6987951807229" type="curve"/>
+      <point x="110.53012048192771" y="704.1084337349398" type="line"/>
+      <point x="102.71084337349397" y="638.6265060240964"/>
+      <point x="65.06024096385542" y="600.855421686747"/>
+      <point x="0.0" y="600.855421686747" type="curve" smooth="yes"/>
+      <point x="-65.06024096385542" y="600.855421686747"/>
+      <point x="-102.71084337349397" y="638.6265060240964"/>
+      <point x="-110.53012048192771" y="704.1084337349398" type="curve"/>
+      <point x="-156.6867469879518" y="698.6987951807229" type="line"/>
+      <point x="-149.21686746987953" y="605.7590361445783"/>
+      <point x="-90.04819277108433" y="548.8795180722891"/>
+    </contour>
+    <contour>
+      <point x="-33.86746987951807" y="663.156626506024" type="line"/>
+      <point x="21.867469879518072" y="663.156626506024" type="line"/>
+      <point x="137.3975903614458" y="804.6987951807229" type="line"/>
+      <point x="52.3855421686747" y="804.6987951807229" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

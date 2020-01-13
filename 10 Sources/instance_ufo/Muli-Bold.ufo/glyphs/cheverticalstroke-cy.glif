@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheverticalstroke-cy" format="2">
+  <advance width="617"/>
+  <unicode hex="04B9"/>
+  <outline>
+    <contour>
+      <point x="422" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="505" type="line"/>
+      <point x="422" y="505" type="line"/>
+      <point x="422" y="281" type="line"/>
+      <point x="390" y="263"/>
+      <point x="356" y="256"/>
+      <point x="321" y="256" type="curve"/>
+      <point x="341" y="243" type="line"/>
+      <point x="341" y="381" type="line"/>
+      <point x="266" y="381" type="line"/>
+      <point x="266" y="243" type="line"/>
+      <point x="292" y="257" type="line"/>
+      <point x="215" y="260"/>
+      <point x="175" y="293"/>
+      <point x="175" y="377" type="curve" smooth="yes"/>
+      <point x="175" y="505" type="line"/>
+      <point x="51" y="505" type="line"/>
+      <point x="51" y="368" type="line" smooth="yes"/>
+      <point x="51" y="230"/>
+      <point x="129" y="159"/>
+      <point x="290" y="159" type="curve"/>
+      <point x="266" y="180" type="line"/>
+      <point x="266" y="64" type="line"/>
+      <point x="341" y="64" type="line"/>
+      <point x="341" y="180" type="line"/>
+      <point x="320" y="160" type="line"/>
+      <point x="352" y="161"/>
+      <point x="390" y="171"/>
+      <point x="422" y="186" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

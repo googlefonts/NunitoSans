@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescender-cy" format="2">
+  <advance width="463.89759036144574"/>
+  <unicode hex="04B7"/>
+  <anchor x="328.71084337349396" y="0.0" name="bottomright"/>
+  <anchor x="218.23493975903617" y="200.0" name="center"/>
+  <anchor x="218.23493975903617" y="484.0" name="top"/>
+  <outline>
+    <component base="che-cy"/>
+    <component base="__descender-cy" xOffset="322.93975903614455"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+20</string>
+    </dict>
+  </lib>
+</glyph>

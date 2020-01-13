@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tlinebelow" format="2">
+  <advance width="350.0722891566265"/>
+  <unicode hex="1E6F"/>
+  <anchor x="158.15662650602408" y="-170.0" name="bottom"/>
+  <anchor x="167.6867469879518" y="266.8313253012048" name="center"/>
+  <anchor x="201.50602409638554" y="635.0" name="top"/>
+  <anchor x="323.8433734939759" y="705.0" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="macronbelowcomb" xOffset="185.15662650602408"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

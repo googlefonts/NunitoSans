@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarreddieresis-cy" format="2">
+  <advance width="698"/>
+  <unicode hex="04EB"/>
+  <anchor x="349" y="256" name="center"/>
+  <anchor x="419" y="701" name="top"/>
+  <outline>
+    <component base="obarred-cy"/>
+    <component base="dieresiscomb" xOffset="349"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

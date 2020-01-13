@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tshe-cy" format="2">
+  <advance width="1072.5"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="309.5" y="0.0" type="line"/>
+      <point x="455.0" y="0.0" type="line"/>
+      <point x="455.0" y="297.5" type="line"/>
+      <point x="516.0" y="316.0"/>
+      <point x="578.5" y="325.0"/>
+      <point x="638.5" y="325.0" type="curve" smooth="yes"/>
+      <point x="796.0" y="325.0"/>
+      <point x="862.5" y="273.5"/>
+      <point x="862.5" y="151.5" type="curve" smooth="yes"/>
+      <point x="862.5" y="0.0" type="line"/>
+      <point x="1008.0" y="0.0" type="line"/>
+      <point x="1008.0" y="157.5" type="line" smooth="yes"/>
+      <point x="1008.0" y="350.5"/>
+      <point x="892.5" y="444.5"/>
+      <point x="658.5" y="444.5" type="curve" smooth="yes"/>
+      <point x="583.0" y="444.5"/>
+      <point x="505.5" y="433.5"/>
+      <point x="455.0" y="416.0" type="curve"/>
+      <point x="455.0" y="588.5" type="line"/>
+      <point x="761.0" y="588.5" type="line"/>
+      <point x="761.0" y="705.0" type="line"/>
+      <point x="3.5" y="705.0" type="line"/>
+      <point x="3.5" y="588.5" type="line"/>
+      <point x="309.5" y="588.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

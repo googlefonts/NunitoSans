@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yhook" format="2">
+  <advance width="607"/>
+  <unicode hex="01B3"/>
+  <outline>
+    <contour>
+      <point x="248" y="-6" type="curve" smooth="yes"/>
+      <point x="262" y="-6"/>
+      <point x="270" y="1"/>
+      <point x="273" y="17" type="curve" smooth="yes"/>
+      <point x="328" y="367" type="line"/>
+      <point x="311" y="328" type="line"/>
+      <point x="577" y="624" type="line" smooth="yes"/>
+      <point x="612" y="663"/>
+      <point x="632" y="676"/>
+      <point x="666" y="676" type="curve" smooth="yes"/>
+      <point x="674" y="676"/>
+      <point x="702" y="673"/>
+      <point x="698" y="673" type="curve" smooth="yes"/>
+      <point x="686" y="673"/>
+      <point x="718" y="678"/>
+      <point x="718" y="692" type="curve" smooth="yes"/>
+      <point x="718" y="708"/>
+      <point x="698" y="713"/>
+      <point x="670" y="713" type="curve" smooth="yes"/>
+      <point x="621" y="713"/>
+      <point x="588" y="694"/>
+      <point x="543" y="644" type="curve" smooth="yes"/>
+      <point x="296" y="368" type="line"/>
+      <point x="312" y="368" type="line"/>
+      <point x="123" y="695" type="line" smooth="yes"/>
+      <point x="116" y="707"/>
+      <point x="111" y="711"/>
+      <point x="101" y="711" type="curve" smooth="yes"/>
+      <point x="85" y="711"/>
+      <point x="77" y="696"/>
+      <point x="85" y="682" type="curve" smooth="yes"/>
+      <point x="290" y="328" type="line"/>
+      <point x="286" y="367" type="line"/>
+      <point x="231" y="21" type="line" smooth="yes"/>
+      <point x="228" y="4"/>
+      <point x="235" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:55:10</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

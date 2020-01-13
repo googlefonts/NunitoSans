@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotbelow" format="2">
+  <advance width="414.12048192771084"/>
+  <unicode hex="1E6D"/>
+  <anchor x="191.51807228915663" y="-170.0" name="bottom"/>
+  <anchor x="208.8795180722892" y="262.3373493975904" name="center"/>
+  <anchor x="249.34939759036143" y="646.0" name="top"/>
+  <anchor x="394.4819277108433" y="730.5783132530121" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="dotbelowcomb" xOffset="258.51807228915663"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

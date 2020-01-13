@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="600.0"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="56.0" y="226.59036144578312" type="line"/>
+      <point x="544.0" y="226.59036144578312" type="line"/>
+      <point x="544.0" y="346.3253012048193" type="line"/>
+      <point x="56.0" y="346.3253012048193" type="line"/>
+    </contour>
+    <contour>
+      <point x="229.6987951807229" y="26.891566265060245" type="line"/>
+      <point x="358.30120481927713" y="26.891566265060245" type="line"/>
+      <point x="358.30120481927713" y="156.13253012048196" type="line"/>
+      <point x="229.6987951807229" y="156.13253012048196" type="line"/>
+    </contour>
+    <contour>
+      <point x="229.6987951807229" y="416.421686746988" type="line"/>
+      <point x="358.30120481927713" y="416.421686746988" type="line"/>
+      <point x="358.30120481927713" y="546.0240963855422" type="line"/>
+      <point x="229.6987951807229" y="546.0240963855422" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

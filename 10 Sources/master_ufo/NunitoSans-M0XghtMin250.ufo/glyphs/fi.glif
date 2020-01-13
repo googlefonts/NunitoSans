@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
+  <advance width="512"/>
+  <unicode hex="FB01"/>
+  <anchor x="111.775" y="0" name="bottom"/>
+  <anchor x="266" y="0" name="caret_1"/>
+  <anchor x="414.648" y="0" name="ogonek"/>
+  <anchor x="191.82" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="105" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="147" y="398" type="line"/>
+      <point x="385" y="398" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="427" y="434" type="line"/>
+      <point x="142" y="434" type="line"/>
+      <point x="147" y="423" type="line"/>
+      <point x="147" y="512" type="line" smooth="yes"/>
+      <point x="147" y="611"/>
+      <point x="186" y="662"/>
+      <point x="270" y="667" type="curve" smooth="yes"/>
+      <point x="316" y="670" type="line"/>
+      <point x="312" y="707" type="line"/>
+      <point x="280" y="705" type="line" smooth="yes"/>
+      <point x="162" y="698"/>
+      <point x="105" y="636"/>
+      <point x="105" y="512" type="curve" smooth="yes"/>
+      <point x="105" y="423" type="line"/>
+      <point x="115" y="434" type="line"/>
+      <point x="8" y="434" type="line"/>
+      <point x="8" y="398" type="line"/>
+      <point x="105" y="398" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="569" type="line"/>
+      <point x="438" y="569" type="line"/>
+      <point x="438" y="632" type="line"/>
+      <point x="374" y="632" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 20:42:59</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

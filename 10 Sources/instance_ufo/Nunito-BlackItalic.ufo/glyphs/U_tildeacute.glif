@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Utildeacute" format="2">
+  <advance width="748.2168674698795"/>
+  <unicode hex="1E78"/>
+  <anchor x="336.7469879518072" y="0.0" name="bottom"/>
+  <anchor x="411.855421686747" y="0.0" name="ogonek"/>
+  <anchor x="445.4698795180723" y="705.0" name="top"/>
+  <anchor x="627.2289156626506" y="705.0" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="tildecomb_acutecomb.case" xOffset="445.4698795180723"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="248"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="62" y="-188" type="curve" smooth="yes"/>
+      <point x="109" y="-188"/>
+      <point x="135" y="-162"/>
+      <point x="139" y="-112" type="curve" smooth="yes"/>
+      <point x="164" y="239" type="line" smooth="yes"/>
+      <point x="166" y="272"/>
+      <point x="154" y="287"/>
+      <point x="128" y="287" type="curve" smooth="yes"/>
+      <point x="104" y="287"/>
+      <point x="90" y="274"/>
+      <point x="84" y="249" type="curve" smooth="yes"/>
+      <point x="-2" y="-102" type="line" smooth="yes"/>
+      <point x="-15" y="-156"/>
+      <point x="13" y="-188"/>
+    </contour>
+    <contour>
+      <point x="154" y="346" type="curve" smooth="yes"/>
+      <point x="200" y="346"/>
+      <point x="228" y="377"/>
+      <point x="228" y="420" type="curve" smooth="yes"/>
+      <point x="228" y="464"/>
+      <point x="200" y="494"/>
+      <point x="154" y="494" type="curve" smooth="yes"/>
+      <point x="108" y="494"/>
+      <point x="79" y="464"/>
+      <point x="79" y="420" type="curve" smooth="yes"/>
+      <point x="79" y="377"/>
+      <point x="108" y="346"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+    </dict>
+  </lib>
+</glyph>

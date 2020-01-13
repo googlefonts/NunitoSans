@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="esdescender-cy" format="2">
+  <advance width="523.8614457831326"/>
+  <unicode hex="04AB"/>
+  <anchor x="303.6987951807229" y="0.0" name="bottom"/>
+  <anchor x="304.3855421686747" y="484.0" name="top"/>
+  <outline>
+    <component base="es-cy"/>
+    <component base="__Zedescener-cy" xOffset="40.30120481927711"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>es-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:09:08</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

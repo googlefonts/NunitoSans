@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e" format="2">
+  <advance width="542.0"/>
+  <unicode hex="0065"/>
+  <anchor x="284.0" y="0.0" name="bottom"/>
+  <anchor x="371.0" y="0.0" name="ogonek"/>
+  <anchor x="284.0" y="484.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="309.5" y="-10.0" type="curve" smooth="yes"/>
+      <point x="379.0" y="-10.0"/>
+      <point x="456.0" y="15.0"/>
+      <point x="503.0" y="63.0" type="curve"/>
+      <point x="463.5" y="144.0" type="line"/>
+      <point x="419.0" y="103.0"/>
+      <point x="363.0" y="86.0"/>
+      <point x="312.0" y="86.0" type="curve" smooth="yes"/>
+      <point x="214.0" y="86.0"/>
+      <point x="157.0" y="141.0"/>
+      <point x="157.0" y="268.5" type="curve" smooth="yes"/>
+      <point x="157.0" y="279.0" type="line" smooth="yes"/>
+      <point x="157.0" y="399.0"/>
+      <point x="208.0" y="460.5"/>
+      <point x="288.0" y="460.5" type="curve" smooth="yes"/>
+      <point x="362.5" y="460.5"/>
+      <point x="403.0" y="408.0"/>
+      <point x="403.0" y="296.5" type="curve"/>
+      <point x="420.0" y="316.0" type="line"/>
+      <point x="139.0" y="316.0" type="line"/>
+      <point x="139.0" y="239.5" type="line"/>
+      <point x="508.0" y="239.5" type="line"/>
+      <point x="508.0" y="278.5" type="line" smooth="yes"/>
+      <point x="508.0" y="446.0"/>
+      <point x="425.0" y="549.0"/>
+      <point x="283.5" y="549.0" type="curve" smooth="yes"/>
+      <point x="138.5" y="549.0"/>
+      <point x="38.0" y="436.5"/>
+      <point x="38.0" y="269.5" type="curve" smooth="yes"/>
+      <point x="38.0" y="90.5"/>
+      <point x="144.0" y="-10.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:59:48</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="626"/>
+  <unicode hex="004B"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="305" y="705" name="top"/>
+  <anchor x="17" y="705" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="242" y="316" type="line"/>
+      <point x="244" y="316" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="668" y="0" type="line"/>
+      <point x="400" y="412" type="line"/>
+      <point x="401" y="334" type="line"/>
+      <point x="663" y="705" type="line"/>
+      <point x="433" y="705" type="line"/>
+      <point x="244" y="405" type="line"/>
+      <point x="242" y="405" type="line"/>
+      <point x="242" y="705" type="line"/>
+      <point x="45" y="705" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:49:10</string>
+    </dict>
+  </lib>
+</glyph>

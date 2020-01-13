@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ia-cy" format="2">
+  <advance width="520"/>
+  <unicode hex="044F"/>
+  <outline>
+    <contour>
+      <point x="373" y="-6" type="curve" smooth="yes"/>
+      <point x="386" y="-6"/>
+      <point x="394" y="0"/>
+      <point x="396" y="14" type="curve" smooth="yes"/>
+      <point x="467" y="457" type="line" smooth="yes"/>
+      <point x="470" y="474"/>
+      <point x="461" y="484"/>
+      <point x="444" y="484" type="curve" smooth="yes"/>
+      <point x="262" y="484" type="line" smooth="yes"/>
+      <point x="149" y="484"/>
+      <point x="85" y="419"/>
+      <point x="85" y="336" type="curve" smooth="yes"/>
+      <point x="85" y="253"/>
+      <point x="140" y="203"/>
+      <point x="231" y="202" type="curve"/>
+      <point x="232" y="208" type="line"/>
+      <point x="221" y="208" type="line" smooth="yes"/>
+      <point x="183" y="208"/>
+      <point x="137" y="178"/>
+      <point x="106" y="134" type="curve" smooth="yes"/>
+      <point x="32" y="28" type="line" smooth="yes"/>
+      <point x="14" y="3"/>
+      <point x="48" y="-21"/>
+      <point x="67" y="6" type="curve" smooth="yes"/>
+      <point x="145" y="118" type="line" smooth="yes"/>
+      <point x="178" y="166"/>
+      <point x="226" y="200"/>
+      <point x="292" y="200" type="curve" smooth="yes"/>
+      <point x="384" y="200" type="line"/>
+      <point x="355" y="18" type="line" smooth="yes"/>
+      <point x="353" y="3"/>
+      <point x="359" y="-6"/>
+    </contour>
+    <contour>
+      <point x="243" y="237" type="line" smooth="yes"/>
+      <point x="169" y="237"/>
+      <point x="128" y="267"/>
+      <point x="128" y="335" type="curve" smooth="yes"/>
+      <point x="128" y="406"/>
+      <point x="173" y="448"/>
+      <point x="264" y="448" type="curve" smooth="yes"/>
+      <point x="423" y="448" type="line"/>
+      <point x="390" y="237" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

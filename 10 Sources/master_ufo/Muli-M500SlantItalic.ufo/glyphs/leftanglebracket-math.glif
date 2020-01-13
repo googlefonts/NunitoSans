@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftanglebracket-math" format="2">
+  <advance width="600"/>
+  <unicode hex="27E8"/>
+  <outline>
+    <contour>
+      <point x="296" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="283" y="345" type="line"/>
+      <point x="447" y="705" type="line"/>
+      <point x="388" y="705" type="line"/>
+      <point x="226" y="350" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

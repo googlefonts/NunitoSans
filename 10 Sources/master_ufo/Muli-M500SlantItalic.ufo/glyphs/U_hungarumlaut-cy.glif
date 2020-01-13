@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhungarumlaut-cy" format="2">
+  <advance width="679"/>
+  <unicode hex="04F2"/>
+  <anchor x="440" y="865" name="top"/>
+  <outline>
+    <component base="U-cy"/>
+    <component base="hungarumlautcomb.case" xOffset="343"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

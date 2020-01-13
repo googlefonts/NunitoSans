@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el-cy" format="2">
+  <advance width="488.6566265060241"/>
+  <unicode hex="043B"/>
+  <anchor x="340.8253012048193" y="0.0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="51.04216867469879" y="-12.198795180722891" type="line"/>
+      <point x="158.39156626506022" y="30.873493975903614"/>
+      <point x="199.25301204819277" y="120.93975903614458"/>
+      <point x="199.25301204819277" y="340.32530120481925" type="curve" smooth="yes"/>
+      <point x="199.25301204819277" y="414.68072289156623" type="line"/>
+      <point x="333.7831325301205" y="414.68072289156623" type="line"/>
+      <point x="333.7831325301205" y="0.0" type="line"/>
+      <point x="424.3855421686747" y="0.0" type="line"/>
+      <point x="424.3855421686747" y="487.5542168674699" type="line"/>
+      <point x="113.62650602409637" y="487.5542168674699" type="line"/>
+      <point x="113.62650602409637" y="343.1024096385542" type="line" smooth="yes"/>
+      <point x="113.62650602409637" y="166.0180722891566"/>
+      <point x="92.62650602409639" y="98.72289156626505"/>
+      <point x="17.09036144578313" y="60.162650602409634" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

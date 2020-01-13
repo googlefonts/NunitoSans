@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy" format="2">
+  <advance width="622.8795180722891"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="155.18072289156626" y="0.0" type="line"/>
+      <point x="406.78915662650604" y="0.0" type="line" smooth="yes"/>
+      <point x="520.9216867469879" y="0.0"/>
+      <point x="586.2530120481928" y="54.75301204819277"/>
+      <point x="586.2530120481928" y="147.01807228915663" type="curve" smooth="yes"/>
+      <point x="586.2530120481928" y="240.06024096385542"/>
+      <point x="524.8313253012049" y="289.83734939759034"/>
+      <point x="406.78915662650604" y="289.83734939759034" type="curve" smooth="yes"/>
+      <point x="256.18072289156623" y="289.83734939759034" type="line"/>
+      <point x="256.18072289156623" y="437.5542168674699" type="line"/>
+      <point x="5.843373493975903" y="437.5542168674699" type="line"/>
+      <point x="5.843373493975903" y="358.1927710843373" type="line"/>
+      <point x="155.18072289156626" y="358.1927710843373" type="line"/>
+    </contour>
+    <contour>
+      <point x="256.18072289156623" y="66.56626506024097" type="line"/>
+      <point x="256.18072289156623" y="224.2710843373494" type="line"/>
+      <point x="392.43975903614455" y="224.2710843373494" type="line" smooth="yes"/>
+      <point x="455.73493975903614" y="224.2710843373494"/>
+      <point x="492.0722891566265" y="198.66867469879517"/>
+      <point x="492.0722891566265" y="145.95180722891564" type="curve" smooth="yes"/>
+      <point x="492.0722891566265" y="91.87951807228916"/>
+      <point x="455.0240963855422" y="66.56626506024097"/>
+      <point x="392.43975903614455" y="66.56626506024097" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:28:33</string>
+    </dict>
+  </lib>
+</glyph>

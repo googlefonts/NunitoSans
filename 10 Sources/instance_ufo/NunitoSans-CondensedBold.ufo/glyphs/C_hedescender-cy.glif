@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chedescender-cy" format="2">
+  <advance width="629.0"/>
+  <unicode hex="04B6"/>
+  <outline>
+    <contour>
+      <point x="487.0" y="-165.0" type="line"/>
+      <point x="590.5" y="-165.0" type="line"/>
+      <point x="590.5" y="94.5" type="line"/>
+      <point x="516.5" y="94.5" type="line"/>
+      <point x="516.5" y="705.0" type="line"/>
+      <point x="399.5" y="705.0" type="line"/>
+      <point x="399.5" y="383.0" type="line"/>
+      <point x="369.5" y="361.5"/>
+      <point x="333.0" y="350.5"/>
+      <point x="293.5" y="350.5" type="curve" smooth="yes"/>
+      <point x="199.5" y="350.5"/>
+      <point x="163.5" y="398.5"/>
+      <point x="163.5" y="520.5" type="curve" smooth="yes"/>
+      <point x="163.5" y="705.0" type="line"/>
+      <point x="46.5" y="705.0" type="line"/>
+      <point x="46.5" y="516.5" type="line" smooth="yes"/>
+      <point x="46.5" y="337.5"/>
+      <point x="118.0" y="250.0"/>
+      <point x="270.0" y="250.0" type="curve" smooth="yes"/>
+      <point x="319.5" y="250.0"/>
+      <point x="366.5" y="261.5"/>
+      <point x="399.5" y="281.5" type="curve"/>
+      <point x="399.5" y="0.0" type="line"/>
+      <point x="487.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb-cy" format="2">
+  <anchor x="6" y="484" name="_top"/>
+  <outline>
+    <contour>
+      <point x="6" y="547" type="curve" smooth="yes"/>
+      <point x="75" y="547"/>
+      <point x="138" y="574"/>
+      <point x="179" y="667" type="curve"/>
+      <point x="147" y="680" type="line"/>
+      <point x="110" y="607"/>
+      <point x="71" y="583"/>
+      <point x="6" y="583" type="curve" smooth="yes"/>
+      <point x="-58" y="583"/>
+      <point x="-102" y="614"/>
+      <point x="-127" y="681" type="curve"/>
+      <point x="-161" y="667" type="line"/>
+      <point x="-129" y="580"/>
+      <point x="-60" y="547"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 20:31:49</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

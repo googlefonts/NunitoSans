@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfleft.case" format="2">
+  <advance width="500.0"/>
+  <anchor x="250.0" y="705.0" name="_top"/>
+  <anchor x="250.0" y="865.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="250.0" y="760.0" type="curve"/>
+      <point x="250.0" y="809.2168674698795" type="line"/>
+      <point x="220.26506024096386" y="809.2168674698795"/>
+      <point x="199.3975903614458" y="832.6626506024096"/>
+      <point x="199.3975903614458" y="861.1084337349398" type="curve" smooth="yes"/>
+      <point x="199.3975903614458" y="890.5542168674699"/>
+      <point x="220.26506024096386" y="913.710843373494"/>
+      <point x="250.0" y="913.710843373494" type="curve"/>
+      <point x="250.0" y="963.2168674698795" type="line"/>
+      <point x="191.1566265060241" y="963.2168674698795"/>
+      <point x="146.6024096385542" y="918.3734939759036"/>
+      <point x="146.6024096385542" y="861.1084337349398" type="curve" smooth="yes"/>
+      <point x="146.6024096385542" y="803.843373493976"/>
+      <point x="191.1566265060241" y="760.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

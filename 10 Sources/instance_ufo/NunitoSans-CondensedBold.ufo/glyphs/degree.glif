@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree" format="2">
+  <advance width="354.0"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="177.5" y="431.0" type="curve" smooth="yes"/>
+      <point x="259.5" y="431.0"/>
+      <point x="322.0" y="492.5"/>
+      <point x="322.0" y="573.5" type="curve" smooth="yes"/>
+      <point x="322.0" y="654.0"/>
+      <point x="260.0" y="715.5"/>
+      <point x="177.5" y="715.5" type="curve" smooth="yes"/>
+      <point x="94.5" y="715.5"/>
+      <point x="32.5" y="653.5"/>
+      <point x="32.5" y="573.5" type="curve" smooth="yes"/>
+      <point x="32.5" y="493.0"/>
+      <point x="95.0" y="431.0"/>
+    </contour>
+    <contour>
+      <point x="177.5" y="495.0" type="curve" smooth="yes"/>
+      <point x="133.5" y="495.0"/>
+      <point x="103.0" y="528.5"/>
+      <point x="103.0" y="573.5" type="curve" smooth="yes"/>
+      <point x="103.0" y="618.0"/>
+      <point x="133.5" y="651.5"/>
+      <point x="177.5" y="651.5" type="curve" smooth="yes"/>
+      <point x="221.0" y="651.5"/>
+      <point x="251.0" y="618.0"/>
+      <point x="251.0" y="573.5" type="curve" smooth="yes"/>
+      <point x="251.0" y="528.5"/>
+      <point x="221.0" y="495.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

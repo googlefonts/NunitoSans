@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb_acutecomb.case" format="2">
+  <anchor x="73" y="705" name="_top"/>
+  <outline>
+    <contour>
+      <point x="99" y="750" type="curve" smooth="yes"/>
+      <point x="169" y="750"/>
+      <point x="225" y="803"/>
+      <point x="225" y="873" type="curve" smooth="yes"/>
+      <point x="225" y="896"/>
+      <point x="219" y="917"/>
+      <point x="208" y="936" type="curve"/>
+      <point x="307" y="1036" type="line"/>
+      <point x="183" y="1036" type="line"/>
+      <point x="153" y="985" type="line"/>
+      <point x="137" y="992"/>
+      <point x="118" y="996"/>
+      <point x="99" y="996" type="curve" smooth="yes"/>
+      <point x="28" y="996"/>
+      <point x="-26" y="944"/>
+      <point x="-26" y="873" type="curve" smooth="yes"/>
+      <point x="-26" y="803"/>
+      <point x="29" y="750"/>
+    </contour>
+    <contour>
+      <point x="99" y="814" type="curve" smooth="yes"/>
+      <point x="68" y="814"/>
+      <point x="46" y="838"/>
+      <point x="46" y="873" type="curve" smooth="yes"/>
+      <point x="46" y="908"/>
+      <point x="68" y="932"/>
+      <point x="99" y="932" type="curve" smooth="yes"/>
+      <point x="130" y="932"/>
+      <point x="153" y="908"/>
+      <point x="153" y="873" type="curve" smooth="yes"/>
+      <point x="153" y="838"/>
+      <point x="130" y="814"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 18:38:25</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

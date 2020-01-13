@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhebreve-cy" format="2">
+  <advance width="891.6987951807229"/>
+  <unicode hex="04C2"/>
+  <anchor x="788.277108433735" y="0.0" name="bottomright"/>
+  <anchor x="445.6144578313253" y="491.65060240963857" name="top"/>
+  <outline>
+    <component base="zhe-cy"/>
+    <component base="brevecomb-cy" xOffset="445.6144578313253" yOffset="7.650602409638554"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

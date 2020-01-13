@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb.case" format="2">
+  <anchor x="87" y="705" name="_top"/>
+  <outline>
+    <contour>
+      <point x="94" y="768" type="curve" smooth="yes"/>
+      <point x="177" y="768"/>
+      <point x="236" y="823"/>
+      <point x="249" y="915" type="curve"/>
+      <point x="216" y="919" type="line"/>
+      <point x="205" y="846"/>
+      <point x="161" y="804"/>
+      <point x="95" y="804" type="curve" smooth="yes"/>
+      <point x="29" y="804"/>
+      <point x="-10" y="846"/>
+      <point x="-6" y="919" type="curve"/>
+      <point x="-39" y="915" type="line"/>
+      <point x="-43" y="823"/>
+      <point x="11" y="768"/>
+    </contour>
+    <contour>
+      <point x="73" y="871" type="line"/>
+      <point x="109" y="871" type="line"/>
+      <point x="238" y="1021" type="line"/>
+      <point x="183" y="1021" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

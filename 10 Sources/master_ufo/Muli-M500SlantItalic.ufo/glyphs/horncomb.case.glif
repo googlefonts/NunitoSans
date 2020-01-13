@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb.case" format="2">
+  <anchor x="72" y="705" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="136" y="641" type="line"/>
+      <point x="221" y="649"/>
+      <point x="278" y="707"/>
+      <point x="291" y="793" type="curve" smooth="yes"/>
+      <point x="297" y="832" type="line"/>
+      <point x="187" y="832" type="line"/>
+      <point x="184" y="809" type="line" smooth="yes"/>
+      <point x="171" y="728"/>
+      <point x="143" y="706"/>
+      <point x="72" y="705" type="curve"/>
+      <point x="69" y="686" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

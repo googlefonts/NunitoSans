@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Agrave" format="2">
+  <advance width="632.7831325301205"/>
+  <unicode hex="00C0"/>
+  <anchor x="316.4819277108434" y="0.0" name="bottom"/>
+  <anchor x="580.0240963855422" y="0.0" name="ogonek"/>
+  <anchor x="316.66265060240966" y="865.0" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="gravecomb.case" xOffset="316.66265060240966"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

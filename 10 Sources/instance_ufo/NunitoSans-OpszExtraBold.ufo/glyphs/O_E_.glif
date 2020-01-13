@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="1133.4939759036142"/>
+  <unicode hex="0152"/>
+  <anchor x="623.433734939759" y="0.0" name="bottom"/>
+  <anchor x="623.433734939759" y="705.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="440.2530120481927" y="0.0" type="curve" smooth="yes"/>
+      <point x="1054.3173734939758" y="0.0" type="line"/>
+      <point x="1054.313253012048" y="136.16867469879517" type="line"/>
+      <point x="710.0843373493975" y="136.16867469879517" type="line"/>
+      <point x="710.0843373493975" y="289.2289156626506" type="line"/>
+      <point x="1032.6867469879517" y="289.2289156626506" type="line"/>
+      <point x="1032.6867469879517" y="424.144578313253" type="line"/>
+      <point x="710.0843373493975" y="424.144578313253" type="line"/>
+      <point x="710.0843373493975" y="568.8313253012049" type="line"/>
+      <point x="1054.313253012048" y="568.8313253012049" type="line"/>
+      <point x="1054.3173734939758" y="705.0" type="line"/>
+      <point x="440.2530120481927" y="705.0" type="line" smooth="yes"/>
+      <point x="195.6144578313253" y="705.0"/>
+      <point x="69.6144578313253" y="554.3614457831325"/>
+      <point x="69.6144578313253" y="353.0" type="curve" smooth="yes"/>
+      <point x="69.6144578313253" y="150.95180722891564"/>
+      <point x="194.9277108433735" y="0.0"/>
+    </contour>
+    <contour>
+      <point x="450.4457831325301" y="139.3012048192771" type="line" smooth="yes"/>
+      <point x="307.72289156626505" y="139.3012048192771"/>
+      <point x="238.55421686746985" y="215.91566265060243"/>
+      <point x="238.55421686746985" y="353.0" type="curve" smooth="yes"/>
+      <point x="238.55421686746985" y="489.3975903614458"/>
+      <point x="307.72289156626505" y="565.6987951807229"/>
+      <point x="450.4457831325301" y="565.6987951807229" type="curve" smooth="yes"/>
+      <point x="547.2771084337348" y="565.6987951807229" type="line"/>
+      <point x="547.2771084337348" y="139.3012048192771" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:50:27</string>
+    </dict>
+  </lib>
+</glyph>

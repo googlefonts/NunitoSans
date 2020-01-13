@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nje-cy" format="2">
+  <advance width="905.9277108433735"/>
+  <unicode hex="045A"/>
+  <outline>
+    <contour>
+      <point x="40.01204819277109" y="0.0" type="line"/>
+      <point x="120.54216867469879" y="0.0" type="line"/>
+      <point x="156.66265060240963" y="226.90361445783134" type="line"/>
+      <point x="433.9638554216868" y="226.90361445783134" type="line"/>
+      <point x="398.3132530120482" y="0.0" type="line"/>
+      <point x="631.4578313253012" y="0.0" type="line" smooth="yes"/>
+      <point x="756.8072289156627" y="0.0"/>
+      <point x="832.4457831325301" y="48.34939759036144"/>
+      <point x="849.3855421686746" y="153.57831325301206" type="curve" smooth="yes"/>
+      <point x="865.8554216867469" y="259.33734939759034"/>
+      <point x="808.9759036144579" y="321.6867469879518"/>
+      <point x="675.3975903614457" y="321.6867469879518" type="curve" smooth="yes"/>
+      <point x="528.722891566265" y="321.6867469879518" type="line"/>
+      <point x="557.3132530120482" y="502.34939759036143" type="line"/>
+      <point x="477.7831325301205" y="502.34939759036143" type="line"/>
+      <point x="444.1927710843374" y="291.6265060240964" type="line"/>
+      <point x="166.89156626506022" y="291.6265060240964" type="line"/>
+      <point x="200.01204819277106" y="502.34939759036143" type="line"/>
+      <point x="119.48192771084338" y="502.34939759036143" type="line"/>
+    </contour>
+    <contour>
+      <point x="487.132530120482" y="57.6144578313253" type="line"/>
+      <point x="519.4337349397591" y="264.0722891566265" type="line"/>
+      <point x="664.0602409638554" y="264.0722891566265" type="line" smooth="yes"/>
+      <point x="745.7831325301205" y="264.0722891566265"/>
+      <point x="784.1445783132531" y="231.7710843373494"/>
+      <point x="772.5542168674699" y="156.57831325301206" type="curve" smooth="yes"/>
+      <point x="761.9638554216868" y="87.32530120481928"/>
+      <point x="713.4819277108434" y="57.6144578313253"/>
+      <point x="632.2289156626506" y="57.6144578313253" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

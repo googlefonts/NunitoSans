@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <advance width="544.4457831325301"/>
+  <unicode hex="04FF"/>
+  <anchor x="409.4578313253012" y="0.0" name="bottomright"/>
+  <anchor x="271.9879518072289" y="255.93975903614458" name="center"/>
+  <anchor x="308.51807228915663" y="484.0" name="top"/>
+  <outline>
+    <component base="ha-cy"/>
+    <component base="strokeshortcomb.cy" xOffset="258.51807228915663" yOffset="-85.48192771084338"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

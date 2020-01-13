@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb.case" format="2">
+  <anchor x="0" y="705" name="_top"/>
+  <anchor x="0" y="865" name="top"/>
+  <outline>
+    <contour>
+      <point x="-52" y="765" type="line"/>
+      <point x="53" y="765" type="line"/>
+      <point x="53" y="782" type="line" smooth="yes"/>
+      <point x="53" y="817"/>
+      <point x="115" y="825"/>
+      <point x="115" y="881" type="curve" smooth="yes"/>
+      <point x="115" y="927"/>
+      <point x="75" y="952"/>
+      <point x="2" y="952" type="curve" smooth="yes"/>
+      <point x="-41" y="952"/>
+      <point x="-81" y="943"/>
+      <point x="-109" y="927" type="curve"/>
+      <point x="-84" y="856" type="line"/>
+      <point x="-69" y="864"/>
+      <point x="-54" y="868"/>
+      <point x="-41" y="868" type="curve" smooth="yes"/>
+      <point x="-26" y="868"/>
+      <point x="-19" y="863"/>
+      <point x="-19" y="853" type="curve" smooth="yes"/>
+      <point x="-19" y="830"/>
+      <point x="-52" y="817"/>
+      <point x="-52" y="783" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraightstroke-cy" format="2">
+  <advance width="772.6927710843373"/>
+  <unicode hex="04B0"/>
+  <anchor x="385.51807228915663" y="0.0" name="bottom"/>
+  <anchor x="386.51807228915663" y="302.01807228915663" name="center"/>
+  <anchor x="387.17469879518075" y="705.0" name="top"/>
+  <anchor x="18.656626506024097" y="705.0" name="topleft"/>
+  <outline>
+    <component base="Ustraight-cy"/>
+    <component base="strokeshortcomb.cy" xOffset="386.51807228915663" yOffset="-24.96987951807229"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

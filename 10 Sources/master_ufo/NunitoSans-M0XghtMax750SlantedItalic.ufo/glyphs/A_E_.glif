@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="971"/>
+  <unicode hex="00C6"/>
+  <guideline x="580" y="338" angle="101.863"/>
+  <guideline x="331" y="338" angle="239.3238"/>
+  <anchor x="445" y="0" name="bottom"/>
+  <anchor x="541" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="-40" y="0" type="line"/>
+      <point x="9" y="0" type="line"/>
+      <point x="165" y="207" type="line"/>
+      <point x="144" y="195" type="line"/>
+      <point x="539" y="195" type="line"/>
+      <point x="521" y="207" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="880" y="0" type="line"/>
+      <point x="887" y="39" type="line"/>
+      <point x="551" y="39" type="line"/>
+      <point x="569" y="20" type="line"/>
+      <point x="553" y="348" type="line"/>
+      <point x="537" y="338" type="line"/>
+      <point x="914" y="338" type="line"/>
+      <point x="920" y="377" type="line"/>
+      <point x="535" y="377" type="line"/>
+      <point x="552" y="366" type="line"/>
+      <point x="535" y="690" type="line"/>
+      <point x="523" y="666" type="line"/>
+      <point x="986" y="666" type="line"/>
+      <point x="992" y="705" type="line"/>
+      <point x="492" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="496" y="648" type="line"/>
+      <point x="498" y="648" type="line"/>
+      <point x="520" y="225" type="line"/>
+      <point x="527" y="234" type="line"/>
+      <point x="170" y="234" type="line"/>
+      <point x="178" y="224" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:47:08</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy" format="2">
+  <advance width="777.2289156626506"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="188.74698795180723" y="0.0" type="line"/>
+      <point x="503.03614457831327" y="0.0" type="line" smooth="yes"/>
+      <point x="635.9759036144578" y="0.0"/>
+      <point x="723.0481927710844" y="73.50602409638554"/>
+      <point x="723.0481927710844" y="178.6987951807229" type="curve" smooth="yes"/>
+      <point x="723.0481927710844" y="291.144578313253"/>
+      <point x="647.7951807228915" y="350.83132530120486"/>
+      <point x="503.03614457831327" y="350.83132530120486" type="curve" smooth="yes"/>
+      <point x="354.68674698795184" y="350.83132530120486" type="line"/>
+      <point x="354.68674698795184" y="505.81927710843377" type="line"/>
+      <point x="22.000000000000004" y="505.81927710843377" type="line"/>
+      <point x="22.000000000000004" y="376.1566265060241" type="line"/>
+      <point x="188.74698795180723" y="376.1566265060241" type="line"/>
+    </contour>
+    <contour>
+      <point x="351.5542168674699" y="109.27710843373494" type="line"/>
+      <point x="351.5542168674699" y="241.5542168674699" type="line"/>
+      <point x="473.7710843373494" y="241.5542168674699" type="line" smooth="yes"/>
+      <point x="525.3855421686748" y="241.5542168674699"/>
+      <point x="563.9999999999999" y="227.80722891566265"/>
+      <point x="563.9999999999999" y="177.0722891566265" type="curve" smooth="yes"/>
+      <point x="563.9999999999999" y="127.96385542168673"/>
+      <point x="525.6987951807229" y="109.27710843373494"/>
+      <point x="473.7710843373494" y="109.27710843373494" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:28:33</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el-cy" format="2">
+  <advance width="536"/>
+  <unicode hex="043B"/>
+  <anchor x="282" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="19" y="-17" type="line"/>
+      <point x="160" y="-3"/>
+      <point x="239" y="90"/>
+      <point x="268" y="271" type="curve" smooth="yes"/>
+      <point x="280" y="349" type="line"/>
+      <point x="323" y="349" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="532" y="494" type="line"/>
+      <point x="132" y="494" type="line"/>
+      <point x="98" y="277" type="line" smooth="yes"/>
+      <point x="83" y="185"/>
+      <point x="55" y="148"/>
+      <point x="-9" y="133" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

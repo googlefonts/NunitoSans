@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="248"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="98" y="-5" type="curve" smooth="yes"/>
+      <point x="144" y="-5"/>
+      <point x="172" y="26"/>
+      <point x="172" y="70" type="curve" smooth="yes"/>
+      <point x="172" y="113"/>
+      <point x="144" y="143"/>
+      <point x="98" y="143" type="curve" smooth="yes"/>
+      <point x="52" y="143"/>
+      <point x="23" y="113"/>
+      <point x="23" y="70" type="curve" smooth="yes"/>
+      <point x="23" y="26"/>
+      <point x="52" y="-5"/>
+    </contour>
+    <contour>
+      <point x="154" y="346" type="curve" smooth="yes"/>
+      <point x="200" y="346"/>
+      <point x="228" y="377"/>
+      <point x="228" y="420" type="curve" smooth="yes"/>
+      <point x="228" y="464"/>
+      <point x="200" y="494"/>
+      <point x="154" y="494" type="curve" smooth="yes"/>
+      <point x="108" y="494"/>
+      <point x="79" y="464"/>
+      <point x="79" y="420" type="curve" smooth="yes"/>
+      <point x="79" y="377"/>
+      <point x="108" y="346"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+    </dict>
+  </lib>
+</glyph>

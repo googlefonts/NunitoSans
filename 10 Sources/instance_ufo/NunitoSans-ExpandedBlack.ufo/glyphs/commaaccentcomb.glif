@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="0.0" y="0.0" name="_bottom"/>
+  <anchor x="0.0" y="-170.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-3.6265060240963862" y="-313.9759036144578" type="line"/>
+      <point x="55.7710843373494" y="-264.31325301204816"/>
+      <point x="80.78313253012048" y="-217.3012048192771"/>
+      <point x="80.78313253012048" y="-155.9277108433735" type="curve" smooth="yes"/>
+      <point x="80.78313253012048" y="-62.06024096385543" type="line"/>
+      <point x="-80.24096385542168" y="-62.06024096385543" type="line"/>
+      <point x="-80.24096385542168" y="-203.24096385542165" type="line"/>
+      <point x="36.21686746987952" y="-203.24096385542165" type="line"/>
+      <point x="4.19277108433735" y="-175.75903614457832" type="line"/>
+      <point x="3.3734939759036138" y="-207.3855421686747"/>
+      <point x="-11.542168674698793" y="-233.48192771084337"/>
+      <point x="-51.28915662650602" y="-273.95180722891564" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

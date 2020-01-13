@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yeru-cy" format="2">
+  <advance width="1017.686746987952"/>
+  <unicode hex="042B"/>
+  <anchor x="505.9036144578313" y="705.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="94.42168674698794" y="0.0" type="line"/>
+      <point x="434.7710843373494" y="0.0" type="line" smooth="yes"/>
+      <point x="586.3373493975904" y="0.0"/>
+      <point x="685.7831325301204" y="80.56626506024097"/>
+      <point x="685.7831325301204" y="217.4457831325301" type="curve" smooth="yes"/>
+      <point x="685.7831325301204" y="353.6385542168675"/>
+      <point x="586.3373493975904" y="430.89156626506025"/>
+      <point x="434.7710843373494" y="430.89156626506025" type="curve" smooth="yes"/>
+      <point x="260.3614457831325" y="430.89156626506025" type="line"/>
+      <point x="260.3614457831325" y="705.0" type="line"/>
+      <point x="94.42168674698794" y="705.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="260.3614457831325" y="129.09638554216866" type="line"/>
+      <point x="260.3614457831325" y="301.79518072289153" type="line"/>
+      <point x="410.26506024096386" y="301.79518072289153" type="line" smooth="yes"/>
+      <point x="487.55421686746985" y="301.79518072289153"/>
+      <point x="523.6024096385543" y="276.67469879518075"/>
+      <point x="523.6024096385543" y="215.4457831325301" type="curve" smooth="yes"/>
+      <point x="523.6024096385543" y="154.2168674698795"/>
+      <point x="488.92771084337346" y="129.09638554216866"/>
+      <point x="410.26506024096386" y="129.09638554216866" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="757.3253012048193" y="0.0" type="line"/>
+      <point x="923.2650602409639" y="0.0" type="line"/>
+      <point x="923.2650602409639" y="705.0" type="line"/>
+      <point x="757.3253012048193" y="705.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:26:20</string>
+    </dict>
+  </lib>
+</glyph>

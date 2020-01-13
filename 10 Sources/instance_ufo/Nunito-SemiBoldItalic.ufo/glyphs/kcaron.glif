@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcaron" format="2">
+  <advance width="516.3373493975904"/>
+  <unicode hex="01E9"/>
+  <anchor x="228.855421686747" y="0.0" name="bottom"/>
+  <anchor x="385.95180722891564" y="865.0" name="top"/>
+  <outline>
+    <component base="k"/>
+    <component base="caroncomb.case" xOffset="360.2409638554217"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:57:12</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

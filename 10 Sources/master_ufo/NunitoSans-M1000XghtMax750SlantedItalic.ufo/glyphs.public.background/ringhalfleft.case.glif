@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfleft.case" format="2">
+  <anchor x="319" y="705" name="_top"/>
+  <anchor x="344" y="865" name="top"/>
+  <outline>
+    <contour>
+      <point x="327" y="760" type="curve"/>
+      <point x="339" y="833" type="line"/>
+      <point x="316" y="833"/>
+      <point x="303" y="851"/>
+      <point x="306" y="874" type="curve" smooth="yes"/>
+      <point x="310" y="897"/>
+      <point x="329" y="916"/>
+      <point x="352" y="916" type="curve"/>
+      <point x="363" y="988" type="line"/>
+      <point x="298" y="988"/>
+      <point x="240" y="939"/>
+      <point x="229" y="874" type="curve" smooth="yes"/>
+      <point x="219" y="810"/>
+      <point x="262" y="760"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="2">
+  <advance width="600"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="103" y="53" type="curve" smooth="yes"/>
+      <point x="503" y="222" type="line" smooth="yes"/>
+      <point x="534" y="235"/>
+      <point x="549" y="257"/>
+      <point x="549" y="288" type="curve" smooth="yes"/>
+      <point x="549" y="318"/>
+      <point x="534" y="339"/>
+      <point x="503" y="352" type="curve" smooth="yes"/>
+      <point x="103" y="522" type="line" smooth="yes"/>
+      <point x="46" y="546"/>
+      <point x="16" y="462"/>
+      <point x="71" y="439" type="curve" smooth="yes"/>
+      <point x="507" y="256" type="line"/>
+      <point x="507" y="318" type="line"/>
+      <point x="71" y="135" type="line" smooth="yes"/>
+      <point x="16" y="112"/>
+      <point x="46" y="29"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+    </dict>
+  </lib>
+</glyph>

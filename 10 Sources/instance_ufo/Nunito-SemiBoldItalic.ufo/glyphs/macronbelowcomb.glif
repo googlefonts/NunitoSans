@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelowcomb" format="2">
+  <unicode hex="0331"/>
+  <anchor x="0.0" y="0.0" name="_bottom"/>
+  <anchor x="-27.0" y="-170.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-145.0" y="-160.0843373493976" type="curve" smooth="yes"/>
+      <point x="102.28915662650601" y="-160.0843373493976" type="line" smooth="yes"/>
+      <point x="125.53012048192772" y="-160.0843373493976"/>
+      <point x="140.2168674698795" y="-145.6867469879518"/>
+      <point x="140.2168674698795" y="-123.15662650602408" type="curve" smooth="yes"/>
+      <point x="140.2168674698795" y="-106.04819277108435"/>
+      <point x="127.95180722891567" y="-96.49397590361446"/>
+      <point x="105.71084337349397" y="-96.49397590361446" type="curve" smooth="yes"/>
+      <point x="-141.57831325301203" y="-96.49397590361446" type="line" smooth="yes"/>
+      <point x="-164.81927710843374" y="-96.49397590361446"/>
+      <point x="-179.50602409638554" y="-110.89156626506025"/>
+      <point x="-179.50602409638554" y="-133.42168674698794" type="curve" smooth="yes"/>
+      <point x="-179.50602409638554" y="-149.81927710843374"/>
+      <point x="-167.24096385542168" y="-160.0843373493976"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

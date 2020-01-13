@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohornacute" format="2">
+  <advance width="658.0843373493976"/>
+  <unicode hex="1EDB"/>
+  <anchor x="329.38554216867465" y="0.0" name="bottom"/>
+  <anchor x="329.3855421686747" y="246.0" name="center"/>
+  <anchor x="399.26506024096386" y="0.0" name="ogonek"/>
+  <anchor x="329.38554216867465" y="696.8795180722892" name="top"/>
+  <anchor x="403.33734939759034" y="484.0" name="topright"/>
+  <outline>
+    <component base="ohorn"/>
+    <component base="acutecomb" xOffset="329.38554216867465"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

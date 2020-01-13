@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kje-cy" format="2">
+  <advance width="526.1325301204819"/>
+  <unicode hex="045C"/>
+  <anchor x="442.5903614457831" y="0.0" name="bottomright"/>
+  <anchor x="255.50602409638554" y="269.4096385542168" name="center"/>
+  <anchor x="290.03614457831327" y="685.0" name="top"/>
+  <outline>
+    <component base="ka-cy"/>
+    <component base="acutecomb" xOffset="290.03614457831327"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

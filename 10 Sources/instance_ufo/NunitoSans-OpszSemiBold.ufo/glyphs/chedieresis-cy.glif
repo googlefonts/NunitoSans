@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedieresis-cy" format="2">
+  <advance width="649.8072289156627"/>
+  <unicode hex="04F5"/>
+  <anchor x="440.18072289156623" y="0.0" name="bottomright"/>
+  <anchor x="315.3253012048193" y="205.42168674698794" name="center"/>
+  <anchor x="316.7469879518072" y="703.5783132530121" name="top"/>
+  <outline>
+    <component base="che-cy"/>
+    <component base="dieresiscomb" xOffset="316.7469879518072" yOffset="6.445783132530121"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

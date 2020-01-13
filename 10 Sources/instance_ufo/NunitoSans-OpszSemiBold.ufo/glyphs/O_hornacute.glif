@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohornacute" format="2">
+  <advance width="833.8795180722891"/>
+  <unicode hex="1EDA"/>
+  <anchor x="423.53012048192767" y="-8.710843373493976" name="Qtail"/>
+  <anchor x="416.79518072289153" y="0.0" name="bottom"/>
+  <anchor x="424.53012048192767" y="356.86746987951807" name="center"/>
+  <anchor x="484.66265060240966" y="0.0" name="ogonek"/>
+  <anchor x="386.13253012048193" y="865.0" name="top"/>
+  <anchor x="41.554216867469876" y="705.0" name="topleft"/>
+  <anchor x="494.0602409638554" y="705.0" name="topright"/>
+  <outline>
+    <component base="Ohorn"/>
+    <component base="acutecomb.case" xOffset="386.13253012048193"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

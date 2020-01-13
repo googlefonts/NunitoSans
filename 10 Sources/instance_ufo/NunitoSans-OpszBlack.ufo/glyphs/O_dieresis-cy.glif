@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresis-cy" format="2">
+  <advance width="865.7108433734941"/>
+  <unicode hex="04E6"/>
+  <anchor x="434.6626506024096" y="-9.63855421686747" name="Qtail"/>
+  <anchor x="432.855421686747" y="0.0" name="bottom"/>
+  <anchor x="432.855421686747" y="353.0" name="center"/>
+  <anchor x="498.57831325301197" y="0.0" name="ogonek"/>
+  <anchor x="432.2168674698795" y="865.0" name="top"/>
+  <anchor x="46.192771084337345" y="705.0" name="topleft"/>
+  <anchor x="516.3253012048192" y="705.0" name="topright"/>
+  <outline>
+    <component base="O-cy"/>
+    <component base="dieresiscomb.case" xOffset="432.2168674698795"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

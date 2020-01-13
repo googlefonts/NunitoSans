@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecedilla" format="2">
+  <advance width="576.1807228915662"/>
+  <unicode hex="0228"/>
+  <anchor x="321.8313253012048" y="0.0" name="bottom"/>
+  <anchor x="491.8313253012048" y="0.0" name="ogonek"/>
+  <anchor x="321.8313253012048" y="705.0" name="top"/>
+  <anchor x="26.08433734939759" y="705.0" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="cedillacomb" xOffset="321.8313253012048"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

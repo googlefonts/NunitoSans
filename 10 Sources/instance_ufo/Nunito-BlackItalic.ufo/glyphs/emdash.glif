@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash" format="2">
+  <advance width="1000.0"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="49.77108433734941" y="217.86746987951807" type="curve" smooth="yes"/>
+      <point x="951.3132530120482" y="217.86746987951807" type="line" smooth="yes"/>
+      <point x="984.2530120481928" y="217.86746987951807"/>
+      <point x="1013.277108433735" y="242.89156626506028"/>
+      <point x="1013.277108433735" y="276.8313253012048" type="curve" smooth="yes"/>
+      <point x="1013.277108433735" y="301.5783132530121"/>
+      <point x="996.4457831325302" y="319.04819277108436"/>
+      <point x="956.2289156626506" y="319.04819277108436" type="curve" smooth="yes"/>
+      <point x="55.686746987951814" y="319.04819277108436" type="line" smooth="yes"/>
+      <point x="20.74698795180723" y="319.04819277108436"/>
+      <point x="-6.27710843373494" y="293.66265060240966"/>
+      <point x="-6.27710843373494" y="259.4457831325301" type="curve" smooth="yes"/>
+      <point x="-6.27710843373494" y="235.3373493975904"/>
+      <point x="10.192771084337348" y="217.86746987951807"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+    </dict>
+  </lib>
+</glyph>

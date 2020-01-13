@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="izhitsa-cy" format="2">
+  <advance width="480.0"/>
+  <unicode hex="0475"/>
+  <outline>
+    <contour>
+      <point x="177.0" y="0.0" type="line"/>
+      <point x="275.5" y="0.0" type="line"/>
+      <point x="386.5" y="329.5" type="line" smooth="yes"/>
+      <point x="407.0" y="389.5"/>
+      <point x="430.0" y="406.5"/>
+      <point x="480.5" y="407.0" type="curve"/>
+      <point x="470.0" y="498.5" type="line"/>
+      <point x="370.5" y="498.5"/>
+      <point x="327.0" y="475.0"/>
+      <point x="299.5" y="377.0" type="curve" smooth="yes"/>
+      <point x="213.5" y="94.5" type="line"/>
+      <point x="244.0" y="94.5" type="line"/>
+      <point x="124.0" y="489.0" type="line"/>
+      <point x="4.0" y="489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:45:53</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=v+3</string>
+    </dict>
+  </lib>
+</glyph>

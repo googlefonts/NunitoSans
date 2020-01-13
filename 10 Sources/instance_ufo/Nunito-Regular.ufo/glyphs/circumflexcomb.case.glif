@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case" format="2">
+  <anchor x="0.0" y="705.0" name="_top"/>
+  <anchor x="0.0" y="865.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-96.19277108433735" y="768.3493975903615" type="curve" smooth="yes"/>
+      <point x="0.0" y="883.843373493976" type="line"/>
+      <point x="96.66265060240964" y="768.3493975903615" type="line" smooth="yes"/>
+      <point x="120.12048192771084" y="742.3614457831326"/>
+      <point x="159.6867469879518" y="767.2289156626506"/>
+      <point x="139.10843373493975" y="795.156626506024" type="curve" smooth="yes"/>
+      <point x="51.734939759036145" y="917.8915662650602" type="line" smooth="yes"/>
+      <point x="37.566265060240966" y="937.9397590361446"/>
+      <point x="20.457831325301207" y="945.6987951807229"/>
+      <point x="0.0" y="945.6987951807229" type="curve" smooth="yes"/>
+      <point x="-20.457831325301207" y="945.6987951807229"/>
+      <point x="-37.566265060240966" y="937.9397590361446"/>
+      <point x="-51.265060240963855" y="917.8915662650602" type="curve" smooth="yes"/>
+      <point x="-139.10843373493975" y="795.156626506024" type="line" smooth="yes"/>
+      <point x="-159.21686746987953" y="767.2289156626506"/>
+      <point x="-119.65060240963855" y="742.3614457831326"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

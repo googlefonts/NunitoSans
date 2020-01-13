@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa" format="2">
+  <advance width="926"/>
+  <unicode hex="018F"/>
+  <anchor x="420" y="0" name="bottom"/>
+  <anchor x="532" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="429" y="-8" type="curve" smooth="yes"/>
+      <point x="656" y="-8"/>
+      <point x="826" y="121"/>
+      <point x="862" y="348" type="curve" smooth="yes"/>
+      <point x="898" y="579"/>
+      <point x="777" y="713"/>
+      <point x="513" y="713" type="curve" smooth="yes"/>
+      <point x="380" y="713"/>
+      <point x="258" y="678"/>
+      <point x="167" y="610" type="curve"/>
+      <point x="192" y="572" type="line"/>
+      <point x="287" y="640"/>
+      <point x="386" y="669"/>
+      <point x="505" y="669" type="curve" smooth="yes"/>
+      <point x="742" y="669"/>
+      <point x="847" y="559"/>
+      <point x="815" y="358" type="curve" smooth="yes"/>
+      <point x="783" y="155"/>
+      <point x="640" y="36"/>
+      <point x="430" y="36" type="curve" smooth="yes"/>
+      <point x="221" y="36"/>
+      <point x="115" y="149"/>
+      <point x="147" y="353" type="curve"/>
+      <point x="131" y="335" type="line"/>
+      <point x="815" y="335" type="line"/>
+      <point x="822" y="377" type="line"/>
+      <point x="103" y="377" type="line"/>
+      <point x="98" y="349" type="line" smooth="yes"/>
+      <point x="60" y="139"/>
+      <point x="189" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:53:32</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy" format="2">
+  <advance width="606.0120481927711"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="160.48192771084337" y="0.0" type="line"/>
+      <point x="376.4698795180723" y="0.0" type="line" smooth="yes"/>
+      <point x="495.9277108433735" y="0.0"/>
+      <point x="561.6746987951807" y="57.51807228915663"/>
+      <point x="561.6746987951807" y="153.66265060240963" type="curve" smooth="yes"/>
+      <point x="561.6746987951807" y="250.95180722891567"/>
+      <point x="497.9879518072289" y="306.1807228915663"/>
+      <point x="376.4698795180723" y="306.1807228915663" type="curve" smooth="yes"/>
+      <point x="221.48192771084337" y="306.1807228915663" type="line"/>
+      <point x="221.48192771084337" y="485.144578313253" type="line"/>
+      <point x="3.9156626506024095" y="485.144578313253" type="line"/>
+      <point x="3.9156626506024095" y="434.1807228915663" type="line"/>
+      <point x="160.48192771084337" y="434.1807228915663" type="line"/>
+    </contour>
+    <contour>
+      <point x="221.48192771084337" y="46.53012048192771" type="line"/>
+      <point x="221.48192771084337" y="259.65060240963857" type="line"/>
+      <point x="373.66265060240966" y="259.65060240963857" type="line" smooth="yes"/>
+      <point x="454.6265060240964" y="259.65060240963857"/>
+      <point x="501.1927710843373" y="226.16867469879517"/>
+      <point x="501.1927710843373" y="153.43373493975903" type="curve" smooth="yes"/>
+      <point x="501.1927710843373" y="80.46987951807229"/>
+      <point x="454.1686746987952" y="46.53012048192771"/>
+      <point x="373.66265060240966" y="46.53012048192771" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:28:33</string>
+    </dict>
+  </lib>
+</glyph>

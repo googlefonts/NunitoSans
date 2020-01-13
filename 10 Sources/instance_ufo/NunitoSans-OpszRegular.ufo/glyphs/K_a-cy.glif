@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ka-cy" format="2">
+  <advance width="708.3012048192771"/>
+  <unicode hex="041A"/>
+  <anchor x="583.1927710843373" y="0.0" name="bottomright"/>
+  <anchor x="372.68674698795184" y="353.0" name="center"/>
+  <anchor x="358.27710843373495" y="705.0" name="top"/>
+  <anchor x="205.0120481927711" y="705.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="112.13253012048193" y="0.0" type="line"/>
+      <point x="205.0120481927711" y="0.0" type="line"/>
+      <point x="205.0120481927711" y="316.14457831325296" type="line"/>
+      <point x="329.9879518072289" y="316.14457831325296" type="line" smooth="yes"/>
+      <point x="406.4096385542168" y="316.14457831325296"/>
+      <point x="449.71084337349396" y="279.7831325301205"/>
+      <point x="485.48192771084337" y="205.710843373494" type="curve" smooth="yes"/>
+      <point x="583.1927710843373" y="0.0" type="line"/>
+      <point x="687.2409638554217" y="0.0" type="line"/>
+      <point x="566.8915662650602" y="246.1686746987952" type="line" smooth="yes"/>
+      <point x="524.9518072289156" y="331.51807228915663"/>
+      <point x="463.8433734939759" y="384.33734939759034"/>
+      <point x="382.67469879518075" y="394.6265060240964" type="curve"/>
+      <point x="421.289156626506" y="363.87951807228916" type="line"/>
+      <point x="650.1807228915663" y="705.0" type="line"/>
+      <point x="543.6024096385541" y="705.0" type="line"/>
+      <point x="329.6385542168675" y="378.8072289156626" type="line"/>
+      <point x="353.5783132530121" y="399.03614457831327" type="line"/>
+      <point x="205.0120481927711" y="399.03614457831327" type="line"/>
+      <point x="205.0120481927711" y="705.0" type="line"/>
+      <point x="112.13253012048193" y="705.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:22:22</string>
+    </dict>
+  </lib>
+</glyph>

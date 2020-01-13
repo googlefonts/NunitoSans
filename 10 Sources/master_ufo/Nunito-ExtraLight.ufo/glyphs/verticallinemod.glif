@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinemod" format="2">
+  <advance width="500"/>
+  <unicode hex="02C8"/>
+  <outline>
+    <contour>
+      <point x="250" y="590" type="curve" smooth="yes"/>
+      <point x="264" y="590"/>
+      <point x="271" y="598"/>
+      <point x="271" y="612" type="curve" smooth="yes"/>
+      <point x="271" y="778" type="line" smooth="yes"/>
+      <point x="271" y="792"/>
+      <point x="263" y="800"/>
+      <point x="250" y="800" type="curve" smooth="yes"/>
+      <point x="237" y="800"/>
+      <point x="229" y="792"/>
+      <point x="229" y="778" type="curve" smooth="yes"/>
+      <point x="229" y="612" type="line" smooth="yes"/>
+      <point x="229" y="598"/>
+      <point x="237" y="590"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

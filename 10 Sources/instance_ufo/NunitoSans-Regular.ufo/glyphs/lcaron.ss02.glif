@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron.ss02" format="2">
+  <advance width="231.73493975903614"/>
+  <anchor x="115.86746987951807" y="0.0" name="bottom"/>
+  <anchor x="115.86746987951807" y="357.0" name="center"/>
+  <anchor x="255.28915662650604" y="357.0" name="dot"/>
+  <anchor x="115.86746987951807" y="705.0" name="top"/>
+  <anchor x="201.90361445783134" y="705.0" name="topright"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="caroncomb.alt" xOffset="201.90361445783134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Be-cy" format="2">
+  <advance width="733"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="101" y="0" type="line"/>
+      <point x="442" y="0" type="line" smooth="yes"/>
+      <point x="592" y="0"/>
+      <point x="688" y="74"/>
+      <point x="688" y="209" type="curve" smooth="yes"/>
+      <point x="688" y="343"/>
+      <point x="592" y="419"/>
+      <point x="442" y="419" type="curve" smooth="yes"/>
+      <point x="240" y="419" type="line"/>
+      <point x="240" y="585" type="line"/>
+      <point x="613" y="585" type="line"/>
+      <point x="613" y="705" type="line"/>
+      <point x="101" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="110" type="line"/>
+      <point x="240" y="304" type="line"/>
+      <point x="420" y="304" type="line" smooth="yes"/>
+      <point x="507" y="304"/>
+      <point x="549" y="272"/>
+      <point x="549" y="207" type="curve" smooth="yes"/>
+      <point x="549" y="142"/>
+      <point x="509" y="110"/>
+      <point x="420" y="110" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:13:44</string>
+    </dict>
+  </lib>
+</glyph>

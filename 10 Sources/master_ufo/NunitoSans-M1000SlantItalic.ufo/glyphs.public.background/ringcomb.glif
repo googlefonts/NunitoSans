@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb" format="2">
+  <anchor x="0" y="484" name="_top"/>
+  <anchor x="32" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="31" y="544" type="curve" smooth="yes"/>
+      <point x="110" y="544"/>
+      <point x="171" y="602"/>
+      <point x="171" y="679" type="curve" smooth="yes"/>
+      <point x="171" y="756"/>
+      <point x="110" y="814"/>
+      <point x="31" y="814" type="curve" smooth="yes"/>
+      <point x="-48" y="814"/>
+      <point x="-109" y="756"/>
+      <point x="-109" y="679" type="curve" smooth="yes"/>
+      <point x="-109" y="602"/>
+      <point x="-48" y="544"/>
+    </contour>
+    <contour>
+      <point x="31" y="626" type="curve" smooth="yes"/>
+      <point x="2" y="626"/>
+      <point x="-21" y="648"/>
+      <point x="-21" y="679" type="curve" smooth="yes"/>
+      <point x="-21" y="710"/>
+      <point x="2" y="731"/>
+      <point x="31" y="731" type="curve" smooth="yes"/>
+      <point x="60" y="731"/>
+      <point x="83" y="710"/>
+      <point x="83" y="679" type="curve" smooth="yes"/>
+      <point x="83" y="648"/>
+      <point x="60" y="626"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreve-cy" format="2">
+  <advance width="636.156626506024"/>
+  <unicode hex="04D1"/>
+  <anchor x="274.7831325301205" y="0.0" name="bottom"/>
+  <anchor x="518.2409638554217" y="0.0" name="ogonek"/>
+  <anchor x="321.578313253012" y="484.0" name="top"/>
+  <outline>
+    <component base="a-cy"/>
+    <component base="brevecomb-cy" xOffset="321.578313253012"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

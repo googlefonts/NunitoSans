@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <advance width="607"/>
+  <unicode hex="04FF"/>
+  <anchor x="406" y="0" name="bottomright"/>
+  <anchor x="304" y="250" name="center"/>
+  <anchor x="304" y="484" name="top"/>
+  <outline>
+    <component base="ha-cy"/>
+    <component base="strokeshortcomb.cy" xOffset="304" yOffset="-69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

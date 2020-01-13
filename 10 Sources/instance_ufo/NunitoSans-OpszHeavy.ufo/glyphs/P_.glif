@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="763"/>
+  <unicode hex="0050"/>
+  <anchor x="371" y="0" name="bottom"/>
+  <anchor x="370" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="305" y="221" type="line"/>
+      <point x="460" y="221" type="line" smooth="yes"/>
+      <point x="617" y="221"/>
+      <point x="721" y="323"/>
+      <point x="721" y="467" type="curve" smooth="yes"/>
+      <point x="721" y="613"/>
+      <point x="618" y="705"/>
+      <point x="460" y="705" type="curve" smooth="yes"/>
+      <point x="80" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="305" y="391" type="line"/>
+      <point x="305" y="535" type="line"/>
+      <point x="419" y="535" type="line" smooth="yes"/>
+      <point x="474" y="535"/>
+      <point x="500" y="509"/>
+      <point x="500" y="462" type="curve" smooth="yes"/>
+      <point x="500" y="415"/>
+      <point x="473" y="391"/>
+      <point x="419" y="391" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:50:46</string>
+    </dict>
+  </lib>
+</glyph>

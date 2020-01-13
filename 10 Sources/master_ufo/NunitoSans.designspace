@@ -1,0 +1,3260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="200" maximum="1000" default="200">
+      <map input="200" output="42"/>
+      <map input="300" output="61"/>
+      <map input="400" output="81"/>
+      <map input="600" output="101"/>
+      <map input="700" output="125"/>
+      <map input="800" output="151"/>
+      <map input="900" output="178"/>
+      <map input="1000" output="208"/>
+    </axis>
+    <axis tag="wdth" name="Width" minimum="80" maximum="125" default="100"/>
+    <axis tag="slnt" name="Slant" minimum="0" maximum="9" default="0"/>
+    <axis tag="opsz" name="Optical size" minimum="6" maximum="13" default="13"/>
+    <axis tag="xhgt" name="X-height" minimum="-250" maximum="250" default="0"/>
+  </axes>
+  <sources>
+    <source filename="NunitoSans-ExtraLight.ufo" name="NunitoSans ExtraLight" familyname="NunitoSans" stylename="ExtraLight">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M500.ufo" name="NunitoSans M500" familyname="NunitoSans" stylename="M500">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M1000.ufo" name="NunitoSans M1000" familyname="NunitoSans" stylename="M1000">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M0CondensedExtraLight.ufo" name="NunitoSans M0 Condensed ExtraLight" familyname="NunitoSans" stylename="M0 Condensed ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="80"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M1000CondensedHeavy.ufo" name="NunitoSans M1000 Condensed Heavy" familyname="NunitoSans" stylename="M1000 Condensed Heavy">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="80"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M0ExpandedExtraLight.ufo" name="NunitoSans M0 Expanded ExtraLight" familyname="NunitoSans" stylename="M0 Expanded ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M1000ExpandedHeavy.ufo" name="NunitoSans M1000 Expanded Heavy " familyname="NunitoSans" stylename="M1000 Expanded Heavy ">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M0SlantItalic.ufo" name="NunitoSans M0 Slant Italic" familyname="NunitoSans" stylename="M0 Slant Italic">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M500SlantItalic.ufo" name="NunitoSans M500 Slant Italic" familyname="NunitoSans" stylename="M500 Slant Italic">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M1000SlantItalic.ufo" name="NunitoSans M1000 Slant Italic" familyname="NunitoSans" stylename="M1000 Slant Italic">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M0opsz.ufo" name="NunitoSans M0 opsz" familyname="NunitoSans" stylename="M0 opsz">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M500opsz.ufo" name="NunitoSans M500 opsz" familyname="NunitoSans" stylename="M500 opsz">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M1000opsz.ufo" name="NunitoSans M1000 opsz" familyname="NunitoSans" stylename="M1000 opsz">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M0XghtMin250.ufo" name="NunitoSans M0 Xght Min 250" familyname="NunitoSans" stylename="M0 Xght Min 250">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="-250"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M1000XghtMin250.ufo" name="NunitoSans M1000 Xght Min 250" familyname="NunitoSans" stylename="M1000 Xght Min 250">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="-250"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M0XghtMax750.ufo" name="NunitoSans M0 Xght Max 750" familyname="NunitoSans" stylename="M0 Xght Max 750">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="250"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M1000XghtMax750.ufo" name="NunitoSans M1000 Xght Max 750" familyname="NunitoSans" stylename="M1000 Xght Max 750">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="250"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M0CondensedExtraLightSlanted.ufo" name="NunitoSans M0 Condensed ExtraLight Slanted" familyname="NunitoSans" stylename="M0 Condensed ExtraLight Slanted">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="80"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M1000CondensedHeavySlanted.ufo" name="NunitoSans M1000 Condensed Heavy Slanted" familyname="NunitoSans" stylename="M1000 Condensed Heavy Slanted">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="80"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M0ExpandedExtraLightSlanted.ufo" name="NunitoSans M0 Expanded ExtraLight Slanted" familyname="NunitoSans" stylename="M0 Expanded ExtraLight Slanted">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="125"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M1000ExpandedHeavySlantedItalic.ufo" name="NunitoSans M1000 Expanded Heavy Slanted Italic" familyname="NunitoSans" stylename="M1000 Expanded Heavy Slanted Italic">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="125"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M0XghtMin250SlantedItalic.ufo" name="NunitoSans M0 Xght Min 250 Slanted Italic" familyname="NunitoSans" stylename="M0 Xght Min 250 Slanted Italic">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="-250"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M1000XghtMin250SlantedItalic.ufo" name="NunitoSans M1000 Xght Min 250 Slanted Italic" familyname="NunitoSans" stylename="M1000 Xght Min 250 Slanted Italic">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="-250"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M0XghtMax750SlantedItalic.ufo" name="NunitoSans M0 Xght Max 750 Slanted Italic" familyname="NunitoSans" stylename="M0 Xght Max 750 Slanted Italic">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="250"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M1000XghtMax750SlantedItalic.ufo" name="NunitoSans M1000 Xght Max 750 Slanted Italic" familyname="NunitoSans" stylename="M1000 Xght Max 750 Slanted Italic">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="250"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M0opszSlantedItalic.ufo" name="NunitoSans M0 opsz Slanted Italic" familyname="NunitoSans" stylename="M0 opsz Slanted Italic">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="NunitoSans-M1000opszSlantedItalic.ufo" name="NunitoSans M1000 opsz Slanted Italic" familyname="NunitoSans" stylename="M1000 opsz Slanted Italic">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="NunitoSans ExtraLight" familyname="NunitoSans" stylename="ExtraLight" filename="../instance_ufo/NunitoSans-ExtraLight.ufo" stylemapfamilyname="NunitoSans ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>200</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Light" familyname="NunitoSans" stylename="Light" filename="../instance_ufo/NunitoSans-Light.ufo" stylemapfamilyname="NunitoSans Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="61"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>300</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Regular" familyname="NunitoSans" stylename="Regular" filename="../instance_ufo/NunitoSans-Regular.ufo" stylemapfamilyname="NunitoSans" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="81"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>400</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans SemiBold" familyname="NunitoSans" stylename="SemiBold" filename="../instance_ufo/NunitoSans-SemiBold.ufo" stylemapfamilyname="NunitoSans SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>600</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Bold" familyname="NunitoSans" stylename="Bold" filename="../instance_ufo/NunitoSans-Bold.ufo" stylemapfamilyname="NunitoSans Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>700</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans ExtraBold" familyname="NunitoSans" stylename="ExtraBold" filename="../instance_ufo/NunitoSans-ExtraBold.ufo" stylemapfamilyname="NunitoSans ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="151"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>800</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Black" familyname="NunitoSans" stylename="Black" filename="../instance_ufo/NunitoSans-Black.ufo" stylemapfamilyname="NunitoSans Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>900</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Heavy" familyname="NunitoSans" stylename="Heavy" filename="../instance_ufo/NunitoSans-Heavy.ufo" stylemapfamilyname="NunitoSans Heavy" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>1000</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans ExtraLight Italic" familyname="NunitoSans" stylename="ExtraLight Italic" filename="../instance_ufo/NunitoSans-ExtraLightItalic.ufo" stylemapfamilyname="NunitoSans ExtraLight Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>200</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <integer>9</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Light Italic" familyname="NunitoSans" stylename="Light Italic" filename="../instance_ufo/NunitoSans-LightItalic.ufo" stylemapfamilyname="NunitoSans Light Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="61"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>300</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <integer>9</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Italic" familyname="NunitoSans" stylename="Italic" filename="../instance_ufo/NunitoSans-Italic.ufo" stylemapfamilyname="NunitoSans Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="81"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>400</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <integer>9</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans SemiBold Italic" familyname="NunitoSans" stylename="SemiBold Italic" filename="../instance_ufo/NunitoSans-SemiBoldItalic.ufo" stylemapfamilyname="NunitoSans SemiBold Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>600</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <integer>9</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Bold Italic" familyname="NunitoSans" stylename="Bold Italic" filename="../instance_ufo/NunitoSans-BoldItalic.ufo" stylemapfamilyname="NunitoSans Bold Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>700</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <integer>9</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans ExtraBold Italic" familyname="NunitoSans" stylename="ExtraBold Italic" filename="../instance_ufo/NunitoSans-ExtraBoldItalic.ufo" stylemapfamilyname="NunitoSans ExtraBold Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="151"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>800</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <integer>9</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Black Italic" familyname="NunitoSans" stylename="Black Italic" filename="../instance_ufo/NunitoSans-BlackItalic.ufo" stylemapfamilyname="NunitoSans Black Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>900</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <integer>9</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Heavy Italic" familyname="NunitoSans" stylename="Heavy Italic" filename="../instance_ufo/NunitoSans-HeavyItalic.ufo" stylemapfamilyname="NunitoSans Heavy Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="9"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>1000</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <integer>9</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Expanded ExtraLight" familyname="NunitoSans" stylename="Expanded ExtraLight" filename="../instance_ufo/NunitoSans-ExpandedExtraLight.ufo" stylemapfamilyname="NunitoSans Expanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>200</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>125</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Expanded Light" familyname="NunitoSans" stylename="Expanded Light" filename="../instance_ufo/NunitoSans-ExpandedLight.ufo" stylemapfamilyname="NunitoSans Expanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="61"/>
+        <dimension name="Width" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>300</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>125</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Expanded Regular" familyname="NunitoSans" stylename="Expanded Regular" filename="../instance_ufo/NunitoSans-ExpandedRegular.ufo" stylemapfamilyname="NunitoSans Expanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="81"/>
+        <dimension name="Width" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>400</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>125</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Expanded SemiBold" familyname="NunitoSans" stylename="Expanded SemiBold" filename="../instance_ufo/NunitoSans-ExpandedSemiBold.ufo" stylemapfamilyname="NunitoSans Expanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+        <dimension name="Width" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>600</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>125</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Expanded Bold" familyname="NunitoSans" stylename="Expanded Bold" filename="../instance_ufo/NunitoSans-ExpandedBold.ufo" stylemapfamilyname="NunitoSans Expanded Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Width" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>700</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>125</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Expanded ExtraBold" familyname="NunitoSans" stylename="Expanded ExtraBold" filename="../instance_ufo/NunitoSans-ExpandedExtraBold.ufo" stylemapfamilyname="NunitoSans Expanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="151"/>
+        <dimension name="Width" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>800</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>125</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Expanded Black" familyname="NunitoSans" stylename="Expanded Black" filename="../instance_ufo/NunitoSans-ExpandedBlack.ufo" stylemapfamilyname="NunitoSans Expanded Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Width" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>900</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>125</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Expanded Heavy" familyname="NunitoSans" stylename="Expanded Heavy" filename="../instance_ufo/NunitoSans-ExpandedHeavy.ufo" stylemapfamilyname="NunitoSans Expanded Heavy" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>1000</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>125</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Condensed ExtraLight" familyname="NunitoSans" stylename="Condensed ExtraLight" filename="../instance_ufo/NunitoSans-CondensedExtraLight.ufo" stylemapfamilyname="NunitoSans Condensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="80"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>200</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>80</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Condensed Light" familyname="NunitoSans" stylename="Condensed Light" filename="../instance_ufo/NunitoSans-CondensedLight.ufo" stylemapfamilyname="NunitoSans Condensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="61"/>
+        <dimension name="Width" xvalue="80"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>300</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>80</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Condensed Regular" familyname="NunitoSans" stylename="Condensed Regular" filename="../instance_ufo/NunitoSans-CondensedRegular.ufo" stylemapfamilyname="NunitoSans Condensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="81"/>
+        <dimension name="Width" xvalue="80"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>400</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>80</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Condensed SemiBold" familyname="NunitoSans" stylename="Condensed SemiBold" filename="../instance_ufo/NunitoSans-CondensedSemiBold.ufo" stylemapfamilyname="NunitoSans Condensed SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+        <dimension name="Width" xvalue="80"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>600</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>80</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Condensed Bold" familyname="NunitoSans" stylename="Condensed Bold" filename="../instance_ufo/NunitoSans-CondensedBold.ufo" stylemapfamilyname="NunitoSans Condensed Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Width" xvalue="80"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>700</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>80</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Condensed ExtraBold" familyname="NunitoSans" stylename="Condensed ExtraBold" filename="../instance_ufo/NunitoSans-CondensedExtraBold.ufo" stylemapfamilyname="NunitoSans Condensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="151"/>
+        <dimension name="Width" xvalue="80"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>800</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>80</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Condensed Black" familyname="NunitoSans" stylename="Condensed Black" filename="../instance_ufo/NunitoSans-CondensedBlack.ufo" stylemapfamilyname="NunitoSans Condensed Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Width" xvalue="80"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>900</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>80</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Condensed Heavy" familyname="NunitoSans" stylename="Condensed Heavy" filename="../instance_ufo/NunitoSans-CondensedHeavy.ufo" stylemapfamilyname="NunitoSans Condensed Heavy" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="80"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>1000</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>80</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Opsz ExtraLight" familyname="NunitoSans" stylename="Opsz ExtraLight" filename="../instance_ufo/NunitoSans-OpszExtraLight.ufo" stylemapfamilyname="NunitoSans Opsz ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>200</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>6</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Opsz Light" familyname="NunitoSans" stylename="Opsz Light" filename="../instance_ufo/NunitoSans-OpszLight.ufo" stylemapfamilyname="NunitoSans Opsz Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="61"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>300</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>6</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Opsz Regular" familyname="NunitoSans" stylename="Opsz Regular" filename="../instance_ufo/NunitoSans-OpszRegular.ufo" stylemapfamilyname="NunitoSans Opsz" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="81"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>400</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>6</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Opsz SemiBold" familyname="NunitoSans" stylename="Opsz SemiBold" filename="../instance_ufo/NunitoSans-OpszSemiBold.ufo" stylemapfamilyname="NunitoSans Opsz SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>600</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>6</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Opsz Bold" familyname="NunitoSans" stylename="Opsz Bold" filename="../instance_ufo/NunitoSans-OpszBold.ufo" stylemapfamilyname="NunitoSans Opsz Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>700</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>6</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Opsz ExtraBold" familyname="NunitoSans" stylename="Opsz ExtraBold" filename="../instance_ufo/NunitoSans-OpszExtraBold.ufo" stylemapfamilyname="NunitoSans Opsz ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="151"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>800</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>6</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Opsz Black" familyname="NunitoSans" stylename="Opsz Black" filename="../instance_ufo/NunitoSans-OpszBlack.ufo" stylemapfamilyname="NunitoSans Opsz Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>900</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>6</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Opsz Heavy" familyname="NunitoSans" stylename="Opsz Heavy" filename="../instance_ufo/NunitoSans-OpszHeavy.ufo" stylemapfamilyname="NunitoSans Opsz Heavy" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="6"/>
+        <dimension name="X-height" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>1000</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>6</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmin ExtraLight" familyname="NunitoSans" stylename="Xmin ExtraLight" filename="../instance_ufo/NunitoSans-XminExtraLight.ufo" stylemapfamilyname="NunitoSans Xmin ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="-250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>200</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>-250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmin Light" familyname="NunitoSans" stylename="Xmin Light" filename="../instance_ufo/NunitoSans-XminLight.ufo" stylemapfamilyname="NunitoSans Xmin Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="61"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="-250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>300</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>-250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmin Regular" familyname="NunitoSans" stylename="Xmin Regular" filename="../instance_ufo/NunitoSans-XminRegular.ufo" stylemapfamilyname="NunitoSans Xmin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="81"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="-250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>400</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>-250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmin SemiBold" familyname="NunitoSans" stylename="Xmin SemiBold" filename="../instance_ufo/NunitoSans-XminSemiBold.ufo" stylemapfamilyname="NunitoSans Xmin SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="-250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>600</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>-250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmin Bold" familyname="NunitoSans" stylename="Xmin Bold" filename="../instance_ufo/NunitoSans-XminBold.ufo" stylemapfamilyname="NunitoSans Xmin Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="-250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>700</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>-250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmin ExtraBold" familyname="NunitoSans" stylename="Xmin ExtraBold" filename="../instance_ufo/NunitoSans-XminExtraBold.ufo" stylemapfamilyname="NunitoSans Xmin ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="151"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="-250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>800</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>-250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmin Black" familyname="NunitoSans" stylename="Xmin Black" filename="../instance_ufo/NunitoSans-XminBlack.ufo" stylemapfamilyname="NunitoSans Xmin Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="-250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>900</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>-250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmin Heavy" familyname="NunitoSans" stylename="Xmin Heavy" filename="../instance_ufo/NunitoSans-XminHeavy.ufo" stylemapfamilyname="NunitoSans Xmin Heavy" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="-250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>1000</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>-250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmax ExtraLight" familyname="NunitoSans" stylename="Xmax ExtraLight" filename="../instance_ufo/NunitoSans-XmaxExtraLight.ufo" stylemapfamilyname="NunitoSans Xmax ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>200</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmax Light" familyname="NunitoSans" stylename="Xmax Light" filename="../instance_ufo/NunitoSans-XmaxLight.ufo" stylemapfamilyname="NunitoSans Xmax Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="61"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>300</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmax Regular" familyname="NunitoSans" stylename="Xmax Regular" filename="../instance_ufo/NunitoSans-XmaxRegular.ufo" stylemapfamilyname="NunitoSans Xmax" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="81"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>400</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmax SemiBold" familyname="NunitoSans" stylename="Xmax SemiBold" filename="../instance_ufo/NunitoSans-XmaxSemiBold.ufo" stylemapfamilyname="NunitoSans Xmax SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>600</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmax Bold" familyname="NunitoSans" stylename="Xmax Bold" filename="../instance_ufo/NunitoSans-XmaxBold.ufo" stylemapfamilyname="NunitoSans Xmax Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>700</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmax ExtraBold" familyname="NunitoSans" stylename="Xmax ExtraBold" filename="../instance_ufo/NunitoSans-XmaxExtraBold.ufo" stylemapfamilyname="NunitoSans Xmax ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="151"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>800</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmax Black" familyname="NunitoSans" stylename="Xmax Black" filename="../instance_ufo/NunitoSans-XmaxBlack.ufo" stylemapfamilyname="NunitoSans Xmax Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>900</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="NunitoSans Xmax Heavy" familyname="NunitoSans" stylename="Xmax Heavy" filename="../instance_ufo/NunitoSans-XmaxHeavy.ufo" stylemapfamilyname="NunitoSans Xmax Heavy" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Optical size" xvalue="13"/>
+        <dimension name="X-height" xvalue="250"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>1000</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Width</string>
+                  <key>Location</key>
+                  <integer>100</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Optical size</string>
+                  <key>Location</key>
+                  <integer>13</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>X-height</string>
+                  <key>Location</key>
+                  <integer>250</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>__Kabashkir-cy</string>
+        <string>__Zedescener-cy</string>
+        <string>__Zedescener-cy.case</string>
+        <string>__bar.Obarred-cy</string>
+        <string>__descender-cy</string>
+        <string>__descender-cy.case</string>
+        <string>__descender-cy.case.cy</string>
+        <string>__descender-cy.case.mirror</string>
+        <string>__descender-cy.che</string>
+        <string>__descender-cy.cy</string>
+        <string>__strokehook-cy</string>
+        <string>__tail-cy</string>
+        <string>__tail-cy.case</string>
+        <string>_part.Qtail</string>
+        <string>_part.oslash</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

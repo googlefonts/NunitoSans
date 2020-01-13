@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresis-cy" format="2">
+  <advance width="544"/>
+  <unicode hex="04E7"/>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="272" y="245" name="center"/>
+  <anchor x="331" y="0" name="ogonek"/>
+  <anchor x="272" y="685" name="top"/>
+  <anchor x="318" y="484" name="topright"/>
+  <outline>
+    <component base="o-cy"/>
+    <component base="dieresiscomb" xOffset="272"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

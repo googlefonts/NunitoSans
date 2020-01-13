@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="212"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="110" y="-190" type="curve" smooth="yes"/>
+      <point x="129" y="-190"/>
+      <point x="146" y="-188"/>
+      <point x="165" y="-181" type="curve" smooth="yes"/>
+      <point x="183" y="-174"/>
+      <point x="181" y="-138"/>
+      <point x="154" y="-147" type="curve" smooth="yes"/>
+      <point x="142" y="-151"/>
+      <point x="130" y="-154"/>
+      <point x="115" y="-154" type="curve" smooth="yes"/>
+      <point x="82" y="-154"/>
+      <point x="55" y="-136"/>
+      <point x="55" y="-94" type="curve" smooth="yes"/>
+      <point x="55" y="-59"/>
+      <point x="73" y="-34"/>
+      <point x="116" y="-3" type="curve" smooth="yes"/>
+      <point x="122" y="1"/>
+      <point x="127" y="9"/>
+      <point x="127" y="19" type="curve" smooth="yes"/>
+      <point x="127" y="465" type="line" smooth="yes"/>
+      <point x="127" y="479"/>
+      <point x="119" y="487"/>
+      <point x="106" y="487" type="curve" smooth="yes"/>
+      <point x="93" y="487"/>
+      <point x="85" y="479"/>
+      <point x="85" y="465" type="curve" smooth="yes"/>
+      <point x="85" y="19" type="line"/>
+      <point x="85" y="14"/>
+      <point x="87" y="8"/>
+      <point x="88" y="5" type="curve"/>
+      <point x="97" y="26" type="line"/>
+      <point x="46" y="-4"/>
+      <point x="16" y="-51"/>
+      <point x="16" y="-98" type="curve" smooth="yes"/>
+      <point x="16" y="-154"/>
+      <point x="55" y="-190"/>
+    </contour>
+    <contour>
+      <point x="106" y="616" type="curve" smooth="yes"/>
+      <point x="129" y="616"/>
+      <point x="141" y="629"/>
+      <point x="141" y="651" type="curve" smooth="yes"/>
+      <point x="141" y="673"/>
+      <point x="128" y="685"/>
+      <point x="106" y="685" type="curve" smooth="yes"/>
+      <point x="84" y="685"/>
+      <point x="71" y="673"/>
+      <point x="71" y="651" type="curve" smooth="yes"/>
+      <point x="71" y="629"/>
+      <point x="84" y="616"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

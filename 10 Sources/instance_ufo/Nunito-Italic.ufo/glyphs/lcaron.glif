@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="295.67469879518075"/>
+  <unicode hex="013E"/>
+  <anchor x="149.10843373493975" y="0.0" name="bottom"/>
+  <anchor x="140.80722891566265" y="357.0" name="center"/>
+  <anchor x="298.1807228915663" y="352.5301204819277" name="dot"/>
+  <anchor x="189.3975903614458" y="705.0" name="top"/>
+  <anchor x="274.90361445783134" y="705.0" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="caroncomb.alt" xOffset="274.90361445783134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

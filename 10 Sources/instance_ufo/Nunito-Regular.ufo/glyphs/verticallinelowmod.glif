@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinelowmod" format="2">
+  <advance width="500.0"/>
+  <unicode hex="02CC"/>
+  <outline>
+    <contour>
+      <point x="250.0" y="-276.93975903614455" type="curve" smooth="yes"/>
+      <point x="270.10843373493975" y="-276.93975903614455"/>
+      <point x="279.9277108433735" y="-265.65060240963857"/>
+      <point x="279.9277108433735" y="-245.5421686746988" type="curve" smooth="yes"/>
+      <point x="279.9277108433735" y="-92.51807228915662" type="line" smooth="yes"/>
+      <point x="279.9277108433735" y="-72.40963855421687"/>
+      <point x="269.10843373493975" y="-61.12048192771084"/>
+      <point x="250.0" y="-61.12048192771084" type="curve" smooth="yes"/>
+      <point x="230.89156626506025" y="-61.12048192771084"/>
+      <point x="220.0722891566265" y="-72.40963855421687"/>
+      <point x="220.0722891566265" y="-92.51807228915662" type="curve" smooth="yes"/>
+      <point x="220.0722891566265" y="-245.5421686746988" type="line" smooth="yes"/>
+      <point x="220.0722891566265" y="-265.65060240963857"/>
+      <point x="230.89156626506025" y="-276.93975903614455"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

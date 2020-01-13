@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="0.0" y="484.0" name="_top"/>
+  <anchor x="0.0" y="696.8795180722892" name="top"/>
+  <outline>
+    <contour>
+      <point x="-76.95180722891565" y="582.6265060240963" type="line"/>
+      <point x="76.95180722891565" y="582.6265060240963" type="line"/>
+      <point x="76.95180722891565" y="706.5180722891566" type="line"/>
+      <point x="-30.44578313253012" y="706.5180722891566" type="line"/>
+      <point x="1.3132530120481927" y="686.9518072289156" type="line"/>
+      <point x="1.3132530120481927" y="717.6987951807229"/>
+      <point x="17.253012048192772" y="759.578313253012"/>
+      <point x="50.56626506024096" y="791.5783132530121" type="curve"/>
+      <point x="-11.13253012048193" y="831.7710843373494" type="line"/>
+      <point x="-58.325301204819276" y="790.1445783132531"/>
+      <point x="-76.95180722891565" y="734.578313253012"/>
+      <point x="-76.95180722891565" y="673.0120481927711" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

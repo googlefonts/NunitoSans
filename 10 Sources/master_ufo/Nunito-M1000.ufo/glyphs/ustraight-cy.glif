@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraight-cy" format="2">
+  <advance width="570"/>
+  <unicode hex="04AF"/>
+  <anchor x="289" y="32" name="center"/>
+  <outline>
+    <contour>
+      <point x="286" y="-190" type="curve" smooth="yes"/>
+      <point x="354" y="-190"/>
+      <point x="390" y="-153"/>
+      <point x="390" y="-85" type="curve" smooth="yes"/>
+      <point x="390" y="49" type="line"/>
+      <point x="537" y="373" type="line" smooth="yes"/>
+      <point x="568" y="442"/>
+      <point x="533" y="504"/>
+      <point x="465" y="504" type="curve" smooth="yes"/>
+      <point x="411" y="504"/>
+      <point x="384" y="485"/>
+      <point x="359" y="422" type="curve" smooth="yes"/>
+      <point x="272" y="204" type="line"/>
+      <point x="308" y="204" type="line"/>
+      <point x="227" y="420" type="line" smooth="yes"/>
+      <point x="202" y="486"/>
+      <point x="174" y="504"/>
+      <point x="125" y="504" type="curve" smooth="yes"/>
+      <point x="36" y="504"/>
+      <point x="6" y="442"/>
+      <point x="36" y="373" type="curve" smooth="yes"/>
+      <point x="182" y="40" type="line"/>
+      <point x="182" y="-85" type="line" smooth="yes"/>
+      <point x="182" y="-153"/>
+      <point x="219" y="-190"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+    </dict>
+  </lib>
+</glyph>

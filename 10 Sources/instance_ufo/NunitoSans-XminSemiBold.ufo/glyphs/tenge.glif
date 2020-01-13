@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenge" format="2">
+  <advance width="600.0"/>
+  <unicode hex="20B8"/>
+  <outline>
+    <contour>
+      <point x="248.43373493975903" y="0.0" type="line"/>
+      <point x="351.56626506024094" y="0.0" type="line"/>
+      <point x="351.56626506024094" y="477.7710843373494" type="line"/>
+      <point x="584.9759036144578" y="477.7710843373494" type="line"/>
+      <point x="584.9759036144578" y="550.7349397590361" type="line"/>
+      <point x="15.024096385542169" y="550.7349397590361" type="line"/>
+      <point x="15.024096385542169" y="477.7710843373494" type="line"/>
+      <point x="248.43373493975903" y="477.7710843373494" type="line"/>
+    </contour>
+    <contour>
+      <point x="15.024096385542169" y="632.0361445783133" type="line"/>
+      <point x="584.9759036144578" y="632.0361445783133" type="line"/>
+      <point x="584.9759036144578" y="705.0" type="line"/>
+      <point x="15.024096385542169" y="705.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Imacron-cy" format="2">
+  <advance width="830.1084337349398"/>
+  <unicode hex="04E2"/>
+  <anchor x="628.0361445783133" y="0.0" name="bottomright"/>
+  <anchor x="417.6385542168675" y="865.0" name="top"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="macroncomb.case" xOffset="417.6385542168675"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

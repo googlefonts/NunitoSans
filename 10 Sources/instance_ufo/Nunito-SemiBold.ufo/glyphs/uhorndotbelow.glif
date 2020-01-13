@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorndotbelow" format="2">
+  <advance width="569.1686746987951"/>
+  <unicode hex="1EF1"/>
+  <anchor x="285.0843373493976" y="-170.0" name="bottom"/>
+  <anchor x="284.3734939759036" y="484.0" name="top"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="dotbelowcomb" xOffset="285.0843373493976"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance width="287.2168674698795"/>
+  <unicode hex="0142"/>
+  <anchor x="164.81927710843374" y="0.0" name="bottom"/>
+  <anchor x="120.07228915662648" y="357.0" name="center"/>
+  <anchor x="298.3734939759036" y="357.0" name="dot"/>
+  <anchor x="116.63855421686748" y="705.0" name="top"/>
+  <anchor x="214.06626506024097" y="705.0" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="slashshortcomb" xOffset="120.07228915662648" yOffset="-1.3132530120481927"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

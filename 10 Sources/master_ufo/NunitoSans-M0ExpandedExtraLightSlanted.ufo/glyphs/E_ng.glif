@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="906"/>
+  <unicode hex="014A"/>
+  <anchor x="415" y="0" name="bottom"/>
+  <anchor x="527" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="492" y="-193" type="line"/>
+      <point x="547" y="-190" type="line" smooth="yes"/>
+      <point x="659" y="-184"/>
+      <point x="731" y="-122"/>
+      <point x="747" y="-19" type="curve" smooth="yes"/>
+      <point x="862" y="705" type="line"/>
+      <point x="818" y="705" type="line"/>
+      <point x="713" y="46" type="line"/>
+      <point x="727" y="46" type="line"/>
+      <point x="233" y="705" type="line"/>
+      <point x="192" y="705" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="228" y="659" type="line"/>
+      <point x="215" y="659" type="line"/>
+      <point x="709" y="0" type="line"/>
+      <point x="711" y="31" type="line"/>
+      <point x="703" y="-21" type="line" smooth="yes"/>
+      <point x="690" y="-98"/>
+      <point x="636" y="-144"/>
+      <point x="547" y="-149" type="curve" smooth="yes"/>
+      <point x="496" y="-152" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:49:55</string>
+    </dict>
+  </lib>
+</glyph>

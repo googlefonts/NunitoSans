@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb.case" format="2">
+  <anchor x="75" y="705" name="_top"/>
+  <anchor x="97" y="865" name="top"/>
+  <outline>
+    <contour>
+      <point x="-30" y="760" type="line"/>
+      <point x="-19" y="826"/>
+      <point x="27" y="865"/>
+      <point x="91" y="865" type="curve" smooth="yes"/>
+      <point x="155" y="865"/>
+      <point x="194" y="826"/>
+      <point x="193" y="760" type="curve"/>
+      <point x="265" y="769" type="line"/>
+      <point x="265" y="871"/>
+      <point x="198" y="939"/>
+      <point x="96" y="939" type="curve" smooth="yes"/>
+      <point x="-8" y="939"/>
+      <point x="-85" y="874"/>
+      <point x="-101" y="769" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

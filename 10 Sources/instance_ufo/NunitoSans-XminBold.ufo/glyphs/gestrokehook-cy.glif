@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestrokehook-cy" format="2">
+  <advance width="481.0"/>
+  <unicode hex="04FB"/>
+  <outline>
+    <contour>
+      <point x="75.0" y="-185.0" type="line"/>
+      <point x="138.0" y="-180.0" type="line" smooth="yes"/>
+      <point x="239.0" y="-172.0"/>
+      <point x="300.0" y="-108.0"/>
+      <point x="300.0" y="23.0" type="curve" smooth="yes"/>
+      <point x="300.0" y="88.5" type="line"/>
+      <point x="220.0" y="88.5" type="line"/>
+      <point x="220.0" y="160.5" type="line"/>
+      <point x="359.0" y="160.5" type="line"/>
+      <point x="359.0" y="243.5" type="line"/>
+      <point x="220.0" y="243.5" type="line"/>
+      <point x="220.0" y="344.5" type="line"/>
+      <point x="465.0" y="344.5" type="line"/>
+      <point x="465.0" y="439.0" type="line"/>
+      <point x="95.0" y="439.0" type="line"/>
+      <point x="95.0" y="243.5" type="line"/>
+      <point x="5.0" y="243.5" type="line"/>
+      <point x="5.0" y="160.5" type="line"/>
+      <point x="95.0" y="160.5" type="line"/>
+      <point x="95.0" y="0.0" type="line"/>
+      <point x="188.0" y="0.0" type="line"/>
+      <point x="188.0" y="-57.0"/>
+      <point x="171.0" y="-90.0"/>
+      <point x="123.0" y="-94.0" type="curve" smooth="yes"/>
+      <point x="67.0" y="-99.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ghestroke-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ge-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

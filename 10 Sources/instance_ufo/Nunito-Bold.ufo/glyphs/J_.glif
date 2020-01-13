@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="354"/>
+  <unicode hex="004A"/>
+  <anchor x="214" y="0" name="bottom"/>
+  <anchor x="213" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="46" y="-7" type="curve" smooth="yes"/>
+      <point x="80" y="-5" type="line" smooth="yes"/>
+      <point x="210" y="3"/>
+      <point x="278" y="73"/>
+      <point x="278" y="199" type="curve" smooth="yes"/>
+      <point x="278" y="648" type="line" smooth="yes"/>
+      <point x="278" y="690"/>
+      <point x="255" y="713"/>
+      <point x="214" y="713" type="curve" smooth="yes"/>
+      <point x="173" y="713"/>
+      <point x="150" y="690"/>
+      <point x="150" y="648" type="curve" smooth="yes"/>
+      <point x="150" y="198" type="line" smooth="yes"/>
+      <point x="150" y="137"/>
+      <point x="120" y="104"/>
+      <point x="61" y="100" type="curve" smooth="yes"/>
+      <point x="31" y="98" type="line" smooth="yes"/>
+      <point x="1" y="96"/>
+      <point x="-14" y="74"/>
+      <point x="-14" y="49" type="curve" smooth="yes"/>
+      <point x="-14" y="16"/>
+      <point x="8" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

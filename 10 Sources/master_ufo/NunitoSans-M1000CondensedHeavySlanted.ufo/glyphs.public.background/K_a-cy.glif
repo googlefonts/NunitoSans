@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ka-cy" format="2">
+  <anchor x="379" y="0" name="bottomright"/>
+  <anchor x="339" y="353" name="center"/>
+  <anchor x="376" y="705" name="top"/>
+  <anchor x="315" y="705" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="6" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="245" y="267" type="line"/>
+      <point x="275" y="267" type="line" smooth="yes"/>
+      <point x="316" y="267"/>
+      <point x="330" y="252"/>
+      <point x="340" y="197" type="curve" smooth="yes"/>
+      <point x="379" y="0" type="line"/>
+      <point x="592" y="0" type="line"/>
+      <point x="527" y="260" type="line" smooth="yes"/>
+      <point x="503" y="356"/>
+      <point x="465" y="399"/>
+      <point x="385" y="420" type="curve"/>
+      <point x="456" y="368" type="line"/>
+      <point x="677" y="705" type="line"/>
+      <point x="464" y="705" type="line"/>
+      <point x="290" y="409" type="line"/>
+      <point x="315" y="427" type="line"/>
+      <point x="271" y="427" type="line"/>
+      <point x="315" y="705" type="line"/>
+      <point x="118" y="705" type="line"/>
+    </contour>
+  </outline>
+</glyph>

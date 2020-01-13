@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eldescender-cy" format="2">
+  <advance width="570"/>
+  <unicode hex="052F"/>
+  <anchor x="399" y="0" name="bottomright"/>
+  <outline>
+    <component base="el-cy"/>
+    <component base="__descender-cy" xOffset="439"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

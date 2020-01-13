@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="686"/>
+  <unicode hex="0052"/>
+  <anchor x="316" y="0" name="bottom"/>
+  <anchor x="408" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="211" y="282" type="line"/>
+      <point x="314" y="282" type="line" smooth="yes"/>
+      <point x="367" y="282"/>
+      <point x="393" y="264"/>
+      <point x="411" y="216" type="curve" smooth="yes"/>
+      <point x="493" y="0" type="line"/>
+      <point x="624" y="0" type="line"/>
+      <point x="547" y="200" type="line" smooth="yes"/>
+      <point x="523" y="263"/>
+      <point x="485" y="300"/>
+      <point x="422" y="300" type="curve" smooth="yes"/>
+      <point x="396" y="300" type="line"/>
+      <point x="396" y="285" type="line"/>
+      <point x="550" y="283"/>
+      <point x="663" y="356"/>
+      <point x="663" y="510" type="curve" smooth="yes"/>
+      <point x="663" y="631"/>
+      <point x="581" y="705"/>
+      <point x="425" y="705" type="curve" smooth="yes"/>
+      <point x="150" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="226" y="377" type="line"/>
+      <point x="262" y="604" type="line"/>
+      <point x="406" y="604" type="line" smooth="yes"/>
+      <point x="498" y="604"/>
+      <point x="539" y="569"/>
+      <point x="539" y="500" type="curve" smooth="yes"/>
+      <point x="539" y="420"/>
+      <point x="487" y="377"/>
+      <point x="396" y="377" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:51:21</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfright.case" format="2">
+  <advance width="500"/>
+  <anchor x="250" y="705" name="_top"/>
+  <anchor x="250" y="865" name="top"/>
+  <outline>
+    <contour>
+      <point x="250" y="760" type="line"/>
+      <point x="311" y="760"/>
+      <point x="357" y="805"/>
+      <point x="357" y="864" type="curve" smooth="yes"/>
+      <point x="357" y="923"/>
+      <point x="311" y="969"/>
+      <point x="250" y="969" type="curve"/>
+      <point x="250" y="914" type="line"/>
+      <point x="279" y="914"/>
+      <point x="298" y="892"/>
+      <point x="298" y="864" type="curve" smooth="yes"/>
+      <point x="298" y="837"/>
+      <point x="279" y="815"/>
+      <point x="250" y="815" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

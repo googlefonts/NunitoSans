@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Be-cy" format="2">
+  <advance width="673"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="145" y="0" type="curve" smooth="yes"/>
+      <point x="396" y="0" type="line" smooth="yes"/>
+      <point x="546" y="0"/>
+      <point x="636" y="72"/>
+      <point x="636" y="206" type="curve" smooth="yes"/>
+      <point x="636" y="340"/>
+      <point x="546" y="411"/>
+      <point x="396" y="411" type="curve" smooth="yes"/>
+      <point x="200" y="411" type="line"/>
+      <point x="200" y="603" type="line"/>
+      <point x="523" y="603" type="line" smooth="yes"/>
+      <point x="556" y="603"/>
+      <point x="575" y="622"/>
+      <point x="575" y="655" type="curve" smooth="yes"/>
+      <point x="575" y="687"/>
+      <point x="556" y="705"/>
+      <point x="523" y="705" type="curve" smooth="yes"/>
+      <point x="145" y="705" type="line" smooth="yes"/>
+      <point x="101" y="705"/>
+      <point x="77" y="681"/>
+      <point x="77" y="637" type="curve" smooth="yes"/>
+      <point x="77" y="68" type="line" smooth="yes"/>
+      <point x="77" y="24"/>
+      <point x="101" y="0"/>
+    </contour>
+    <contour>
+      <point x="200" y="102" type="line"/>
+      <point x="200" y="309" type="line"/>
+      <point x="380" y="309" type="line" smooth="yes"/>
+      <point x="470" y="309"/>
+      <point x="512" y="276"/>
+      <point x="512" y="206" type="curve" smooth="yes"/>
+      <point x="512" y="135"/>
+      <point x="470" y="102"/>
+      <point x="380" y="102" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+    </dict>
+  </lib>
+</glyph>

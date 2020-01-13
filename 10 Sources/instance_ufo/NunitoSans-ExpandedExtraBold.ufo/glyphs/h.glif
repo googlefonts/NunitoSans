@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h" format="2">
+  <advance width="733.933734939759"/>
+  <unicode hex="0068"/>
+  <anchor x="367.921686746988" y="0.0" name="bottom"/>
+  <anchor x="367.921686746988" y="249.28313253012047" name="center"/>
+  <anchor x="389.4277108433735" y="351.3734939759036" name="dot"/>
+  <anchor x="222.8614457831325" y="591.5060240963855" name="stroke"/>
+  <anchor x="369.578313253012" y="705.0" name="top"/>
+  <anchor x="278.8554216867469" y="705.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="77.13855421686746" y="0.0" type="line"/>
+      <point x="243.95783132530119" y="0.0" type="line"/>
+      <point x="243.95783132530119" y="248.1204819277108" type="line" smooth="yes"/>
+      <point x="243.95783132530119" y="316.8433734939759"/>
+      <point x="299.3192771084337" y="373.51807228915663"/>
+      <point x="386.69879518072287" y="373.51807228915663" type="curve" smooth="yes"/>
+      <point x="453.3313253012048" y="373.51807228915663"/>
+      <point x="492.6626506024097" y="346.9036144578314"/>
+      <point x="492.6626506024097" y="262.2710843373494" type="curve" smooth="yes"/>
+      <point x="492.6626506024097" y="0.0" type="line"/>
+      <point x="659.4819277108434" y="0.0" type="line"/>
+      <point x="659.4819277108434" y="268.5542168674699" type="line" smooth="yes"/>
+      <point x="659.4819277108434" y="434.77710843373495"/>
+      <point x="583.6445783132531" y="501.1927710843374"/>
+      <point x="444.45180722891564" y="501.1927710843374" type="curve" smooth="yes"/>
+      <point x="347.18072289156623" y="501.1927710843374"/>
+      <point x="277.49397590361446" y="462.6686746987952"/>
+      <point x="233.95783132530119" y="393.20481927710847" type="curve"/>
+      <point x="244.6144578313253" y="393.20481927710847" type="line"/>
+      <point x="243.95783132530119" y="705.0" type="line"/>
+      <point x="77.13855421686746" y="705.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:00:24</string>
+    </dict>
+  </lib>
+</glyph>

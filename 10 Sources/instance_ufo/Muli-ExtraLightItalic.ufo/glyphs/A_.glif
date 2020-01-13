@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="721"/>
+  <unicode hex="0041"/>
+  <anchor x="318" y="0" name="bottom"/>
+  <anchor x="647" y="0" name="ogonek"/>
+  <anchor x="430" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="-6" y="0" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="161" y="204" type="line"/>
+      <point x="132" y="195" type="line"/>
+      <point x="569" y="195" type="line"/>
+      <point x="547" y="204" type="line"/>
+      <point x="604" y="0" type="line"/>
+      <point x="647" y="0" type="line"/>
+      <point x="450" y="705" type="line"/>
+      <point x="409" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="649" type="line"/>
+      <point x="424" y="649" type="line"/>
+      <point x="541" y="228" type="line"/>
+      <point x="558" y="234" type="line"/>
+      <point x="155" y="234" type="line"/>
+      <point x="176" y="228" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

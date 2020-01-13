@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani" format="2">
+  <advance width="600"/>
+  <unicode hex="20B2"/>
+  <outline>
+    <contour>
+      <point x="317" y="-115" type="line"/>
+      <point x="367" y="-115" type="line"/>
+      <point x="367" y="41" type="line"/>
+      <point x="359" y="16" type="line"/>
+      <point x="441" y="22"/>
+      <point x="502" y="42"/>
+      <point x="546" y="69" type="curve"/>
+      <point x="546" y="358" type="line"/>
+      <point x="339" y="358" type="line"/>
+      <point x="339" y="310" type="line"/>
+      <point x="496" y="310" type="line"/>
+      <point x="496" y="65" type="line"/>
+      <point x="512" y="106" type="line"/>
+      <point x="458" y="76"/>
+      <point x="403" y="65"/>
+      <point x="344" y="65" type="curve" smooth="yes"/>
+      <point x="196" y="65"/>
+      <point x="114" y="179"/>
+      <point x="114" y="353" type="curve" smooth="yes"/>
+      <point x="114" y="526"/>
+      <point x="196" y="640"/>
+      <point x="344" y="640" type="curve" smooth="yes"/>
+      <point x="419" y="640"/>
+      <point x="482" y="614"/>
+      <point x="530" y="553" type="curve"/>
+      <point x="556" y="593" type="line"/>
+      <point x="501" y="662"/>
+      <point x="422" y="687"/>
+      <point x="352" y="689" type="curve"/>
+      <point x="367" y="671" type="line"/>
+      <point x="367" y="820" type="line"/>
+      <point x="317" y="820" type="line"/>
+      <point x="317" y="672" type="line"/>
+      <point x="334" y="689" type="line"/>
+      <point x="164" y="685"/>
+      <point x="59" y="552"/>
+      <point x="59" y="353" type="curve" smooth="yes"/>
+      <point x="59" y="153"/>
+      <point x="164" y="20"/>
+      <point x="334" y="16" type="curve"/>
+      <point x="317" y="41" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 18:29:08</string>
+    </dict>
+  </lib>
+</glyph>

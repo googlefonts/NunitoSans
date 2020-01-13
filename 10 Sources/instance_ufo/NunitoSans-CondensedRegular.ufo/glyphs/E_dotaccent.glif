@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotaccent" format="2">
+  <advance width="485.5722891566265"/>
+  <unicode hex="0116"/>
+  <anchor x="268.81927710843377" y="0.0" name="bottom"/>
+  <anchor x="406.1144578313253" y="0.0" name="ogonek"/>
+  <anchor x="268.81927710843377" y="865.0" name="top"/>
+  <anchor x="25.650602409638555" y="705.0" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="dotaccentcomb.case" xOffset="268.81927710843377"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

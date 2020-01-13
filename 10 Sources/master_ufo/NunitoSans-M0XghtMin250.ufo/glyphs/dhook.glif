@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dhook" format="2">
+  <advance width="568"/>
+  <unicode hex="0257"/>
+  <outline>
+    <contour>
+      <point x="268" y="-8" type="curve" smooth="yes"/>
+      <point x="361" y="-8"/>
+      <point x="429" y="40"/>
+      <point x="450" y="111" type="curve"/>
+      <point x="442" y="111" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="483" y="566" type="line" smooth="yes"/>
+      <point x="483" y="636"/>
+      <point x="517" y="675"/>
+      <point x="585" y="675" type="curve" smooth="yes"/>
+      <point x="598" y="675"/>
+      <point x="606" y="674"/>
+      <point x="624" y="669" type="curve"/>
+      <point x="630" y="706" type="line"/>
+      <point x="615" y="711"/>
+      <point x="601" y="713"/>
+      <point x="583" y="713" type="curve" smooth="yes"/>
+      <point x="491" y="713"/>
+      <point x="441" y="661"/>
+      <point x="441" y="564" type="curve" smooth="yes"/>
+      <point x="441" y="324" type="line"/>
+      <point x="450" y="324" type="line"/>
+      <point x="429" y="395"/>
+      <point x="361" y="442"/>
+      <point x="268" y="442" type="curve" smooth="yes"/>
+      <point x="138" y="442"/>
+      <point x="53" y="356"/>
+      <point x="53" y="217" type="curve" smooth="yes"/>
+      <point x="53" y="79"/>
+      <point x="139" y="-8"/>
+    </contour>
+    <contour>
+      <point x="269" y="31" type="curve" smooth="yes"/>
+      <point x="163" y="31"/>
+      <point x="96" y="101"/>
+      <point x="96" y="217" type="curve" smooth="yes"/>
+      <point x="96" y="334"/>
+      <point x="163" y="403"/>
+      <point x="269" y="403" type="curve" smooth="yes"/>
+      <point x="376" y="403"/>
+      <point x="442" y="334"/>
+      <point x="442" y="217" type="curve" smooth="yes"/>
+      <point x="442" y="101"/>
+      <point x="376" y="31"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:10:37</string>
+    </dict>
+  </lib>
+</glyph>

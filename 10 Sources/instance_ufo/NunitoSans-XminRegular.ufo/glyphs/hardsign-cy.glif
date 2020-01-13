@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy" format="2">
+  <advance width="614.4457831325301"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="157.83132530120483" y="0.0" type="line"/>
+      <point x="397.0301204819277" y="0.0" type="line" smooth="yes"/>
+      <point x="510.43975903614455" y="0.0"/>
+      <point x="573.9638554216867" y="52.463855421686745"/>
+      <point x="573.9638554216867" y="143.2831325301205" type="curve" smooth="yes"/>
+      <point x="573.9638554216867" y="234.27710843373492"/>
+      <point x="513.0240963855422" y="283.45180722891564"/>
+      <point x="397.0301204819277" y="283.45180722891564" type="curve" smooth="yes"/>
+      <point x="238.83132530120483" y="283.45180722891564" type="line"/>
+      <point x="238.83132530120483" y="436.34939759036143" type="line"/>
+      <point x="4.879518072289157" y="436.34939759036143" type="line"/>
+      <point x="4.879518072289157" y="371.6867469879518" type="line"/>
+      <point x="157.83132530120483" y="371.6867469879518" type="line"/>
+    </contour>
+    <contour>
+      <point x="238.83132530120483" y="56.204819277108435" type="line"/>
+      <point x="238.83132530120483" y="228.24698795180723" type="line"/>
+      <point x="388.22289156626505" y="228.24698795180723" type="line" smooth="yes"/>
+      <point x="457.1807228915663" y="228.24698795180723"/>
+      <point x="497.13253012048193" y="200.47590361445782"/>
+      <point x="497.13253012048193" y="142.57831325301206" type="curve" smooth="yes"/>
+      <point x="497.13253012048193" y="83.44578313253012"/>
+      <point x="456.71084337349396" y="56.204819277108435"/>
+      <point x="388.22289156626505" y="56.204819277108435" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:28:33</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedmod" format="2">
+  <advance width="500.0"/>
+  <unicode hex="02BB"/>
+  <anchor x="250.0" y="484.0" name="_top"/>
+  <anchor x="250.0" y="685.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="175.28915662650604" y="562.1204819277108" type="line"/>
+      <point x="324.3975903614458" y="562.1204819277108" type="line"/>
+      <point x="324.3975903614458" y="677.7710843373494" type="line"/>
+      <point x="219.55421686746988" y="677.7710843373494" type="line"/>
+      <point x="252.0" y="660.2650602409639" type="line"/>
+      <point x="252.0" y="687.578313253012"/>
+      <point x="259.9397590361446" y="713.578313253012"/>
+      <point x="288.6265060240964" y="739.0120481927711" type="curve"/>
+      <point x="235.04819277108436" y="775.7710843373494" type="line"/>
+      <point x="189.22891566265062" y="736.2048192771084"/>
+      <point x="175.28915662650604" y="690.6385542168675"/>
+      <point x="175.28915662650604" y="633.8795180722892" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

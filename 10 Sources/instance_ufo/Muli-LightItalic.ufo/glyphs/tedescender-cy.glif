@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tedescender-cy" format="2">
+  <advance width="444.13253012048193"/>
+  <unicode hex="04AD"/>
+  <anchor x="153.16867469879517" y="0.0" name="bottomright"/>
+  <outline>
+    <component base="te-cy"/>
+    <component base="__descender-cy" xOffset="193.16867469879517"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

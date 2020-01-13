@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el-cy" format="2">
+  <advance width="597.144578313253"/>
+  <unicode hex="043B"/>
+  <anchor x="426.9156626506024" y="0.0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="55.10843373493976" y="-12.55421686746988" type="line"/>
+      <point x="182.87951807228916" y="29.518072289156628"/>
+      <point x="233.80722891566265" y="131.33734939759037"/>
+      <point x="233.80722891566265" y="359.87951807228916" type="curve" smooth="yes"/>
+      <point x="233.80722891566265" y="424.90361445783134" type="line"/>
+      <point x="420.93975903614455" y="424.90361445783134" type="line"/>
+      <point x="420.93975903614455" y="0.0" type="line"/>
+      <point x="521.2289156626506" y="0.0" type="line"/>
+      <point x="521.2289156626506" y="503.5542168674699" type="line"/>
+      <point x="140.9156626506024" y="503.5542168674699" type="line"/>
+      <point x="140.9156626506024" y="363.0120481927711" type="line" smooth="yes"/>
+      <point x="140.9156626506024" y="173.7710843373494"/>
+      <point x="112.49397590361446" y="104.43373493975903"/>
+      <point x="21.02409638554217" y="66.65060240963855" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

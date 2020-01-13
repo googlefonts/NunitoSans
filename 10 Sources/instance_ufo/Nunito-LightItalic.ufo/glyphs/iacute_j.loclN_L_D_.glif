@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute_j.loclNLD" format="2">
+  <advance width="446.9156626506024"/>
+  <anchor x="72.80722891566265" y="0.0" name="bottom_1"/>
+  <anchor x="296.87951807228916" y="0.0" name="bottom_2"/>
+  <anchor x="97.24096385542167" y="0.0" name="ogonek"/>
+  <anchor x="150.57831325301206" y="484.0" name="top_1"/>
+  <anchor x="372.87951807228916" y="484.0" name="top_2"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="acutecomb" xOffset="150.57831325301206"/>
+    <component base="jdotless" xOffset="221.8433734939759"/>
+    <component base="acutecomb" xOffset="372.87951807228916"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

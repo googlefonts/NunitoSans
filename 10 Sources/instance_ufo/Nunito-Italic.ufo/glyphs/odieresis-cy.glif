@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresis-cy" format="2">
+  <advance width="565.6144578313254"/>
+  <unicode hex="04E7"/>
+  <anchor x="253.98795180722894" y="0.0" name="bottom"/>
+  <anchor x="283.27710843373495" y="243.40963855421685" name="center"/>
+  <anchor x="315.3373493975904" y="0.0" name="ogonek"/>
+  <anchor x="355.3373493975904" y="685.0" name="top"/>
+  <anchor x="370.7469879518072" y="484.0" name="topright"/>
+  <outline>
+    <component base="o-cy"/>
+    <component base="dieresiscomb" xOffset="323.3373493975904"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

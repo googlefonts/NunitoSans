@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb" format="2">
+  <unicode hex="031B"/>
+  <anchor x="0.0" y="484.0" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="49.80722891566265" y="431.0722891566265" type="line"/>
+      <point x="144.72289156626508" y="437.9156626506024"/>
+      <point x="196.14457831325302" y="499.4698795180723"/>
+      <point x="208.14457831325302" y="586.4939759036145" type="curve" smooth="yes"/>
+      <point x="211.566265060241" y="611.0240963855422"/>
+      <point x="195.74698795180723" y="623.421686746988"/>
+      <point x="167.10843373493975" y="623.421686746988" type="curve" smooth="yes"/>
+      <point x="139.75903614457832" y="623.421686746988"/>
+      <point x="123.51807228915662" y="613.1566265060242"/>
+      <point x="119.09638554216866" y="589.4939759036145" type="curve" smooth="yes"/>
+      <point x="108.80722891566265" y="538.3614457831325"/>
+      <point x="94.12048192771084" y="488.5542168674699"/>
+      <point x="0.7108433734939759" y="487.5542168674699" type="curve"/>
+      <point x="-2.5783132530120483" y="466.8192771084337" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

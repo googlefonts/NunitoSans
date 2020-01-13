@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ehookabove" format="2">
+  <advance width="542"/>
+  <unicode hex="1EBB"/>
+  <anchor x="255" y="0" name="bottom"/>
+  <anchor x="340" y="0" name="ogonek"/>
+  <anchor x="350" y="685" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="hookabovecomb" xOffset="320"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

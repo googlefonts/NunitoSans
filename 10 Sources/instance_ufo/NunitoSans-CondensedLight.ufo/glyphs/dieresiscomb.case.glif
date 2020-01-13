@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <anchor x="0.0" y="705.0" name="_top"/>
+  <anchor x="0.0" y="865.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="34.48192771084337" y="814.2771084337348" type="line"/>
+      <point x="101.355421686747" y="814.2771084337348" type="line"/>
+      <point x="101.355421686747" y="880.2650602409639" type="line"/>
+      <point x="34.48192771084337" y="880.2650602409639" type="line"/>
+    </contour>
+    <contour>
+      <point x="-101.355421686747" y="814.2771084337348" type="line"/>
+      <point x="-34.48192771084337" y="814.2771084337348" type="line"/>
+      <point x="-34.48192771084337" y="880.2650602409639" type="line"/>
+      <point x="-101.355421686747" y="880.2650602409639" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

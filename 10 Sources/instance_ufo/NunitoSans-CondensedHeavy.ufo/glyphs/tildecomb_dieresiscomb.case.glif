@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_dieresiscomb.case" format="2">
+  <anchor x="0" y="705" name="_top"/>
+  <outline>
+    <contour>
+      <point x="57" y="765" type="curve" smooth="yes"/>
+      <point x="120" y="765"/>
+      <point x="165" y="812"/>
+      <point x="168" y="885" type="curve"/>
+      <point x="94" y="890" type="line"/>
+      <point x="91" y="874"/>
+      <point x="78" y="856"/>
+      <point x="54" y="856" type="curve" smooth="yes"/>
+      <point x="39" y="856"/>
+      <point x="27" y="862"/>
+      <point x="12" y="870" type="curve" smooth="yes"/>
+      <point x="-6" y="879"/>
+      <point x="-26" y="889"/>
+      <point x="-56" y="889" type="curve" smooth="yes"/>
+      <point x="-118" y="889"/>
+      <point x="-164" y="842"/>
+      <point x="-167" y="770" type="curve"/>
+      <point x="-93" y="765" type="line"/>
+      <point x="-89" y="784"/>
+      <point x="-75" y="799"/>
+      <point x="-53" y="799" type="curve" smooth="yes"/>
+      <point x="-39" y="799"/>
+      <point x="-26" y="792"/>
+      <point x="-12" y="785" type="curve" smooth="yes"/>
+      <point x="6" y="776"/>
+      <point x="27" y="765"/>
+    </contour>
+    <contour>
+      <point x="-165" y="915" type="line"/>
+      <point x="-17" y="915" type="line"/>
+      <point x="-17" y="1027" type="line"/>
+      <point x="-165" y="1027" type="line"/>
+    </contour>
+    <contour>
+      <point x="17" y="915" type="line"/>
+      <point x="165" y="915" type="line"/>
+      <point x="165" y="1027" type="line"/>
+      <point x="17" y="1027" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

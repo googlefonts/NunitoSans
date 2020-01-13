@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="411.0120481927711"/>
+  <unicode hex="004A"/>
+  <anchor x="254.43373493975906" y="0.0" name="bottom"/>
+  <anchor x="257.9759036144579" y="705.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="15.144578313253012" y="-6.686746987951807" type="line"/>
+      <point x="101.09638554216868" y="-2.6867469879518073" type="line" smooth="yes"/>
+      <point x="208.96385542168673" y="2.542168674698795"/>
+      <point x="293.8192771084337" y="83.3132530120482"/>
+      <point x="293.8192771084337" y="190.89156626506022" type="curve" smooth="yes"/>
+      <point x="293.8192771084337" y="705.0" type="line"/>
+      <point x="221.90361445783134" y="705.0" type="line"/>
+      <point x="221.90361445783134" y="195.18072289156626" type="line" smooth="yes"/>
+      <point x="221.90361445783134" y="116.98795180722892"/>
+      <point x="164.62650602409641" y="66.87951807228916"/>
+      <point x="93.51807228915663" y="63.10843373493976" type="curve" smooth="yes"/>
+      <point x="10.0" y="59.10843373493976" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

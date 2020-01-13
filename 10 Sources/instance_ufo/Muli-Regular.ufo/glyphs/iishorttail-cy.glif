@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iishorttail-cy" format="2">
+  <advance width="621.0843373493976"/>
+  <unicode hex="048B"/>
+  <anchor x="442.0722891566265" y="0.0" name="bottomright"/>
+  <anchor x="297.9277108433735" y="484.0" name="top"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="brevecomb-cy" xOffset="292.3975903614458"/>
+    <component base="__tail-cy" xOffset="442.0722891566265"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+4</string>
+    </dict>
+  </lib>
+</glyph>

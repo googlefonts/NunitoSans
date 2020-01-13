@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Semisoftsign-cy" format="2">
+  <advance width="697"/>
+  <unicode hex="048C"/>
+  <outline>
+    <contour>
+      <point x="144" y="0" type="line"/>
+      <point x="415" y="0" type="line" smooth="yes"/>
+      <point x="561" y="0"/>
+      <point x="643" y="64"/>
+      <point x="643" y="191" type="curve" smooth="yes"/>
+      <point x="643" y="318"/>
+      <point x="561" y="379"/>
+      <point x="415" y="379" type="curve" smooth="yes"/>
+      <point x="186" y="379" type="line"/>
+      <point x="186" y="548" type="line"/>
+      <point x="330" y="548" type="line"/>
+      <point x="330" y="587" type="line"/>
+      <point x="186" y="587" type="line"/>
+      <point x="186" y="705" type="line"/>
+      <point x="144" y="705" type="line"/>
+      <point x="144" y="587" type="line"/>
+      <point x="0" y="587" type="line"/>
+      <point x="0" y="548" type="line"/>
+      <point x="144" y="548" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="39" type="line"/>
+      <point x="186" y="340" type="line"/>
+      <point x="414" y="340" type="line" smooth="yes"/>
+      <point x="537" y="340"/>
+      <point x="599" y="292"/>
+      <point x="599" y="190" type="curve" smooth="yes"/>
+      <point x="599" y="88"/>
+      <point x="537" y="39"/>
+      <point x="414" y="39" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:50:01</string>
+    </dict>
+  </lib>
+</glyph>

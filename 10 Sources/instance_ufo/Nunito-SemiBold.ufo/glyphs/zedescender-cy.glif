@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zedescender-cy" format="2">
+  <advance width="507.56626506024094"/>
+  <unicode hex="0499"/>
+  <anchor x="254.06024096385542" y="0.0" name="bottom"/>
+  <anchor x="249.79518072289156" y="487.5542168674699" name="top"/>
+  <outline>
+    <component base="ze-cy"/>
+    <component base="__Zedescener-cy" xOffset="7.734939759036145"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

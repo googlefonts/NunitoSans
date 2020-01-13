@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="elhook-cy" format="2">
+  <advance width="574.2048192771084"/>
+  <unicode hex="0513"/>
+  <outline>
+    <contour>
+      <point x="283.8192771084337" y="-193.0" type="line"/>
+      <point x="326.8192771084337" y="-190.0" type="line" smooth="yes"/>
+      <point x="435.6144578313253" y="-182.59036144578315"/>
+      <point x="494.1927710843373" y="-124.46987951807229"/>
+      <point x="494.1927710843373" y="-13.012048192771084" type="curve" smooth="yes"/>
+      <point x="494.1927710843373" y="486.34939759036143" type="line"/>
+      <point x="141.0120481927711" y="486.34939759036143" type="line"/>
+      <point x="141.0120481927711" y="361.855421686747" type="line" smooth="yes"/>
+      <point x="141.0120481927711" y="164.21686746987953"/>
+      <point x="113.07228915662651" y="92.26506024096386"/>
+      <point x="22.710843373493976" y="52.66265060240964" type="curve"/>
+      <point x="52.69879518072289" y="-11.349397590361445" type="line"/>
+      <point x="171.9156626506024" y="32.78313253012048"/>
+      <point x="216.7831325301205" y="130.95180722891567"/>
+      <point x="216.7831325301205" y="359.4457831325301" type="curve" smooth="yes"/>
+      <point x="216.7831325301205" y="421.2168674698795" type="line"/>
+      <point x="413.1927710843373" y="421.2168674698795" type="line"/>
+      <point x="413.1927710843373" y="-14.951807228915662" type="line" smooth="yes"/>
+      <point x="413.1927710843373" y="-83.67469879518072"/>
+      <point x="381.8313253012048" y="-120.6867469879518"/>
+      <point x="321.34939759036143" y="-126.1566265060241" type="curve" smooth="yes"/>
+      <point x="278.0" y="-130.09638554216866" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>el-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

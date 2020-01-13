@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hardsign-cy" format="2">
+  <advance width="825.7951807228916"/>
+  <unicode hex="042A"/>
+  <outline>
+    <contour>
+      <point x="201.6987951807229" y="0.0" type="line"/>
+      <point x="551.3493975903615" y="0.0" type="line" smooth="yes"/>
+      <point x="704.9036144578313" y="0.0"/>
+      <point x="799.0120481927711" y="77.10843373493977"/>
+      <point x="799.0120481927711" y="215.57831325301203" type="curve" smooth="yes"/>
+      <point x="799.0120481927711" y="354.0481927710843"/>
+      <point x="704.9036144578313" y="430.7951807228916"/>
+      <point x="551.3493975903615" y="430.7951807228916" type="curve" smooth="yes"/>
+      <point x="385.6144578313253" y="430.7951807228916" type="line"/>
+      <point x="385.6144578313253" y="705.0" type="line"/>
+      <point x="6.27710843373494" y="705.0" type="line"/>
+      <point x="6.27710843373494" y="555.2168674698795" type="line"/>
+      <point x="201.6987951807229" y="555.2168674698795" type="line"/>
+    </contour>
+    <contour>
+      <point x="385.6144578313253" y="139.03614457831324" type="line"/>
+      <point x="385.6144578313253" y="291.7590361445783" type="line"/>
+      <point x="526.7710843373494" y="291.7590361445783" type="line" smooth="yes"/>
+      <point x="594.6987951807229" y="291.7590361445783"/>
+      <point x="624.9277108433735" y="267.0602409638554"/>
+      <point x="624.9277108433735" y="215.57831325301206" type="curve" smooth="yes"/>
+      <point x="624.9277108433735" y="163.73493975903614"/>
+      <point x="594.6987951807229" y="139.03614457831324"/>
+      <point x="526.7710843373494" y="139.03614457831324" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:26:09</string>
+    </dict>
+  </lib>
+</glyph>

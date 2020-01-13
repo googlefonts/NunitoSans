@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="El-cy" format="2">
+  <advance width="752"/>
+  <unicode hex="041B"/>
+  <anchor x="508" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="573" y="-8" type="curve" smooth="yes"/>
+      <point x="614" y="-8"/>
+      <point x="639" y="13"/>
+      <point x="645" y="53" type="curve" smooth="yes"/>
+      <point x="737" y="632" type="line" smooth="yes"/>
+      <point x="744" y="679"/>
+      <point x="721" y="705"/>
+      <point x="674" y="705" type="curve" smooth="yes"/>
+      <point x="313" y="705" type="line" smooth="yes"/>
+      <point x="272" y="705"/>
+      <point x="247" y="684"/>
+      <point x="240" y="643" type="curve" smooth="yes"/>
+      <point x="213" y="476" type="line" smooth="yes"/>
+      <point x="175" y="238"/>
+      <point x="111" y="147"/>
+      <point x="20" y="96" type="curve" smooth="yes"/>
+      <point x="-13" y="78"/>
+      <point x="-22" y="50"/>
+      <point x="-5" y="19" type="curve" smooth="yes"/>
+      <point x="13" y="-13"/>
+      <point x="44" y="-17"/>
+      <point x="76" y="-1" type="curve" smooth="yes"/>
+      <point x="208" y="65"/>
+      <point x="285" y="188"/>
+      <point x="326" y="443" type="curve" smooth="yes"/>
+      <point x="351" y="598" type="line"/>
+      <point x="603" y="598" type="line"/>
+      <point x="519" y="65" type="line" smooth="yes"/>
+      <point x="512" y="18"/>
+      <point x="532" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

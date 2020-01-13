@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.case" format="2">
+  <anchor x="0" y="705" name="_top"/>
+  <anchor x="0" y="865" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="760" type="curve" smooth="yes"/>
+      <point x="97" y="760"/>
+      <point x="173" y="808"/>
+      <point x="195" y="873" type="curve" smooth="yes"/>
+      <point x="209" y="915"/>
+      <point x="189" y="942"/>
+      <point x="154" y="946" type="curve" smooth="yes"/>
+      <point x="108" y="951"/>
+      <point x="96" y="918"/>
+      <point x="79" y="901" type="curve" smooth="yes"/>
+      <point x="61" y="883"/>
+      <point x="36" y="873"/>
+      <point x="0" y="873" type="curve" smooth="yes"/>
+      <point x="-36" y="873"/>
+      <point x="-62" y="883"/>
+      <point x="-79" y="901" type="curve" smooth="yes"/>
+      <point x="-96" y="918"/>
+      <point x="-108" y="952"/>
+      <point x="-154" y="946" type="curve" smooth="yes"/>
+      <point x="-189" y="942"/>
+      <point x="-212" y="914"/>
+      <point x="-195" y="873" type="curve" smooth="yes"/>
+      <point x="-173" y="808"/>
+      <point x="-97" y="760"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydotbelow" format="2">
+  <advance width="516.0"/>
+  <unicode hex="1EF4"/>
+  <anchor x="259.0" y="-170.0" name="bottom"/>
+  <anchor x="258.5" y="705.0" name="top"/>
+  <anchor x="19.0" y="705.0" name="topleft"/>
+  <outline>
+    <component base="Y"/>
+    <component base="dotbelowcomb" xOffset="259.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

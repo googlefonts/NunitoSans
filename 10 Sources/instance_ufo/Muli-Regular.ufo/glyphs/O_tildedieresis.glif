@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otildedieresis" format="2">
+  <advance width="772.156626506024"/>
+  <unicode hex="1E4E"/>
+  <anchor x="385.578313253012" y="-8.939759036144578" name="Qtail"/>
+  <anchor x="385.578313253012" y="0.0" name="bottom"/>
+  <anchor x="388.9277108433735" y="353.0" name="center"/>
+  <anchor x="447.27710843373495" y="0.0" name="ogonek"/>
+  <anchor x="385.578313253012" y="705.0" name="top"/>
+  <anchor x="25.0" y="705.0" name="topleft"/>
+  <anchor x="461.51807228915663" y="705.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb_dieresiscomb.case" xOffset="385.578313253012"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

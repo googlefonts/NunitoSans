@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bhook" format="2">
+  <advance width="909"/>
+  <unicode hex="0181"/>
+  <outline>
+    <contour>
+      <point x="256" y="0" type="line"/>
+      <point x="623" y="0" type="line" smooth="yes"/>
+      <point x="778" y="0"/>
+      <point x="875" y="79"/>
+      <point x="875" y="202" type="curve" smooth="yes"/>
+      <point x="875" y="294"/>
+      <point x="823" y="355"/>
+      <point x="728" y="375" type="curve"/>
+      <point x="728" y="358" type="line"/>
+      <point x="807" y="379"/>
+      <point x="856" y="441"/>
+      <point x="856" y="523" type="curve" smooth="yes"/>
+      <point x="856" y="633"/>
+      <point x="768" y="705"/>
+      <point x="614" y="705" type="curve" smooth="yes"/>
+      <point x="245" y="705" type="line" smooth="yes"/>
+      <point x="83" y="705"/>
+      <point x="0" y="629"/>
+      <point x="0" y="490" type="curve" smooth="yes"/>
+      <point x="0" y="432" type="line"/>
+      <point x="171" y="432" type="line"/>
+      <point x="171" y="484" type="line" smooth="yes"/>
+      <point x="171" y="539"/>
+      <point x="192" y="561"/>
+      <point x="242" y="561" type="curve" smooth="yes"/>
+      <point x="256" y="561" type="line"/>
+    </contour>
+    <contour>
+      <point x="461" y="156" type="line"/>
+      <point x="461" y="280" type="line"/>
+      <point x="593" y="280" type="line" smooth="yes"/>
+      <point x="649" y="280"/>
+      <point x="672" y="259"/>
+      <point x="672" y="218" type="curve" smooth="yes"/>
+      <point x="672" y="177"/>
+      <point x="649" y="156"/>
+      <point x="593" y="156" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="461" y="436" type="line"/>
+      <point x="461" y="549" type="line"/>
+      <point x="574" y="549" type="line" smooth="yes"/>
+      <point x="630" y="549"/>
+      <point x="652" y="533"/>
+      <point x="652" y="493" type="curve" smooth="yes"/>
+      <point x="652" y="453"/>
+      <point x="630" y="436"/>
+      <point x="574" y="436" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>B</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:09:28</string>
+    </dict>
+  </lib>
+</glyph>

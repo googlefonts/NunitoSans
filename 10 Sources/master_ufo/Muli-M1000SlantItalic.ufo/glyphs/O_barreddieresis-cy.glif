@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obarreddieresis-cy" format="2">
+  <advance width="814"/>
+  <unicode hex="04EA"/>
+  <anchor x="365" y="-12" name="Qtail"/>
+  <anchor x="367" y="0" name="bottom"/>
+  <anchor x="434" y="353" name="center"/>
+  <anchor x="443" y="0" name="ogonek"/>
+  <anchor x="514" y="865" name="top"/>
+  <anchor x="97" y="705" name="topleft"/>
+  <anchor x="546" y="705" name="topright"/>
+  <outline>
+    <component base="Obarred-cy"/>
+    <component base="dieresiscomb.case" xOffset="416"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

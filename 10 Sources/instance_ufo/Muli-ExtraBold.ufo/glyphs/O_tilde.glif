@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otilde" format="2">
+  <advance width="795.4578313253012"/>
+  <unicode hex="00D5"/>
+  <anchor x="397.3855421686747" y="-10.626506024096384" name="Qtail"/>
+  <anchor x="397.3855421686747" y="0.0" name="bottom"/>
+  <anchor x="404.9518072289157" y="353.0" name="center"/>
+  <anchor x="467.2048192771084" y="0.0" name="ogonek"/>
+  <anchor x="397.3855421686747" y="865.0" name="top"/>
+  <anchor x="25.0" y="705.0" name="topleft"/>
+  <anchor x="474.69879518072287" y="705.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb.case" xOffset="397.3855421686747"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

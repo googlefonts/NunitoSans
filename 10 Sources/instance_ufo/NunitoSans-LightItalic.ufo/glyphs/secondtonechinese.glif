@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="secondtonechinese" format="2">
+  <advance width="500.0"/>
+  <unicode hex="02CA"/>
+  <anchor x="288.0" y="484.0" name="_top"/>
+  <anchor x="320.0" y="685.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="274.73493975903614" y="550.144578313253" type="line"/>
+      <point x="321.72289156626505" y="550.144578313253" type="line"/>
+      <point x="467.9036144578313" y="750.8313253012049" type="line"/>
+      <point x="397.65060240963857" y="750.8313253012049" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

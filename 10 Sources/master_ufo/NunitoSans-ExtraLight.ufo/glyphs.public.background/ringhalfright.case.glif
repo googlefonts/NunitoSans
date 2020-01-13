@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfright.case" format="2">
+  <anchor x="250" y="705" name="_top"/>
+  <anchor x="250" y="865" name="top"/>
+  <outline>
+    <contour>
+      <point x="250" y="949" type="curve"/>
+      <point x="250" y="913" type="line"/>
+      <point x="284" y="913"/>
+      <point x="307" y="887"/>
+      <point x="307" y="854" type="curve" smooth="yes"/>
+      <point x="307" y="822"/>
+      <point x="284" y="795"/>
+      <point x="250" y="795" type="curve"/>
+      <point x="250" y="760" type="line"/>
+      <point x="306" y="760"/>
+      <point x="347" y="801"/>
+      <point x="347" y="854" type="curve" smooth="yes"/>
+      <point x="347" y="907"/>
+      <point x="306" y="949"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.oslash" format="2">
+  <advance width="710.0"/>
+  <anchor x="354.5" y="245.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="355.0" y="-10.0" type="curve" smooth="yes"/>
+      <point x="545.5" y="-10.0"/>
+      <point x="660.5" y="93.5"/>
+      <point x="660.5" y="245.0" type="curve" smooth="yes"/>
+      <point x="660.5" y="395.5"/>
+      <point x="545.5" y="499.0"/>
+      <point x="355.0" y="499.0" type="curve" smooth="yes"/>
+      <point x="163.5" y="499.0"/>
+      <point x="49.5" y="395.5"/>
+      <point x="49.5" y="245.0" type="curve" smooth="yes"/>
+      <point x="49.5" y="93.5"/>
+      <point x="163.5" y="-10.0"/>
+    </contour>
+    <contour>
+      <point x="354.5" y="91.0" type="curve" smooth="yes"/>
+      <point x="249.5" y="91.0"/>
+      <point x="188.0" y="147.5"/>
+      <point x="188.0" y="244.5" type="curve" smooth="yes"/>
+      <point x="188.0" y="342.0"/>
+      <point x="250.0" y="398.0"/>
+      <point x="355.0" y="398.0" type="curve" smooth="yes"/>
+      <point x="459.0" y="398.0"/>
+      <point x="522.0" y="342.0"/>
+      <point x="522.0" y="244.5" type="curve" smooth="yes"/>
+      <point x="522.0" y="147.5"/>
+      <point x="458.5" y="91.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:01:52</string>
+    </dict>
+  </lib>
+</glyph>

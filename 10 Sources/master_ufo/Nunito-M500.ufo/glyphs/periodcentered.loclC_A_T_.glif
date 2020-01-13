@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.loclCAT" format="2">
+  <advance width="105"/>
+  <anchor x="53" y="352" name="_dot"/>
+  <outline>
+    <contour>
+      <point x="53" y="278" type="curve" smooth="yes"/>
+      <point x="99" y="278"/>
+      <point x="127" y="309"/>
+      <point x="127" y="352" type="curve" smooth="yes"/>
+      <point x="127" y="396"/>
+      <point x="99" y="426"/>
+      <point x="53" y="426" type="curve" smooth="yes"/>
+      <point x="7" y="426"/>
+      <point x="-22" y="396"/>
+      <point x="-22" y="352" type="curve" smooth="yes"/>
+      <point x="-22" y="309"/>
+      <point x="7" y="278"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/17 11:50:04</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

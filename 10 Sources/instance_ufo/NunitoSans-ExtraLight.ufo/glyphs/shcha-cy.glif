@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shcha-cy" format="2">
+  <advance width="790"/>
+  <unicode hex="0449"/>
+  <outline>
+    <contour>
+      <point x="718" y="-130" type="line"/>
+      <point x="756" y="-130" type="line"/>
+      <point x="756" y="36" type="line"/>
+      <point x="682" y="36" type="line"/>
+      <point x="682" y="484" type="line"/>
+      <point x="640" y="484" type="line"/>
+      <point x="640" y="36" type="line"/>
+      <point x="406" y="36" type="line"/>
+      <point x="406" y="484" type="line"/>
+      <point x="364" y="484" type="line"/>
+      <point x="364" y="36" type="line"/>
+      <point x="130" y="36" type="line"/>
+      <point x="130" y="484" type="line"/>
+      <point x="88" y="484" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="718" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>de-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

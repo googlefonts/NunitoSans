@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevetilde" format="2">
+  <advance width="734.6265060240964"/>
+  <unicode hex="1EB4"/>
+  <anchor x="365.51807228915663" y="0.0" name="bottom"/>
+  <anchor x="697.3373493975904" y="0.0" name="ogonek"/>
+  <anchor x="365.51807228915663" y="705.0" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb_tildecomb.case" xOffset="365.51807228915663"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

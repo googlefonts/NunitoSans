@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zedescender-cy" format="2">
+  <advance width="475"/>
+  <unicode hex="0499"/>
+  <outline>
+    <contour>
+      <point x="99" y="-130" type="line"/>
+      <point x="243" y="-130" type="line"/>
+      <point x="263" y="-5" type="line"/>
+      <point x="361" y="13"/>
+      <point x="427" y="67"/>
+      <point x="439" y="140" type="curve" smooth="yes"/>
+      <point x="450" y="219"/>
+      <point x="402" y="276"/>
+      <point x="309" y="266" type="curve"/>
+      <point x="317" y="245" type="line"/>
+      <point x="391" y="245"/>
+      <point x="446" y="299"/>
+      <point x="456" y="364" type="curve" smooth="yes"/>
+      <point x="471" y="454"/>
+      <point x="402" y="506"/>
+      <point x="273" y="506" type="curve" smooth="yes"/>
+      <point x="193" y="506"/>
+      <point x="109" y="486"/>
+      <point x="59" y="455" type="curve"/>
+      <point x="83" y="337" type="line"/>
+      <point x="128" y="361"/>
+      <point x="179" y="374"/>
+      <point x="226" y="374" type="curve" smooth="yes"/>
+      <point x="269" y="374"/>
+      <point x="287" y="363"/>
+      <point x="284" y="339" type="curve" smooth="yes"/>
+      <point x="281" y="320"/>
+      <point x="263" y="311"/>
+      <point x="227" y="311" type="curve" smooth="yes"/>
+      <point x="136" y="311" type="line"/>
+      <point x="117" y="187" type="line"/>
+      <point x="219" y="187" type="line" smooth="yes"/>
+      <point x="260" y="187"/>
+      <point x="276" y="178"/>
+      <point x="273" y="159" type="curve" smooth="yes"/>
+      <point x="269" y="134"/>
+      <point x="241" y="120"/>
+      <point x="197" y="120" type="curve" smooth="yes"/>
+      <point x="146" y="120"/>
+      <point x="88" y="139"/>
+      <point x="52" y="167" type="curve"/>
+      <point x="0" y="45" type="line"/>
+      <point x="23" y="21"/>
+      <point x="68" y="3"/>
+      <point x="119" y="-6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ze-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:46:42</string>
+    </dict>
+  </lib>
+</glyph>

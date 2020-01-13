@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odotbelow" format="2">
+  <advance width="795.9638554216867"/>
+  <unicode hex="1ECC"/>
+  <anchor x="397.3253012048193" y="-10.626506024096384" name="Qtail"/>
+  <anchor x="397.3253012048193" y="-170.0" name="bottom"/>
+  <anchor x="398.0120481927711" y="353.0" name="center"/>
+  <anchor x="458.578313253012" y="0.0" name="ogonek"/>
+  <anchor x="397.0120481927711" y="705.0" name="top"/>
+  <anchor x="26.0" y="705.0" name="topleft"/>
+  <anchor x="464.7590361445783" y="705.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotbelowcomb" xOffset="397.3253012048193"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

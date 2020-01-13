@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl" format="2">
+  <advance width="892"/>
+  <unicode hex="FB02"/>
+  <anchor x="358" y="0" name="caret_1"/>
+  <anchor x="173" y="0" name="bottom_1"/>
+  <anchor x="685" y="0" name="bottom_2"/>
+  <anchor x="680" y="357" name="center"/>
+  <anchor x="962" y="357" name="dot"/>
+  <anchor x="280" y="705" name="top_1"/>
+  <anchor x="727" y="705" name="top_2"/>
+  <anchor x="889" y="705" name="topright"/>
+  <outline>
+    <component base="f"/>
+    <component base="l" xOffset="481"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 20:42:59</string>
+    </dict>
+  </lib>
+</glyph>

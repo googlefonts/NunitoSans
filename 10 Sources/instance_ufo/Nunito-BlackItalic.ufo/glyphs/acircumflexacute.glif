@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexacute" format="2">
+  <advance width="568.0722891566264"/>
+  <unicode hex="1EA5"/>
+  <anchor x="253.57831325301203" y="-1.0" name="bottom"/>
+  <anchor x="423.13253012048193" y="0.0" name="ogonek"/>
+  <anchor x="316.38554216867476" y="484.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflexcomb_acutecomb" xOffset="315.66265060240966"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

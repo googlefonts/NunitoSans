@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wcircumflex" format="2">
+  <advance width="830"/>
+  <unicode hex="0175"/>
+  <anchor x="415" y="0" name="bottom"/>
+  <anchor x="415" y="685" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="circumflexcomb" xOffset="415"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

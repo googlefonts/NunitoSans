@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresismacron" format="2">
+  <advance width="795.9638554216867"/>
+  <unicode hex="022A"/>
+  <anchor x="397.3253012048193" y="-10.626506024096384" name="Qtail"/>
+  <anchor x="397.3253012048193" y="0.0" name="bottom"/>
+  <anchor x="398.0120481927711" y="353.0" name="center"/>
+  <anchor x="458.578313253012" y="0.0" name="ogonek"/>
+  <anchor x="397.0120481927711" y="705.0" name="top"/>
+  <anchor x="26.0" y="705.0" name="topleft"/>
+  <anchor x="464.7590361445783" y="705.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="dieresiscomb_macroncomb.case" xOffset="397.0120481927711"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

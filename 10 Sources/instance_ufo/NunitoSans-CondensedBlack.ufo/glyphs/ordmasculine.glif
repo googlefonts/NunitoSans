@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="309.6867469879518"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="155.02409638554215" y="408.08433734939763" type="curve" smooth="yes"/>
+      <point x="237.1325301204819" y="408.08433734939763"/>
+      <point x="297.15662650602405" y="458.7228915662651"/>
+      <point x="297.15662650602405" y="562.3614457831326" type="curve" smooth="yes"/>
+      <point x="297.15662650602405" y="665.6385542168675"/>
+      <point x="237.1325301204819" y="716.277108433735"/>
+      <point x="155.02409638554215" y="716.277108433735" type="curve" smooth="yes"/>
+      <point x="72.55421686746988" y="716.277108433735"/>
+      <point x="12.530120481927712" y="665.6385542168675"/>
+      <point x="12.530120481927712" y="562.3614457831326" type="curve" smooth="yes"/>
+      <point x="12.530120481927712" y="458.7228915662651"/>
+      <point x="72.55421686746988" y="408.08433734939763"/>
+    </contour>
+    <contour>
+      <point x="155.02409638554215" y="485.421686746988" type="curve" smooth="yes"/>
+      <point x="130.28234939759037" y="485.421686746988"/>
+      <point x="113.98795180722892" y="501.7590361445783"/>
+      <point x="113.98795180722892" y="562.3614457831326" type="curve" smooth="yes"/>
+      <point x="113.98795180722892" y="622.7831325301205"/>
+      <point x="130.28234939759037" y="639.1204819277109"/>
+      <point x="155.02409638554215" y="639.1204819277109" type="curve" smooth="yes"/>
+      <point x="179.4043975903614" y="639.1204819277109"/>
+      <point x="195.69879518072293" y="622.7831325301205"/>
+      <point x="195.69879518072293" y="562.3614457831326" type="curve" smooth="yes"/>
+      <point x="195.69879518072293" y="501.7590361445784"/>
+      <point x="179.4043975903614" y="485.421686746988"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=o*0.5</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:13:15</string>
+    </dict>
+  </lib>
+</glyph>

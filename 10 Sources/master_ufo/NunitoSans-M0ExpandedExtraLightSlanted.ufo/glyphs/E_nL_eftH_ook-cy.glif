@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="EnLeftHook-cy" format="2">
+  <advance width="928"/>
+  <unicode hex="0528"/>
+  <outline>
+    <contour>
+      <point x="-132" y="-193" type="line"/>
+      <point x="-77" y="-190" type="line" smooth="yes"/>
+      <point x="35" y="-184"/>
+      <point x="107" y="-122"/>
+      <point x="123" y="-19" type="curve" smooth="yes"/>
+      <point x="179" y="337" type="line"/>
+      <point x="779" y="337" type="line"/>
+      <point x="726" y="0" type="line"/>
+      <point x="772" y="0" type="line"/>
+      <point x="884" y="705" type="line"/>
+      <point x="838" y="705" type="line"/>
+      <point x="786" y="379" type="line"/>
+      <point x="186" y="379" type="line"/>
+      <point x="238" y="705" type="line"/>
+      <point x="192" y="705" type="line"/>
+      <point x="77" y="-21" type="line" smooth="yes"/>
+      <point x="64" y="-98"/>
+      <point x="11" y="-144"/>
+      <point x="-77" y="-149" type="curve" smooth="yes"/>
+      <point x="-128" y="-152" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

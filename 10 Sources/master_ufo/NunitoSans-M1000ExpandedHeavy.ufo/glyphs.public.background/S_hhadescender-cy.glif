@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shhadescender-cy" format="2">
+  <outline>
+    <contour>
+      <point x="751" y="-184" type="line"/>
+      <point x="956" y="-184" type="line"/>
+      <point x="956" y="182" type="line"/>
+      <point x="609" y="182" type="line"/>
+      <point x="609" y="0" type="line"/>
+      <point x="751" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="705" type="line"/>
+      <point x="77" y="705" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="315" y="291" type="line"/>
+      <point x="353" y="296"/>
+      <point x="402" y="301"/>
+      <point x="443" y="301" type="curve" smooth="yes"/>
+      <point x="553" y="301"/>
+      <point x="609" y="269"/>
+      <point x="609" y="178" type="curve" smooth="yes"/>
+      <point x="609" y="0" type="line"/>
+      <point x="846" y="0" type="line"/>
+      <point x="846" y="184" type="line" smooth="yes"/>
+      <point x="846" y="397"/>
+      <point x="711" y="496"/>
+      <point x="473" y="496" type="curve" smooth="yes"/>
+      <point x="415" y="496"/>
+      <point x="351" y="489"/>
+      <point x="315" y="483" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

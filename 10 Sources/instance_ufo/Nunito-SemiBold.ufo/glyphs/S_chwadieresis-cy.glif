@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwadieresis-cy" format="2">
+  <advance width="776.0361445783133"/>
+  <unicode hex="04DA"/>
+  <anchor x="386.6385542168675" y="0.0" name="bottom"/>
+  <anchor x="379.10843373493975" y="865.0" name="top"/>
+  <outline>
+    <component base="Schwa-cy"/>
+    <component base="dieresiscomb.case" xOffset="379.10843373493975"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

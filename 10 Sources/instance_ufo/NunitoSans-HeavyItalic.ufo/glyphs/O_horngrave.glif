@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorngrave" format="2">
+  <advance width="820"/>
+  <unicode hex="1EDC"/>
+  <anchor x="387" y="-12" name="Qtail"/>
+  <anchor x="375" y="0" name="bottom"/>
+  <anchor x="426" y="353" name="center"/>
+  <anchor x="454" y="0" name="ogonek"/>
+  <anchor x="491" y="865" name="top"/>
+  <anchor x="98" y="705" name="topleft"/>
+  <anchor x="530" y="705" name="topright"/>
+  <outline>
+    <component base="Ohorn"/>
+    <component base="gravecomb.case" xOffset="465"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two" format="2">
+  <advance width="600"/>
+  <unicode hex="0032"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="513" y="0" type="line"/>
+      <point x="530" y="107" type="line"/>
+      <point x="180" y="107" type="line"/>
+      <point x="180" y="73" type="line"/>
+      <point x="412" y="276" type="line" smooth="yes"/>
+      <point x="501" y="353"/>
+      <point x="554" y="419"/>
+      <point x="567" y="505" type="curve" smooth="yes"/>
+      <point x="587" y="634"/>
+      <point x="509" y="715"/>
+      <point x="349" y="715" type="curve" smooth="yes"/>
+      <point x="259" y="715"/>
+      <point x="161" y="684"/>
+      <point x="96" y="634" type="curve"/>
+      <point x="136" y="538" type="line"/>
+      <point x="200" y="587"/>
+      <point x="263" y="607"/>
+      <point x="330" y="607" type="curve" smooth="yes"/>
+      <point x="408" y="607"/>
+      <point x="449" y="571"/>
+      <point x="438" y="502" type="curve" smooth="yes"/>
+      <point x="429" y="448"/>
+      <point x="397" y="407"/>
+      <point x="331" y="347" type="curve" smooth="yes"/>
+      <point x="53" y="95" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

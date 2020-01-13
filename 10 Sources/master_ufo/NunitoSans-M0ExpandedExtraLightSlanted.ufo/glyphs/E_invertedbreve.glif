@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Einvertedbreve" format="2">
+  <advance width="702"/>
+  <unicode hex="0206"/>
+  <anchor x="357" y="0" name="bottom"/>
+  <anchor x="569" y="0" name="ogonek"/>
+  <anchor x="494" y="865" name="top"/>
+  <anchor x="104" y="705" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="breveinvertedcomb.case" xOffset="395"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

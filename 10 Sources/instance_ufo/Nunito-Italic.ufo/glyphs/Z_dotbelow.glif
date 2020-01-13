@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zdotbelow" format="2">
+  <advance width="589.0963855421687"/>
+  <unicode hex="1E92"/>
+  <anchor x="252.10843373493975" y="-170.0" name="bottom"/>
+  <anchor x="369.1686746987952" y="705.0" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="dotbelowcomb" xOffset="279.10843373493975"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

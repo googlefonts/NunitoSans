@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb_dieresiscomb.case" format="2">
+  <anchor x="0" y="705" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-174" y="806" type="line"/>
+      <point x="174" y="806" type="line"/>
+      <point x="174" y="846" type="line"/>
+      <point x="-174" y="846" type="line"/>
+    </contour>
+    <contour>
+      <point x="-136" y="906" type="line"/>
+      <point x="-64" y="906" type="line"/>
+      <point x="-64" y="968" type="line"/>
+      <point x="-136" y="968" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="906" type="line"/>
+      <point x="136" y="906" type="line"/>
+      <point x="136" y="968" type="line"/>
+      <point x="64" y="968" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdblgrave" format="2">
+  <advance width="493.6024096385542"/>
+  <unicode hex="0211"/>
+  <anchor x="158.95180722891567" y="0.0" name="bottom"/>
+  <anchor x="263.8915662650602" y="696.8795180722892" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="dblgravecomb" xOffset="263.8915662650602"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

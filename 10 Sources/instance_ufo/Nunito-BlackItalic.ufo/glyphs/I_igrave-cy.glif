@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iigrave-cy" format="2">
+  <advance width="757.5783132530121"/>
+  <unicode hex="040D"/>
+  <anchor x="483.62650602409644" y="0.0" name="bottomright"/>
+  <anchor x="473.1927710843374" y="865.0" name="top"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="gravecomb.case" xOffset="447.1927710843374"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

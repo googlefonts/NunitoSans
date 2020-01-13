@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shhadescender-cy" format="2">
+  <advance width="751.6746987951808"/>
+  <unicode hex="0527"/>
+  <anchor x="449.5903614457831" y="0.0" name="bottomright"/>
+  <anchor x="359.49397590361446" y="249.27710843373495" name="center"/>
+  <anchor x="398.5542168674698" y="350.3614457831325" name="dot"/>
+  <anchor x="213.43373493975906" y="605.578313253012" name="stroke"/>
+  <anchor x="342.4096385542169" y="705.0" name="top"/>
+  <anchor x="280.28915662650604" y="705.0" name="topright"/>
+  <outline>
+    <component base="shha-cy"/>
+    <component base="__descender-cy" xOffset="449.5903614457831"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

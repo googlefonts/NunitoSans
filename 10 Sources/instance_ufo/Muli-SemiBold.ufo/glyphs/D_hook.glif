@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dhook" format="2">
+  <advance width="894.0903614457832"/>
+  <unicode hex="018A"/>
+  <outline>
+    <contour>
+      <point x="223.6144578313253" y="0.0" type="line"/>
+      <point x="468.18072289156623" y="0.0" type="line" smooth="yes"/>
+      <point x="704.0" y="0.0"/>
+      <point x="835.6867469879518" y="124.8433734939759"/>
+      <point x="835.6867469879518" y="353.0" type="curve" smooth="yes"/>
+      <point x="835.6867469879518" y="580.8674698795181"/>
+      <point x="704.0" y="705.0"/>
+      <point x="468.18072289156623" y="705.0" type="curve" smooth="yes"/>
+      <point x="195.85542168674698" y="705.0" type="line" smooth="yes"/>
+      <point x="64.66265060240964" y="705.0"/>
+      <point x="-1.0" y="646.4698795180723"/>
+      <point x="-1.0" y="529.6746987951807" type="curve" smooth="yes"/>
+      <point x="-1.0" y="479.69879518072287" type="line"/>
+      <point x="85.9156626506024" y="479.69879518072287" type="line"/>
+      <point x="85.9156626506024" y="526.2530120481928" type="line" smooth="yes"/>
+      <point x="85.9156626506024" y="597.0120481927711"/>
+      <point x="119.51807228915662" y="629.0361445783133"/>
+      <point x="193.14457831325302" y="629.0361445783133" type="curve" smooth="yes"/>
+      <point x="223.6144578313253" y="629.0361445783133" type="line"/>
+    </contour>
+    <contour>
+      <point x="327.4578313253012" y="87.33734939759036" type="line"/>
+      <point x="327.4578313253012" y="618.3734939759036" type="line"/>
+      <point x="460.6265060240964" y="618.3734939759036" type="line" smooth="yes"/>
+      <point x="642.9036144578313" y="618.3734939759036"/>
+      <point x="730.9759036144578" y="531.433734939759"/>
+      <point x="730.9759036144578" y="353.0" type="curve" smooth="yes"/>
+      <point x="730.9759036144578" y="175.27710843373495"/>
+      <point x="642.9036144578313" y="87.33734939759036"/>
+      <point x="460.6265060240964" y="87.33734939759036" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

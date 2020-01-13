@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb.case" format="2">
+  <anchor x="0" y="705" name="_top"/>
+  <outline>
+    <contour>
+      <point x="7" y="768" type="curve" smooth="yes"/>
+      <point x="86" y="768"/>
+      <point x="142" y="817"/>
+      <point x="160" y="900" type="curve" smooth="yes"/>
+      <point x="163" y="914"/>
+      <point x="157" y="922"/>
+      <point x="147" y="923" type="curve" smooth="yes"/>
+      <point x="137" y="924"/>
+      <point x="129" y="919"/>
+      <point x="127" y="907" type="curve" smooth="yes"/>
+      <point x="116" y="840"/>
+      <point x="71" y="804"/>
+      <point x="8" y="804" type="curve" smooth="yes"/>
+      <point x="-55" y="804"/>
+      <point x="-93" y="841"/>
+      <point x="-93" y="905" type="curve" smooth="yes"/>
+      <point x="-93" y="918"/>
+      <point x="-100" y="924"/>
+      <point x="-110" y="923" type="curve" smooth="yes"/>
+      <point x="-121" y="922"/>
+      <point x="-126" y="915"/>
+      <point x="-126" y="904" type="curve" smooth="yes"/>
+      <point x="-126" y="818"/>
+      <point x="-74" y="768"/>
+    </contour>
+    <contour>
+      <point x="21" y="870" type="curve" smooth="yes"/>
+      <point x="128" y="994" type="line" smooth="yes"/>
+      <point x="150" y="1019"/>
+      <point x="115" y="1045"/>
+      <point x="95" y="1018" type="curve" smooth="yes"/>
+      <point x="-2" y="887" type="line" smooth="yes"/>
+      <point x="-16" y="868"/>
+      <point x="7" y="853"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

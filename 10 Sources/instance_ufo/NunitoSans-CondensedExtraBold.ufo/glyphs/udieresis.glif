@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresis" format="2">
+  <advance width="493.0843373493977"/>
+  <unicode hex="00FC"/>
+  <anchor x="246.0421686746988" y="0.0" name="bottom"/>
+  <anchor x="411.8313253012048" y="0.0" name="ogonek"/>
+  <anchor x="246.0421686746988" y="685.6867469879518" name="top"/>
+  <anchor x="346.62650602409644" y="484.0" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="246.0421686746988" yOffset="0.6867469879518073"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

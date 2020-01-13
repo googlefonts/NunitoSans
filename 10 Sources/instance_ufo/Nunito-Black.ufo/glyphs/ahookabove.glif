@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ahookabove" format="2">
+  <advance width="568.0722891566264"/>
+  <unicode hex="1EA3"/>
+  <anchor x="283.3012048192771" y="0.0" name="bottom"/>
+  <anchor x="461.49397590361446" y="0.0" name="ogonek"/>
+  <anchor x="287.9397590361446" y="685.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="hookabovecomb" xOffset="287.9397590361446"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

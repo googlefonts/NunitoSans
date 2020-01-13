@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="890.1265060240963"/>
+  <unicode hex="0041"/>
+  <anchor x="445.12048192771084" y="0.0" name="bottom"/>
+  <anchor x="850.6084337349398" y="0.0" name="ogonek"/>
+  <anchor x="445.23493975903614" y="705.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="31.987951807228914" y="0.0" type="line"/>
+      <point x="104.42168674698794" y="0.0" type="line"/>
+      <point x="214.27710843373492" y="202.3975903614458" type="line"/>
+      <point x="172.18072289156626" y="184.9879518072289" type="line"/>
+      <point x="714.632530120482" y="184.9879518072289" type="line"/>
+      <point x="674.1927710843373" y="202.3975903614458" type="line"/>
+      <point x="784.1626506024096" y="0.0" type="line"/>
+      <point x="858.367469879518" y="0.0" type="line"/>
+      <point x="477.27710843373495" y="705.0" type="line"/>
+      <point x="413.078313253012" y="705.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="443.23493975903614" y="634.7710843373494" type="line"/>
+      <point x="445.23493975903614" y="634.7710843373494" type="line"/>
+      <point x="659.5903614457832" y="229.25903614457832" type="line"/>
+      <point x="688.7650602409639" y="243.09638554216866" type="line"/>
+      <point x="198.04819277108433" y="243.09638554216866" type="line"/>
+      <point x="228.99397590361446" y="229.25903614457832" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:47:00</string>
+    </dict>
+  </lib>
+</glyph>

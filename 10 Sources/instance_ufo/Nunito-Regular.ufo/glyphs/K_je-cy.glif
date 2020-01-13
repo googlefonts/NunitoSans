@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kje-cy" format="2">
+  <advance width="641.0722891566265"/>
+  <unicode hex="040C"/>
+  <anchor x="539.9518072289156" y="0.0" name="bottomright"/>
+  <anchor x="324.3855421686747" y="353.0" name="center"/>
+  <anchor x="326.8072289156627" y="865.0" name="top"/>
+  <anchor x="169.48192771084337" y="705.0" name="topleft"/>
+  <outline>
+    <component base="Ka-cy"/>
+    <component base="acutecomb.case" xOffset="326.8072289156627"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

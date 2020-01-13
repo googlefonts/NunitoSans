@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ebreve" format="2">
+  <outline>
+    <contour>
+      <point x="395" y="760" type="curve" smooth="yes"/>
+      <point x="500" y="760"/>
+      <point x="578" y="823"/>
+      <point x="590" y="927" type="curve"/>
+      <point x="551" y="931" type="line"/>
+      <point x="544" y="846"/>
+      <point x="485" y="798"/>
+      <point x="395" y="798" type="curve" smooth="yes"/>
+      <point x="306" y="798"/>
+      <point x="247" y="846"/>
+      <point x="239" y="931" type="curve"/>
+      <point x="201" y="927" type="line"/>
+      <point x="212" y="823"/>
+      <point x="291" y="760"/>
+    </contour>
+    <contour>
+      <point x="644" y="663" type="line"/>
+      <point x="644" y="705" type="line"/>
+      <point x="118" y="705" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="644" y="0" type="line"/>
+      <point x="644" y="42" type="line"/>
+      <point x="164" y="42" type="line"/>
+      <point x="164" y="336" type="line"/>
+      <point x="619" y="336" type="line"/>
+      <point x="619" y="379" type="line"/>
+      <point x="164" y="379" type="line"/>
+      <point x="164" y="663" type="line"/>
+    </contour>
+  </outline>
+</glyph>

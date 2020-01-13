@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcaron" format="2">
+  <advance width="557.5421686746988"/>
+  <unicode hex="01E9"/>
+  <anchor x="281.144578313253" y="0.0" name="bottom"/>
+  <anchor x="312.4578313253012" y="865.0" name="top"/>
+  <outline>
+    <component base="k"/>
+    <component base="caroncomb.case" xOffset="312.4578313253012"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>k</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>k</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,594 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="200" maximum="1000" default="200">
+      <map input="200" output="42"/>
+      <map input="300" output="61"/>
+      <map input="400" output="81"/>
+      <map input="600" output="101"/>
+      <map input="700" output="125"/>
+      <map input="800" output="151"/>
+      <map input="900" output="178"/>
+      <map input="1000" output="208"/>
+    </axis>
+    <axis tag="slnt" name="Slant" minimum="0" maximum="9" default="0"/>
+  </axes>
+  <sources>
+    <source filename="Muli-ExtraLight.ufo" name="Muli ExtraLight" familyname="Muli" stylename="ExtraLight">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Muli-M500.ufo" name="Muli M500" familyname="Muli" stylename="M500">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Muli-M1000.ufo" name="Muli M1000" familyname="Muli" stylename="M1000">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Muli-M0SlantItalic.ufo" name="Muli M0 Slant Italic" familyname="Muli" stylename="M0 Slant Italic">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+    </source>
+    <source filename="Muli-M500SlantItalic.ufo" name="Muli M500 Slant Italic" familyname="Muli" stylename="M500 Slant Italic">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+    </source>
+    <source filename="Muli-M1000SlantItalic.ufo" name="Muli M1000 Slant Italic" familyname="Muli" stylename="M1000 Slant Italic">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Muli ExtraLight" familyname="Muli" stylename="ExtraLight" filename="../instance_ufo/Muli-ExtraLight.ufo" stylemapfamilyname="Muli ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>200</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli Light" familyname="Muli" stylename="Light" filename="../instance_ufo/Muli-Light.ufo" stylemapfamilyname="Muli Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="61"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>300</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli Regular" familyname="Muli" stylename="Regular" filename="../instance_ufo/Muli-Regular.ufo" stylemapfamilyname="Muli" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="81"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>400</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli SemiBold" familyname="Muli" stylename="SemiBold" filename="../instance_ufo/Muli-SemiBold.ufo" stylemapfamilyname="Muli SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>600</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli Bold" familyname="Muli" stylename="Bold" filename="../instance_ufo/Muli-Bold.ufo" stylemapfamilyname="Muli Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>700</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli ExtraBold" familyname="Muli" stylename="ExtraBold" filename="../instance_ufo/Muli-ExtraBold.ufo" stylemapfamilyname="Muli ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="151"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>800</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli Black" familyname="Muli" stylename="Black" filename="../instance_ufo/Muli-Black.ufo" stylemapfamilyname="Muli Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>900</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli Heavy" familyname="Muli" stylename="Heavy" filename="../instance_ufo/Muli-Heavy.ufo" stylemapfamilyname="Muli Heavy" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>1000</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli ExtraLight Italic" familyname="Muli" stylename="ExtraLight Italic" filename="../instance_ufo/Muli-ExtraLightItalic.ufo" stylemapfamilyname="Muli ExtraLight Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>200</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli Light Italic" familyname="Muli" stylename="Light Italic" filename="../instance_ufo/Muli-LightItalic.ufo" stylemapfamilyname="Muli Light Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="61"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>300</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli Italic" familyname="Muli" stylename="Italic" filename="../instance_ufo/Muli-Italic.ufo" stylemapfamilyname="Muli Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="81"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>400</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli SemiBold Italic" familyname="Muli" stylename="SemiBold Italic" filename="../instance_ufo/Muli-SemiBoldItalic.ufo" stylemapfamilyname="Muli SemiBold Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>600</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli Bold Italic" familyname="Muli" stylename="Bold Italic" filename="../instance_ufo/Muli-BoldItalic.ufo" stylemapfamilyname="Muli Bold Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>700</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli ExtraBold Italic" familyname="Muli" stylename="ExtraBold Italic" filename="../instance_ufo/Muli-ExtraBoldItalic.ufo" stylemapfamilyname="Muli ExtraBold Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="151"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>800</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli Black Italic" familyname="Muli" stylename="Black Italic" filename="../instance_ufo/Muli-BlackItalic.ufo" stylemapfamilyname="Muli Black Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>900</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Muli Heavy Italic" familyname="Muli" stylename="Heavy Italic" filename="../instance_ufo/Muli-HeavyItalic.ufo" stylemapfamilyname="Muli Heavy Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>1000</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>__Kabashkir-cy</string>
+        <string>__Zedescener-cy</string>
+        <string>__Zedescener-cy.case</string>
+        <string>__bar.Obarred-cy</string>
+        <string>__descender-cy</string>
+        <string>__descender-cy.case</string>
+        <string>__descender-cy.case.cy</string>
+        <string>__descender-cy.case.mirror</string>
+        <string>__descender-cy.che</string>
+        <string>__descender-cy.cy</string>
+        <string>__strokehook-cy</string>
+        <string>__tail-cy</string>
+        <string>__tail-cy.case</string>
+        <string>_part.Qtail</string>
+        <string>_part.oslash</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

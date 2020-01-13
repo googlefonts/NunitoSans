@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lje-cy" format="2">
+  <advance width="1172"/>
+  <unicode hex="0409"/>
+  <outline>
+    <contour>
+      <point x="83" y="-20" type="line"/>
+      <point x="236" y="52"/>
+      <point x="349" y="176"/>
+      <point x="386" y="411" type="curve" smooth="yes"/>
+      <point x="405" y="533" type="line"/>
+      <point x="563" y="533" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="854" y="0" type="line" smooth="yes"/>
+      <point x="1013" y="0"/>
+      <point x="1121" y="60"/>
+      <point x="1143" y="198" type="curve" smooth="yes"/>
+      <point x="1169" y="361"/>
+      <point x="1075" y="441"/>
+      <point x="904" y="441" type="curve" smooth="yes"/>
+      <point x="762" y="441" type="line"/>
+      <point x="804" y="705" type="line"/>
+      <point x="236" y="705" type="line"/>
+      <point x="196" y="454" type="line" smooth="yes"/>
+      <point x="167" y="275"/>
+      <point x="113" y="197"/>
+      <point x="-21" y="130" type="curve"/>
+    </contour>
+    <contour>
+      <point x="717" y="159" type="line"/>
+      <point x="737" y="282" type="line"/>
+      <point x="869" y="282" type="line" smooth="yes"/>
+      <point x="930" y="282"/>
+      <point x="950" y="262"/>
+      <point x="943" y="218" type="curve" smooth="yes"/>
+      <point x="937" y="179"/>
+      <point x="910" y="159"/>
+      <point x="849" y="159" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>El-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

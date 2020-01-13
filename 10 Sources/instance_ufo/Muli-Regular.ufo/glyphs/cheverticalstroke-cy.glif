@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheverticalstroke-cy" format="2">
+  <advance width="578.3012048192771"/>
+  <unicode hex="04B9"/>
+  <outline>
+    <contour>
+      <point x="417.7590361445783" y="0.0" type="line"/>
+      <point x="498.28915662650604" y="0.0" type="line"/>
+      <point x="498.28915662650604" y="502.34939759036143" type="line"/>
+      <point x="417.7590361445783" y="502.34939759036143" type="line"/>
+      <point x="417.7590361445783" y="270.3975903614458" type="line"/>
+      <point x="378.86746987951807" y="246.03614457831324"/>
+      <point x="339.56626506024094" y="236.3855421686747"/>
+      <point x="295.0240963855422" y="235.85542168674698" type="curve"/>
+      <point x="310.7831325301205" y="225.50602409638554" type="line"/>
+      <point x="310.7831325301205" y="365.6265060240964" type="line"/>
+      <point x="256.4578313253012" y="365.6265060240964" type="line"/>
+      <point x="256.4578313253012" y="225.50602409638554" type="line"/>
+      <point x="275.56626506024094" y="236.32530120481928" type="line"/>
+      <point x="185.3132530120482" y="237.73493975903614"/>
+      <point x="140.0120481927711" y="278.1566265060241"/>
+      <point x="140.0120481927711" y="373.8192771084337" type="curve" smooth="yes"/>
+      <point x="140.0120481927711" y="502.34939759036143" type="line"/>
+      <point x="59.48192771084337" y="502.34939759036143" type="line"/>
+      <point x="59.48192771084337" y="369.06024096385545" type="line" smooth="yes"/>
+      <point x="59.48192771084337" y="236.36144578313252"/>
+      <point x="129.0" y="169.6024096385542"/>
+      <point x="276.2168674698795" y="169.6024096385542" type="curve"/>
+      <point x="256.4578313253012" y="185.3012048192771" type="line"/>
+      <point x="256.4578313253012" y="68.7710843373494" type="line"/>
+      <point x="310.7831325301205" y="68.7710843373494" type="line"/>
+      <point x="310.7831325301205" y="185.3012048192771" type="line"/>
+      <point x="296.67469879518075" y="170.0722891566265" type="line"/>
+      <point x="336.6265060240964" y="171.0722891566265"/>
+      <point x="381.51807228915663" y="183.19277108433735"/>
+      <point x="417.7590361445783" y="204.02409638554218" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

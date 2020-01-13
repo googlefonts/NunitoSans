@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecaron" format="2">
+  <advance width="588.1084337349398"/>
+  <unicode hex="011A"/>
+  <anchor x="287.69879518072287" y="0.0" name="bottom"/>
+  <anchor x="464.6385542168675" y="0.0" name="ogonek"/>
+  <anchor x="424.69879518072287" y="865.0" name="top"/>
+  <anchor x="95.12048192771084" y="705.0" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="caroncomb.case" xOffset="318.7590361445783"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rinvertedbreve" format="2">
+  <advance width="661.3253012048193"/>
+  <unicode hex="0212"/>
+  <anchor x="337.43373493975906" y="0.0" name="bottom"/>
+  <anchor x="337.2048192771084" y="865.0" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="breveinvertedcomb.case" xOffset="337.2048192771084"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Esdescender-cy" format="2">
+  <advance width="676.2409638554217"/>
+  <unicode hex="04AA"/>
+  <anchor x="389.50602409638554" y="0.0" name="bottom"/>
+  <anchor x="389.10843373493975" y="705.0" name="top"/>
+  <outline>
+    <component base="Es-cy"/>
+    <component base="__Zedescener-cy.case" xOffset="179.0843373493976"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

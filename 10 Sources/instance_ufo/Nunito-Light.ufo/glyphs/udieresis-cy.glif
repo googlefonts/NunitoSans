@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresis-cy" format="2">
+  <advance width="516.8674698795181"/>
+  <unicode hex="04F1"/>
+  <anchor x="383.8433734939759" y="0.0" name="bottom"/>
+  <anchor x="258.66265060240966" y="685.0" name="top"/>
+  <outline>
+    <component base="u-cy"/>
+    <component base="dieresiscomb" xOffset="258.66265060240966"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

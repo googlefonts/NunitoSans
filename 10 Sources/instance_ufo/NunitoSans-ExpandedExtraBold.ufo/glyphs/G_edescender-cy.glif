@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gedescender-cy" format="2">
+  <advance width="698.9036144578313"/>
+  <unicode hex="04F6"/>
+  <anchor x="100.5843373493976" y="0.0" name="bottomright"/>
+  <anchor x="202.66867469879517" y="357.5963855421687" name="stroke"/>
+  <anchor x="348.53614457831327" y="705.0" name="top"/>
+  <outline>
+    <component base="Ge-cy" xOffset="0.34337349397590367"/>
+    <component base="__descender-cy.case" xOffset="102.61445783132531"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ge-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

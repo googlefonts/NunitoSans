@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sdotaccent" format="2">
+  <advance width="607.0963855421687"/>
+  <unicode hex="1E60"/>
+  <anchor x="312.9759036144578" y="0.0" name="bottom"/>
+  <anchor x="308.8072289156627" y="865.0" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="dotaccentcomb.case" xOffset="308.8072289156627"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

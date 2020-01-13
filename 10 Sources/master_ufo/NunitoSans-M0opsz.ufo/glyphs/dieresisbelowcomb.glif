@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb" format="2">
+  <unicode hex="0324"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="0" y="-170" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="58" y="-174" type="line"/>
+      <point x="126" y="-174" type="line"/>
+      <point x="126" y="-107" type="line"/>
+      <point x="58" y="-107" type="line"/>
+    </contour>
+    <contour>
+      <point x="-126" y="-174" type="line"/>
+      <point x="-58" y="-174" type="line"/>
+      <point x="-58" y="-107" type="line"/>
+      <point x="-126" y="-107" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

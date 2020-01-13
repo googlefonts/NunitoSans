@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="1314.5"/>
+  <unicode hex="0152"/>
+  <anchor x="748.0" y="0.0" name="bottom"/>
+  <anchor x="748.0" y="705.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="526.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="1254.0" y="0.0" type="line"/>
+      <point x="1254.0" y="111.0" type="line"/>
+      <point x="817.5" y="111.0" type="line"/>
+      <point x="817.5" y="303.0" type="line"/>
+      <point x="1226.5" y="303.0" type="line"/>
+      <point x="1226.5" y="414.0" type="line"/>
+      <point x="817.5" y="414.0" type="line"/>
+      <point x="817.5" y="594.0" type="line"/>
+      <point x="1254.0" y="594.0" type="line"/>
+      <point x="1254.0" y="705.0" type="line"/>
+      <point x="526.0" y="705.0" type="line" smooth="yes"/>
+      <point x="235.0" y="705.0"/>
+      <point x="68.0" y="583.0"/>
+      <point x="68.0" y="352.0" type="curve" smooth="yes"/>
+      <point x="68.0" y="122.5"/>
+      <point x="235.0" y="0.0"/>
+    </contour>
+    <contour>
+      <point x="535.5" y="116.5" type="line" smooth="yes"/>
+      <point x="325.5" y="116.5"/>
+      <point x="219.5" y="188.5"/>
+      <point x="219.5" y="352.0" type="curve" smooth="yes"/>
+      <point x="219.5" y="516.0"/>
+      <point x="326.0" y="588.5"/>
+      <point x="535.5" y="588.5" type="curve" smooth="yes"/>
+      <point x="677.5" y="588.5" type="line"/>
+      <point x="677.5" y="116.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:50:27</string>
+    </dict>
+  </lib>
+</glyph>

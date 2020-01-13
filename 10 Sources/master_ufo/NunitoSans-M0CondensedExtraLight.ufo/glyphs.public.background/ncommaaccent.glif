@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncommaaccent" format="2">
+  <outline>
+    <contour>
+      <point x="261" y="-87" type="line"/>
+      <point x="201" y="-87" type="line"/>
+      <point x="201" y="-149" type="line"/>
+      <point x="244" y="-149" type="line"/>
+      <point x="231" y="-143" type="line"/>
+      <point x="231" y="-176"/>
+      <point x="225" y="-203"/>
+      <point x="200" y="-239" type="curve"/>
+      <point x="222" y="-258" type="line"/>
+      <point x="248" y="-226"/>
+      <point x="261" y="-184"/>
+      <point x="261" y="-140" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="249" y="492" type="curve" smooth="yes"/>
+      <point x="181" y="492"/>
+      <point x="123" y="449"/>
+      <point x="102" y="364" type="curve"/>
+      <point x="111" y="364" type="line"/>
+      <point x="111" y="484" type="line"/>
+      <point x="74" y="484" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="278" type="line" smooth="yes"/>
+      <point x="112" y="386"/>
+      <point x="165" y="457"/>
+      <point x="247" y="457" type="curve" smooth="yes"/>
+      <point x="320" y="457"/>
+      <point x="351" y="409"/>
+      <point x="351" y="305" type="curve" smooth="yes"/>
+      <point x="351" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="389" y="309" type="line" smooth="yes"/>
+      <point x="389" y="432"/>
+      <point x="343" y="492"/>
+    </contour>
+  </outline>
+</glyph>

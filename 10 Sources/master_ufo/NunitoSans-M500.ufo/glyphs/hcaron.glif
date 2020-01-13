@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcaron" format="2">
+  <advance width="585"/>
+  <unicode hex="021F"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="294" y="248" name="center"/>
+  <anchor x="303" y="352" name="dot"/>
+  <anchor x="178" y="588" name="stroke"/>
+  <anchor x="294" y="865" name="top"/>
+  <anchor x="220" y="705" name="topright"/>
+  <outline>
+    <component base="h"/>
+    <component base="caroncomb.case" xOffset="294"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

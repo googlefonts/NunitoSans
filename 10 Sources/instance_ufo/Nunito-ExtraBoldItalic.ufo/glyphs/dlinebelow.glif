@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dlinebelow" format="2">
+  <advance width="610.0240963855422"/>
+  <unicode hex="1E0F"/>
+  <anchor x="246.32530120481928" y="-170.0" name="bottom"/>
+  <anchor x="299.50602409638554" y="246.3132530120482" name="center"/>
+  <anchor x="481.4457831325301" y="590.1927710843373" name="stroke"/>
+  <anchor x="368.710843373494" y="629.4578313253012" name="top"/>
+  <anchor x="662.156626506024" y="705.0" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="macronbelowcomb" xOffset="273.32530120481925"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

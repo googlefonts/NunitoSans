@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohm" format="2">
+  <advance width="600"/>
+  <unicode hex="2126"/>
+  <outline>
+    <contour>
+      <point x="15" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="267" y="166" type="line"/>
+      <point x="231" y="212"/>
+      <point x="227" y="296"/>
+      <point x="227" y="382" type="curve" smooth="yes"/>
+      <point x="227" y="509"/>
+      <point x="256" y="548"/>
+      <point x="300" y="548" type="curve" smooth="yes"/>
+      <point x="344" y="548"/>
+      <point x="373" y="509"/>
+      <point x="373" y="382" type="curve" smooth="yes"/>
+      <point x="373" y="296"/>
+      <point x="369" y="212"/>
+      <point x="333" y="166" type="curve"/>
+      <point x="333" y="0" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="585" y="170" type="line"/>
+      <point x="481" y="170" type="line"/>
+      <point x="481" y="178" type="line"/>
+      <point x="541" y="229"/>
+      <point x="576" y="321"/>
+      <point x="576" y="412" type="curve" smooth="yes"/>
+      <point x="576" y="601"/>
+      <point x="478" y="717"/>
+      <point x="300" y="717" type="curve" smooth="yes"/>
+      <point x="122" y="717"/>
+      <point x="24" y="601"/>
+      <point x="24" y="412" type="curve" smooth="yes"/>
+      <point x="24" y="321"/>
+      <point x="59" y="229"/>
+      <point x="119" y="178" type="curve"/>
+      <point x="119" y="170" type="line"/>
+      <point x="15" y="170" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 18:32:00</string>
+    </dict>
+  </lib>
+</glyph>

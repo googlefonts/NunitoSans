@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ze-cy" format="2">
+  <advance width="530"/>
+  <unicode hex="0437"/>
+  <anchor x="226" y="0" name="bottom"/>
+  <anchor x="298" y="489" name="top"/>
+  <outline>
+    <contour>
+      <point x="223" y="-10" type="curve" smooth="yes"/>
+      <point x="375" y="-10"/>
+      <point x="459" y="49"/>
+      <point x="473" y="136" type="curve" smooth="yes"/>
+      <point x="485" y="209"/>
+      <point x="442" y="260"/>
+      <point x="360" y="265" type="curve"/>
+      <point x="358" y="251" type="line"/>
+      <point x="430" y="262"/>
+      <point x="482" y="309"/>
+      <point x="492" y="369" type="curve" smooth="yes"/>
+      <point x="507" y="461"/>
+      <point x="438" y="515"/>
+      <point x="299" y="515" type="curve" smooth="yes"/>
+      <point x="205" y="515"/>
+      <point x="122" y="495"/>
+      <point x="60" y="458" type="curve"/>
+      <point x="90" y="380" type="line"/>
+      <point x="144" y="410"/>
+      <point x="204" y="427"/>
+      <point x="274" y="427" type="curve" smooth="yes"/>
+      <point x="355" y="427"/>
+      <point x="384" y="401"/>
+      <point x="377" y="360" type="curve" smooth="yes"/>
+      <point x="371" y="321"/>
+      <point x="336" y="299"/>
+      <point x="283" y="299" type="curve" smooth="yes"/>
+      <point x="163" y="299" type="line"/>
+      <point x="150" y="213" type="line"/>
+      <point x="281" y="213" type="line" smooth="yes"/>
+      <point x="341" y="213"/>
+      <point x="369" y="190"/>
+      <point x="361" y="148" type="curve" smooth="yes"/>
+      <point x="354" y="102"/>
+      <point x="313" y="79"/>
+      <point x="229" y="79" type="curve" smooth="yes"/>
+      <point x="159" y="79"/>
+      <point x="91" y="98"/>
+      <point x="48" y="134" type="curve"/>
+      <point x="8" y="52" type="line"/>
+      <point x="55" y="12"/>
+      <point x="135" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ve-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorngrave" format="2">
+  <advance width="615.0722891566265"/>
+  <unicode hex="1EEA"/>
+  <anchor x="308.1927710843373" y="0.0" name="bottom"/>
+  <anchor x="355.16265060240966" y="0.0" name="ogonek"/>
+  <anchor x="308.1927710843373" y="865.0" name="top"/>
+  <anchor x="461.644578313253" y="705.0" name="topright"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="gravecomb.case" xOffset="308.1927710843373"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

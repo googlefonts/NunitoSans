@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevetilde" format="2">
+  <advance width="521.5542168674699"/>
+  <unicode hex="1EB5"/>
+  <anchor x="231.66265060240963" y="-0.2289156626506024" name="bottom"/>
+  <anchor x="396.34939759036143" y="0.0" name="ogonek"/>
+  <anchor x="302.289156626506" y="484.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb_tildecomb" xOffset="302.289156626506"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ka-cy" format="2">
+  <advance width="730.2289156626506"/>
+  <unicode hex="041A"/>
+  <anchor x="536.7831325301205" y="0.0" name="bottomright"/>
+  <anchor x="373.6265060240964" y="353.0" name="center"/>
+  <anchor x="360.04819277108436" y="705.0" name="top"/>
+  <anchor x="247.7831325301205" y="705.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="65.2289156626506" y="0.0" type="line"/>
+      <point x="247.7831325301205" y="0.0" type="line"/>
+      <point x="247.7831325301205" y="274.45783132530124" type="line"/>
+      <point x="319.6024096385542" y="274.45783132530124" type="line" smooth="yes"/>
+      <point x="382.30120481927713" y="274.45783132530124"/>
+      <point x="417.27710843373495" y="253.20481927710844"/>
+      <point x="443.6144578313253" y="197.89156626506022" type="curve" smooth="yes"/>
+      <point x="536.1445783132531" y="0.0" type="line"/>
+      <point x="734.5301204819277" y="0.0" type="line"/>
+      <point x="606.3373493975904" y="258.0240963855422" type="line" smooth="yes"/>
+      <point x="560.0602409638554" y="349.2168674698795"/>
+      <point x="500.78313253012044" y="397.855421686747"/>
+      <point x="403.12048192771084" y="415.3253012048193" type="curve"/>
+      <point x="475.7469879518072" y="367.1927710843374" type="line"/>
+      <point x="698.8072289156627" y="705.0" type="line"/>
+      <point x="498.6987951807229" y="705.0" type="line"/>
+      <point x="311.7710843373494" y="403.96385542168673" type="line"/>
+      <point x="339.68674698795184" y="422.2409638554217" type="line"/>
+      <point x="247.7831325301205" y="422.2409638554217" type="line"/>
+      <point x="247.7831325301205" y="705.0" type="line"/>
+      <point x="65.2289156626506" y="705.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhungarumlaut" format="2">
+  <advance width="702"/>
+  <unicode hex="0171"/>
+  <anchor x="350" y="0" name="bottom"/>
+  <anchor x="573" y="0" name="ogonek"/>
+  <anchor x="351" y="701" name="top"/>
+  <anchor x="503" y="484" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="hungarumlautcomb" xOffset="351"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

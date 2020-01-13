@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotbelow" format="2">
+  <advance width="624"/>
+  <unicode hex="1EB8"/>
+  <anchor x="273" y="-170" name="bottom"/>
+  <anchor x="462" y="0" name="ogonek"/>
+  <anchor x="405" y="705" name="top"/>
+  <anchor x="90" y="705" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="dotbelowcomb" xOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="600"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="81" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="165" y="265" type="line"/>
+      <point x="292" y="265" type="line" smooth="yes"/>
+      <point x="444" y="265"/>
+      <point x="535" y="343"/>
+      <point x="546" y="476" type="curve"/>
+      <point x="527" y="467" type="line"/>
+      <point x="626" y="467" type="line"/>
+      <point x="632" y="503" type="line"/>
+      <point x="533" y="503" type="line"/>
+      <point x="547" y="498" type="line"/>
+      <point x="548" y="638"/>
+      <point x="476" y="705"/>
+      <point x="331" y="705" type="curve" smooth="yes"/>
+      <point x="193" y="705" type="line"/>
+      <point x="161" y="503" type="line"/>
+      <point x="60" y="503" type="line"/>
+      <point x="54" y="467" type="line"/>
+      <point x="155" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="304" type="line"/>
+      <point x="229" y="666" type="line"/>
+      <point x="333" y="666" type="line" smooth="yes"/>
+      <point x="444" y="666"/>
+      <point x="503" y="621"/>
+      <point x="503" y="504" type="curve" smooth="yes"/>
+      <point x="503" y="368"/>
+      <point x="428" y="304"/>
+      <point x="296" y="304" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 18:29:55</string>
+    </dict>
+  </lib>
+</glyph>

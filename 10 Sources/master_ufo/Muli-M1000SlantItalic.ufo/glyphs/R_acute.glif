@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Racute" format="2">
+  <advance width="720"/>
+  <unicode hex="0154"/>
+  <anchor x="331" y="0" name="bottom"/>
+  <anchor x="468" y="865" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="acutecomb.case" xOffset="371"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

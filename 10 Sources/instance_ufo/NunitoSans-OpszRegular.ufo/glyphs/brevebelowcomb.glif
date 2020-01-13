@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb" format="2">
+  <unicode hex="032E"/>
+  <anchor x="0.0" y="0.0" name="_bottom"/>
+  <anchor x="0.0" y="-170.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="-215.0" type="curve" smooth="yes"/>
+      <point x="97.56626506024095" y="-215.0"/>
+      <point x="159.73493975903617" y="-157.3012048192771"/>
+      <point x="164.855421686747" y="-61.42168674698795" type="curve"/>
+      <point x="101.83132530120483" y="-55.01204819277109" type="line"/>
+      <point x="96.36144578313254" y="-117.02409638554217"/>
+      <point x="61.65060240963856" y="-149.3855421686747"/>
+      <point x="0.0" y="-149.3855421686747" type="curve" smooth="yes"/>
+      <point x="-62.18072289156627" y="-149.3855421686747"/>
+      <point x="-96.36144578313254" y="-117.02409638554217"/>
+      <point x="-101.83132530120483" y="-55.01204819277109" type="curve"/>
+      <point x="-164.855421686747" y="-61.42168674698795" type="line"/>
+      <point x="-159.73493975903614" y="-158.83132530120483"/>
+      <point x="-96.56626506024097" y="-215.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

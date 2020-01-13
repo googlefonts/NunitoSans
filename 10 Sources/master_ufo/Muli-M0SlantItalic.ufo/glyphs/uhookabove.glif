@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhookabove" format="2">
+  <advance width="561"/>
+  <unicode hex="1EE7"/>
+  <anchor x="241" y="0" name="bottom"/>
+  <anchor x="433" y="0" name="ogonek"/>
+  <anchor x="350" y="686" name="top"/>
+  <anchor x="470" y="500" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="hookabovecomb" xOffset="264" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

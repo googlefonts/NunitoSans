@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rcaron" format="2">
+  <advance width="376.51807228915663"/>
+  <unicode hex="0159"/>
+  <anchor x="123.34939759036145" y="0.0" name="bottom"/>
+  <anchor x="230.03614457831324" y="685.0" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="caroncomb" xOffset="230.03614457831324"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

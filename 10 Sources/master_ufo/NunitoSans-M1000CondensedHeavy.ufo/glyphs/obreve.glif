@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obreve" format="2">
+  <advance width="518"/>
+  <unicode hex="014F"/>
+  <anchor x="259" y="0" name="bottom"/>
+  <anchor x="259" y="246" name="center"/>
+  <anchor x="303" y="0" name="ogonek"/>
+  <anchor x="259" y="685" name="top"/>
+  <anchor x="320" y="484" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="brevecomb" xOffset="259"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

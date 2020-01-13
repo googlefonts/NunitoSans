@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance width="748"/>
+  <unicode hex="20B5"/>
+  <outline>
+    <contour>
+      <point x="361" y="-115" type="line"/>
+      <point x="407" y="-115" type="line"/>
+      <point x="427" y="12" type="line"/>
+      <point x="408" y="-4" type="line"/>
+      <point x="518" y="-2"/>
+      <point x="610" y="30"/>
+      <point x="682" y="89" type="curve"/>
+      <point x="656" y="127" type="line"/>
+      <point x="579" y="67"/>
+      <point x="502" y="40"/>
+      <point x="407" y="40" type="curve" smooth="yes"/>
+      <point x="216" y="40"/>
+      <point x="126" y="153"/>
+      <point x="158" y="351" type="curve" smooth="yes"/>
+      <point x="189" y="550"/>
+      <point x="317" y="665"/>
+      <point x="506" y="665" type="curve" smooth="yes"/>
+      <point x="601" y="665"/>
+      <point x="669" y="638"/>
+      <point x="728" y="578" type="curve"/>
+      <point x="756" y="616" type="line"/>
+      <point x="702" y="675"/>
+      <point x="621" y="707"/>
+      <point x="523" y="709" type="curve"/>
+      <point x="535" y="692" type="line"/>
+      <point x="555" y="820" type="line"/>
+      <point x="509" y="820" type="line"/>
+      <point x="489" y="693" type="line"/>
+      <point x="505" y="709" type="line"/>
+      <point x="292" y="705"/>
+      <point x="146" y="582"/>
+      <point x="111" y="362" type="curve" smooth="yes"/>
+      <point x="76" y="142"/>
+      <point x="179" y="0"/>
+      <point x="390" y="-4" type="curve"/>
+      <point x="381" y="12" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 18:24:53</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="0.0" y="484.0" name="_top"/>
+  <anchor x="31.36144578313253" y="685.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-99.63855421686748" y="605.1445783132531" type="curve" smooth="yes"/>
+      <point x="146.72289156626505" y="605.1445783132531" type="line" smooth="yes"/>
+      <point x="183.02409638554218" y="605.1445783132531"/>
+      <point x="205.1325301204819" y="627.8915662650602"/>
+      <point x="205.1325301204819" y="661.55421686747" type="curve" smooth="yes"/>
+      <point x="205.1325301204819" y="687.3012048192771"/>
+      <point x="186.30120481927713" y="702.132530120482"/>
+      <point x="153.0" y="702.132530120482" type="curve" smooth="yes"/>
+      <point x="-93.36144578313252" y="702.132530120482" type="line" smooth="yes"/>
+      <point x="-129.66265060240966" y="702.132530120482"/>
+      <point x="-151.7710843373494" y="679.3855421686746"/>
+      <point x="-151.7710843373494" y="645.722891566265" type="curve" smooth="yes"/>
+      <point x="-151.7710843373494" y="620.3373493975903"/>
+      <point x="-132.93975903614458" y="605.1445783132531"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

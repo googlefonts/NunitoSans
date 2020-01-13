@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <anchor x="0" y="705" name="_top"/>
+  <anchor x="0" y="865" name="top"/>
+  <outline>
+    <contour>
+      <point x="-133" y="752" type="line"/>
+      <point x="-129" y="788"/>
+      <point x="-120" y="805"/>
+      <point x="-82" y="805" type="curve" smooth="yes"/>
+      <point x="-60" y="805"/>
+      <point x="-36" y="795"/>
+      <point x="-9" y="785" type="curve" smooth="yes"/>
+      <point x="24" y="772"/>
+      <point x="60" y="758"/>
+      <point x="99" y="758" type="curve" smooth="yes"/>
+      <point x="188" y="758"/>
+      <point x="239" y="820"/>
+      <point x="245" y="933" type="curve"/>
+      <point x="133" y="939" type="line"/>
+      <point x="129" y="903"/>
+      <point x="120" y="886"/>
+      <point x="82" y="886" type="curve" smooth="yes"/>
+      <point x="60" y="886"/>
+      <point x="36" y="896"/>
+      <point x="9" y="906" type="curve" smooth="yes"/>
+      <point x="-24" y="919"/>
+      <point x="-60" y="933"/>
+      <point x="-99" y="933" type="curve" smooth="yes"/>
+      <point x="-188" y="933"/>
+      <point x="-239" y="871"/>
+      <point x="-245" y="758" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreve.ss01" format="2">
+  <advance width="665.566265060241"/>
+  <anchor x="301.0" y="0.0" name="bottom"/>
+  <anchor x="554.9879518072289" y="0.0" name="ogonek"/>
+  <anchor x="310.86746987951807" y="696.4096385542168" name="top"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="brevecomb" xOffset="310.86746987951807"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ymacron" format="2">
+  <advance width="606.7349397590361"/>
+  <unicode hex="0232"/>
+  <anchor x="264.33734939759034" y="0.0" name="bottom"/>
+  <anchor x="400.86746987951807" y="865.0" name="top"/>
+  <anchor x="90.06024096385542" y="705.0" name="topleft"/>
+  <outline>
+    <component base="Y"/>
+    <component base="macroncomb.case" xOffset="304.3975903614458"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

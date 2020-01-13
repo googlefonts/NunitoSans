@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yhook" format="2">
+  <advance width="604.7583430120482"/>
+  <unicode hex="01B4"/>
+  <outline>
+    <contour>
+      <point x="362.15662650602405" y="364.7228915662651" type="curve" smooth="yes"/>
+      <point x="294.13253012048193" y="166.74698795180723" type="line"/>
+      <point x="286.81927710843377" y="166.74698795180723" type="line"/>
+      <point x="170.9156626506024" y="505.81927710843377" type="line"/>
+      <point x="-4.277108433734935" y="505.81927710843377" type="line"/>
+      <point x="232.7831325301205" y="-58.36144578313253" type="line"/>
+      <point x="232.7831325301205" y="47.36144578313254" type="line"/>
+      <point x="128.03614457831327" y="-180.0" type="line"/>
+      <point x="298.9759036144579" y="-180.0" type="line"/>
+      <point x="495.51807228915663" y="306.144578313253" type="line" smooth="yes"/>
+      <point x="515.8915662650602" y="357.8915662650602"/>
+      <point x="533.2048192771084" y="379.14457831325296"/>
+      <point x="575.5783132530121" y="379.14457831325296" type="curve" smooth="yes"/>
+      <point x="588.2048192771085" y="379.14457831325296"/>
+      <point x="600.5783132530121" y="378.4578313253012"/>
+      <point x="614.2048192771085" y="374.144578313253" type="curve"/>
+      <point x="634.3975903614457" y="503.87951807228916" type="line"/>
+      <point x="611.5180722891566" y="511.50602409638554"/>
+      <point x="581.1325301204819" y="516.4457831325302"/>
+      <point x="545.0" y="516.4457831325302" type="curve" smooth="yes"/>
+      <point x="451.1686746987952" y="516.4457831325302"/>
+      <point x="396.78313253012055" y="470.6867469879518"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:11:09</string>
+      <key>com.schriftgestaltung.Glyphs.layer.widthMetricsKey</key>
+      <string>=y+30</string>
+    </dict>
+  </lib>
+</glyph>

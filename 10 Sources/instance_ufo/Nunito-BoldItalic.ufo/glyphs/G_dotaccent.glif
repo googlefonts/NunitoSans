@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdotaccent" format="2">
+  <advance width="736"/>
+  <unicode hex="0120"/>
+  <anchor x="390" y="0" name="bottom"/>
+  <anchor x="473" y="865" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="dotaccentcomb.case" xOffset="447"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

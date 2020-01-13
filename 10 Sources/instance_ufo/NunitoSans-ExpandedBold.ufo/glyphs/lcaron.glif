@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="384.0"/>
+  <unicode hex="013E"/>
+  <anchor x="235.0" y="0.0" name="bottom"/>
+  <anchor x="163.0" y="357.0" name="center"/>
+  <anchor x="373.5" y="357.0" name="dot"/>
+  <anchor x="151.5" y="705.0" name="top"/>
+  <anchor x="273.0" y="705.0" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="caroncomb.alt" xOffset="273.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

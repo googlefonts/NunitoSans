@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaverticalstroke-cy" format="2">
+  <advance width="651"/>
+  <unicode hex="049D"/>
+  <outline>
+    <contour>
+      <point x="43" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="233" y="177" type="line"/>
+      <point x="265" y="177" type="line"/>
+      <point x="265" y="62" type="line"/>
+      <point x="367" y="62" type="line"/>
+      <point x="367" y="187" type="line"/>
+      <point x="357" y="177" type="line"/>
+      <point x="374" y="177" type="line" smooth="yes"/>
+      <point x="388" y="177"/>
+      <point x="396" y="169"/>
+      <point x="405" y="145" type="curve" smooth="yes"/>
+      <point x="462" y="0" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="570" y="215" type="line" smooth="yes"/>
+      <point x="554" y="251"/>
+      <point x="538" y="284"/>
+      <point x="483" y="296" type="curve"/>
+      <point x="515" y="234" type="line"/>
+      <point x="652" y="494" type="line"/>
+      <point x="453" y="494" type="line"/>
+      <point x="374" y="323" type="line"/>
+      <point x="367" y="323" type="line"/>
+      <point x="367" y="429" type="line"/>
+      <point x="265" y="429" type="line"/>
+      <point x="265" y="323" type="line"/>
+      <point x="233" y="323" type="line"/>
+      <point x="233" y="494" type="line"/>
+      <point x="43" y="494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:46:58</string>
+    </dict>
+  </lib>
+</glyph>

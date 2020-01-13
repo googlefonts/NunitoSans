@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oogonek" format="2">
+  <advance width="820"/>
+  <unicode hex="01EA"/>
+  <anchor x="465" y="705" name="top"/>
+  <anchor x="390" y="-12" name="Qtail"/>
+  <anchor x="378" y="0" name="bottom"/>
+  <anchor x="429" y="353" name="center"/>
+  <anchor x="457" y="0" name="ogonek"/>
+  <anchor x="101" y="705" name="topleft"/>
+  <anchor x="533" y="705" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="ogonekcomb" xOffset="492"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

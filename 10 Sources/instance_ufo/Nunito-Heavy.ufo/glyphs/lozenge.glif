@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <advance width="600"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="300" y="-210" type="curve" smooth="yes"/>
+      <point x="348" y="-210"/>
+      <point x="381" y="-187"/>
+      <point x="400" y="-137" type="curve" smooth="yes"/>
+      <point x="541" y="230" type="line" smooth="yes"/>
+      <point x="557" y="271"/>
+      <point x="555" y="289"/>
+      <point x="541" y="326" type="curve" smooth="yes"/>
+      <point x="400" y="695" type="line" smooth="yes"/>
+      <point x="381" y="745"/>
+      <point x="348" y="768"/>
+      <point x="300" y="768" type="curve" smooth="yes"/>
+      <point x="252" y="768"/>
+      <point x="219" y="745"/>
+      <point x="200" y="695" type="curve" smooth="yes"/>
+      <point x="59" y="326" type="line" smooth="yes"/>
+      <point x="45" y="289"/>
+      <point x="44" y="270"/>
+      <point x="59" y="230" type="curve" smooth="yes"/>
+      <point x="200" y="-137" type="line" smooth="yes"/>
+      <point x="219" y="-187"/>
+      <point x="252" y="-210"/>
+    </contour>
+    <contour>
+      <point x="300" y="-25" type="line"/>
+      <point x="191" y="279" type="line"/>
+      <point x="300" y="583" type="line"/>
+      <point x="409" y="279" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+    </dict>
+  </lib>
+</glyph>

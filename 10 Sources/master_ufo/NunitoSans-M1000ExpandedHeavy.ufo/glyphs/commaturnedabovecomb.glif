@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="0" y="484" name="_top"/>
+  <anchor x="0" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="-90" y="558" type="line"/>
+      <point x="90" y="558" type="line"/>
+      <point x="90" y="714" type="line"/>
+      <point x="-42" y="714" type="line"/>
+      <point x="-6" y="682" type="line"/>
+      <point x="-5" y="712"/>
+      <point x="11" y="739"/>
+      <point x="54" y="782" type="curve"/>
+      <point x="2" y="826" type="line"/>
+      <point x="-63" y="772"/>
+      <point x="-90" y="723"/>
+      <point x="-90" y="660" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

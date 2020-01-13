@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcircumflex" format="2">
+  <advance width="603"/>
+  <unicode hex="0125"/>
+  <anchor x="263" y="0" name="bottom"/>
+  <anchor x="304" y="256" name="center"/>
+  <anchor x="326" y="364" name="dot"/>
+  <anchor x="237" y="593" name="stroke"/>
+  <anchor x="401" y="881" name="top"/>
+  <anchor x="299" y="721" name="topright"/>
+  <outline>
+    <component base="h"/>
+    <component base="circumflexcomb.case" xOffset="302" yOffset="16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

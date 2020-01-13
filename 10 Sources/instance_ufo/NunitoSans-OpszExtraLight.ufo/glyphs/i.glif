@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="264"/>
+  <unicode hex="0069"/>
+  <anchor x="127" y="0" name="bottom"/>
+  <anchor x="158" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="97" y="629" type="line"/>
+      <point x="167" y="629" type="line"/>
+      <point x="167" y="699" type="line"/>
+      <point x="97" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="494" type="line"/>
+      <point x="106" y="494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eldescender-cy" format="2">
+  <advance width="679"/>
+  <unicode hex="052F"/>
+  <anchor x="348" y="0" name="bottomright"/>
+  <outline>
+    <component base="el-cy"/>
+    <component base="__descender-cy" xOffset="391"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+40</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheabkhasian-cy" format="2">
+  <advance width="716"/>
+  <unicode hex="04BD"/>
+  <anchor x="532" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="494" y="-12" type="curve" smooth="yes"/>
+      <point x="555" y="-12"/>
+      <point x="637" y="6"/>
+      <point x="688" y="33" type="curve"/>
+      <point x="646" y="164" type="line"/>
+      <point x="602" y="143"/>
+      <point x="545" y="132"/>
+      <point x="498" y="132" type="curve" smooth="yes"/>
+      <point x="427" y="132"/>
+      <point x="393" y="149"/>
+      <point x="381" y="191" type="curve"/>
+      <point x="373" y="183" type="line"/>
+      <point x="704" y="183" type="line"/>
+      <point x="704" y="215" type="line" smooth="yes"/>
+      <point x="704" y="360"/>
+      <point x="605" y="456"/>
+      <point x="452" y="456" type="curve" smooth="yes"/>
+      <point x="312" y="456"/>
+      <point x="206" y="375"/>
+      <point x="188" y="258" type="curve"/>
+      <point x="215" y="266" type="line"/>
+      <point x="202" y="266" type="line" smooth="yes"/>
+      <point x="174" y="266"/>
+      <point x="162" y="275"/>
+      <point x="162" y="318" type="curve" smooth="yes"/>
+      <point x="162" y="343" type="line"/>
+      <point x="5" y="343" type="line"/>
+      <point x="5" y="317" type="line" smooth="yes"/>
+      <point x="5" y="226"/>
+      <point x="45" y="183"/>
+      <point x="171" y="183" type="curve" smooth="yes"/>
+      <point x="198" y="183" type="line"/>
+      <point x="188" y="191" type="line"/>
+      <point x="204" y="68"/>
+      <point x="314" y="-12"/>
+    </contour>
+    <contour>
+      <point x="458" y="331" type="curve" smooth="yes"/>
+      <point x="505" y="331"/>
+      <point x="530" y="305"/>
+      <point x="532" y="252" type="curve"/>
+      <point x="550" y="266" type="line"/>
+      <point x="372" y="266" type="line"/>
+      <point x="377" y="256" type="line"/>
+      <point x="381" y="307"/>
+      <point x="411" y="331"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:50:48</string>
+    </dict>
+  </lib>
+</glyph>

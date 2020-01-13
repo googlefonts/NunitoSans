@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhungarumlaut-cy" format="2">
+  <advance width="554"/>
+  <unicode hex="04F3"/>
+  <anchor x="428" y="0" name="bottom"/>
+  <anchor x="262" y="685" name="top"/>
+  <outline>
+    <component base="u-cy" xOffset="-1"/>
+    <component base="hungarumlautcomb" xOffset="262"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

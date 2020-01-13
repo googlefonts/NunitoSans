@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydotaccent" format="2">
+  <advance width="562.0889360240965"/>
+  <unicode hex="1E8F"/>
+  <anchor x="411.0722891566265" y="0.0" name="bottom"/>
+  <anchor x="280.2289156626506" y="704.0602409638554" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="dotaccentcomb" xOffset="280.2289156626506"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="agrave.ss01" format="2">
+  <advance width="474"/>
+  <anchor x="234" y="0" name="bottom"/>
+  <anchor x="399" y="0" name="ogonek"/>
+  <anchor x="234" y="685" name="top"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="gravecomb" xOffset="234"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

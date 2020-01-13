@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.ss02" format="2">
+  <advance width="222.0"/>
+  <anchor x="111.0" y="0.0" name="bottom"/>
+  <anchor x="111.0" y="357.0" name="center"/>
+  <anchor x="264.5" y="357.0" name="dot"/>
+  <anchor x="111.0" y="705.0" name="top"/>
+  <anchor x="199.5" y="705.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="54.5" y="0.0" type="line"/>
+      <point x="168.5" y="0.0" type="line"/>
+      <point x="168.5" y="705.0" type="line"/>
+      <point x="54.5" y="705.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

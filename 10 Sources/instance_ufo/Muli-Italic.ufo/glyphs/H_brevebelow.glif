@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbrevebelow" format="2">
+  <advance width="766.0481927710844"/>
+  <unicode hex="1E2A"/>
+  <anchor x="316.7590361445783" y="-170.0" name="bottom"/>
+  <anchor x="430.69879518072287" y="553.0481927710844" name="center"/>
+  <anchor x="455.7590361445783" y="705.0" name="top"/>
+  <anchor x="95.12048192771084" y="705.0" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="brevebelowcomb" xOffset="384.7590361445783"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

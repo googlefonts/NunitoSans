@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb.case" format="2">
+  <anchor x="73" y="705" name="_top"/>
+  <outline>
+    <contour>
+      <point x="83" y="768" type="curve" smooth="yes"/>
+      <point x="169" y="768"/>
+      <point x="236" y="825"/>
+      <point x="257" y="917" type="curve"/>
+      <point x="217" y="922" type="line"/>
+      <point x="198" y="849"/>
+      <point x="153" y="812"/>
+      <point x="90" y="812" type="curve" smooth="yes"/>
+      <point x="29" y="812"/>
+      <point x="-6" y="850"/>
+      <point x="-2" y="922" type="curve"/>
+      <point x="-44" y="917" type="line"/>
+      <point x="-51" y="825"/>
+      <point x="-2" y="768"/>
+    </contour>
+    <contour>
+      <point x="72" y="878" type="line"/>
+      <point x="114" y="878" type="line"/>
+      <point x="253" y="1023" type="line"/>
+      <point x="187" y="1023" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kabashkir-cy" format="2">
+  <advance width="639.0"/>
+  <unicode hex="04A1"/>
+  <outline>
+    <contour>
+      <point x="152.0" y="0.0" type="line"/>
+      <point x="277.0" y="0.0" type="line"/>
+      <point x="277.0" y="177.5" type="line"/>
+      <point x="341.5" y="177.5" type="line" smooth="yes"/>
+      <point x="385.0" y="177.5"/>
+      <point x="405.5" y="166.0"/>
+      <point x="431.5" y="127.5" type="curve" smooth="yes"/>
+      <point x="512.5" y="0.0" type="line"/>
+      <point x="645.5" y="0.0" type="line"/>
+      <point x="542.5" y="166.5" type="line" smooth="yes"/>
+      <point x="505.0" y="222.5"/>
+      <point x="470.5" y="250.0"/>
+      <point x="416.5" y="256.5" type="curve"/>
+      <point x="434.5" y="216.5" type="line"/>
+      <point x="623.5" y="439.0" type="line"/>
+      <point x="489.0" y="439.0" type="line"/>
+      <point x="348.0" y="272.0" type="line"/>
+      <point x="277.0" y="272.0" type="line"/>
+      <point x="277.0" y="439.0" type="line"/>
+      <point x="7.0" y="439.0" type="line"/>
+      <point x="7.0" y="342.0" type="line"/>
+      <point x="152.0" y="342.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:47:21</string>
+    </dict>
+  </lib>
+</glyph>

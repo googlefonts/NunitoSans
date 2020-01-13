@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="0.0" y="484.0" name="_top"/>
+  <anchor x="32.0" y="685.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-18.951807228915662" y="555.5180722891566" type="line" smooth="yes"/>
+      <point x="-1.0602409638554218" y="529.7951807228916"/>
+      <point x="31.951807228915662" y="550.1445783132531"/>
+      <point x="16.662650602409638" y="576.6385542168675" type="curve" smooth="yes"/>
+      <point x="-81.86746987951807" y="742.1686746987951" type="line" smooth="yes"/>
+      <point x="-103.44578313253012" y="780.4698795180723"/>
+      <point x="-158.03614457831327" y="754.6024096385541"/>
+      <point x="-132.3132530120482" y="718.1325301204819" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

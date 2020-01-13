@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Che-cy" format="2">
+  <advance width="657"/>
+  <unicode hex="0427"/>
+  <anchor x="477" y="0" name="bottomright"/>
+  <anchor x="308" y="295" name="center"/>
+  <anchor x="376" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="477" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="631" y="705" type="line"/>
+      <point x="589" y="705" type="line"/>
+      <point x="535" y="364" type="line"/>
+      <point x="473" y="329"/>
+      <point x="400" y="317"/>
+      <point x="331" y="317" type="curve" smooth="yes"/>
+      <point x="183" y="317"/>
+      <point x="123" y="395"/>
+      <point x="151" y="565" type="curve" smooth="yes"/>
+      <point x="174" y="705" type="line"/>
+      <point x="132" y="705" type="line"/>
+      <point x="109" y="559" type="line" smooth="yes"/>
+      <point x="80" y="372"/>
+      <point x="157" y="276"/>
+      <point x="331" y="276" type="curve" smooth="yes"/>
+      <point x="400" y="276"/>
+      <point x="475" y="290"/>
+      <point x="527" y="318" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:25:30</string>
+    </dict>
+  </lib>
+</glyph>

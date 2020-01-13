@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb" format="2">
+  <unicode hex="0311"/>
+  <anchor x="43.28915662650603" y="484.0" name="_top"/>
+  <anchor x="69.0" y="685.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-51.915662650602414" y="549.843373493976" type="line"/>
+      <point x="-40.33734939759036" y="634.6265060240964"/>
+      <point x="0.39759036144578275" y="682.8072289156627"/>
+      <point x="59.28915662650603" y="682.8072289156627" type="curve" smooth="yes"/>
+      <point x="118.18072289156628" y="682.8072289156627"/>
+      <point x="151.20481927710844" y="634.6265060240964"/>
+      <point x="147.33734939759037" y="549.843373493976" type="curve"/>
+      <point x="208.06024096385542" y="555.2650602409639" type="line"/>
+      <point x="214.06024096385542" y="672.9759036144578"/>
+      <point x="155.37349397590364" y="747.2409638554217"/>
+      <point x="62.42168674698795" y="747.2409638554217" type="curve" smooth="yes"/>
+      <point x="-31.24096385542169" y="747.2409638554217"/>
+      <point x="-97.06024096385542" y="673.6867469879518"/>
+      <point x="-111.9277108433735" y="555.2650602409639" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

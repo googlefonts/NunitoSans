@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotbelow" format="2">
+  <advance width="449"/>
+  <unicode hex="1E6D"/>
+  <anchor x="257" y="-170" name="bottom"/>
+  <anchor x="208" y="249" name="center"/>
+  <anchor x="191" y="635" name="top"/>
+  <anchor x="325" y="705" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="dotbelowcomb" xOffset="257"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

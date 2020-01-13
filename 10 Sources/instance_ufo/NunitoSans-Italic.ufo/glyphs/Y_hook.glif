@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yhook" format="2">
+  <advance width="612.6385542168674"/>
+  <unicode hex="01B3"/>
+  <outline>
+    <contour>
+      <point x="217.66265060240966" y="0.0" type="line"/>
+      <point x="300.0722891566265" y="0.0" type="line"/>
+      <point x="358.0722891566265" y="365.12048192771084" type="line"/>
+      <point x="330.26506024096386" y="308.26506024096386" type="line"/>
+      <point x="587.8072289156626" y="599.0963855421687" type="line" smooth="yes"/>
+      <point x="620.9277108433735" y="636.2168674698796"/>
+      <point x="644.6867469879518" y="650.1566265060242"/>
+      <point x="677.7469879518072" y="650.1566265060242" type="curve" smooth="yes"/>
+      <point x="698.2168674698795" y="650.1566265060242"/>
+      <point x="712.2168674698795" y="647.6265060240964"/>
+      <point x="724.6867469879518" y="642.6265060240964" type="curve"/>
+      <point x="734.9156626506024" y="704.0602409638554" type="line"/>
+      <point x="718.4457831325301" y="711.0"/>
+      <point x="698.0481927710844" y="713.9397590361446"/>
+      <point x="674.2289156626506" y="713.9397590361446" type="curve" smooth="yes"/>
+      <point x="612.0722891566265" y="713.9397590361446"/>
+      <point x="572.4939759036145" y="693.5301204819277"/>
+      <point x="520.9156626506025" y="635.0722891566264" type="curve" smooth="yes"/>
+      <point x="304.9277108433735" y="391.0240963855422" type="line"/>
+      <point x="326.566265060241" y="391.0240963855422" type="line"/>
+      <point x="149.89156626506025" y="705.0" type="line"/>
+      <point x="60.25301204819277" y="705.0" type="line"/>
+      <point x="284.3614457831326" y="308.26506024096386" type="line"/>
+      <point x="275.66265060240966" y="365.12048192771084" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>com.schriftgestaltung.Glyphs.layer.widthMetricsKey</key>
+      <string>=Y+30</string>
+    </dict>
+  </lib>
+</glyph>

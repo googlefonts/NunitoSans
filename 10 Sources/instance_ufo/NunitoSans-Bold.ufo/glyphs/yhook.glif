@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yhook" format="2">
+  <advance width="571"/>
+  <unicode hex="01B4"/>
+  <outline>
+    <contour>
+      <point x="364" y="384" type="curve" smooth="yes"/>
+      <point x="251" y="110" type="line"/>
+      <point x="281" y="110" type="line"/>
+      <point x="129" y="489" type="line"/>
+      <point x="-4" y="489" type="line"/>
+      <point x="211" y="-7" type="line"/>
+      <point x="211" y="45" type="line"/>
+      <point x="109" y="-180" type="line"/>
+      <point x="238" y="-180" type="line"/>
+      <point x="461" y="330" type="line" smooth="yes"/>
+      <point x="484" y="382"/>
+      <point x="510" y="401"/>
+      <point x="547" y="401" type="curve" smooth="yes"/>
+      <point x="560" y="401"/>
+      <point x="573" y="400"/>
+      <point x="586" y="395" type="curve"/>
+      <point x="602" y="488" type="line"/>
+      <point x="586" y="495"/>
+      <point x="558" y="499"/>
+      <point x="531" y="499" type="curve" smooth="yes"/>
+      <point x="440" y="499"/>
+      <point x="393" y="455"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:11:09</string>
+    </dict>
+  </lib>
+</glyph>

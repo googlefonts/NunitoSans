@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
+  <advance width="673.2168674698795"/>
+  <unicode hex="FB01"/>
+  <anchor x="146.97007228915663" y="0.0" name="bottom"/>
+  <anchor x="318.7590361445783" y="0.0" name="caret_1"/>
+  <anchor x="545.2107228915663" y="0.0" name="ogonek"/>
+  <anchor x="252.21897590361445" y="705.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="54.89156626506024" y="0.0" type="line"/>
+      <point x="232.89156626506025" y="0.0" type="line"/>
+      <point x="290.144578313253" y="361.15662650602405" type="line"/>
+      <point x="461.87951807228916" y="361.15662650602405" type="line"/>
+      <point x="404.6265060240964" y="0.0" type="line"/>
+      <point x="582.6265060240963" y="0.0" type="line"/>
+      <point x="660.6265060240963" y="492.1927710843374" type="line"/>
+      <point x="296.9759036144579" y="492.1927710843374" type="line"/>
+      <point x="308.5301204819277" y="479.6385542168674" type="line"/>
+      <point x="312.61445783132535" y="506.0602409638554" type="line" smooth="yes"/>
+      <point x="320.0602409638554" y="556.3734939759037"/>
+      <point x="349.03614457831327" y="576.7951807228916"/>
+      <point x="417.6506024096385" y="581.156626506024" type="curve" smooth="yes"/>
+      <point x="465.289156626506" y="584.1566265060242" type="line"/>
+      <point x="469.8433734939759" y="711.277108433735" type="line"/>
+      <point x="408.1807228915663" y="708.2771084337348" type="line" smooth="yes"/>
+      <point x="226.1686746987952" y="700.0"/>
+      <point x="153.89156626506025" y="623.2530120481928"/>
+      <point x="133.97590361445785" y="499.5903614457832" type="curve" smooth="yes"/>
+      <point x="130.53012048192772" y="476.6385542168675" type="line"/>
+      <point x="149.72289156626508" y="492.1927710843374" type="line"/>
+      <point x="40.807228915662655" y="492.1927710843374" type="line"/>
+      <point x="20.060240963855424" y="361.15662650602405" type="line"/>
+      <point x="112.14457831325302" y="361.15662650602405" type="line"/>
+    </contour>
+    <contour>
+      <point x="493.6265060240964" y="577.3975903614457" type="line"/>
+      <point x="678.8795180722891" y="577.3975903614457" type="line"/>
+      <point x="704.6265060240963" y="737.710843373494" type="line"/>
+      <point x="519.3734939759036" y="737.710843373494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 20:42:59</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

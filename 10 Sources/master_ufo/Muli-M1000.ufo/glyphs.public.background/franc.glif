@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <outline>
+    <contour>
+      <point x="42" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="297" type="line"/>
+      <point x="323" y="297" type="line"/>
+      <point x="323" y="427" type="line"/>
+      <point x="195" y="427" type="line"/>
+      <point x="195" y="582" type="line"/>
+      <point x="486" y="582" type="line"/>
+      <point x="486" y="712" type="line"/>
+      <point x="42" y="712" type="line"/>
+    </contour>
+    <contour>
+      <point x="305" y="0" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="455" y="259" type="line" smooth="yes"/>
+      <point x="455" y="341"/>
+      <point x="493" y="377"/>
+      <point x="587" y="377" type="curve" smooth="yes"/>
+      <point x="596" y="377" type="line"/>
+      <point x="596" y="503" type="line"/>
+      <point x="582" y="503" type="line" smooth="yes"/>
+      <point x="497" y="503"/>
+      <point x="452" y="476"/>
+      <point x="432" y="356" type="curve"/>
+      <point x="442" y="355" type="line"/>
+      <point x="442" y="496" type="line"/>
+      <point x="305" y="496" type="line"/>
+    </contour>
+  </outline>
+</glyph>

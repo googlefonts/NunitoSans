@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreveacute" format="2">
+  <advance width="557.3373493975903"/>
+  <unicode hex="1EAF"/>
+  <anchor x="279.07228915662654" y="0.0" name="bottom"/>
+  <anchor x="455.6385542168675" y="0.0" name="ogonek"/>
+  <anchor x="283.3855421686747" y="484.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb_acutecomb" xOffset="283.3855421686747"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacrongrave" format="2">
+  <advance width="570"/>
+  <unicode hex="1E14"/>
+  <anchor x="285" y="0" name="bottom"/>
+  <anchor x="445" y="0" name="ogonek"/>
+  <anchor x="392" y="705" name="top"/>
+  <anchor x="97" y="705" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="macroncomb_gravecomb.case" xOffset="322"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacrongrave" format="2">
+  <advance width="759"/>
+  <unicode hex="1E50"/>
+  <anchor x="379" y="-8" name="Qtail"/>
+  <anchor x="379" y="0" name="bottom"/>
+  <anchor x="380" y="353" name="center"/>
+  <anchor x="436" y="0" name="ogonek"/>
+  <anchor x="379" y="705" name="top"/>
+  <anchor x="25" y="705" name="topleft"/>
+  <anchor x="454" y="705" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="macroncomb_gravecomb.case" xOffset="379"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ubreve" format="2">
+  <advance width="619.3012048192771"/>
+  <unicode hex="016C"/>
+  <anchor x="309.65060240963857" y="0.0" name="bottom"/>
+  <anchor x="357.9277108433735" y="0.0" name="ogonek"/>
+  <anchor x="309.65060240963857" y="865.0" name="top"/>
+  <anchor x="456.6024096385542" y="705.0" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="brevecomb.case" xOffset="309.65060240963857"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

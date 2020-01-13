@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LJ" format="2">
+  <advance width="1051"/>
+  <unicode hex="01C7"/>
+  <anchor x="282" y="0" name="bottom_1"/>
+  <anchor x="848" y="0" name="bottom_2"/>
+  <anchor x="235" y="387" name="center"/>
+  <anchor x="498" y="402" name="dot"/>
+  <anchor x="238" y="705" name="top_1"/>
+  <anchor x="960" y="705" name="top_2"/>
+  <anchor x="439" y="705" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="J" xOffset="628"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

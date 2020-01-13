@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb_dotaccentcomb" format="2">
+  <guideline x="-1209" y="549" angle="0"/>
+  <anchor x="48" y="484" name="_top"/>
+  <outline>
+    <contour>
+      <point x="34" y="549" type="line"/>
+      <point x="82" y="549" type="line"/>
+      <point x="205" y="709" type="line"/>
+      <point x="170" y="709" type="line"/>
+      <point x="60" y="588" type="line"/>
+      <point x="-26" y="709" type="line"/>
+      <point x="-61" y="709" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="760" type="line"/>
+      <point x="123" y="760" type="line"/>
+      <point x="132" y="820" type="line"/>
+      <point x="71" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcommaaccent" format="2">
+  <advance width="275"/>
+  <unicode hex="013C"/>
+  <anchor x="120" y="-170" name="bottom"/>
+  <anchor x="133" y="320" name="center"/>
+  <anchor x="255" y="320" name="dot"/>
+  <anchor x="184" y="705" name="top"/>
+  <anchor x="255" y="705" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="commaaccentcomb" xOffset="181"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

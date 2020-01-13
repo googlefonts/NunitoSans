@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildedieresis" format="2">
+  <advance width="571.3253012048193"/>
+  <unicode hex="1E4F"/>
+  <anchor x="246.3975903614458" y="0.0" name="bottom"/>
+  <anchor x="285.3975903614458" y="251.40963855421685" name="center"/>
+  <anchor x="301.86746987951807" y="0.0" name="ogonek"/>
+  <anchor x="323.3975903614458" y="484.0" name="top"/>
+  <anchor x="376.1566265060241" y="500.0" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildecomb_dieresiscomb" xOffset="286.9879518072289"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

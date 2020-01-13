@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.tosf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="535" y="0" type="line"/>
+      <point x="535" y="95" type="line"/>
+      <point x="193" y="95" type="line"/>
+      <point x="193" y="71" type="line"/>
+      <point x="411" y="156"/>
+      <point x="516" y="243"/>
+      <point x="516" y="355" type="curve" smooth="yes"/>
+      <point x="516" y="456"/>
+      <point x="436" y="515"/>
+      <point x="298" y="515" type="curve" smooth="yes"/>
+      <point x="209" y="515"/>
+      <point x="122" y="490"/>
+      <point x="61" y="449" type="curve"/>
+      <point x="97" y="359" type="line"/>
+      <point x="153" y="397"/>
+      <point x="220" y="418"/>
+      <point x="283" y="418" type="curve" smooth="yes"/>
+      <point x="351" y="418"/>
+      <point x="390" y="392"/>
+      <point x="390" y="342" type="curve" smooth="yes"/>
+      <point x="390" y="268"/>
+      <point x="305" y="196"/>
+      <point x="82" y="83" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

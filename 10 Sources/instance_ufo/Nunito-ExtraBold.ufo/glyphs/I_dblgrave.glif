@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idblgrave" format="2">
+  <advance width="296.72289156626505"/>
+  <unicode hex="0208"/>
+  <anchor x="148.2048192771084" y="0.0" name="bottom"/>
+  <anchor x="190.21686746987953" y="0.0" name="ogonek"/>
+  <anchor x="148.2048192771084" y="865.0" name="top"/>
+  <anchor x="21.433734939759034" y="705.0" name="topleft"/>
+  <outline>
+    <component base="I"/>
+    <component base="dblgravecomb.case" xOffset="148.2048192771084"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

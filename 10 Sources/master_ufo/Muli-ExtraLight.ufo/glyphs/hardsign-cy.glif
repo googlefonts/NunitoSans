@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy" format="2">
+  <advance width="615"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="378" y="0" type="line" smooth="yes"/>
+      <point x="503" y="0"/>
+      <point x="567" y="56"/>
+      <point x="567" y="155" type="curve" smooth="yes"/>
+      <point x="567" y="253"/>
+      <point x="503" y="309"/>
+      <point x="378" y="309" type="curve" smooth="yes"/>
+      <point x="210" y="309" type="line"/>
+      <point x="210" y="500" type="line"/>
+      <point x="3" y="500" type="line"/>
+      <point x="3" y="464" type="line"/>
+      <point x="169" y="464" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="36" type="line"/>
+      <point x="210" y="273" type="line"/>
+      <point x="381" y="273" type="line" smooth="yes"/>
+      <point x="473" y="273"/>
+      <point x="524" y="236"/>
+      <point x="524" y="155" type="curve" smooth="yes"/>
+      <point x="524" y="73"/>
+      <point x="473" y="36"/>
+      <point x="381" y="36" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

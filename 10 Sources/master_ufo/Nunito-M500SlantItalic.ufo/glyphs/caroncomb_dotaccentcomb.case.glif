@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb_dotaccentcomb.case" format="2">
+  <anchor x="0" y="705" name="_top"/>
+  <outline>
+    <contour>
+      <point x="8" y="754" type="curve" smooth="yes"/>
+      <point x="36" y="754"/>
+      <point x="64" y="766"/>
+      <point x="88" y="794" type="curve" smooth="yes"/>
+      <point x="174" y="892" type="line" smooth="yes"/>
+      <point x="197" y="918"/>
+      <point x="154" y="953"/>
+      <point x="122" y="925" type="curve" smooth="yes"/>
+      <point x="16" y="834" type="line"/>
+      <point x="-60" y="922" type="line" smooth="yes"/>
+      <point x="-88" y="955"/>
+      <point x="-142" y="927"/>
+      <point x="-122" y="893" type="curve" smooth="yes"/>
+      <point x="-65" y="799" type="line" smooth="yes"/>
+      <point x="-47" y="769"/>
+      <point x="-25" y="754"/>
+    </contour>
+    <contour>
+      <point x="35" y="958" type="curve" smooth="yes"/>
+      <point x="80" y="958"/>
+      <point x="105" y="979"/>
+      <point x="105" y="1013" type="curve" smooth="yes"/>
+      <point x="105" y="1041"/>
+      <point x="85" y="1055"/>
+      <point x="50" y="1055" type="curve" smooth="yes"/>
+      <point x="8" y="1055"/>
+      <point x="-20" y="1037"/>
+      <point x="-20" y="1000" type="curve" smooth="yes"/>
+      <point x="-20" y="974"/>
+      <point x="-2" y="958"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+    </dict>
+  </lib>
+</glyph>

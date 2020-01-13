@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenge" format="2">
+  <advance width="600.0"/>
+  <unicode hex="20B8"/>
+  <outline>
+    <contour>
+      <point x="222.2168674698795" y="0.0" type="line"/>
+      <point x="378.4698795180723" y="0.0" type="line"/>
+      <point x="378.4698795180723" y="461.21686746987956" type="line"/>
+      <point x="590.8795180722892" y="461.21686746987956" type="line"/>
+      <point x="590.8795180722892" y="547.1204819277108" type="line"/>
+      <point x="9.80722891566265" y="547.1204819277108" type="line"/>
+      <point x="9.80722891566265" y="461.21686746987956" type="line"/>
+      <point x="222.2168674698795" y="461.21686746987956" type="line"/>
+    </contour>
+    <contour>
+      <point x="9.80722891566265" y="619.0963855421686" type="line"/>
+      <point x="590.8795180722892" y="619.0963855421686" type="line"/>
+      <point x="590.8795180722892" y="705.0" type="line"/>
+      <point x="9.80722891566265" y="705.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

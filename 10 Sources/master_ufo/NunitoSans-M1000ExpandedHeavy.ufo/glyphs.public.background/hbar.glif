@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <anchor x="239" y="597" name="_stroke"/>
+  <anchor x="382" y="0" name="bottom"/>
+  <anchor x="382" y="251" name="center"/>
+  <anchor x="466" y="350" name="dot"/>
+  <anchor x="239" y="597" name="stroke"/>
+  <anchor x="381" y="705" name="top"/>
+  <anchor x="318" y="705" name="topright"/>
+  <outline>
+    <contour>
+      <point x="489" y="506" type="curve" smooth="yes"/>
+      <point x="396" y="506"/>
+      <point x="321" y="471"/>
+      <point x="272" y="406" type="curve"/>
+      <point x="291" y="406" type="line"/>
+      <point x="291" y="521" type="line"/>
+      <point x="519" y="521" type="line"/>
+      <point x="519" y="674" type="line"/>
+      <point x="291" y="674" type="line"/>
+      <point x="291" y="705" type="line"/>
+      <point x="61" y="705" type="line"/>
+      <point x="61" y="674" type="line"/>
+      <point x="-42" y="674" type="line"/>
+      <point x="-42" y="521" type="line"/>
+      <point x="61" y="521" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="291" y="257" type="line" smooth="yes"/>
+      <point x="291" y="303"/>
+      <point x="332" y="333"/>
+      <point x="393" y="333" type="curve" smooth="yes"/>
+      <point x="449" y="333"/>
+      <point x="470" y="309"/>
+      <point x="470" y="264" type="curve" smooth="yes"/>
+      <point x="470" y="0" type="line"/>
+      <point x="700" y="0" type="line"/>
+      <point x="700" y="271" type="line" smooth="yes"/>
+      <point x="700" y="429"/>
+      <point x="630" y="506"/>
+    </contour>
+  </outline>
+</glyph>

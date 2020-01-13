@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb" format="2">
+  <unicode hex="0307"/>
+  <anchor x="0.0" y="484.0" name="_top"/>
+  <anchor x="0.0" y="685.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="599.6506024096385" type="curve" smooth="yes"/>
+      <point x="37.21686746987952" y="599.6506024096385"/>
+      <point x="57.036144578313255" y="619.0481927710844"/>
+      <point x="57.036144578313255" y="654.5542168674699" type="curve" smooth="yes"/>
+      <point x="57.036144578313255" y="689.3493975903615"/>
+      <point x="36.21686746987952" y="708.4578313253012"/>
+      <point x="0.0" y="708.4578313253012" type="curve" smooth="yes"/>
+      <point x="-36.21686746987952" y="708.4578313253012"/>
+      <point x="-56.325301204819276" y="689.3493975903615"/>
+      <point x="-56.325301204819276" y="654.5542168674699" type="curve" smooth="yes"/>
+      <point x="-56.325301204819276" y="619.7590361445783"/>
+      <point x="-36.21686746987952" y="599.6506024096385"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

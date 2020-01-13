@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Che-cy" format="2">
+  <anchor x="435" y="0" name="bottomright"/>
+  <anchor x="329" y="295" name="center"/>
+  <anchor x="359" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="1335" y="0" type="line"/>
+      <point x="1550" y="0" type="line"/>
+      <point x="1550" y="705" type="line"/>
+      <point x="1335" y="705" type="line"/>
+      <point x="1335" y="396" type="line"/>
+      <point x="1323" y="393"/>
+      <point x="1299" y="391"/>
+      <point x="1281" y="391" type="curve" smooth="yes"/>
+      <point x="1199" y="391"/>
+      <point x="1168" y="420"/>
+      <point x="1168" y="498" type="curve" smooth="yes"/>
+      <point x="1168" y="705" type="line"/>
+      <point x="953" y="705" type="line"/>
+      <point x="953" y="454" type="line" smooth="yes"/>
+      <point x="953" y="306"/>
+      <point x="1051" y="227"/>
+      <point x="1230" y="227" type="curve" smooth="yes"/>
+      <point x="1271" y="227"/>
+      <point x="1322" y="232"/>
+      <point x="1335" y="236" type="curve"/>
+    </contour>
+    <contour>
+      <point x="380" y="218" type="curve" smooth="yes"/>
+      <point x="592" y="218"/>
+      <point x="703" y="323"/>
+      <point x="703" y="537" type="curve" smooth="yes"/>
+      <point x="703" y="935" type="line"/>
+      <point x="492" y="935" type="line"/>
+      <point x="492" y="533" type="line" smooth="yes"/>
+      <point x="492" y="443"/>
+      <point x="452" y="397"/>
+      <point x="380" y="397" type="curve" smooth="yes"/>
+      <point x="308" y="397"/>
+      <point x="268" y="443"/>
+      <point x="268" y="533" type="curve" smooth="yes"/>
+      <point x="268" y="935" type="line"/>
+      <point x="53" y="935" type="line"/>
+      <point x="53" y="537" type="line" smooth="yes"/>
+      <point x="53" y="323"/>
+      <point x="168" y="218"/>
+    </contour>
+  </outline>
+</glyph>

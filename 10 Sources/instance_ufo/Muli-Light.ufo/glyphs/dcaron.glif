@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="591.4698795180723"/>
+  <unicode hex="010F"/>
+  <anchor x="298.12048192771084" y="0.0" name="bottom"/>
+  <anchor x="297.7469879518072" y="253.2289156626506" name="center"/>
+  <anchor x="426.9759036144578" y="601.9759036144578" name="stroke"/>
+  <anchor x="296.34939759036143" y="675.4578313253012" name="top"/>
+  <anchor x="560.0722891566265" y="736.0" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="caroncomb.alt" xOffset="560.0722891566265" yOffset="31.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

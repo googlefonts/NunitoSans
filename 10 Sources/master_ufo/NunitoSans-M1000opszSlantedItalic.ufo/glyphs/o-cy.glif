@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o-cy" format="2">
+  <advance width="698"/>
+  <unicode hex="043E"/>
+  <anchor x="348" y="250" name="center"/>
+  <anchor x="385" y="484" name="top"/>
+  <anchor x="308" y="3" name="bottom"/>
+  <anchor x="382" y="0" name="ogonek"/>
+  <anchor x="472" y="484" name="topright"/>
+  <outline>
+    <component base="o" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=+10</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+10</string>
+    </dict>
+  </lib>
+</glyph>

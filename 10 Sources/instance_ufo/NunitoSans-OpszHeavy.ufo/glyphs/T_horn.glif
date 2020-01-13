@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="763"/>
+  <unicode hex="00DE"/>
+  <anchor x="391" y="0" name="bottom"/>
+  <anchor x="390" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="305" y="121" type="line"/>
+      <point x="460" y="121" type="line" smooth="yes"/>
+      <point x="617" y="121"/>
+      <point x="721" y="223"/>
+      <point x="721" y="367" type="curve" smooth="yes"/>
+      <point x="721" y="513"/>
+      <point x="618" y="605"/>
+      <point x="460" y="605" type="curve" smooth="yes"/>
+      <point x="305" y="605" type="line"/>
+      <point x="305" y="705" type="line"/>
+      <point x="80" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="305" y="291" type="line"/>
+      <point x="305" y="435" type="line"/>
+      <point x="419" y="435" type="line" smooth="yes"/>
+      <point x="474" y="435"/>
+      <point x="500" y="409"/>
+      <point x="500" y="362" type="curve" smooth="yes"/>
+      <point x="500" y="315"/>
+      <point x="473" y="291"/>
+      <point x="419" y="291" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:50:54</string>
+    </dict>
+  </lib>
+</glyph>

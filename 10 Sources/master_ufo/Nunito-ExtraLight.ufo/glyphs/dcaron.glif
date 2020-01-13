@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="568"/>
+  <unicode hex="010F"/>
+  <anchor x="286" y="0" name="bottom"/>
+  <anchor x="286" y="245" name="center"/>
+  <anchor x="411" y="580" name="stroke"/>
+  <anchor x="284" y="705" name="top"/>
+  <anchor x="533" y="705" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="caroncomb.alt" xOffset="533"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

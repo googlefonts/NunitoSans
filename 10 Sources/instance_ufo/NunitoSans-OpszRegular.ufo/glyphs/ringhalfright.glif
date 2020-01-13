@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfright" format="2">
+  <advance width="500.0"/>
+  <unicode hex="02BE"/>
+  <anchor x="235.43373493975903" y="484.0" name="_top"/>
+  <anchor x="235.43373493975903" y="689.6987951807229" name="top"/>
+  <outline>
+    <contour>
+      <point x="235.43373493975903" y="561.4698795180724" type="line"/>
+      <point x="297.90361445783134" y="561.4698795180724"/>
+      <point x="344.2530120481928" y="604.2289156626506"/>
+      <point x="344.2530120481928" y="664.6385542168675" type="curve" smooth="yes"/>
+      <point x="344.2530120481928" y="725.0481927710842"/>
+      <point x="297.90361445783134" y="767.3373493975904"/>
+      <point x="235.43373493975903" y="767.3373493975904" type="curve"/>
+      <point x="235.43373493975903" y="715.9397590361447" type="line"/>
+      <point x="266.144578313253" y="715.9397590361447"/>
+      <point x="287.7951807228916" y="695.3493975903614"/>
+      <point x="287.7951807228916" y="664.6385542168675" type="curve" smooth="yes"/>
+      <point x="287.7951807228916" y="633.9277108433735"/>
+      <point x="266.144578313253" y="612.8674698795181"/>
+      <point x="235.43373493975903" y="612.8674698795181" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

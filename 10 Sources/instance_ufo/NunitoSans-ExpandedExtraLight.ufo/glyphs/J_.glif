@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="359"/>
+  <unicode hex="004A"/>
+  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="218" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="-12" y="-6" type="line"/>
+      <point x="48" y="-2" type="line" smooth="yes"/>
+      <point x="173" y="6"/>
+      <point x="241" y="71"/>
+      <point x="241" y="183" type="curve" smooth="yes"/>
+      <point x="241" y="705" type="line"/>
+      <point x="195" y="705" type="line"/>
+      <point x="195" y="185" type="line" smooth="yes"/>
+      <point x="195" y="99"/>
+      <point x="142" y="45"/>
+      <point x="46" y="39" type="curve" smooth="yes"/>
+      <point x="-16" y="35" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

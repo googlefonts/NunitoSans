@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tedescender-cy" format="2">
+  <advance width="638"/>
+  <unicode hex="04AD"/>
+  <outline>
+    <contour>
+      <point x="329" y="-130" type="line"/>
+      <point x="518" y="-130" type="line"/>
+      <point x="518" y="166" type="line"/>
+      <point x="433" y="166" type="line"/>
+      <point x="433" y="318" type="line"/>
+      <point x="627" y="318" type="line"/>
+      <point x="627" y="494" type="line"/>
+      <point x="9" y="494" type="line"/>
+      <point x="9" y="318" type="line"/>
+      <point x="203" y="318" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="329" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

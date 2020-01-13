@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani" format="2">
+  <advance width="600"/>
+  <unicode hex="20B2"/>
+  <outline>
+    <contour>
+      <point x="229" y="-115" type="line"/>
+      <point x="329" y="-115" type="line"/>
+      <point x="350" y="24" type="line"/>
+      <point x="329" y="-4" type="line"/>
+      <point x="393" y="1"/>
+      <point x="464" y="20"/>
+      <point x="524" y="49" type="curve"/>
+      <point x="576" y="381" type="line"/>
+      <point x="344" y="381" type="line"/>
+      <point x="330" y="292" type="line"/>
+      <point x="453" y="292" type="line"/>
+      <point x="419" y="80" type="line"/>
+      <point x="466" y="134" type="line"/>
+      <point x="426" y="114"/>
+      <point x="378" y="107"/>
+      <point x="342" y="107" type="curve" smooth="yes"/>
+      <point x="213" y="107"/>
+      <point x="162" y="196"/>
+      <point x="188" y="358" type="curve" smooth="yes"/>
+      <point x="211" y="507"/>
+      <point x="289" y="595"/>
+      <point x="417" y="595" type="curve" smooth="yes"/>
+      <point x="470" y="595"/>
+      <point x="522" y="581"/>
+      <point x="560" y="544" type="curve"/>
+      <point x="612" y="637" type="line"/>
+      <point x="575" y="681"/>
+      <point x="499" y="706"/>
+      <point x="438" y="709" type="curve"/>
+      <point x="456" y="687" type="line"/>
+      <point x="477" y="820" type="line"/>
+      <point x="377" y="820" type="line"/>
+      <point x="356" y="687" type="line"/>
+      <point x="385" y="707" type="line"/>
+      <point x="213" y="692"/>
+      <point x="91" y="574"/>
+      <point x="58" y="368" type="curve" smooth="yes"/>
+      <point x="24" y="154"/>
+      <point x="106" y="19"/>
+      <point x="287" y="-1" type="curve"/>
+      <point x="250" y="24" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

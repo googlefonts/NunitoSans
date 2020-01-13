@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lira" format="2">
+  <advance width="600"/>
+  <unicode hex="20A4"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="562" y="99" type="line"/>
+      <point x="264" y="99" type="line"/>
+      <point x="264" y="231" type="line"/>
+      <point x="468" y="231" type="line"/>
+      <point x="468" y="308" type="line"/>
+      <point x="264" y="308" type="line"/>
+      <point x="264" y="401" type="line"/>
+      <point x="468" y="401" type="line"/>
+      <point x="468" y="478" type="line"/>
+      <point x="246" y="478" type="line"/>
+      <point x="264" y="459" type="line"/>
+      <point x="264" y="513" type="line" smooth="yes"/>
+      <point x="264" y="582"/>
+      <point x="299" y="616"/>
+      <point x="374" y="616" type="curve" smooth="yes"/>
+      <point x="430" y="616"/>
+      <point x="484" y="602"/>
+      <point x="535" y="564" type="curve"/>
+      <point x="567" y="658" type="line"/>
+      <point x="510" y="695"/>
+      <point x="439" y="715"/>
+      <point x="364" y="715" type="curve" smooth="yes"/>
+      <point x="208" y="715"/>
+      <point x="145" y="630"/>
+      <point x="145" y="497" type="curve" smooth="yes"/>
+      <point x="145" y="445" type="line"/>
+      <point x="161" y="478" type="line"/>
+      <point x="38" y="478" type="line"/>
+      <point x="38" y="401" type="line"/>
+      <point x="145" y="401" type="line"/>
+      <point x="145" y="308" type="line"/>
+      <point x="38" y="308" type="line"/>
+      <point x="38" y="231" type="line"/>
+      <point x="145" y="231" type="line"/>
+      <point x="145" y="99" type="line"/>
+      <point x="38" y="99" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 18:29:30</string>
+    </dict>
+  </lib>
+</glyph>

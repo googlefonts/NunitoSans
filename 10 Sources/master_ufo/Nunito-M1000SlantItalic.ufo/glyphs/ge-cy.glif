@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-cy" format="2">
+  <advance width="500"/>
+  <unicode hex="0433"/>
+  <anchor x="29" y="0" name="bottomright"/>
+  <anchor x="194" y="248" name="center"/>
+  <anchor x="284" y="484" name="top"/>
+  <outline>
+    <contour>
+      <point x="118" y="-10" type="curve" smooth="yes"/>
+      <point x="187" y="-10"/>
+      <point x="227" y="26"/>
+      <point x="238" y="94" type="curve" smooth="yes"/>
+      <point x="276" y="334" type="line"/>
+      <point x="421" y="334" type="line" smooth="yes"/>
+      <point x="481" y="334"/>
+      <point x="517" y="371"/>
+      <point x="517" y="429" type="curve" smooth="yes"/>
+      <point x="517" y="470"/>
+      <point x="486" y="494"/>
+      <point x="431" y="494" type="curve" smooth="yes"/>
+      <point x="185" y="494" type="line" smooth="yes"/>
+      <point x="124" y="494"/>
+      <point x="88" y="463"/>
+      <point x="79" y="403" type="curve" smooth="yes"/>
+      <point x="33" y="111" type="line" smooth="yes"/>
+      <point x="21" y="35"/>
+      <point x="53" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

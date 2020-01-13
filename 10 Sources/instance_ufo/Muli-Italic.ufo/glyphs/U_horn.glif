@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="730.4578313253012"/>
+  <unicode hex="01AF"/>
+  <anchor x="336.2289156626506" y="0.0" name="bottom"/>
+  <anchor x="448.2289156626506" y="705.0" name="top"/>
+  <anchor x="404.03614457831327" y="0.0" name="ogonek"/>
+  <anchor x="663.3012048192771" y="705.0" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="horncomb.case" xOffset="591.3012048192771"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

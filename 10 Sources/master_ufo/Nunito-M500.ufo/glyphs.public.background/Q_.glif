@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <anchor x="377" y="0" name="bottom"/>
+  <anchor x="377" y="705" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="_part.Qtail" xOffset="2" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

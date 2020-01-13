@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Llinebelow" format="2">
+  <advance width="535.0120481927711"/>
+  <unicode hex="1E3A"/>
+  <anchor x="306.144578313253" y="-170.0" name="bottom"/>
+  <anchor x="166.95180722891567" y="387.0" name="center"/>
+  <anchor x="393.3855421686747" y="387.8313253012048" name="dot"/>
+  <anchor x="122.49397590361446" y="705.0" name="top"/>
+  <anchor x="271.67469879518075" y="705.0" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="macronbelowcomb" xOffset="306.144578313253"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

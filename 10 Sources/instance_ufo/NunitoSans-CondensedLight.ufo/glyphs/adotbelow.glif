@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adotbelow" format="2">
+  <advance width="436.5240963855422"/>
+  <unicode hex="1EA1"/>
+  <anchor x="221.5180722891566" y="-170.0" name="bottom"/>
+  <anchor x="362.49397590361446" y="0.0" name="ogonek"/>
+  <anchor x="223.7469879518072" y="484.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="dotbelowcomb" xOffset="221.5180722891566"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

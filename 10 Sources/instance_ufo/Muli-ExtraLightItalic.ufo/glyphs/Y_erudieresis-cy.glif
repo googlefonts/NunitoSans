@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yerudieresis-cy" format="2">
+  <advance width="833"/>
+  <unicode hex="04F8"/>
+  <anchor x="514" y="865" name="top"/>
+  <outline>
+    <component base="Yeru-cy"/>
+    <component base="dieresiscomb.case" xOffset="418"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:09:13</string>
+    </dict>
+  </lib>
+</glyph>

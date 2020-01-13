@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.ss02" format="2">
+  <advance width="451.2530120481928"/>
+  <anchor x="140.40963855421685" y="0.0" name="bottom"/>
+  <anchor x="140.40963855421685" y="395.0" name="center"/>
+  <anchor x="366.2168674698795" y="395.0" name="dot"/>
+  <anchor x="140.40963855421685" y="705.0" name="top"/>
+  <anchor x="263.2048192771084" y="705.0" name="topright"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="periodcentered.loclCAT" xOffset="366.3975903614458" yOffset="19.277108433734938"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/17 12:16:14</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

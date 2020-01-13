@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iebreve-cy" format="2">
+  <advance width="570.301204819277"/>
+  <unicode hex="04D7"/>
+  <anchor x="268.0240963855421" y="0.0" name="bottom"/>
+  <anchor x="374.71084337349396" y="0.0" name="ogonek"/>
+  <anchor x="335.83132530120486" y="484.0" name="top"/>
+  <outline>
+    <component base="ie-cy"/>
+    <component base="brevecomb-cy" xOffset="292.10843373493975"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

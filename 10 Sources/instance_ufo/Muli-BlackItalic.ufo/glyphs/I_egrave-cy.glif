@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iegrave-cy" format="2">
+  <advance width="603.3012048192771"/>
+  <unicode hex="0400"/>
+  <anchor x="299.3855421686747" y="0.0" name="bottom"/>
+  <anchor x="478.6626506024096" y="0.0" name="ogonek"/>
+  <anchor x="440.10843373493975" y="865.0" name="top"/>
+  <anchor x="90.44578313253012" y="705.0" name="topleft"/>
+  <outline>
+    <component base="Ie-cy"/>
+    <component base="gravecomb.case" xOffset="331.10843373493975"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

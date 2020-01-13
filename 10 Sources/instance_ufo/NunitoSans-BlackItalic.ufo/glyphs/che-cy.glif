@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="che-cy" format="2">
+  <advance width="600.1807228915662"/>
+  <unicode hex="0447"/>
+  <anchor x="335.2289156626506" y="0.0" name="bottomright"/>
+  <anchor x="282.77108433734935" y="200.0" name="center"/>
+  <anchor x="327.77108433734935" y="484.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="326.9518072289157" y="0.0" type="line"/>
+      <point x="501.03614457831327" y="0.0" type="line"/>
+      <point x="578.6746987951807" y="492.1927710843374" type="line"/>
+      <point x="400.6746987951807" y="492.1927710843374" type="line"/>
+      <point x="368.9518072289156" y="290.4096385542168" type="line"/>
+      <point x="352.08433734939763" y="281.34939759036143"/>
+      <point x="332.02409638554224" y="277.5421686746988"/>
+      <point x="310.710843373494" y="277.5421686746988" type="curve" smooth="yes"/>
+      <point x="246.03614457831327" y="277.5421686746988"/>
+      <point x="227.33734939759037" y="306.51807228915663"/>
+      <point x="238.7831325301205" y="377.4698795180723" type="curve" smooth="yes"/>
+      <point x="256.7831325301205" y="492.1927710843374" type="line"/>
+      <point x="78.7831325301205" y="492.1927710843374" type="line"/>
+      <point x="58.144578313253014" y="360.72289156626505" type="line" smooth="yes"/>
+      <point x="34.86746987951807" y="212.7831325301205"/>
+      <point x="108.6144578313253" y="136.3132530120482"/>
+      <point x="260.5542168674699" y="136.3132530120482" type="curve" smooth="yes"/>
+      <point x="290.9759036144578" y="136.3132530120482"/>
+      <point x="315.67469879518075" y="141.12048192771084"/>
+      <point x="351.12048192771084" y="152.73493975903614" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

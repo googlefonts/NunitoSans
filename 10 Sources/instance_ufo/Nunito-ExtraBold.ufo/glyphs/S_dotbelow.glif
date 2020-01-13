@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sdotbelow" format="2">
+  <advance width="641.0240963855422"/>
+  <unicode hex="1E62"/>
+  <anchor x="326.7590361445783" y="-170.0" name="bottom"/>
+  <anchor x="331.26506024096386" y="705.0" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="dotbelowcomb" xOffset="326.7590361445783"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

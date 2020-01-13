@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rcommaaccent" format="2">
+  <advance width="357.5421686746988"/>
+  <unicode hex="0157"/>
+  <anchor x="51.86746987951807" y="-170.0" name="bottom"/>
+  <anchor x="250.80722891566265" y="486.5301204819277" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="commaaccentcomb" xOffset="78.86746987951807"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

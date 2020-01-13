@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sdotaccent" format="2">
+  <advance width="565"/>
+  <unicode hex="1E61"/>
+  <anchor x="243" y="0" name="bottom"/>
+  <anchor x="356" y="705" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="dotaccentcomb" xOffset="283"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

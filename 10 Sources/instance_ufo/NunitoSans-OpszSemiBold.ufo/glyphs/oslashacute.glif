@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslashacute" format="2">
+  <advance width="640.6144578313254"/>
+  <unicode hex="01FF"/>
+  <anchor x="320.66265060240966" y="250.55421686746988" name="center"/>
+  <anchor x="320.95180722891564" y="692.1084337349398" name="top"/>
+  <outline>
+    <component base="oslash"/>
+    <component base="acutecomb" xOffset="320.95180722891564"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

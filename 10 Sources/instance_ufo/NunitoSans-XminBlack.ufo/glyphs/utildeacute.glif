@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="utildeacute" format="2">
+  <advance width="600.710843373494"/>
+  <unicode hex="1E79"/>
+  <anchor x="299.855421686747" y="0.0" name="bottom"/>
+  <anchor x="491.7710843373494" y="0.0" name="ogonek"/>
+  <anchor x="299.855421686747" y="484.3614457831325" name="top"/>
+  <anchor x="422.9156626506024" y="434.0" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="tildecomb_acutecomb" xOffset="299.855421686747" yOffset="0.3614457831325302"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

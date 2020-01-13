@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling" format="2">
+  <advance width="600"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="510" y="39" type="line"/>
+      <point x="168" y="39" type="line"/>
+      <point x="215" y="335" type="line"/>
+      <point x="407" y="335" type="line"/>
+      <point x="413" y="371" type="line"/>
+      <point x="221" y="371" type="line"/>
+      <point x="245" y="524" type="line" smooth="yes"/>
+      <point x="260" y="622"/>
+      <point x="320" y="672"/>
+      <point x="418" y="672" type="curve" smooth="yes"/>
+      <point x="495" y="672"/>
+      <point x="548" y="647"/>
+      <point x="587" y="593" type="curve"/>
+      <point x="610" y="630" type="line"/>
+      <point x="574" y="679"/>
+      <point x="504" y="713"/>
+      <point x="421" y="713" type="curve" smooth="yes"/>
+      <point x="290" y="713"/>
+      <point x="223" y="646"/>
+      <point x="203" y="522" type="curve" smooth="yes"/>
+      <point x="179" y="371" type="line"/>
+      <point x="68" y="371" type="line"/>
+      <point x="62" y="335" type="line"/>
+      <point x="173" y="335" type="line"/>
+      <point x="126" y="39" type="line"/>
+      <point x="16" y="39" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 18:30:06</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescender-cy" format="2">
+  <advance width="651"/>
+  <unicode hex="04B2"/>
+  <anchor x="503" y="0" name="bottomright"/>
+  <anchor x="334" y="363" name="center"/>
+  <anchor x="390" y="705" name="top"/>
+  <outline>
+    <component base="Ha-cy"/>
+    <component base="__descender-cy.case.cy" xOffset="542"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Kadescender-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+20</string>
+    </dict>
+  </lib>
+</glyph>

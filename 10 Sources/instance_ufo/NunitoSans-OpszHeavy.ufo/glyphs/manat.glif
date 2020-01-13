@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat" format="2">
+  <advance width="600"/>
+  <unicode hex="20BC"/>
+  <outline>
+    <contour>
+      <point x="13" y="0" type="line"/>
+      <point x="171" y="0" type="line"/>
+      <point x="171" y="289" type="line" smooth="yes"/>
+      <point x="171" y="357"/>
+      <point x="193" y="414"/>
+      <point x="255" y="414" type="curve"/>
+      <point x="245" y="414" type="line"/>
+      <point x="245" y="160" type="line"/>
+      <point x="355" y="160" type="line"/>
+      <point x="355" y="414" type="line"/>
+      <point x="345" y="414" type="line"/>
+      <point x="403" y="414"/>
+      <point x="429" y="366"/>
+      <point x="429" y="289" type="curve" smooth="yes"/>
+      <point x="429" y="0" type="line"/>
+      <point x="587" y="0" type="line"/>
+      <point x="587" y="230" type="line" smooth="yes"/>
+      <point x="587" y="384"/>
+      <point x="547" y="538"/>
+      <point x="355" y="567" type="curve"/>
+      <point x="380" y="534" type="line"/>
+      <point x="380" y="705" type="line"/>
+      <point x="220" y="705" type="line"/>
+      <point x="220" y="534" type="line"/>
+      <point x="245" y="567" type="line"/>
+      <point x="53" y="538"/>
+      <point x="13" y="384"/>
+      <point x="13" y="230" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 18:29:40</string>
+    </dict>
+  </lib>
+</glyph>

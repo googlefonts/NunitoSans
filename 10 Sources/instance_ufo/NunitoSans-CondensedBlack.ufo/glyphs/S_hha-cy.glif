@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shha-cy" format="2">
+  <advance width="600.8915662650603"/>
+  <unicode hex="04BA"/>
+  <anchor x="393.83132530120486" y="0.0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="52.048192771084345" y="0.0" type="line"/>
+      <point x="220.13253012048193" y="0.0" type="line"/>
+      <point x="220.13253012048193" y="309.5903614457832" type="line"/>
+      <point x="243.10843373493975" y="324.3855421686747"/>
+      <point x="269.34939759036143" y="331.1927710843374"/>
+      <point x="297.6746987951807" y="331.1927710843374" type="curve" smooth="yes"/>
+      <point x="367.13253012048193" y="331.1927710843374"/>
+      <point x="394.19277108433727" y="292.49397590361446"/>
+      <point x="394.19277108433727" y="193.12048192771084" type="curve" smooth="yes"/>
+      <point x="394.19277108433727" y="0.0" type="line"/>
+      <point x="562.2771084337348" y="0.0" type="line"/>
+      <point x="562.2771084337348" y="195.8433734939759" type="line" smooth="yes"/>
+      <point x="562.2771084337348" y="380.3132530120482"/>
+      <point x="487.2650602409638" y="472.8795180722891"/>
+      <point x="331.0722891566265" y="472.8795180722891" type="curve" smooth="yes"/>
+      <point x="289.5542168674699" y="472.8795180722891"/>
+      <point x="250.578313253012" y="464.25301204819283"/>
+      <point x="220.13253012048193" y="449.3614457831326" type="curve"/>
+      <point x="220.13253012048193" y="705.0" type="line"/>
+      <point x="52.048192771084345" y="705.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

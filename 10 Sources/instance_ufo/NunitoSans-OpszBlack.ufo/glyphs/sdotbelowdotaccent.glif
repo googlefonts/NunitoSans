@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sdotbelowdotaccent" format="2">
+  <advance width="573.2032168674698"/>
+  <unicode hex="1E69"/>
+  <anchor x="291.1927710843374" y="-170.0" name="bottom"/>
+  <anchor x="297.7469879518072" y="701.722891566265" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="dotbelowcomb" xOffset="291.1927710843374"/>
+    <component base="dotaccentcomb" xOffset="297.7469879518072"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

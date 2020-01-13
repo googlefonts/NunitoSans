@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etilde" format="2">
+  <advance width="669.5060240963855"/>
+  <unicode hex="1EBC"/>
+  <anchor x="353.55421686746985" y="0.0" name="bottom"/>
+  <anchor x="537.0602409638554" y="0.0" name="ogonek"/>
+  <anchor x="353.55421686746985" y="865.0" name="top"/>
+  <anchor x="51.31325301204819" y="705.0" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="tildecomb.case" xOffset="353.55421686746985"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestrokehook-cy" format="2">
+  <advance width="465"/>
+  <unicode hex="04FA"/>
+  <outline>
+    <contour>
+      <point x="82" y="-180" type="line"/>
+      <point x="110" y="-178" type="line" smooth="yes"/>
+      <point x="184" y="-173"/>
+      <point x="229" y="-122"/>
+      <point x="229" y="-2" type="curve" smooth="yes"/>
+      <point x="229" y="34" type="line"/>
+      <point x="147" y="34" type="line"/>
+      <point x="147" y="341" type="line"/>
+      <point x="300" y="341" type="line"/>
+      <point x="300" y="375" type="line"/>
+      <point x="147" y="375" type="line"/>
+      <point x="147" y="670" type="line"/>
+      <point x="449" y="670" type="line"/>
+      <point x="449" y="705" type="line"/>
+      <point x="109" y="705" type="line"/>
+      <point x="109" y="375" type="line"/>
+      <point x="28" y="375" type="line"/>
+      <point x="28" y="341" type="line"/>
+      <point x="109" y="341" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="-98"/>
+      <point x="165" y="-138"/>
+      <point x="106" y="-142" type="curve" smooth="yes"/>
+      <point x="79" y="-144" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>Ghestroke-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

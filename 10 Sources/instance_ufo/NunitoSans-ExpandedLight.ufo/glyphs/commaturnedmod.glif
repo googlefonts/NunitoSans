@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedmod" format="2">
+  <advance width="500.0"/>
+  <unicode hex="02BB"/>
+  <anchor x="250.8855421686747" y="484.0" name="_top"/>
+  <anchor x="250.8855421686747" y="685.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="205.27710843373495" y="568.6265060240963" type="line"/>
+      <point x="293.18072289156623" y="568.6265060240963" type="line"/>
+      <point x="293.18072289156623" y="652.1265060240963" type="line"/>
+      <point x="236.45180722891567" y="652.1265060240963" type="line"/>
+      <point x="253.74096385542168" y="642.1506024096386" type="line"/>
+      <point x="253.85542168674698" y="677.4638554216867"/>
+      <point x="264.5421686746988" y="699.1506024096386"/>
+      <point x="291.71686746987956" y="727.9819277108434" type="curve"/>
+      <point x="260.9698795180723" y="753.5" type="line"/>
+      <point x="223.42168674698794" y="720.7530120481928"/>
+      <point x="205.27710843373495" y="684.0361445783133"/>
+      <point x="205.27710843373495" y="630.8915662650603" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

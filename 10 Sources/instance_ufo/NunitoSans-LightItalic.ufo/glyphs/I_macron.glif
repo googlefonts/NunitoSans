@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Imacron" format="2">
+  <advance width="244.9879518072289"/>
+  <unicode hex="012A"/>
+  <anchor x="84.26506024096385" y="0.0" name="bottom"/>
+  <anchor x="108.69879518072291" y="0.0" name="ogonek"/>
+  <anchor x="221.49397590361446" y="865.0" name="top"/>
+  <anchor x="100.62650602409637" y="705.0" name="topleft"/>
+  <outline>
+    <component base="I"/>
+    <component base="macroncomb.case" xOffset="196.26506024096386"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

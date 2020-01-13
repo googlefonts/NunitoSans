@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lj" format="2">
+  <advance width="821"/>
+  <unicode hex="01C8"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="187" y="387" name="center"/>
+  <anchor x="425" y="394" name="dot"/>
+  <anchor x="141" y="705" name="top"/>
+  <anchor x="311" y="705" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="j" xOffset="562"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

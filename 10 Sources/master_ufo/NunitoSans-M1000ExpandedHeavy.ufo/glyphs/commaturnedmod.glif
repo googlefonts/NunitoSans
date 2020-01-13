@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedmod" format="2">
+  <advance width="500"/>
+  <unicode hex="02BB"/>
+  <anchor x="250" y="484" name="_top"/>
+  <anchor x="250" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="160" y="558" type="line"/>
+      <point x="340" y="558" type="line"/>
+      <point x="340" y="714" type="line"/>
+      <point x="208" y="714" type="line"/>
+      <point x="244" y="682" type="line"/>
+      <point x="245" y="712"/>
+      <point x="261" y="739"/>
+      <point x="304" y="782" type="curve"/>
+      <point x="252" y="826" type="line"/>
+      <point x="187" y="772"/>
+      <point x="160" y="723"/>
+      <point x="160" y="660" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

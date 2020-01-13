@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bhook" format="2">
+  <outline>
+    <contour>
+      <point x="335" y="-8" type="curve" smooth="yes"/>
+      <point x="493" y="-8"/>
+      <point x="615" y="85"/>
+      <point x="638" y="232" type="curve" smooth="yes"/>
+      <point x="663" y="389"/>
+      <point x="572" y="492"/>
+      <point x="409" y="492" type="curve" smooth="yes"/>
+      <point x="299" y="492"/>
+      <point x="200" y="438"/>
+      <point x="157" y="355" type="curve"/>
+      <point x="171" y="355" type="line"/>
+      <point x="227" y="705" type="line"/>
+      <point x="181" y="705" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="135" y="129" type="line"/>
+      <point x="123" y="129" type="line"/>
+      <point x="145" y="46"/>
+      <point x="225" y="-8"/>
+    </contour>
+    <contour>
+      <point x="339" y="34" type="curve" smooth="yes"/>
+      <point x="203" y="34"/>
+      <point x="132" y="114"/>
+      <point x="152" y="242" type="curve" smooth="yes"/>
+      <point x="173" y="370"/>
+      <point x="269" y="450"/>
+      <point x="405" y="450" type="curve" smooth="yes"/>
+      <point x="541" y="450"/>
+      <point x="613" y="370"/>
+      <point x="592" y="242" type="curve" smooth="yes"/>
+      <point x="572" y="114"/>
+      <point x="475" y="34"/>
+    </contour>
+  </outline>
+</glyph>

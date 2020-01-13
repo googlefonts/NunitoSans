@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eogonek" format="2">
+  <advance width="570"/>
+  <unicode hex="0118"/>
+  <guideline x="483" y="8" angle="81"/>
+  <anchor x="396" y="705" name="top"/>
+  <anchor x="289" y="0" name="bottom"/>
+  <anchor x="449" y="0" name="ogonek"/>
+  <anchor x="101" y="705" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="ogonekcomb" xOffset="449"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

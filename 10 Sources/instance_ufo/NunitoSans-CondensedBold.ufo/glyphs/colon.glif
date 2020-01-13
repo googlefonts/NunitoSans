@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="217.0"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="46.0" y="361.0" type="line"/>
+      <point x="171.0" y="361.0" type="line"/>
+      <point x="171.0" y="489.0" type="line"/>
+      <point x="46.0" y="489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="46.0" y="0.0" type="line"/>
+      <point x="171.0" y="0.0" type="line"/>
+      <point x="171.0" y="129.0" type="line"/>
+      <point x="46.0" y="129.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

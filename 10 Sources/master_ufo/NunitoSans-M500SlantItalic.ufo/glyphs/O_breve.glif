@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obreve" format="2">
+  <advance width="785"/>
+  <unicode hex="014E"/>
+  <anchor x="367" y="-10" name="Qtail"/>
+  <anchor x="363" y="0" name="bottom"/>
+  <anchor x="410" y="353" name="center"/>
+  <anchor x="428" y="0" name="ogonek"/>
+  <anchor x="469" y="865" name="top"/>
+  <anchor x="99" y="705" name="topleft"/>
+  <anchor x="509" y="705" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="brevecomb.case" xOffset="453"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

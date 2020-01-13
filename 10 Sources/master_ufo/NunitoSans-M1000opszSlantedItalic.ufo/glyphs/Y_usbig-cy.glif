@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yusbig-cy" format="2">
+  <advance width="1217"/>
+  <unicode hex="046A"/>
+  <guideline x="600" y="256" angle="90"/>
+  <outline>
+    <contour>
+      <point x="-26" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="353" y="195" type="line" smooth="yes"/>
+      <point x="377" y="234"/>
+      <point x="400" y="259"/>
+      <point x="465" y="259" type="curve" smooth="yes"/>
+      <point x="496" y="259" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="680" y="0" type="line"/>
+      <point x="721" y="259" type="line"/>
+      <point x="752" y="259" type="line" smooth="yes"/>
+      <point x="817" y="259"/>
+      <point x="838" y="234"/>
+      <point x="850" y="195" type="curve" smooth="yes"/>
+      <point x="908" y="0" type="line"/>
+      <point x="1153" y="0" type="line"/>
+      <point x="1064" y="270" type="line" smooth="yes"/>
+      <point x="1029" y="375"/>
+      <point x="934" y="430"/>
+      <point x="817" y="430" type="curve" smooth="yes"/>
+      <point x="805" y="430" type="line"/>
+      <point x="838" y="384" type="line"/>
+      <point x="1180" y="705" type="line"/>
+      <point x="179" y="705" type="line"/>
+      <point x="419" y="384" type="line"/>
+      <point x="466" y="430" type="line"/>
+      <point x="454" y="430" type="line" smooth="yes"/>
+      <point x="337" y="430"/>
+      <point x="217" y="375"/>
+      <point x="149" y="270" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="623" y="398" type="line"/>
+      <point x="483" y="606" type="line"/>
+      <point x="466" y="565" type="line"/>
+      <point x="841" y="565" type="line"/>
+      <point x="838" y="606" type="line"/>
+      <point x="631" y="398" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:33:16</string>
+    </dict>
+  </lib>
+</glyph>

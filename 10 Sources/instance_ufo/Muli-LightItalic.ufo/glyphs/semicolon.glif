@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="219.46987951807228"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="46.746987951807235" y="-106.01204819277109" type="line"/>
+      <point x="92.3855421686747" y="-70.97590361445783"/>
+      <point x="110.90361445783132" y="-32.08433734939759"/>
+      <point x="117.81927710843372" y="15.86746987951807" type="curve" smooth="yes"/>
+      <point x="128.42168674698794" y="85.79518072289156" type="line"/>
+      <point x="43.39759036144579" y="85.79518072289156" type="line"/>
+      <point x="29.879518072289162" y="0.0" type="line"/>
+      <point x="83.78313253012047" y="0.0" type="line"/>
+      <point x="71.57831325301204" y="11.265060240963855" type="line"/>
+      <point x="67.12048192771084" y="-18.626506024096386"/>
+      <point x="56.37349397590361" y="-46.68674698795181"/>
+      <point x="18.710843373493976" y="-81.43373493975903" type="curve"/>
+    </contour>
+    <contour>
+      <point x="92.81927710843374" y="415.34939759036143" type="line"/>
+      <point x="178.0722891566265" y="415.34939759036143" type="line"/>
+      <point x="191.59036144578312" y="501.144578313253" type="line"/>
+      <point x="106.33734939759037" y="501.144578313253" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="211"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="71" y="527" type="line"/>
+      <point x="140" y="527" type="line"/>
+      <point x="140" y="597" type="line"/>
+      <point x="90" y="597" type="line"/>
+      <point x="109" y="592" type="line"/>
+      <point x="109" y="627"/>
+      <point x="113" y="654"/>
+      <point x="143" y="691" type="curve"/>
+      <point x="115" y="710" type="line"/>
+      <point x="82" y="675"/>
+      <point x="71" y="635"/>
+      <point x="71" y="584" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

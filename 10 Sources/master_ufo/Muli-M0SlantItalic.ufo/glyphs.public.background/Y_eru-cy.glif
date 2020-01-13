@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yeru-cy" format="2">
+  <anchor x="489" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="307" y="0" type="line" smooth="yes"/>
+      <point x="457" y="0"/>
+      <point x="551" y="64"/>
+      <point x="571" y="191" type="curve" smooth="yes"/>
+      <point x="591" y="318"/>
+      <point x="517" y="379"/>
+      <point x="367" y="379" type="curve" smooth="yes"/>
+      <point x="159" y="379" type="line"/>
+      <point x="211" y="705" type="line"/>
+      <point x="169" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="105" y="39" type="line"/>
+      <point x="153" y="340" type="line"/>
+      <point x="360" y="340" type="line" smooth="yes"/>
+      <point x="488" y="340"/>
+      <point x="542" y="292"/>
+      <point x="526" y="190" type="curve" smooth="yes"/>
+      <point x="510" y="88"/>
+      <point x="440" y="39"/>
+      <point x="312" y="39" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="654" y="0" type="line"/>
+      <point x="696" y="0" type="line"/>
+      <point x="808" y="705" type="line"/>
+      <point x="766" y="705" type="line"/>
+    </contour>
+  </outline>
+</glyph>

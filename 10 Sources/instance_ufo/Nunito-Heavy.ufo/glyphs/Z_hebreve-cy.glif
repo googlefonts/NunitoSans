@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhebreve-cy" format="2">
+  <advance width="1100"/>
+  <unicode hex="04C1"/>
+  <anchor x="877" y="0" name="bottomright"/>
+  <anchor x="550" y="705" name="top"/>
+  <outline>
+    <component base="Zhe-cy"/>
+    <component base="brevecomb-cy.case" xOffset="550"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

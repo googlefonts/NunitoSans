@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shhadescender-cy" format="2">
+  <advance width="741"/>
+  <unicode hex="0526"/>
+  <outline>
+    <contour>
+      <point x="565" y="-165" type="line"/>
+      <point x="679" y="-165" type="line"/>
+      <point x="722" y="103" type="line"/>
+      <point x="621" y="103" type="line"/>
+      <point x="630" y="158" type="line" smooth="yes"/>
+      <point x="660" y="351"/>
+      <point x="565" y="459"/>
+      <point x="390" y="459" type="curve" smooth="yes"/>
+      <point x="334" y="459"/>
+      <point x="273" y="448"/>
+      <point x="234" y="430" type="curve"/>
+      <point x="278" y="705" type="line"/>
+      <point x="150" y="705" type="line"/>
+      <point x="38" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="217" y="319" type="line"/>
+      <point x="261" y="341"/>
+      <point x="317" y="349"/>
+      <point x="365" y="349" type="curve" smooth="yes"/>
+      <point x="478" y="349"/>
+      <point x="524" y="292"/>
+      <point x="502" y="157" type="curve" smooth="yes"/>
+      <point x="477" y="0" type="line"/>
+      <point x="591" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

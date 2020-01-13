@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Be-cy" format="2">
+  <advance width="671.2650602409639"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="52.65060240963855" y="0.0" type="line"/>
+      <point x="353.26506024096386" y="0.0" type="line" smooth="yes"/>
+      <point x="495.5542168674699" y="0.0"/>
+      <point x="591.156626506024" y="63.542168674698786"/>
+      <point x="609.6144578313252" y="183.06024096385542" type="curve" smooth="yes"/>
+      <point x="631.0722891566264" y="318.49397590361446"/>
+      <point x="553.0120481927711" y="386.09638554216866"/>
+      <point x="398.9518072289157" y="386.09638554216866" type="curve" smooth="yes"/>
+      <point x="174.33734939759037" y="386.09638554216866" type="line"/>
+      <point x="216.13253012048193" y="652.0361445783133" type="line"/>
+      <point x="616.722891566265" y="652.0361445783133" type="line"/>
+      <point x="626.0120481927711" y="705.0" type="line"/>
+      <point x="164.65060240963857" y="705.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="121.48192771084338" y="52.734939759036145" type="line"/>
+      <point x="166.27710843373495" y="333.3614457831325" type="line"/>
+      <point x="394.8313253012048" y="333.3614457831325" type="line" smooth="yes"/>
+      <point x="515.277108433735" y="333.3614457831325"/>
+      <point x="563.6144578313254" y="288.56626506024094"/>
+      <point x="548.5301204819277" y="191.43373493975903" type="curve" smooth="yes"/>
+      <point x="532.9036144578314" y="94.98795180722891"/>
+      <point x="468.710843373494" y="52.734939759036145"/>
+      <point x="348.26506024096386" y="52.734939759036145" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

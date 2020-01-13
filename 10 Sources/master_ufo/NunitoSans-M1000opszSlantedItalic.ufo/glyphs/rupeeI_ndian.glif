@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rupeeIndian" format="2">
+  <advance width="600"/>
+  <unicode hex="20B9"/>
+  <outline>
+    <contour>
+      <point x="306" y="0" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="465" y="178" type="line" smooth="yes"/>
+      <point x="436" y="231"/>
+      <point x="403" y="243"/>
+      <point x="361" y="250" type="curve" smooth="yes"/>
+      <point x="348" y="252" type="line"/>
+      <point x="349" y="260" type="line"/>
+      <point x="401" y="268"/>
+      <point x="486" y="318"/>
+      <point x="513" y="451" type="curve"/>
+      <point x="475" y="414" type="line"/>
+      <point x="606" y="414" type="line"/>
+      <point x="623" y="522" type="line"/>
+      <point x="489" y="522" type="line"/>
+      <point x="519" y="499" type="line"/>
+      <point x="521" y="539"/>
+      <point x="517" y="590"/>
+      <point x="493" y="611" type="curve"/>
+      <point x="480" y="597" type="line"/>
+      <point x="635" y="597" type="line"/>
+      <point x="652" y="705" type="line"/>
+      <point x="92" y="705" type="line"/>
+      <point x="75" y="597" type="line"/>
+      <point x="246" y="597" type="line" smooth="yes"/>
+      <point x="301" y="597"/>
+      <point x="329" y="551"/>
+      <point x="325" y="510" type="curve"/>
+      <point x="353" y="522" type="line"/>
+      <point x="63" y="522" type="line"/>
+      <point x="46" y="414" type="line"/>
+      <point x="336" y="414" type="line"/>
+      <point x="314" y="427" type="line"/>
+      <point x="297" y="356"/>
+      <point x="250" y="339"/>
+      <point x="205" y="339" type="curve" smooth="yes"/>
+      <point x="34" y="339" type="line"/>
+      <point x="17" y="231" type="line"/>
+      <point x="156" y="231" type="line" smooth="yes"/>
+      <point x="176" y="231"/>
+      <point x="189" y="220"/>
+      <point x="198" y="203" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

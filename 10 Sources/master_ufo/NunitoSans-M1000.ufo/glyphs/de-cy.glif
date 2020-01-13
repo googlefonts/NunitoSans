@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="de-cy" format="2">
+  <advance width="667"/>
+  <unicode hex="0434"/>
+  <outline>
+    <contour>
+      <point x="25" y="-130" type="line"/>
+      <point x="200" y="-130" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="483" y="-130" type="line"/>
+      <point x="658" y="-130" type="line"/>
+      <point x="658" y="154" type="line"/>
+      <point x="573" y="154" type="line"/>
+      <point x="573" y="494" type="line"/>
+      <point x="123" y="494" type="line"/>
+      <point x="123" y="364" type="line" smooth="yes"/>
+      <point x="123" y="258"/>
+      <point x="114" y="203"/>
+      <point x="90" y="154" type="curve"/>
+      <point x="25" y="154" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="153" type="line"/>
+      <point x="286" y="191"/>
+      <point x="296" y="253"/>
+      <point x="296" y="305" type="curve" smooth="yes"/>
+      <point x="296" y="338" type="line"/>
+      <point x="380" y="338" type="line"/>
+      <point x="380" y="153" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

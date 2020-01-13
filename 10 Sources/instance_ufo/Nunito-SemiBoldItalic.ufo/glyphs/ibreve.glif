@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve" format="2">
+  <advance width="242.56626506024097"/>
+  <unicode hex="012D"/>
+  <anchor x="82.92771084337349" y="0.0" name="bottom"/>
+  <anchor x="114.59036144578313" y="0.0" name="ogonek"/>
+  <anchor x="184.50602409638554" y="685.0" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="brevecomb" xOffset="160.2168674698795"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

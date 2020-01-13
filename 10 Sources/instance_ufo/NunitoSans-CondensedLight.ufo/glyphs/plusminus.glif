@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plusminus" format="2">
+  <advance width="498.0"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="224.62048192771087" y="110.18072289156626" type="line"/>
+      <point x="273.37951807228916" y="110.18072289156626" type="line"/>
+      <point x="273.37951807228916" y="302.0542168674699" type="line"/>
+      <point x="466.0" y="302.0542168674699" type="line"/>
+      <point x="466.0" y="347.1265060240964" type="line"/>
+      <point x="273.37951807228916" y="347.1265060240964" type="line"/>
+      <point x="273.37951807228916" y="537.4277108433735" type="line"/>
+      <point x="224.62048192771087" y="537.4277108433735" type="line"/>
+      <point x="224.62048192771087" y="347.1265060240964" type="line"/>
+      <point x="32.0" y="347.1265060240964" type="line"/>
+      <point x="32.0" y="302.0542168674699" type="line"/>
+      <point x="224.62048192771087" y="302.0542168674699" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.0" y="0.0" type="line"/>
+      <point x="466.0" y="0.0" type="line"/>
+      <point x="466.0" y="45.30120481927711" type="line"/>
+      <point x="32.0" y="45.30120481927711" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

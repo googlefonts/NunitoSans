@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="185"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="31" y="-98" type="line"/>
+      <point x="62" y="-68"/>
+      <point x="80" y="-32"/>
+      <point x="87" y="11" type="curve" smooth="yes"/>
+      <point x="95" y="63" type="line"/>
+      <point x="34" y="63" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="53" y="8" type="line"/>
+      <point x="47" y="-31"/>
+      <point x="37" y="-53"/>
+      <point x="11" y="-79" type="curve"/>
+    </contour>
+    <contour>
+      <point x="91" y="420" type="line"/>
+      <point x="152" y="420" type="line"/>
+      <point x="162" y="484" type="line"/>
+      <point x="101" y="484" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

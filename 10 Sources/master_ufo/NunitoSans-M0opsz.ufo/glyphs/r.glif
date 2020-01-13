@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r" format="2">
+  <advance width="423"/>
+  <unicode hex="0072"/>
+  <anchor x="133" y="0" name="bottom"/>
+  <anchor x="235" y="484" name="top"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="292" type="line" smooth="yes"/>
+      <point x="158" y="373"/>
+      <point x="223" y="439"/>
+      <point x="326" y="447" type="curve" smooth="yes"/>
+      <point x="392" y="452" type="line"/>
+      <point x="387" y="502" type="line"/>
+      <point x="344" y="500" type="line" smooth="yes"/>
+      <point x="259" y="496"/>
+      <point x="187" y="455"/>
+      <point x="161" y="390" type="curve"/>
+      <point x="156" y="390" type="line"/>
+      <point x="156" y="494" type="line"/>
+      <point x="106" y="494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

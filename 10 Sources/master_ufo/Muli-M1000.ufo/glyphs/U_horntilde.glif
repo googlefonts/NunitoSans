@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorntilde" format="2">
+  <advance width="758"/>
+  <unicode hex="1EEE"/>
+  <anchor x="389" y="0" name="bottom"/>
+  <anchor x="492" y="0" name="ogonek"/>
+  <anchor x="389" y="865" name="top"/>
+  <anchor x="575" y="705" name="topright"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="tildecomb.case.O" xOffset="389"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdieresis" format="2">
+  <advance width="1137"/>
+  <unicode hex="1E84"/>
+  <anchor x="569" y="0" name="bottom"/>
+  <anchor x="569" y="865" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="dieresiscomb.case" xOffset="569"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

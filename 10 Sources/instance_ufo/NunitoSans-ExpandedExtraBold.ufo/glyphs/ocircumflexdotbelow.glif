@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexdotbelow" format="2">
+  <advance width="723.7831325301205"/>
+  <unicode hex="1ED9"/>
+  <anchor x="361.89156626506025" y="-170.0" name="bottom"/>
+  <anchor x="360.51807228915663" y="245.6265060240964" name="center"/>
+  <anchor x="408.93373493975906" y="0.0" name="ogonek"/>
+  <anchor x="361.89156626506025" y="685.0" name="top"/>
+  <anchor x="428.3975903614458" y="484.0" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="dotbelowcomb" xOffset="361.89156626506025"/>
+    <component base="circumflexcomb" xOffset="361.89156626506025"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yi-cy" format="2">
+  <advance width="268.12048192771084"/>
+  <unicode hex="0407"/>
+  <anchor x="134.06024096385542" y="0.0" name="bottom"/>
+  <anchor x="166.43373493975903" y="0.0" name="ogonek"/>
+  <anchor x="134.06024096385542" y="865.0" name="top"/>
+  <anchor x="24.44578313253012" y="705.0" name="topleft"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresiscomb.case" xOffset="134.06024096385542"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

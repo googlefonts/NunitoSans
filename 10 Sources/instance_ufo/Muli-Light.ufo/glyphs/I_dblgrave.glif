@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idblgrave" format="2">
+  <advance width="246.9879518072289"/>
+  <unicode hex="0208"/>
+  <anchor x="123.49397590361446" y="0.0" name="bottom"/>
+  <anchor x="148.1566265060241" y="0.0" name="ogonek"/>
+  <anchor x="123.49397590361446" y="865.0" name="top"/>
+  <anchor x="25.08433734939759" y="705.0" name="topleft"/>
+  <outline>
+    <component base="I"/>
+    <component base="dblgravecomb.case" xOffset="123.49397590361446"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb.cy" format="2">
+  <anchor x="0" y="319" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-220" y="264" type="curve" smooth="yes"/>
+      <point x="220" y="264" type="line" smooth="yes"/>
+      <point x="258" y="264"/>
+      <point x="279" y="284"/>
+      <point x="279" y="320" type="curve" smooth="yes"/>
+      <point x="279" y="356"/>
+      <point x="258" y="375"/>
+      <point x="220" y="375" type="curve" smooth="yes"/>
+      <point x="-220" y="375" type="line" smooth="yes"/>
+      <point x="-258" y="375"/>
+      <point x="-279" y="355"/>
+      <point x="-279" y="320" type="curve" smooth="yes"/>
+      <point x="-279" y="284"/>
+      <point x="-258" y="264"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="io-cy" format="2">
+  <advance width="557.6626506024096"/>
+  <unicode hex="0451"/>
+  <anchor x="297.2409638554217" y="0.0" name="bottom"/>
+  <anchor x="382.5903614457831" y="0.0" name="ogonek"/>
+  <anchor x="292.9759036144578" y="685.0" name="top"/>
+  <outline>
+    <component base="ie-cy"/>
+    <component base="dieresiscomb" xOffset="292.9759036144578"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

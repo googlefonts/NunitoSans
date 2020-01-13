@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="306.27710843373495"/>
+  <unicode hex="006C"/>
+  <anchor x="152.24096385542168" y="0.0" name="bottom"/>
+  <anchor x="149.63855421686748" y="357.0" name="center"/>
+  <anchor x="308.86746987951807" y="357.0" name="dot"/>
+  <anchor x="194.2168674698795" y="705.0" name="top"/>
+  <anchor x="287.6746987951807" y="705.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="192.63855421686748" y="-9.421686746987952" type="curve" smooth="yes"/>
+      <point x="213.74698795180723" y="-9.421686746987952"/>
+      <point x="237.3012048192771" y="-6.710843373493976"/>
+      <point x="255.85542168674698" y="-1.0" type="curve"/>
+      <point x="270.5421686746988" y="78.93975903614458" type="line"/>
+      <point x="254.96385542168673" y="76.36144578313252"/>
+      <point x="239.6746987951807" y="74.36144578313254"/>
+      <point x="224.80722891566265" y="74.36144578313254" type="curve" smooth="yes"/>
+      <point x="170.33734939759034" y="74.36144578313254"/>
+      <point x="149.1807228915663" y="101.80722891566265"/>
+      <point x="159.33734939759037" y="167.1686746987952" type="curve" smooth="yes"/>
+      <point x="244.7831325301205" y="705.0" type="line"/>
+      <point x="143.7831325301205" y="705.0" type="line"/>
+      <point x="58.33734939759036" y="166.45783132530119" type="line" smooth="yes"/>
+      <point x="40.204819277108435" y="50.81927710843374"/>
+      <point x="88.3132530120482" y="-9.421686746987952"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishorttail-cy" format="2">
+  <advance width="909"/>
+  <unicode hex="048A"/>
+  <outline>
+    <contour>
+      <point x="797" y="-150" type="line"/>
+      <point x="839" y="-150" type="line"/>
+      <point x="916" y="42" type="line"/>
+      <point x="788" y="42" type="line"/>
+      <point x="788" y="705" type="line"/>
+      <point x="746" y="705" type="line"/>
+      <point x="148" y="51" type="line"/>
+      <point x="162" y="45" type="line"/>
+      <point x="162" y="705" type="line"/>
+      <point x="118" y="705" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="758" y="655" type="line"/>
+      <point x="744" y="661" type="line"/>
+      <point x="744" y="0" type="line"/>
+      <point x="859" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="760" type="curve" smooth="yes"/>
+      <point x="569" y="760"/>
+      <point x="645" y="799"/>
+      <point x="677" y="885" type="curve"/>
+      <point x="642" y="898" type="line"/>
+      <point x="616" y="829"/>
+      <point x="551" y="798"/>
+      <point x="453" y="798" type="curve" smooth="yes"/>
+      <point x="355" y="798"/>
+      <point x="290" y="829"/>
+      <point x="264" y="898" type="curve"/>
+      <point x="229" y="885" type="line"/>
+      <point x="261" y="799"/>
+      <point x="337" y="760"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:22:09</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

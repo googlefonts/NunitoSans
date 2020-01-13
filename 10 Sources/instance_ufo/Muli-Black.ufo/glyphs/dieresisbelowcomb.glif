@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb" format="2">
+  <unicode hex="0324"/>
+  <anchor x="0.0" y="0.0" name="_bottom"/>
+  <anchor x="0.0" y="-170.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="28.698795180722897" y="-205.40963855421688" type="line"/>
+      <point x="177.5421686746988" y="-205.40963855421688" type="line"/>
+      <point x="177.5421686746988" y="-56.289156626506035" type="line"/>
+      <point x="28.698795180722897" y="-56.289156626506035" type="line"/>
+    </contour>
+    <contour>
+      <point x="-177.5421686746988" y="-205.40963855421688" type="line"/>
+      <point x="-28.698795180722897" y="-205.40963855421688" type="line"/>
+      <point x="-28.698795180722897" y="-56.289156626506035" type="line"/>
+      <point x="-177.5421686746988" y="-56.289156626506035" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shha-cy" format="2">
+  <advance width="613"/>
+  <unicode hex="04BA"/>
+  <anchor x="381" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="242" y="302" type="line"/>
+      <point x="261" y="313"/>
+      <point x="282" y="318"/>
+      <point x="304" y="318" type="curve" smooth="yes"/>
+      <point x="359" y="318"/>
+      <point x="381" y="284"/>
+      <point x="381" y="198" type="curve" smooth="yes"/>
+      <point x="381" y="0" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="578" y="200" type="line" smooth="yes"/>
+      <point x="578" y="387"/>
+      <point x="501" y="483"/>
+      <point x="343" y="483" type="curve" smooth="yes"/>
+      <point x="306" y="483"/>
+      <point x="271" y="476"/>
+      <point x="242" y="464" type="curve"/>
+      <point x="242" y="705" type="line"/>
+      <point x="45" y="705" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

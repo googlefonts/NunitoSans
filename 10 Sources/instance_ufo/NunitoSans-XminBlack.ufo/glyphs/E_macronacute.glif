@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacronacute" format="2">
+  <advance width="614.2409638554217"/>
+  <unicode hex="1E16"/>
+  <anchor x="333.10843373493975" y="0.0" name="bottom"/>
+  <anchor x="503.10843373493975" y="0.0" name="ogonek"/>
+  <anchor x="333.10843373493975" y="705.0" name="top"/>
+  <anchor x="19.80722891566265" y="705.0" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="macroncomb_acutecomb.case" xOffset="333.10843373493975"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

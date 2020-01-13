@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="461.0"/>
+  <unicode hex="0167"/>
+  <anchor x="279.0" y="0.0" name="bottom"/>
+  <anchor x="216.5" y="259.0" name="center"/>
+  <anchor x="187.5" y="635.0" name="top"/>
+  <anchor x="330.0" y="705.0" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="strokeshortcomb.t" xOffset="216.5" yOffset="7.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

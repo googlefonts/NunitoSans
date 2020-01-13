@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lj.ss02" format="2">
+  <advance width="681"/>
+  <anchor x="173" y="1" name="bottom"/>
+  <anchor x="173" y="357" name="center"/>
+  <anchor x="468" y="357" name="dot"/>
+  <anchor x="173" y="705" name="top"/>
+  <anchor x="337" y="705" name="topright"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="j" xOffset="349"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

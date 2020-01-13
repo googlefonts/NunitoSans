@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eogonek" format="2">
+  <advance width="531.9277108433735"/>
+  <unicode hex="0119"/>
+  <anchor x="312.0481927710843" y="484.0" name="top"/>
+  <anchor x="249.6987951807229" y="0.0" name="bottom"/>
+  <anchor x="320.3855421686747" y="0.0" name="ogonek"/>
+  <outline>
+    <component base="e"/>
+    <component base="ogonekcomb" xOffset="320.3855421686747"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

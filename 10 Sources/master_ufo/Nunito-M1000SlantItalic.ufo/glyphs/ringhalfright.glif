@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfright" format="2">
+  <advance width="500"/>
+  <unicode hex="02BE"/>
+  <anchor x="187" y="484" name="_top"/>
+  <anchor x="219" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="242" y="554" type="curve" smooth="yes"/>
+      <point x="295" y="570"/>
+      <point x="333" y="618"/>
+      <point x="333" y="673" type="curve" smooth="yes"/>
+      <point x="333" y="714"/>
+      <point x="310" y="751"/>
+      <point x="271" y="768" type="curve" smooth="yes"/>
+      <point x="242" y="781"/>
+      <point x="222" y="763"/>
+      <point x="218" y="740" type="curve" smooth="yes"/>
+      <point x="214" y="717"/>
+      <point x="230" y="713"/>
+      <point x="247" y="693" type="curve" smooth="yes"/>
+      <point x="253" y="686"/>
+      <point x="255" y="678"/>
+      <point x="255" y="670" type="curve" smooth="yes"/>
+      <point x="255" y="655"/>
+      <point x="248" y="640"/>
+      <point x="236" y="630" type="curve" smooth="yes"/>
+      <point x="215" y="613"/>
+      <point x="198" y="609"/>
+      <point x="193" y="584" type="curve" smooth="yes"/>
+      <point x="189" y="562"/>
+      <point x="209" y="544"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

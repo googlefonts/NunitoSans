@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iebreve-cy" format="2">
+  <advance width="475"/>
+  <unicode hex="04D6"/>
+  <anchor x="228" y="0" name="bottom"/>
+  <anchor x="366" y="0" name="ogonek"/>
+  <anchor x="340" y="705" name="top"/>
+  <anchor x="102" y="705" name="topleft"/>
+  <outline>
+    <component base="Ie-cy"/>
+    <component base="brevecomb-cy.case" xOffset="266"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

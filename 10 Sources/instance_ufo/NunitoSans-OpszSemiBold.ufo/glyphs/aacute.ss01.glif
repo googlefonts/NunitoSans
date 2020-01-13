@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aacute.ss01" format="2">
+  <advance width="673.0361445783133"/>
+  <anchor x="301.0" y="0.0" name="bottom"/>
+  <anchor x="559.0843373493976" y="0.0" name="ogonek"/>
+  <anchor x="315.92771084337346" y="692.1084337349398" name="top"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="acutecomb" xOffset="315.92771084337346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

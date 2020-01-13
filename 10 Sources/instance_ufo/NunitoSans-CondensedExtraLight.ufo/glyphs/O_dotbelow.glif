@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odotbelow" format="2">
+  <advance width="622"/>
+  <unicode hex="1ECC"/>
+  <anchor x="311" y="-8" name="Qtail"/>
+  <anchor x="311" y="-170" name="bottom"/>
+  <anchor x="311" y="353" name="center"/>
+  <anchor x="355" y="0" name="ogonek"/>
+  <anchor x="311" y="705" name="top"/>
+  <anchor x="27" y="705" name="topleft"/>
+  <anchor x="369" y="705" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotbelowcomb" xOffset="311"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="0.0" y="0.0" name="_bottom"/>
+  <anchor x="0.0" y="-170.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="2.216867469879517" y="-272.50602409638554" type="line"/>
+      <point x="40.325301204819276" y="-236.95180722891567"/>
+      <point x="56.325301204819276" y="-192.10843373493975"/>
+      <point x="56.325301204819276" y="-140.0" type="curve" smooth="yes"/>
+      <point x="56.325301204819276" y="-76.75903614457832" type="line"/>
+      <point x="-57.036144578313255" y="-76.75903614457832" type="line"/>
+      <point x="-57.036144578313255" y="-168.06024096385542" type="line"/>
+      <point x="22.819277108433734" y="-168.06024096385542" type="line"/>
+      <point x="-1.4216867469879517" y="-155.3734939759036" type="line"/>
+      <point x="-1.4216867469879517" y="-186.95180722891567"/>
+      <point x="-9.132530120481928" y="-213.24096385542168"/>
+      <point x="-39.42168674698795" y="-243.97590361445782" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

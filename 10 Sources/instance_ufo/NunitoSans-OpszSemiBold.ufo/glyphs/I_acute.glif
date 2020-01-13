@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iacute" format="2">
+  <advance width="327.9879518072289"/>
+  <unicode hex="00CD"/>
+  <anchor x="163.63855421686748" y="0.0" name="bottom"/>
+  <anchor x="205.27710843373495" y="0.0" name="ogonek"/>
+  <anchor x="163.63855421686748" y="865.0" name="top"/>
+  <anchor x="52.60240963855422" y="705.0" name="topleft"/>
+  <outline>
+    <component base="I"/>
+    <component base="acutecomb.case" xOffset="163.63855421686748"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

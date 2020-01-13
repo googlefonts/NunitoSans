@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="che-cy" format="2">
+  <advance width="572.433734939759"/>
+  <unicode hex="0447"/>
+  <anchor x="402.2048192771084" y="0.0" name="bottomright"/>
+  <anchor x="276.9277108433735" y="207.0" name="center"/>
+  <anchor x="276.9277108433735" y="484.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="398.3614457831325" y="0.0" type="line"/>
+      <point x="496.51807228915663" y="0.0" type="line"/>
+      <point x="496.51807228915663" y="503.5542168674699" type="line"/>
+      <point x="396.2289156626506" y="503.5542168674699" type="line"/>
+      <point x="396.2289156626506" y="276.9277108433735" type="line"/>
+      <point x="363.3132530120482" y="254.87951807228916"/>
+      <point x="329.5542168674699" y="246.43373493975903"/>
+      <point x="285.1927710843373" y="246.43373493975903" type="curve" smooth="yes"/>
+      <point x="195.25301204819277" y="246.43373493975903"/>
+      <point x="155.9156626506024" y="285.32530120481925"/>
+      <point x="155.9156626506024" y="376.9759036144578" type="curve" smooth="yes"/>
+      <point x="155.9156626506024" y="503.5542168674699" type="line"/>
+      <point x="55.626506024096386" y="503.5542168674699" type="line"/>
+      <point x="55.626506024096386" y="368.578313253012" type="line" smooth="yes"/>
+      <point x="55.626506024096386" y="231.75903614457832"/>
+      <point x="124.73493975903614" y="163.36144578313252"/>
+      <point x="269.5542168674699" y="163.36144578313252" type="curve" smooth="yes"/>
+      <point x="317.6024096385542" y="163.36144578313252"/>
+      <point x="360.49397590361446" y="174.09638554216866"/>
+      <point x="398.3614457831325" y="194.6987951807229" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

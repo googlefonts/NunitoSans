@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevetilde.ss01" format="2">
+  <advance width="709"/>
+  <anchor x="257" y="0" name="bottom"/>
+  <anchor x="535" y="0" name="ogonek"/>
+  <anchor x="374" y="484" name="top"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="brevecomb_tildecomb" xOffset="338"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

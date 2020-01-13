@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="secondtonechinese" format="2">
+  <advance width="500"/>
+  <unicode hex="02CA"/>
+  <guideline x="472" y="558" angle="0" name=" [locked]"/>
+  <anchor x="286" y="484" name="_top"/>
+  <anchor x="318" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="232" y="558" type="line"/>
+      <point x="364" y="558" type="line"/>
+      <point x="558" y="765" type="line"/>
+      <point x="362" y="765" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

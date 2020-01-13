@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarred-cy" format="2">
+  <advance width="619.3734939759037"/>
+  <unicode hex="04E9"/>
+  <anchor x="347.7710843373494" y="484.0" name="top"/>
+  <anchor x="309.68674698795184" y="246.27710843373495" name="center"/>
+  <outline>
+    <component base="_part.oslash" xOffset="8.55421686746988"/>
+    <component base="strokecomb.obarred" xOffset="309.68674698795184" yOffset="-0.7228915662650603"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>o-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="603.3012048192771"/>
+  <unicode hex="0045"/>
+  <anchor x="339.3855421686747" y="0.0" name="bottom"/>
+  <anchor x="518.6626506024096" y="0.0" name="ogonek"/>
+  <anchor x="339.3855421686747" y="705.0" name="top"/>
+  <anchor x="18.44578313253012" y="705.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="65.2289156626506" y="0.0" type="line"/>
+      <point x="570.8795180722892" y="0.0" type="line"/>
+      <point x="570.8795180722892" y="141.59036144578312" type="line"/>
+      <point x="241.59036144578312" y="141.59036144578312" type="line"/>
+      <point x="241.59036144578312" y="287.20481927710847" type="line"/>
+      <point x="547.2409638554217" y="287.20481927710847" type="line"/>
+      <point x="547.2409638554217" y="428.7951807228916" type="line"/>
+      <point x="241.59036144578312" y="428.7951807228916" type="line"/>
+      <point x="241.59036144578312" y="563.7710843373494" type="line"/>
+      <point x="570.8795180722892" y="563.7710843373494" type="line"/>
+      <point x="570.8795180722892" y="705.0" type="line"/>
+      <point x="65.2289156626506" y="705.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

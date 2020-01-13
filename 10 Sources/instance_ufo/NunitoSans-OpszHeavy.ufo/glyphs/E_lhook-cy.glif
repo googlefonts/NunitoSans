@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Elhook-cy" format="2">
+  <advance width="838"/>
+  <unicode hex="0512"/>
+  <outline>
+    <contour>
+      <point x="448" y="-193" type="line"/>
+      <point x="492" y="-190" type="line" smooth="yes"/>
+      <point x="689" y="-177"/>
+      <point x="758" y="-120"/>
+      <point x="758" y="39" type="curve" smooth="yes"/>
+      <point x="758" y="705" type="line"/>
+      <point x="168" y="705" type="line"/>
+      <point x="168" y="486" type="line" smooth="yes"/>
+      <point x="168" y="297"/>
+      <point x="128" y="197"/>
+      <point x="18" y="131" type="curve"/>
+      <point x="140" y="-20" type="line"/>
+      <point x="287" y="52"/>
+      <point x="378" y="204"/>
+      <point x="378" y="430" type="curve" smooth="yes"/>
+      <point x="378" y="519" type="line"/>
+      <point x="533" y="519" type="line"/>
+      <point x="533" y="28" type="line" smooth="yes"/>
+      <point x="533" y="-4"/>
+      <point x="520" y="-18"/>
+      <point x="484" y="-22" type="curve" smooth="yes"/>
+      <point x="436" y="-28" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>El-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_macroncomb" format="2">
+  <anchor x="0" y="484" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-175" y="675" type="line"/>
+      <point x="175" y="675" type="line"/>
+      <point x="175" y="785" type="line"/>
+      <point x="-175" y="785" type="line"/>
+    </contour>
+    <contour>
+      <point x="-115" y="505" type="line"/>
+      <point x="-109" y="527"/>
+      <point x="-94" y="541"/>
+      <point x="-65" y="541" type="curve" smooth="yes"/>
+      <point x="-51" y="541"/>
+      <point x="-33" y="534"/>
+      <point x="-14" y="526" type="curve" smooth="yes"/>
+      <point x="17" y="513"/>
+      <point x="44" y="504"/>
+      <point x="72" y="504" type="curve" smooth="yes"/>
+      <point x="140" y="504"/>
+      <point x="194" y="548"/>
+      <point x="198" y="633" type="curve"/>
+      <point x="115" y="638" type="line"/>
+      <point x="109" y="615"/>
+      <point x="94" y="602"/>
+      <point x="65" y="602" type="curve" smooth="yes"/>
+      <point x="50" y="602"/>
+      <point x="32" y="608"/>
+      <point x="9" y="618" type="curve" smooth="yes"/>
+      <point x="-17" y="629"/>
+      <point x="-43" y="638"/>
+      <point x="-72" y="638" type="curve" smooth="yes"/>
+      <point x="-140" y="638"/>
+      <point x="-194" y="594"/>
+      <point x="-198" y="509" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

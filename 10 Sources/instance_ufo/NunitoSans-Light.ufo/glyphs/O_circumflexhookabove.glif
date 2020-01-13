@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflexhookabove" format="2">
+  <advance width="758.7831325301205"/>
+  <unicode hex="1ED4"/>
+  <anchor x="378.89156626506025" y="-8.457831325301205" name="Qtail"/>
+  <anchor x="378.89156626506025" y="0.0" name="bottom"/>
+  <anchor x="379.89156626506025" y="353.0" name="center"/>
+  <anchor x="435.03614457831327" y="0.0" name="ogonek"/>
+  <anchor x="378.89156626506025" y="705.0" name="top"/>
+  <anchor x="26.0" y="705.0" name="topleft"/>
+  <anchor x="450.9759036144578" y="705.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexcomb_hookabovecomb.case" xOffset="378.89156626506025"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

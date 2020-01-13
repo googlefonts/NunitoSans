@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheabkhasian-cy" format="2">
+  <advance width="1016"/>
+  <unicode hex="04BC"/>
+  <anchor x="727" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="634" y="-12" type="curve" smooth="yes"/>
+      <point x="762" y="-12"/>
+      <point x="828" y="17"/>
+      <point x="912" y="60" type="curve"/>
+      <point x="858" y="222" type="line"/>
+      <point x="796" y="186"/>
+      <point x="733" y="167"/>
+      <point x="657" y="167" type="curve" smooth="yes"/>
+      <point x="516" y="167"/>
+      <point x="479" y="258"/>
+      <point x="494" y="352" type="curve"/>
+      <point x="433" y="273" type="line"/>
+      <point x="978" y="273" type="line"/>
+      <point x="986" y="325" type="line" smooth="yes"/>
+      <point x="1024" y="560"/>
+      <point x="915" y="717"/>
+      <point x="677" y="717" type="curve" smooth="yes"/>
+      <point x="474" y="717"/>
+      <point x="316" y="585"/>
+      <point x="283" y="380" type="curve"/>
+      <point x="321" y="433" type="line"/>
+      <point x="287" y="433" type="line" smooth="yes"/>
+      <point x="253" y="433"/>
+      <point x="242" y="450"/>
+      <point x="249" y="495" type="curve" smooth="yes"/>
+      <point x="257" y="544" type="line"/>
+      <point x="49" y="544" type="line"/>
+      <point x="41" y="494" type="line" smooth="yes"/>
+      <point x="19" y="355"/>
+      <point x="80" y="274"/>
+      <point x="235" y="274" type="curve" smooth="yes"/>
+      <point x="304" y="274" type="line"/>
+      <point x="277" y="325" type="line"/>
+      <point x="270" y="159"/>
+      <point x="378" y="-12"/>
+    </contour>
+    <contour>
+      <point x="666" y="547" type="curve" smooth="yes"/>
+      <point x="770" y="547"/>
+      <point x="801" y="486"/>
+      <point x="780" y="352" type="curve"/>
+      <point x="842" y="434" type="line"/>
+      <point x="459" y="434" type="line"/>
+      <point x="499" y="377" type="line"/>
+      <point x="520" y="499"/>
+      <point x="587" y="547"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:09:01</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="600"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="255" y="360" type="line"/>
+      <point x="259" y="360" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="497" y="209" type="line"/>
+      <point x="577" y="209" type="line"/>
+      <point x="577" y="322" type="line"/>
+      <point x="447" y="322" type="line"/>
+      <point x="447" y="390" type="line"/>
+      <point x="577" y="390" type="line"/>
+      <point x="577" y="503" type="line"/>
+      <point x="497" y="503" type="line"/>
+      <point x="497" y="705" type="line"/>
+      <point x="345" y="705" type="line"/>
+      <point x="345" y="342" type="line"/>
+      <point x="341" y="342" type="line"/>
+      <point x="251" y="705" type="line"/>
+      <point x="103" y="705" type="line"/>
+      <point x="103" y="503" type="line"/>
+      <point x="23" y="503" type="line"/>
+      <point x="23" y="390" type="line"/>
+      <point x="153" y="390" type="line"/>
+      <point x="153" y="322" type="line"/>
+      <point x="23" y="322" type="line"/>
+      <point x="23" y="209" type="line"/>
+      <point x="103" y="209" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

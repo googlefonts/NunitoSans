@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="increment" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="-6.7469879518072275" y="0.0" type="line"/>
+      <point x="526.7469879518072" y="0.0" type="line"/>
+      <point x="533.5783132530121" y="41.13253012048193" type="line"/>
+      <point x="398.6385542168675" y="705.0" type="line"/>
+      <point x="345.13253012048193" y="705.0" type="line"/>
+      <point x="0.08433734939759163" y="41.13253012048193" type="line"/>
+    </contour>
+    <contour>
+      <point x="361.0240963855422" y="626.3373493975904" type="line"/>
+      <point x="363.0240963855422" y="626.3373493975904" type="line"/>
+      <point x="484.4698795180723" y="20.819277108433734" type="line"/>
+      <point x="489.69879518072287" y="53.42168674698795" type="line"/>
+      <point x="54.253012048192765" y="53.42168674698795" type="line"/>
+      <point x="49.024096385542165" y="20.819277108433734" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

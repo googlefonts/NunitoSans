@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rlinebelow" format="2">
+  <advance width="449"/>
+  <unicode hex="1E5F"/>
+  <anchor x="85" y="-170" name="bottom"/>
+  <anchor x="306" y="484" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="macronbelowcomb" xOffset="152"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

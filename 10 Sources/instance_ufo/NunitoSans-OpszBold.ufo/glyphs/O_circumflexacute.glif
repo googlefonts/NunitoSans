@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflexacute" format="2">
+  <advance width="844"/>
+  <unicode hex="1ED0"/>
+  <anchor x="427" y="-9" name="Qtail"/>
+  <anchor x="422" y="0" name="bottom"/>
+  <anchor x="428" y="356" name="center"/>
+  <anchor x="489" y="0" name="ogonek"/>
+  <anchor x="421" y="705" name="top"/>
+  <anchor x="43" y="705" name="topleft"/>
+  <anchor x="501" y="705" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexcomb_acutecomb.case" xOffset="421"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i_j.loclNLD" format="2">
+  <advance width="436"/>
+  <anchor x="115" y="0" name="bottom_1"/>
+  <anchor x="335" y="0" name="bottom_2"/>
+  <anchor x="131" y="0" name="ogonek"/>
+  <anchor x="109" y="484" name="top_1"/>
+  <anchor x="335" y="484" name="top_2"/>
+  <outline>
+    <component base="i"/>
+    <component base="j" xOffset="218"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

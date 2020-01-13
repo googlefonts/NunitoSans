@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflexgrave" format="2">
+  <advance width="545.9759036144578"/>
+  <unicode hex="1EC1"/>
+  <anchor x="251.3975903614458" y="0.0" name="bottom"/>
+  <anchor x="336.7469879518072" y="0.0" name="ogonek"/>
+  <anchor x="324.13253012048193" y="484.0" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="circumflexcomb_gravecomb" xOffset="281.26506024096386" yOffset="-3.5542168674698793"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

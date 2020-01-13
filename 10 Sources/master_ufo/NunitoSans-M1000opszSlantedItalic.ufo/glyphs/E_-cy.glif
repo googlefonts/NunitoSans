@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E-cy" format="2">
+  <advance width="754"/>
+  <unicode hex="0404"/>
+  <anchor x="387" y="0" name="bottom"/>
+  <anchor x="499" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="425" y="-12" type="curve" smooth="yes"/>
+      <point x="517" y="-12"/>
+      <point x="585" y="-2"/>
+      <point x="674" y="43" type="curve"/>
+      <point x="629" y="216" type="line"/>
+      <point x="566" y="181"/>
+      <point x="509" y="178"/>
+      <point x="443" y="178" type="curve" smooth="yes"/>
+      <point x="337" y="178"/>
+      <point x="283" y="218"/>
+      <point x="298" y="329" type="curve"/>
+      <point x="228" y="271" type="line"/>
+      <point x="565" y="271" type="line"/>
+      <point x="591" y="435" type="line"/>
+      <point x="257" y="435" type="line"/>
+      <point x="310" y="392" type="line"/>
+      <point x="327" y="484"/>
+      <point x="392" y="527"/>
+      <point x="498" y="527" type="curve" smooth="yes"/>
+      <point x="564" y="527"/>
+      <point x="609" y="520"/>
+      <point x="672" y="488" type="curve"/>
+      <point x="752" y="662" type="line"/>
+      <point x="677" y="706"/>
+      <point x="613" y="717"/>
+      <point x="521" y="717" type="curve" smooth="yes"/>
+      <point x="289" y="717"/>
+      <point x="114" y="602"/>
+      <point x="78" y="373" type="curve" smooth="yes"/>
+      <point x="39" y="133"/>
+      <point x="173" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>C</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:26:54</string>
+    </dict>
+  </lib>
+</glyph>

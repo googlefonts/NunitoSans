@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obarred-cy" format="2">
+  <advance width="854.6506024096385"/>
+  <unicode hex="04E8"/>
+  <anchor x="427.3253012048193" y="705.0" name="top"/>
+  <anchor x="430.7590361445783" y="-9.313253012048193" name="Qtail"/>
+  <anchor x="427.3253012048193" y="0.0" name="bottom"/>
+  <anchor x="431.4457831325301" y="355.0602409638554" name="center"/>
+  <anchor x="493.69879518072287" y="0.0" name="ogonek"/>
+  <anchor x="44.56626506024096" y="705.0" name="topleft"/>
+  <anchor x="508.51807228915663" y="705.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="__bar.Obarred-cy" xOffset="37.373493975903614" yOffset="2.060240963855422"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

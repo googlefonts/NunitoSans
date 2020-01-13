@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="llinebelow" format="2">
+  <advance width="348.83132530120486"/>
+  <unicode hex="1E3B"/>
+  <anchor x="215.34939759036143" y="-182.2168674698795" name="bottom"/>
+  <anchor x="156.9277108433735" y="357.0" name="center"/>
+  <anchor x="351.55421686746985" y="357.0" name="dot"/>
+  <anchor x="147.63855421686748" y="705.0" name="top"/>
+  <anchor x="254.2048192771084" y="705.0" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="macronbelowcomb" xOffset="215.34939759036143" yOffset="1.2891566265060241"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

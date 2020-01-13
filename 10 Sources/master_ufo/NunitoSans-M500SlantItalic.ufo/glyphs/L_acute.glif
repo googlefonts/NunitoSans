@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lacute" format="2">
+  <advance width="562"/>
+  <unicode hex="0139"/>
+  <anchor x="273" y="0" name="bottom"/>
+  <anchor x="208" y="387" name="center"/>
+  <anchor x="449" y="394" name="dot"/>
+  <anchor x="239" y="865" name="top"/>
+  <anchor x="385" y="705" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="acutecomb.case" xOffset="213"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

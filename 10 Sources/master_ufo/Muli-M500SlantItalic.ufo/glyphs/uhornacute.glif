@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhornacute" format="2">
+  <advance width="596"/>
+  <unicode hex="1EE9"/>
+  <anchor x="258" y="0" name="bottom"/>
+  <anchor x="458" y="0" name="ogonek"/>
+  <anchor x="367" y="685" name="top"/>
+  <anchor x="473" y="500" name="topright"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="acutecomb" xOffset="298"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

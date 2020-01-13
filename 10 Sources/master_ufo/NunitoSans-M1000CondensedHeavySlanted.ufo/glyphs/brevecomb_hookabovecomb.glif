@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_hookabovecomb" format="2">
+  <anchor x="38" y="484" name="_top"/>
+  <outline>
+    <contour>
+      <point x="49" y="553" type="curve" smooth="yes"/>
+      <point x="153" y="553"/>
+      <point x="220" y="606"/>
+      <point x="238" y="696" type="curve"/>
+      <point x="159" y="704" type="line"/>
+      <point x="148" y="669"/>
+      <point x="115" y="649"/>
+      <point x="64" y="649" type="curve" smooth="yes"/>
+      <point x="13" y="649"/>
+      <point x="-14" y="669"/>
+      <point x="-13" y="704" type="curve"/>
+      <point x="-96" y="696" type="line"/>
+      <point x="-106" y="606"/>
+      <point x="-55" y="553"/>
+    </contour>
+    <contour>
+      <point x="26" y="695" type="curve"/>
+      <point x="114" y="695" type="line"/>
+      <point x="123" y="733"/>
+      <point x="170" y="744"/>
+      <point x="176" y="785" type="curve" smooth="yes"/>
+      <point x="182" y="820"/>
+      <point x="154" y="841"/>
+      <point x="96" y="841" type="curve" smooth="yes"/>
+      <point x="61" y="841"/>
+      <point x="23" y="833"/>
+      <point x="-4" y="819" type="curve"/>
+      <point x="5" y="758" type="line"/>
+      <point x="15" y="764"/>
+      <point x="31" y="769"/>
+      <point x="42" y="769" type="curve" smooth="yes"/>
+      <point x="53" y="769"/>
+      <point x="58" y="764"/>
+      <point x="57" y="755" type="curve" smooth="yes"/>
+      <point x="54" y="737"/>
+      <point x="31" y="724"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

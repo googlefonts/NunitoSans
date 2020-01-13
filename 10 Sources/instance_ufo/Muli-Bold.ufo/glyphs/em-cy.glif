@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="em-cy" format="2">
+  <advance width="697.5"/>
+  <unicode hex="043C"/>
+  <anchor x="517" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="71" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="181" y="365" type="line"/>
+      <point x="158" y="365" type="line"/>
+      <point x="320" y="82" type="line"/>
+      <point x="378" y="82" type="line"/>
+      <point x="540" y="365" type="line"/>
+      <point x="517" y="365" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="627" y="0" type="line"/>
+      <point x="627" y="505" type="line"/>
+      <point x="523" y="505" type="line"/>
+      <point x="349" y="203" type="line"/>
+      <point x="175" y="505" type="line"/>
+      <point x="71" y="505" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:09:11</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

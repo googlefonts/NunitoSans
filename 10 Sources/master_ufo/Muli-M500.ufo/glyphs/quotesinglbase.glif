@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesinglbase" format="2">
+  <advance width="248"/>
+  <unicode hex="201A"/>
+  <outline>
+    <contour>
+      <point x="116" y="-133" type="line"/>
+      <point x="173" y="-77"/>
+      <point x="195" y="-24"/>
+      <point x="195" y="47" type="curve" smooth="yes"/>
+      <point x="195" y="139" type="line"/>
+      <point x="55" y="139" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="122" y="29" type="line"/>
+      <point x="122" y="-18"/>
+      <point x="105" y="-52"/>
+      <point x="65" y="-93" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe" format="2">
+  <advance width="801.1188795180723"/>
+  <unicode hex="0149"/>
+  <anchor x="453.53012048192767" y="0.0" name="bottom"/>
+  <anchor x="457.5060240963855" y="484.0" name="top"/>
+  <outline>
+    <component base="apostrophemod" xOffset="-127.855421686747"/>
+    <component base="n" xOffset="106.48192771084337"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

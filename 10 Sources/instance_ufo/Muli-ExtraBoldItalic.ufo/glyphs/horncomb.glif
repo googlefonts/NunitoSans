@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb" format="2">
+  <unicode hex="031B"/>
+  <anchor x="36.0" y="484.0" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="119.22891566265059" y="418.4216867469879" type="line"/>
+      <point x="200.7831325301205" y="427.6746987951807"/>
+      <point x="255.15662650602408" y="488.8072289156626"/>
+      <point x="268.15662650602405" y="571.6144578313254" type="curve" smooth="yes"/>
+      <point x="275.7831325301205" y="616.0" type="line"/>
+      <point x="144.16867469879517" y="616.0" type="line"/>
+      <point x="140.5421686746988" y="592.1807228915663" type="line" smooth="yes"/>
+      <point x="126.54216867469879" y="510.9277108433735"/>
+      <point x="99.85542168674698" y="491.2530120481928"/>
+      <point x="37.31325301204819" y="490.566265060241" type="curve"/>
+      <point x="34.626506024096386" y="473.44578313253015" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

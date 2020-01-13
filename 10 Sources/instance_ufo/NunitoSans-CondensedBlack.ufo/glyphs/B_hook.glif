@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bhook" format="2">
+  <advance width="735.867469879518"/>
+  <unicode hex="0181"/>
+  <outline>
+    <contour>
+      <point x="205.42168674698797" y="0.0" type="line"/>
+      <point x="490.0602409638554" y="0.0" type="line" smooth="yes"/>
+      <point x="618.6144578313254" y="0.0"/>
+      <point x="703.3614457831326" y="77.01204819277109"/>
+      <point x="703.3614457831326" y="201.9277108433735" type="curve" smooth="yes"/>
+      <point x="703.3614457831326" y="293.0"/>
+      <point x="660.0" y="355.4578313253012"/>
+      <point x="582.4698795180722" y="372.37349397590367" type="curve"/>
+      <point x="582.4698795180722" y="356.09638554216866" type="line"/>
+      <point x="647.9036144578313" y="376.27710843373495"/>
+      <point x="686.9036144578313" y="439.0120481927711"/>
+      <point x="686.9036144578313" y="521.0843373493975" type="curve" smooth="yes"/>
+      <point x="686.9036144578313" y="635.9036144578313"/>
+      <point x="607.433734939759" y="705.0"/>
+      <point x="482.5180722891566" y="705.0" type="curve" smooth="yes"/>
+      <point x="195.97590361445782" y="705.0" type="line" smooth="yes"/>
+      <point x="61.84337349397591" y="705.0"/>
+      <point x="0.0" y="644.6144578313252"/>
+      <point x="0.0" y="512.2168674698795" type="curve" smooth="yes"/>
+      <point x="0.0" y="452.4698795180723" type="line"/>
+      <point x="134.13253012048193" y="452.4698795180723" type="line"/>
+      <point x="134.13253012048193" y="507.39759036144574" type="line" smooth="yes"/>
+      <point x="134.13253012048193" y="568.6385542168675"/>
+      <point x="151.66265060240966" y="589.8915662650602"/>
+      <point x="194.5301204819277" y="589.8915662650602" type="curve" smooth="yes"/>
+      <point x="205.42168674698797" y="589.8915662650602" type="line"/>
+    </contour>
+    <contour>
+      <point x="365.31325301204816" y="124.12048192771084" type="line"/>
+      <point x="365.31325301204816" y="295.7590361445783" type="line"/>
+      <point x="465.66265060240966" y="295.7590361445783" type="line" smooth="yes"/>
+      <point x="516.5903614457832" y="295.7590361445783"/>
+      <point x="543.566265060241" y="265.32530120481925"/>
+      <point x="543.566265060241" y="209.93975903614455" type="curve" smooth="yes"/>
+      <point x="543.566265060241" y="155.45783132530119"/>
+      <point x="515.8674698795181" y="124.12048192771084"/>
+      <point x="464.93975903614455" y="124.12048192771084" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="365.31325301204816" y="419.8795180722891" type="line"/>
+      <point x="365.31325301204816" y="580.8795180722892" type="line"/>
+      <point x="449.8433734939759" y="580.8795180722892" type="line" smooth="yes"/>
+      <point x="500.86746987951807" y="580.8795180722892"/>
+      <point x="527.2891566265059" y="552.9999999999999"/>
+      <point x="527.2891566265059" y="501.2409638554217" type="curve" smooth="yes"/>
+      <point x="527.2891566265059" y="448.6626506024096"/>
+      <point x="500.3253012048193" y="419.8795180722891"/>
+      <point x="450.3855421686747" y="419.8795180722891" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>B</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:09:28</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflextilde" format="2">
+  <advance width="633.6265060240964"/>
+  <unicode hex="1ED7"/>
+  <anchor x="317.04819277108436" y="-6.710843373493976" name="bottom"/>
+  <anchor x="317.04819277108436" y="246.5301204819277" name="center"/>
+  <anchor x="382.3975903614458" y="0.0" name="ogonek"/>
+  <anchor x="317.5783132530121" y="484.0" name="top"/>
+  <anchor x="374.9759036144578" y="484.0" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflexcomb_tildecomb" xOffset="317.5783132530121"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

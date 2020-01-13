@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcaron" format="2">
+  <advance width="568.0361445783133"/>
+  <unicode hex="021F"/>
+  <anchor x="252.10843373493975" y="0.0" name="bottom"/>
+  <anchor x="284.9879518072289" y="246.40963855421685" name="center"/>
+  <anchor x="267.51807228915663" y="352.5301204819277" name="dot"/>
+  <anchor x="220.33734939759034" y="583.7590361445783" name="stroke"/>
+  <anchor x="383.04819277108436" y="865.0" name="top"/>
+  <anchor x="265.49397590361446" y="705.0" name="topright"/>
+  <outline>
+    <component base="h"/>
+    <component base="caroncomb.case" xOffset="357.5783132530121"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

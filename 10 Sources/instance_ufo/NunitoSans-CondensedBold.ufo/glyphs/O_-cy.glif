@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O-cy" format="2">
+  <advance width="651.5"/>
+  <unicode hex="041E"/>
+  <anchor x="326.0" y="353.0" name="center"/>
+  <anchor x="326.0" y="705.0" name="top"/>
+  <anchor x="326.0" y="-10.0" name="Qtail"/>
+  <anchor x="326.0" y="0.0" name="bottom"/>
+  <anchor x="374.5" y="0.0" name="ogonek"/>
+  <anchor x="26.0" y="705.0" name="topleft"/>
+  <anchor x="383.5" y="705.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

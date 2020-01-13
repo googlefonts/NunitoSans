@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="580.722891566265"/>
+  <unicode hex="00F8"/>
+  <anchor x="290.9277108433735" y="484.0" name="top"/>
+  <anchor x="291.2168674698795" y="252.13253012048193" name="center"/>
+  <outline>
+    <component base="_part.oslash"/>
+    <component base="slashlongcomb" xOffset="19.204819277108413" yOffset="6.421686746987952"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

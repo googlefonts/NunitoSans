@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oinvertedbreve" format="2">
+  <outline>
+    <contour>
+      <point x="503" y="949" type="curve" smooth="yes"/>
+      <point x="357" y="949"/>
+      <point x="260" y="880"/>
+      <point x="252" y="775" type="curve"/>
+      <point x="375" y="760" type="line"/>
+      <point x="382" y="801"/>
+      <point x="427" y="827"/>
+      <point x="502" y="827" type="curve" smooth="yes"/>
+      <point x="576" y="827"/>
+      <point x="624" y="801"/>
+      <point x="631" y="760" type="curve"/>
+      <point x="754" y="775" type="line"/>
+      <point x="746" y="880"/>
+      <point x="649" y="949"/>
+    </contour>
+    <contour>
+      <point x="505" y="-12" type="curve" smooth="yes"/>
+      <point x="774" y="-12"/>
+      <point x="956" y="136"/>
+      <point x="956" y="354" type="curve" smooth="yes"/>
+      <point x="956" y="572"/>
+      <point x="774" y="717"/>
+      <point x="505" y="717" type="curve" smooth="yes"/>
+      <point x="236" y="717"/>
+      <point x="55" y="572"/>
+      <point x="55" y="354" type="curve" smooth="yes"/>
+      <point x="55" y="137"/>
+      <point x="237" y="-12"/>
+    </contour>
+    <contour>
+      <point x="505" y="183" type="curve" smooth="yes"/>
+      <point x="378" y="183"/>
+      <point x="301" y="246"/>
+      <point x="301" y="353" type="curve" smooth="yes"/>
+      <point x="301" y="460"/>
+      <point x="378" y="522"/>
+      <point x="505" y="522" type="curve" smooth="yes"/>
+      <point x="633" y="522"/>
+      <point x="709" y="459"/>
+      <point x="709" y="353" type="curve" smooth="yes"/>
+      <point x="709" y="247"/>
+      <point x="633" y="183"/>
+    </contour>
+  </outline>
+</glyph>

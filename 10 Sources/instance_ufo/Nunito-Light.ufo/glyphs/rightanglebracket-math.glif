@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightanglebracket-math" format="2">
+  <advance width="600.0"/>
+  <unicode hex="27E9"/>
+  <outline>
+    <contour>
+      <point x="237.0" y="-19.0" type="curve" smooth="yes"/>
+      <point x="247.3734939759036" y="-21.686746987951807"/>
+      <point x="257.7469879518072" y="-17.542168674698797"/>
+      <point x="261.43373493975906" y="-5.9397590361445785" type="curve" smooth="yes"/>
+      <point x="376.7469879518072" y="334.7710843373494" type="line"/>
+      <point x="376.7469879518072" y="361.93975903614455" type="line"/>
+      <point x="262.43373493975906" y="698.1686746987951" type="line" smooth="yes"/>
+      <point x="258.9759036144578" y="710.0"/>
+      <point x="247.6024096385542" y="716.6867469879518"/>
+      <point x="236.4578313253012" y="712.2289156626506" type="curve" smooth="yes"/>
+      <point x="226.0843373493976" y="707.7710843373494"/>
+      <point x="221.3975903614458" y="696.6265060240963"/>
+      <point x="224.85542168674698" y="686.2530120481928" type="curve" smooth="yes"/>
+      <point x="339.2530120481928" y="349.0" type="line"/>
+      <point x="225.6265060240964" y="8.204819277108435" type="line" smooth="yes"/>
+      <point x="221.16867469879517" y="-4.9397590361445785"/>
+      <point x="225.85542168674698" y="-16.313253012048193"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

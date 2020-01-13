@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="795.9638554216867"/>
+  <unicode hex="0051"/>
+  <anchor x="366.7590361445783" y="0.0" name="bottom"/>
+  <anchor x="456.7590361445783" y="705.0" name="top"/>
+  <anchor x="373.2650602409639" y="-10.626506024096384" name="Qtail"/>
+  <anchor x="415.0120481927711" y="353.0" name="center"/>
+  <anchor x="436.144578313253" y="0.0" name="ogonek"/>
+  <anchor x="98.6867469879518" y="705.0" name="topleft"/>
+  <anchor x="515.5783132530121" y="705.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="_part.Qtail" xOffset="19.879518072289155" yOffset="-1.3132530120481927"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icircumflex" format="2">
+  <advance width="400"/>
+  <unicode hex="00CE"/>
+  <anchor x="200" y="0" name="bottom"/>
+  <anchor x="263" y="0" name="ogonek"/>
+  <anchor x="200" y="865" name="top"/>
+  <anchor x="23" y="705" name="topleft"/>
+  <outline>
+    <component base="I"/>
+    <component base="circumflexcomb.case" xOffset="200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

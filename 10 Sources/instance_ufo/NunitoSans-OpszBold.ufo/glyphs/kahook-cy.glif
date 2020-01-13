@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kahook-cy" format="2">
+  <advance width="654"/>
+  <unicode hex="04C4"/>
+  <outline>
+    <contour>
+      <point x="381" y="-188" type="line"/>
+      <point x="547" y="-150"/>
+      <point x="598" y="-61"/>
+      <point x="598" y="49" type="curve" smooth="yes"/>
+      <point x="598" y="89" type="line" smooth="yes"/>
+      <point x="598" y="228"/>
+      <point x="510" y="301"/>
+      <point x="355" y="301" type="curve"/>
+      <point x="410" y="250" type="line"/>
+      <point x="607" y="503" type="line"/>
+      <point x="458" y="503" type="line"/>
+      <point x="307" y="307" type="line"/>
+      <point x="229" y="307" type="line"/>
+      <point x="229" y="503" type="line"/>
+      <point x="90" y="503" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="229" y="203" type="line"/>
+      <point x="328" y="203" type="line" smooth="yes"/>
+      <point x="418" y="203"/>
+      <point x="459" y="163"/>
+      <point x="459" y="83" type="curve" smooth="yes"/>
+      <point x="459" y="49" type="line" smooth="yes"/>
+      <point x="459" y="-31"/>
+      <point x="420" y="-64"/>
+      <point x="335" y="-82" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:51:02</string>
+    </dict>
+  </lib>
+</glyph>

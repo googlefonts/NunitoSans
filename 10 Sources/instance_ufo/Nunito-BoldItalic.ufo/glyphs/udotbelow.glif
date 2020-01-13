@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udotbelow" format="2">
+  <advance width="579"/>
+  <unicode hex="1EE5"/>
+  <anchor x="224" y="-170" name="bottom"/>
+  <anchor x="440" y="0" name="ogonek"/>
+  <anchor x="325" y="485" name="top"/>
+  <anchor x="457" y="484" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="dotbelowcomb" xOffset="251"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

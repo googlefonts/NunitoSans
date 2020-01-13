@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Egrave" format="2">
+  <advance width="717.5060240963855"/>
+  <unicode hex="00C8"/>
+  <anchor x="399.93373493975906" y="0.0" name="bottom"/>
+  <anchor x="615.6927710843373" y="0.0" name="ogonek"/>
+  <anchor x="399.93373493975906" y="865.0" name="top"/>
+  <anchor x="28.590361445783135" y="705.0" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="gravecomb.case" xOffset="399.93373493975906"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute.ss02" format="2">
+  <advance width="244.98795180722888"/>
+  <anchor x="122.49397590361444" y="0.0" name="bottom"/>
+  <anchor x="122.49397590361444" y="357.0" name="center"/>
+  <anchor x="321.65060240963857" y="357.0" name="dot"/>
+  <anchor x="122.49397590361444" y="865.0" name="top"/>
+  <anchor x="229.19277108433732" y="705.0" name="topright"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="acutecomb.case" xOffset="122.49397590361444"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

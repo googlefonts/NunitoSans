@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nje-cy" format="2">
+  <advance width="893.0"/>
+  <unicode hex="045A"/>
+  <outline>
+    <contour>
+      <point x="71.0" y="0.0" type="line"/>
+      <point x="196.0" y="0.0" type="line"/>
+      <point x="196.0" y="176.5" type="line"/>
+      <point x="412.0" y="176.5" type="line"/>
+      <point x="412.0" y="0.0" type="line"/>
+      <point x="678.5" y="0.0" type="line" smooth="yes"/>
+      <point x="793.5" y="0.0"/>
+      <point x="861.0" y="57.5"/>
+      <point x="861.0" y="151.5" type="curve" smooth="yes"/>
+      <point x="861.0" y="247.0"/>
+      <point x="799.0" y="297.5"/>
+      <point x="678.5" y="297.5" type="curve" smooth="yes"/>
+      <point x="537.0" y="297.5" type="line"/>
+      <point x="537.0" y="439.0" type="line"/>
+      <point x="412.0" y="439.0" type="line"/>
+      <point x="412.0" y="274.0" type="line"/>
+      <point x="196.0" y="274.0" type="line"/>
+      <point x="196.0" y="439.0" type="line"/>
+      <point x="71.0" y="439.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="537.0" y="79.0" type="line"/>
+      <point x="537.0" y="219.5" type="line"/>
+      <point x="657.5" y="219.5" type="line" smooth="yes"/>
+      <point x="714.0" y="219.5"/>
+      <point x="746.0" y="196.5"/>
+      <point x="746.0" y="150.0" type="curve" smooth="yes"/>
+      <point x="746.0" y="102.0"/>
+      <point x="713.0" y="79.0"/>
+      <point x="657.5" y="79.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:28:52</string>
+    </dict>
+  </lib>
+</glyph>

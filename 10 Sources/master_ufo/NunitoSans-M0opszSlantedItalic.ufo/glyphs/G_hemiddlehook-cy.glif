@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghemiddlehook-cy" format="2">
+  <advance width="709"/>
+  <unicode hex="0494"/>
+  <outline>
+    <contour>
+      <point x="376" y="-188" type="curve" smooth="yes"/>
+      <point x="498" y="-188"/>
+      <point x="591" y="-106"/>
+      <point x="615" y="45" type="curve" smooth="yes"/>
+      <point x="631" y="144" type="line" smooth="yes"/>
+      <point x="661" y="332"/>
+      <point x="566" y="429"/>
+      <point x="384" y="429" type="curve" smooth="yes"/>
+      <point x="314" y="429"/>
+      <point x="239" y="413"/>
+      <point x="196" y="388" type="curve"/>
+      <point x="239" y="655" type="line"/>
+      <point x="630" y="655" type="line"/>
+      <point x="638" y="705" type="line"/>
+      <point x="195" y="705" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="188" y="334" type="line"/>
+      <point x="235" y="363"/>
+      <point x="305" y="379"/>
+      <point x="378" y="379" type="curve" smooth="yes"/>
+      <point x="539" y="379"/>
+      <point x="601" y="285"/>
+      <point x="578" y="138" type="curve" smooth="yes"/>
+      <point x="563" y="44" type="line" smooth="yes"/>
+      <point x="543" y="-80"/>
+      <point x="472" y="-138"/>
+      <point x="381" y="-138" type="curve" smooth="yes"/>
+      <point x="341" y="-138"/>
+      <point x="311" y="-131"/>
+      <point x="287" y="-120" type="curve"/>
+      <point x="267" y="-167" type="line"/>
+      <point x="292" y="-179"/>
+      <point x="329" y="-188"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Dje-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 16:33:32</string>
+    </dict>
+  </lib>
+</glyph>

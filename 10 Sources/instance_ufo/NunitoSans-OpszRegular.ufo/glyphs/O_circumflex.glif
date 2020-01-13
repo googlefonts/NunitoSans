@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflex" format="2">
+  <advance width="825.4457831325301"/>
+  <unicode hex="00D4"/>
+  <anchor x="420.6385542168675" y="-8.469879518072288" name="Qtail"/>
+  <anchor x="412.4578313253012" y="0.0" name="bottom"/>
+  <anchor x="421.6385542168675" y="357.5903614457831" name="center"/>
+  <anchor x="481.0481927710843" y="0.0" name="ogonek"/>
+  <anchor x="411.9879518072289" y="865.0" name="top"/>
+  <anchor x="40.34939759036145" y="705.0" name="topleft"/>
+  <anchor x="488.27710843373495" y="705.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexcomb.case" xOffset="411.9879518072289"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

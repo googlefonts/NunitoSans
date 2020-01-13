@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kabashkir-cy" format="2">
+  <advance width="799.4819277108434"/>
+  <unicode hex="04A0"/>
+  <anchor x="660.2409638554217" y="0.0" name="bottomright"/>
+  <anchor x="490.2048192771084" y="353.0" name="center"/>
+  <anchor x="549.6265060240964" y="705.0" name="top"/>
+  <anchor x="385.3012048192771" y="705.0" name="topleft"/>
+  <outline>
+    <component base="Ka-cy" xOffset="143.8192771084337"/>
+    <component base="__Kabashkir-cy" xOffset="-4.879518072289157"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:09:08</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka-cy" format="2">
+  <advance width="559.0"/>
+  <unicode hex="043A"/>
+  <anchor x="441.0" y="0.0" name="bottomright"/>
+  <anchor x="273.0" y="221.5" name="center"/>
+  <anchor x="307.0" y="484.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="71.0" y="0.0" type="line"/>
+      <point x="196.0" y="0.0" type="line"/>
+      <point x="196.0" y="177.5" type="line"/>
+      <point x="260.5" y="177.5" type="line" smooth="yes"/>
+      <point x="305.0" y="177.5"/>
+      <point x="325.5" y="167.0"/>
+      <point x="350.5" y="127.5" type="curve" smooth="yes"/>
+      <point x="431.5" y="0.0" type="line"/>
+      <point x="565.5" y="0.0" type="line"/>
+      <point x="461.5" y="166.5" type="line" smooth="yes"/>
+      <point x="426.0" y="223.5"/>
+      <point x="390.5" y="250.0"/>
+      <point x="336.5" y="256.5" type="curve"/>
+      <point x="358.5" y="217.5" type="line"/>
+      <point x="543.5" y="439.0" type="line"/>
+      <point x="409.0" y="439.0" type="line"/>
+      <point x="267.0" y="272.0" type="line"/>
+      <point x="196.0" y="272.0" type="line"/>
+      <point x="196.0" y="439.0" type="line"/>
+      <point x="71.0" y="439.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:26:54</string>
+    </dict>
+  </lib>
+</glyph>

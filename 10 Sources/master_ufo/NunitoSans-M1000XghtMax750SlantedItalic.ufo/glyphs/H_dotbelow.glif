@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hdotbelow" format="2">
+  <advance width="794"/>
+  <unicode hex="1E24"/>
+  <anchor x="334" y="-170" name="bottom"/>
+  <anchor x="446" y="575" name="center"/>
+  <anchor x="464" y="705" name="top"/>
+  <anchor x="87" y="705" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="dotbelowcomb" xOffset="404"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

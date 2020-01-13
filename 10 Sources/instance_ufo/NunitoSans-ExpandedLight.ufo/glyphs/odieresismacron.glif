@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresismacron" format="2">
+  <advance width="677.6144578313252"/>
+  <unicode hex="022B"/>
+  <anchor x="338.8072289156626" y="0.0" name="bottom"/>
+  <anchor x="335.26506024096386" y="242.6867469879518" name="center"/>
+  <anchor x="370.1265060240964" y="0.0" name="ogonek"/>
+  <anchor x="338.8072289156626" y="484.0" name="top"/>
+  <anchor x="396.6385542168674" y="484.0" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="dieresiscomb_macroncomb" xOffset="338.8072289156626"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

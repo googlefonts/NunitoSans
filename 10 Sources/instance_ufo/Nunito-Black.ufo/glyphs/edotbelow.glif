@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edotbelow" format="2">
+  <advance width="555.4096385542169"/>
+  <unicode hex="1EB9"/>
+  <anchor x="289.7469879518072" y="-170.0" name="bottom"/>
+  <anchor x="390.15662650602405" y="0.0" name="ogonek"/>
+  <anchor x="289.7469879518072" y="484.0" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="dotbelowcomb" xOffset="289.7469879518072"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

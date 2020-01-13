@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedmod" format="2">
+  <advance width="500.0"/>
+  <unicode hex="02BB"/>
+  <anchor x="288.0" y="484.0" name="_top"/>
+  <anchor x="319.6385542168675" y="685.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="300.5301204819277" y="551.6144578313254" type="curve" smooth="yes"/>
+      <point x="359.2168674698795" y="551.6144578313254"/>
+      <point x="398.79518072289153" y="579.722891566265"/>
+      <point x="398.79518072289153" y="636.1325301204819" type="curve" smooth="yes"/>
+      <point x="398.79518072289153" y="675.5180722891567"/>
+      <point x="371.96385542168673" y="695.433734939759"/>
+      <point x="319.4698795180723" y="695.433734939759" type="curve"/>
+      <point x="317.9156626506024" y="666.7710843373494" type="line"/>
+      <point x="320.91566265060237" y="683.9397590361446"/>
+      <point x="327.6385542168675" y="707.4939759036145"/>
+      <point x="343.0843373493976" y="723.9397590361447" type="curve" smooth="yes"/>
+      <point x="384.7469879518072" y="768.5180722891566"/>
+      <point x="330.2530120481927" y="807.6265060240964"/>
+      <point x="289.5903614457831" y="770.2409638554217" type="curve" smooth="yes"/>
+      <point x="250.75903614457832" y="734.0481927710845"/>
+      <point x="223.56626506024094" y="666.4698795180722"/>
+      <point x="223.56626506024094" y="615.277108433735" type="curve" smooth="yes"/>
+      <point x="223.56626506024094" y="573.1686746987953"/>
+      <point x="249.6746987951807" y="551.6144578313254"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

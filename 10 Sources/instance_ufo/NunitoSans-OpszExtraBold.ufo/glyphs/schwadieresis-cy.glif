@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwadieresis-cy" format="2">
+  <advance width="650.4578313253011"/>
+  <unicode hex="04DB"/>
+  <anchor x="323.7710843373494" y="698.9397590361446" name="top"/>
+  <outline>
+    <component base="schwa-cy"/>
+    <component base="dieresiscomb" xOffset="323.7710843373494"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

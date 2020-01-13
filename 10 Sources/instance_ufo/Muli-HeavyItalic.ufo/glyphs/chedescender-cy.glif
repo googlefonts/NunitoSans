@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescender-cy" format="2">
+  <advance width="624"/>
+  <unicode hex="04B7"/>
+  <anchor x="339" y="0" name="bottomright"/>
+  <anchor x="296" y="207" name="center"/>
+  <anchor x="340" y="484" name="top"/>
+  <outline>
+    <component base="che-cy"/>
+    <component base="__descender-cy" xOffset="379"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

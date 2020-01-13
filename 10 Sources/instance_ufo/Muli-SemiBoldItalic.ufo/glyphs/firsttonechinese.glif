@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="firsttonechinese" format="2">
+  <advance width="500.0"/>
+  <unicode hex="02C9"/>
+  <anchor x="286.0" y="484.0" name="_top"/>
+  <anchor x="318.0" y="685.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="155.7831325301205" y="620.9156626506024" type="line"/>
+      <point x="460.66265060240966" y="620.9156626506024" type="line"/>
+      <point x="470.9277108433735" y="684.5060240963855" type="line"/>
+      <point x="166.04819277108436" y="684.5060240963855" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

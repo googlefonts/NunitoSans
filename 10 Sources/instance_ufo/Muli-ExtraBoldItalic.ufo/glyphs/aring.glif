@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aring" format="2">
+  <advance width="631.5903614457831"/>
+  <unicode hex="00E5"/>
+  <anchor x="267.3253012048193" y="0.0" name="bottom"/>
+  <anchor x="302.26506024096386" y="254.3132530120482" name="center"/>
+  <anchor x="502.27710843373495" y="0.0" name="ogonek"/>
+  <anchor x="379.95180722891564" y="685.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="ringcomb" xOffset="308.95180722891564"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+    </dict>
+  </lib>
+</glyph>

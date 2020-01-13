@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohungarumlaut" format="2">
+  <advance width="778.9036144578313"/>
+  <unicode hex="0150"/>
+  <anchor x="388.95180722891564" y="-9.421686746987952" name="Qtail"/>
+  <anchor x="388.95180722891564" y="0.0" name="bottom"/>
+  <anchor x="393.50602409638554" y="353.0" name="center"/>
+  <anchor x="453.06024096385545" y="0.0" name="ogonek"/>
+  <anchor x="388.95180722891564" y="865.0" name="top"/>
+  <anchor x="25.0" y="705.0" name="topleft"/>
+  <anchor x="465.3734939759036" y="705.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="hungarumlautcomb.case" xOffset="388.95180722891564"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

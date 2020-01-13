@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahook-cy" format="2">
+  <advance width="607"/>
+  <unicode hex="04FD"/>
+  <outline>
+    <contour>
+      <point x="346" y="-190" type="line"/>
+      <point x="535" y="-174"/>
+      <point x="599" y="-109"/>
+      <point x="599" y="-17" type="curve" smooth="yes"/>
+      <point x="599" y="31"/>
+      <point x="584" y="66"/>
+      <point x="538" y="126" type="curve" smooth="yes"/>
+      <point x="388" y="328" type="line"/>
+      <point x="388" y="234" type="line"/>
+      <point x="618" y="544" type="line"/>
+      <point x="382" y="544" type="line"/>
+      <point x="272" y="378" type="line"/>
+      <point x="338" y="378" type="line"/>
+      <point x="228" y="544" type="line"/>
+      <point x="-10" y="544" type="line"/>
+      <point x="219" y="237" type="line"/>
+      <point x="219" y="325" type="line"/>
+      <point x="-23" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="336" y="182" type="line"/>
+      <point x="272" y="182" type="line"/>
+      <point x="364" y="46" type="line" smooth="yes"/>
+      <point x="382" y="21"/>
+      <point x="389" y="3"/>
+      <point x="389" y="-12" type="curve" smooth="yes"/>
+      <point x="389" y="-35"/>
+      <point x="372" y="-46"/>
+      <point x="316" y="-49" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>ha-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 17:52:43</string>
+    </dict>
+  </lib>
+</glyph>

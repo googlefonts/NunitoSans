@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_hookabovecomb.case" format="2">
+  <anchor x="74" y="705" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-85" y="765" type="line"/>
+      <point x="-45" y="765" type="line"/>
+      <point x="99" y="893" type="line"/>
+      <point x="202" y="765" type="line"/>
+      <point x="242" y="765" type="line"/>
+      <point x="133" y="933" type="line"/>
+      <point x="78" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="866" type="curve"/>
+      <point x="250" y="866" type="line"/>
+      <point x="258" y="918"/>
+      <point x="346" y="909"/>
+      <point x="355" y="968" type="curve" smooth="yes"/>
+      <point x="361" y="1002"/>
+      <point x="334" y="1020"/>
+      <point x="268" y="1020" type="curve" smooth="yes"/>
+      <point x="224" y="1020"/>
+      <point x="188" y="1012"/>
+      <point x="162" y="1000" type="curve"/>
+      <point x="169" y="972" type="line"/>
+      <point x="200" y="983"/>
+      <point x="227" y="988"/>
+      <point x="256" y="988" type="curve" smooth="yes"/>
+      <point x="294" y="988"/>
+      <point x="313" y="980"/>
+      <point x="311" y="963" type="curve" smooth="yes"/>
+      <point x="305" y="927"/>
+      <point x="222" y="932"/>
+    </contour>
+  </outline>
+</glyph>

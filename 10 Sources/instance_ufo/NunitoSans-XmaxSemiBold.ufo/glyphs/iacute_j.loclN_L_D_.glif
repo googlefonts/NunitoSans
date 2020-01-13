@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute_j.loclNLD" format="2">
+  <advance width="488.8433734939759"/>
+  <anchor x="120.92771084337349" y="0.0" name="bottom_1"/>
+  <anchor x="367.2048192771084" y="0.0" name="bottom_2"/>
+  <anchor x="153.3012048192771" y="0.0" name="ogonek"/>
+  <anchor x="120.92771084337349" y="484.0" name="top_1"/>
+  <anchor x="367.2048192771084" y="484.0" name="top_2"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="acutecomb" xOffset="120.92771084337349"/>
+    <component base="jdotless" xOffset="242.56626506024097"/>
+    <component base="acutecomb" xOffset="367.2048192771084"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="666.2168674698795"/>
+  <unicode hex="00DE"/>
+  <anchor x="300.6385542168675" y="0.0" name="bottom"/>
+  <anchor x="411.32530120481925" y="705.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="31.734939759036138" y="0.0" type="line"/>
+      <point x="186.9879518072289" y="0.0" type="line"/>
+      <point x="209.36144578313252" y="141.30120481927713" type="line"/>
+      <point x="375.2650602409638" y="141.30120481927713" type="line" smooth="yes"/>
+      <point x="560.9036144578313" y="141.30120481927713"/>
+      <point x="660.722891566265" y="233.6144578313253"/>
+      <point x="660.722891566265" y="393.56626506024094" type="curve" smooth="yes"/>
+      <point x="660.722891566265" y="519.1927710843372"/>
+      <point x="577.0963855421686" y="592.6385542168675"/>
+      <point x="413.8915662650602" y="592.6385542168675" type="curve" smooth="yes"/>
+      <point x="280.9277108433735" y="592.6385542168675" type="line"/>
+      <point x="298.9879518072289" y="705.0" type="line"/>
+      <point x="143.73493975903614" y="705.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="228.49397590361446" y="262.03614457831327" type="line"/>
+      <point x="261.7951807228916" y="471.90361445783134" type="line"/>
+      <point x="394.1927710843374" y="471.90361445783134" type="line" smooth="yes"/>
+      <point x="473.67469879518075" y="471.90361445783134"/>
+      <point x="511.6626506024097" y="443.6626506024096"/>
+      <point x="511.6626506024097" y="379.7469879518072" type="curve" smooth="yes"/>
+      <point x="511.6626506024097" y="303.08433734939763"/>
+      <point x="466.9277108433735" y="262.03614457831327"/>
+      <point x="381.89156626506025" y="262.03614457831327" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:50:54</string>
+    </dict>
+  </lib>
+</glyph>

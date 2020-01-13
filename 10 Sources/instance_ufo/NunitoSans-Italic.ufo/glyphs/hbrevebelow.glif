@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbrevebelow" format="2">
+  <advance width="568.0361445783133"/>
+  <unicode hex="1E2B"/>
+  <anchor x="225.10843373493975" y="-170.0" name="bottom"/>
+  <anchor x="284.9879518072289" y="246.40963855421685" name="center"/>
+  <anchor x="267.51807228915663" y="352.5301204819277" name="dot"/>
+  <anchor x="220.33734939759034" y="583.7590361445783" name="stroke"/>
+  <anchor x="357.5783132530121" y="705.0" name="top"/>
+  <anchor x="265.49397590361446" y="705.0" name="topright"/>
+  <outline>
+    <component base="h"/>
+    <component base="brevebelowcomb" xOffset="252.10843373493975"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

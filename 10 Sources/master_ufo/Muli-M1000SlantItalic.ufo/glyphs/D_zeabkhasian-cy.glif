@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzeabkhasian-cy" format="2">
+  <advance width="625"/>
+  <unicode hex="04E0"/>
+  <outline>
+    <contour>
+      <point x="276" y="-12" type="curve" smooth="yes"/>
+      <point x="465" y="-12"/>
+      <point x="578" y="77"/>
+      <point x="598" y="203" type="curve" smooth="yes"/>
+      <point x="621" y="345"/>
+      <point x="550" y="431"/>
+      <point x="393" y="431" type="curve" smooth="yes"/>
+      <point x="337" y="431" type="line"/>
+      <point x="384" y="381" type="line"/>
+      <point x="619" y="558" type="line"/>
+      <point x="643" y="705" type="line"/>
+      <point x="103" y="705" type="line"/>
+      <point x="75" y="533" type="line"/>
+      <point x="406" y="533" type="line"/>
+      <point x="413" y="576" type="line"/>
+      <point x="179" y="400" type="line"/>
+      <point x="160" y="277" type="line"/>
+      <point x="327" y="277" type="line" smooth="yes"/>
+      <point x="379" y="277"/>
+      <point x="402" y="259"/>
+      <point x="396" y="221" type="curve" smooth="yes"/>
+      <point x="390" y="181"/>
+      <point x="348" y="161"/>
+      <point x="265" y="161" type="curve" smooth="yes"/>
+      <point x="183" y="161"/>
+      <point x="112" y="182"/>
+      <point x="68" y="215" type="curve"/>
+      <point x="4" y="61" type="line"/>
+      <point x="70" y="15"/>
+      <point x="157" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ze-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:09:11</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

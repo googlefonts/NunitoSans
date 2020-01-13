@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldotbelow" format="2">
+  <advance width="254.855421686747"/>
+  <unicode hex="1E37"/>
+  <anchor x="157.2289156626506" y="-170.0" name="bottom"/>
+  <anchor x="109.10843373493975" y="357.0" name="center"/>
+  <anchor x="239.6024096385542" y="357.0" name="dot"/>
+  <anchor x="101.4578313253012" y="705.0" name="top"/>
+  <anchor x="174.31927710843374" y="705.0" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="dotbelowcomb" xOffset="157.2289156626506"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

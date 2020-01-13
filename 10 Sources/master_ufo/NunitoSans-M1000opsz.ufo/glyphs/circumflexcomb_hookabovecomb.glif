@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_hookabovecomb" format="2">
+  <anchor x="0" y="484" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-207" y="574" type="line"/>
+      <point x="-63" y="574" type="line"/>
+      <point x="0" y="678" type="line"/>
+      <point x="63" y="574" type="line"/>
+      <point x="207" y="574" type="line"/>
+      <point x="85" y="777" type="line"/>
+      <point x="-85" y="777" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="727" type="curve"/>
+      <point x="251" y="727" type="line"/>
+      <point x="251" y="771"/>
+      <point x="314" y="793"/>
+      <point x="314" y="842" type="curve" smooth="yes"/>
+      <point x="314" y="876"/>
+      <point x="273" y="897"/>
+      <point x="203" y="897" type="curve" smooth="yes"/>
+      <point x="139" y="897"/>
+      <point x="105" y="888"/>
+      <point x="71" y="874" type="curve"/>
+      <point x="95" y="802" type="line"/>
+      <point x="113" y="811"/>
+      <point x="129" y="814"/>
+      <point x="149" y="814" type="curve" smooth="yes"/>
+      <point x="163" y="814"/>
+      <point x="173" y="812"/>
+      <point x="173" y="802" type="curve" smooth="yes"/>
+      <point x="173" y="780"/>
+      <point x="138" y="763"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

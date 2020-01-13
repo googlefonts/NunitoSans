@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute" format="2">
+  <advance width="735.9036144578313"/>
+  <unicode hex="01FA"/>
+  <anchor x="348.3734939759036" y="0.0" name="bottom"/>
+  <anchor x="657.9277108433735" y="0.0" name="ogonek"/>
+  <anchor x="441.8192771084337" y="705.0" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="ringcomb_acutecomb.case" xOffset="441.8192771084337"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

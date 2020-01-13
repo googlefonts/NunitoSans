@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Entail-cy" format="2">
+  <advance width="844.0120481927711"/>
+  <unicode hex="04C9"/>
+  <anchor x="601.722891566265" y="0.0" name="bottomright"/>
+  <anchor x="411.8192771084337" y="556.6626506024096" name="center"/>
+  <anchor x="410.8192771084337" y="705.0" name="top"/>
+  <anchor x="48.60240963855422" y="705.0" name="topleft"/>
+  <outline>
+    <component base="En-cy"/>
+    <component base="__tail-cy.case" xOffset="601.722891566265"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

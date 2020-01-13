@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="482"/>
+  <unicode hex="0138"/>
+  <anchor x="201" y="0" name="bottom"/>
+  <anchor x="278" y="484" name="top"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="129" y="245" type="line"/>
+      <point x="131" y="245" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="158" y="274" type="line"/>
+      <point x="158" y="241" type="line"/>
+      <point x="488" y="500" type="line"/>
+      <point x="426" y="500" type="line"/>
+      <point x="135" y="269" type="line"/>
+      <point x="133" y="269" type="line"/>
+      <point x="169" y="500" type="line"/>
+      <point x="127" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

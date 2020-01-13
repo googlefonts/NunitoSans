@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="2">
+  <advance width="300.36746987951807"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="19.590361445783127" y="-180.0" type="line"/>
+      <point x="128.87951807228916" y="-26.518072289156628"/>
+      <point x="209.4819277108434" y="190.27710843373492"/>
+      <point x="209.4819277108434" y="414.5301204819277" type="curve" smooth="yes"/>
+      <point x="209.4819277108434" y="510.277108433735"/>
+      <point x="193.10843373493975" y="607.9397590361446"/>
+      <point x="163.75903614457832" y="705.0" type="curve"/>
+      <point x="111.56626506024095" y="705.0" type="line"/>
+      <point x="133.56626506024097" y="609.0843373493975"/>
+      <point x="146.02409638554218" y="512.3132530120482"/>
+      <point x="146.02409638554218" y="425.4578313253012" type="curve" smooth="yes"/>
+      <point x="146.02409638554218" y="197.9156626506024"/>
+      <point x="67.16867469879519" y="-6.855421686746986"/>
+      <point x="-38.915662650602414" y="-180.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:00</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

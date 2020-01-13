@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
+  <unicode hex="030B"/>
+  <anchor x="0.0" y="484.0" name="_top"/>
+  <anchor x="0.0" y="685.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="136.18072289156626" y="571.0240963855422" type="curve" smooth="yes"/>
+      <point x="196.0722891566265" y="701.1445783132531" type="line" smooth="yes"/>
+      <point x="233.9277108433735" y="782.9397590361446"/>
+      <point x="94.89156626506023" y="821.1566265060242"/>
+      <point x="76.97590361445783" y="736.0" type="curve" smooth="yes"/>
+      <point x="47.0" y="596.4096385542168" type="line" smooth="yes"/>
+      <point x="35.084337349397586" y="540.722891566265"/>
+      <point x="113.79518072289156" y="522.2530120481928"/>
+    </contour>
+    <contour>
+      <point x="-37.72289156626506" y="571.0240963855422" type="curve" smooth="yes"/>
+      <point x="22.16867469879518" y="701.1445783132531" type="line" smooth="yes"/>
+      <point x="60.02409638554217" y="782.9397590361446"/>
+      <point x="-78.65060240963855" y="820.7951807228916"/>
+      <point x="-96.56626506024097" y="736.0" type="curve" smooth="yes"/>
+      <point x="-126.90361445783132" y="596.4096385542168" type="line" smooth="yes"/>
+      <point x="-138.8192771084337" y="540.722891566265"/>
+      <point x="-60.10843373493976" y="522.2530120481928"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 22:32:51</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

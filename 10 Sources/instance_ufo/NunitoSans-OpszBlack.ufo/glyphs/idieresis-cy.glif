@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis-cy" format="2">
+  <advance width="712.9036144578314"/>
+  <unicode hex="04E5"/>
+  <anchor x="457.6144578313253" y="0.0" name="bottomright"/>
+  <anchor x="362.68674698795184" y="701.722891566265" name="top"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="dieresiscomb" xOffset="362.68674698795184" yOffset="1.80722891566265"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+    </dict>
+  </lib>
+</glyph>

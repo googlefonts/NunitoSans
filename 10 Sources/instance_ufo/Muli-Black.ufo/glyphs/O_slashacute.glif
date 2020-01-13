@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslashacute" format="2">
+  <advance width="804.2409638554218"/>
+  <unicode hex="01FE"/>
+  <anchor x="401.9397590361446" y="-11.27710843373494" name="Qtail"/>
+  <anchor x="401.9397590361446" y="0.0" name="bottom"/>
+  <anchor x="411.13253012048193" y="353.0" name="center"/>
+  <anchor x="474.68674698795184" y="0.0" name="ogonek"/>
+  <anchor x="401.9397590361446" y="865.0" name="top"/>
+  <anchor x="25.0" y="705.0" name="topleft"/>
+  <anchor x="479.5783132530121" y="705.0" name="topright"/>
+  <outline>
+    <component base="Oslash"/>
+    <component base="acutecomb.case" xOffset="401.9397590361446"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/18 14:08:52</string>
+    </dict>
+  </lib>
+</glyph>

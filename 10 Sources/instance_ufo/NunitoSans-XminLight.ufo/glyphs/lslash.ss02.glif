@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.ss02" format="2">
+  <advance width="268.48192771084337"/>
+  <anchor x="134.24096385542168" y="0.0" name="bottom"/>
+  <anchor x="134.24096385542168" y="319.4277108433735" name="center"/>
+  <anchor x="257.03614457831327" y="319.4277108433735" name="dot"/>
+  <anchor x="134.24096385542168" y="705.0" name="top"/>
+  <anchor x="212.56626506024097" y="705.0" name="topright"/>
+  <outline>
+    <component base="l.ss02" xOffset="23.433734939759034"/>
+    <component base="slashshortcomb" xOffset="193.66265060240963" yOffset="-0.1144578313253012"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=+20</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=+20</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/16 15:46:49</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=+20</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+20</string>
+    </dict>
+  </lib>
+</glyph>

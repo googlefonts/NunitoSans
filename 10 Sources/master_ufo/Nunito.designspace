@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="200" maximum="1000" default="200">
+      <map input="200" output="42"/>
+      <map input="300" output="61"/>
+      <map input="400" output="81"/>
+      <map input="600" output="101"/>
+      <map input="700" output="125"/>
+      <map input="800" output="151"/>
+      <map input="900" output="178"/>
+      <map input="1000" output="208"/>
+    </axis>
+    <axis tag="slnt" name="Slant" minimum="0" maximum="9" default="0"/>
+  </axes>
+  <sources>
+    <source filename="Nunito-ExtraLight.ufo" name="Nunito ExtraLight" familyname="Nunito" stylename="ExtraLight">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Nunito-M500.ufo" name="Nunito M500" familyname="Nunito" stylename="M500">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Nunito-M1000.ufo" name="Nunito M1000" familyname="Nunito" stylename="M1000">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Nunito-ExtraLightItalic.ufo" name="Nunito ExtraLight Italic" familyname="Nunito" stylename="ExtraLight Italic">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+    </source>
+    <source filename="Nunito-M500SlantItalic.ufo" name="Nunito M500 Slant Italic" familyname="Nunito" stylename="M500 Slant Italic">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+    </source>
+    <source filename="Nunito-M1000SlantItalic.ufo" name="Nunito M1000 Slant Italic" familyname="Nunito" stylename="M1000 Slant Italic">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Nunito ExtraLight" familyname="Nunito" stylename="ExtraLight" filename="../instance_ufo/Nunito-ExtraLight.ufo" stylemapfamilyname="Nunito ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>200</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito Light" familyname="Nunito" stylename="Light" filename="../instance_ufo/Nunito-Light.ufo" stylemapfamilyname="Nunito Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="61"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>300</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito Regular" familyname="Nunito" stylename="Regular" filename="../instance_ufo/Nunito-Regular.ufo" stylemapfamilyname="Nunito" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="81"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>400</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito SemiBold" familyname="Nunito" stylename="SemiBold" filename="../instance_ufo/Nunito-SemiBold.ufo" stylemapfamilyname="Nunito SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>600</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito Bold" familyname="Nunito" stylename="Bold" filename="../instance_ufo/Nunito-Bold.ufo" stylemapfamilyname="Nunito Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>700</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito ExtraBold" familyname="Nunito" stylename="ExtraBold" filename="../instance_ufo/Nunito-ExtraBold.ufo" stylemapfamilyname="Nunito ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="151"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>800</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito Black" familyname="Nunito" stylename="Black" filename="../instance_ufo/Nunito-Black.ufo" stylemapfamilyname="Nunito Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>900</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito Heavy" familyname="Nunito" stylename="Heavy" filename="../instance_ufo/Nunito-Heavy.ufo" stylemapfamilyname="Nunito Heavy" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>1000</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>0</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito ExtraLight Italic" familyname="Nunito" stylename="ExtraLight Italic" filename="../instance_ufo/Nunito-ExtraLightItalic.ufo" stylemapfamilyname="Nunito ExtraLight Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <string>200</string>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <integer>9</integer>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito Light Italic" familyname="Nunito" stylename="Light Italic" filename="../instance_ufo/Nunito-LightItalic.ufo" stylemapfamilyname="Nunito Light Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="61"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>300</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito Italic" familyname="Nunito" stylename="Italic" filename="../instance_ufo/Nunito-Italic.ufo" stylemapfamilyname="Nunito Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="81"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>400</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito SemiBold Italic" familyname="Nunito" stylename="SemiBold Italic" filename="../instance_ufo/Nunito-SemiBoldItalic.ufo" stylemapfamilyname="Nunito SemiBold Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>600</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito Bold Italic" familyname="Nunito" stylename="Bold Italic" filename="../instance_ufo/Nunito-BoldItalic.ufo" stylemapfamilyname="Nunito Bold Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>700</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito ExtraBold Italic" familyname="Nunito" stylename="ExtraBold Italic" filename="../instance_ufo/Nunito-ExtraBoldItalic.ufo" stylemapfamilyname="Nunito ExtraBold Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="151"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>800</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito Black Italic" familyname="Nunito" stylename="Black Italic" filename="../instance_ufo/Nunito-BlackItalic.ufo" stylemapfamilyname="Nunito Black Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>900</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Nunito Heavy Italic" familyname="Nunito" stylename="Heavy Italic" filename="../instance_ufo/Nunito-HeavyItalic.ufo" stylemapfamilyname="Nunito Heavy Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="208"/>
+        <dimension name="Slant" xvalue="9"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Axis Location</string>
+              <array>
+                <dict>
+                  <key>Axis</key>
+                  <string>Weight</string>
+                  <key>Location</key>
+                  <integer>1000</integer>
+                </dict>
+                <dict>
+                  <key>Axis</key>
+                  <string>Slant</string>
+                  <key>Location</key>
+                  <string>9</string>
+                </dict>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>UFOFormat</key>
+      <integer>2</integer>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>__Kabashkir-cy</string>
+        <string>__Zedescener-cy</string>
+        <string>__Zedescener-cy.case</string>
+        <string>__bar.Obarred-cy</string>
+        <string>__descender-cy</string>
+        <string>__descender-cy.case</string>
+        <string>__descender-cy.case.cy</string>
+        <string>__descender-cy.case.mirror</string>
+        <string>__descender-cy.che</string>
+        <string>__descender-cy.cy</string>
+        <string>__strokehook-cy</string>
+        <string>__tail-cy</string>
+        <string>__tail-cy.case</string>
+        <string>_part.Qtail</string>
+        <string>_part.oslash</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>
