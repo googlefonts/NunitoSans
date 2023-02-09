@@ -1,0 +1,66 @@
+    sources:
+      - NunitoSans.glyphs
+    familyName: Nunito Sans
+    buildOTF: False
+    buildWebfont: False
+    axisOrder:
+      - YTLC
+      - opsz
+      - wdth
+      - wght
+      - slnt
+    stat:
+      - name: Y transparent lowercase
+        tag: YTCP
+        values:
+        - name: Min
+          value: 0
+        - name: Default
+          value: 500
+        - name: Max
+          value: 1000
+      - name: Optical size
+        tag: opsz
+        values:
+        - name: 6pt
+          value: 6
+        - name: 12pt
+          value: 12
+      - name: Width
+        tag: wdth
+        values:
+        - name: Condensed
+          value: 75
+        - name: Normal
+          value: 100
+        - name: Expanded
+          value: 125
+      - name: Weight
+        tag: wght
+        values:
+        - name: ExtraLight
+          value: 200
+        - name: Light
+          value: 300
+        - name: Regular
+          value: 400
+          linkedValue: 700
+          flags: 2
+        - name: Medium
+          value: 500
+        - name: SemiBold
+          value: 600
+        - name: Bold
+          value: 700
+        - name: ExtraBold
+          value: 800
+        - name: Black
+          value: 900
+        - name: ExtraBlack
+          value: 1000
+      - name: Slant
+        tag: slnt
+        values:
+        - name: Default
+          value: 0
+          flags: 2
