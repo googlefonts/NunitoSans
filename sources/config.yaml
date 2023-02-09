@@ -11,11 +11,11 @@
       - slnt
     stat:
       - name: Y transparent lowercase
-        tag: YTCP
+        tag: YTLC
         values:
         - name: Min
           value: 0
-        - name: Default
+        - name: Normal
           value: 500
         - name: Max
           value: 1000
@@ -31,8 +31,13 @@
         values:
         - name: Condensed
           value: 75
+        - name: SemiCondensed
+          value: 87.5
         - name: Normal
           value: 100
+          flags: 2
+        - name: SemiExpanded
+          value: 112.5
         - name: Expanded
           value: 125
       - name: Weight
